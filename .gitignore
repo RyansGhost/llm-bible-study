@@ -3,3 +3,4 @@ site/resources/
 .hugo_build.lock
 *.zip
 .DS_Store
+.hugo/

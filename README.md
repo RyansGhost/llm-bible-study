@@ -84,9 +84,10 @@ hugo --source site --minify
 
 The live site is built by Cloudflare Pages from `master`, with these settings:
 
-- Build command: `hugo --source site --minify`
+- Build command: `bash build.sh`
 - Output directory: `site/public`
-- Environment variable: `HUGO_VERSION=0.168.0`
+
+`build.sh` downloads the pinned Hugo version (0.168.0, or `HUGO_VERSION` if set) and builds with it. Don't use Cloudflare's built-in `hugo`: it's too old for this site and the build fails.
 
 ## Releasing the skill
 
