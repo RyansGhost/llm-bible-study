@@ -40,7 +40,7 @@ Paste this at the start of a conversation:
 
 ### Keeping a progress tracker
 
-The skill can log each book to a tracker doc: your starting rating, what you knew, what you learned, and your quiz result. Give Claude the doc's link in the chat, in project instructions, or in memory, and it will update the doc after each book.
+The skill can log each book to a tracker doc: your starting rating, what you knew, what you learned, and your quiz result. Give Claude the doc's link in the chat, in project instructions, or in memory, and it will update the doc after each book. To start a new tracker, use [`tracker-template.md`](plugin/skills/bible-study/tracker-template.md), or ask Claude to set one up.
 
 ## How the repo is laid out
 

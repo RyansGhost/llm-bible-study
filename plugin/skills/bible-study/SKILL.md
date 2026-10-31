@@ -35,14 +35,17 @@ Study one book of the Bible at a time. Find out what the user knows, fill the ga
 
 ## Tracker
 
-The user may keep a tracker doc for their progress. They might give its link in the conversation, in project instructions, or in memory. After each book, add an entry with:
+The user may keep a tracker for their progress: a doc, note, artifact or file. They might give its link or location in the conversation, in project instructions, or in memory. After each book, add an entry with:
 
 - initial impression and starting rating
 - what they already knew
+- what they got wrong or missed
 - what they learned
 - quiz result and final rating
 
-Keep the entry plain and honest. Be harsh, not kind: the point is an accurate record. If there is no tracker, offer to start one or give the entry in chat.
+Keep the entry plain and honest. Be harsh, not kind: the point is an accurate record.
+
+[tracker-template.md](tracker-template.md) has the layout: a progress table plus one entry per book, with an example. Use it when starting a new tracker. If the user has no tracker, offer to create one from the template wherever they keep notes. If they decline, give the entry in chat so they can save it.
 
 ## Book index
 
