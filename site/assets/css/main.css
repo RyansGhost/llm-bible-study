@@ -223,6 +223,7 @@ a:hover { color: var(--olive); }
 .footer-inner { padding-top: 2rem; padding-bottom: 2rem; font-size: 0.875rem; color: var(--muted); }
 .footer-inner p { margin: 0.25rem 0; }
 .footer-inner a { color: var(--muted); }
+.build-stamp { font-size: 0.75rem; opacity: 0.8; }
 
 @media print {
   .site-header, .site-footer, .page-aside, .prev-next { display: none; }

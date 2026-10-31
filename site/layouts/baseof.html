@@ -22,6 +22,8 @@
     <div class="wrap footer-inner">
       <p>Summaries are written in our own words from Reformed sources. Check them against Scripture.</p>
       <p>Content <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> · <a href="{{ site.Params.repo }}">Source on GitHub</a></p>
+      {{- $sha := os.Getenv "CF_PAGES_COMMIT_SHA" }}
+      <p class="build-stamp">Built {{ now.UTC.Format "2006-01-02 15:04 UTC" }}{{ with $sha }} from <a href="{{ site.Params.repo }}/commit/{{ . }}">{{ substr . 0 7 }}</a>{{ end }}</p>
     </div>
   </footer>
 </body>

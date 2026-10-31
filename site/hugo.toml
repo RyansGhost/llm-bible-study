@@ -19,6 +19,10 @@ disableKinds = ["taxonomy", "term"]
     source = "../plugin/skills/bible-study/books"
     target = "content/books"
 
+# Allow the footer to read Cloudflare Pages' build variables (commit and branch).
+[security.funcs]
+  getenv = ["^HUGO_", "^CI$", "^CF_PAGES_"]
+
 [permalinks.page]
   books = "/books/:slug/"
 
