@@ -1,12 +1,22 @@
 name: Release skill zip
 
-# Push a tag like v0.1.0 to publish a release with bible-study.zip attached.
-# The zip holds the bible-study/ folder with SKILL.md inside, which is the
-# shape the Claude app expects when uploading a skill.
+# Publishes a GitHub release with bible-study.zip attached. The zip holds the
+# bible-study/ folder with SKILL.md inside, the shape the Claude app expects.
+#
+# Two ways to run it:
+#   - push a tag like v0.1.0
+#   - run it by hand (Actions tab → Release skill zip → Run workflow) with a
+#     version like v0.1.0; it tags the commit it runs on.
+# Either way the version must match "version" in plugin/.claude-plugin/plugin.json.
 
 on:
   push:
     tags: ["v*"]
+  workflow_dispatch:
+    inputs:
+      version:
+        description: "Version to release, e.g. v0.1.0"
+        required: true
 
 permissions:
   contents: write
@@ -14,8 +24,18 @@ permissions:
 jobs:
   release:
     runs-on: ubuntu-latest
+    env:
+      VERSION: ${{ github.event_name == 'workflow_dispatch' && inputs.version || github.ref_name }}
     steps:
       - uses: actions/checkout@v4
+
+      - name: Check the version matches plugin.json
+        run: |
+          plugin_version="v$(jq -r .version plugin/.claude-plugin/plugin.json)"
+          if [ "$VERSION" != "$plugin_version" ]; then
+            echo "::error::Release $VERSION doesn't match plugin.json version $plugin_version"
+            exit 1
+          fi
 
       - name: Build the skill zip
         run: |
@@ -27,9 +47,9 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          if gh release view "$GITHUB_REF_NAME" >/dev/null 2>&1; then
-            gh release upload "$GITHUB_REF_NAME" bible-study.zip --clobber
+          if gh release view "$VERSION" >/dev/null 2>&1; then
+            gh release upload "$VERSION" bible-study.zip --clobber
           else
-            gh release create "$GITHUB_REF_NAME" bible-study.zip \
-              --title "$GITHUB_REF_NAME" --generate-notes
+            gh release create "$VERSION" bible-study.zip \
+              --target "$GITHUB_SHA" --title "$VERSION" --generate-notes
           fi

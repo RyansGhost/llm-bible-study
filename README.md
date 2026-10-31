@@ -91,7 +91,10 @@ The live site is built by Cloudflare Pages from `master`, with these settings:
 
 ## Releasing the skill
 
-Bump `version` in `plugin/.claude-plugin/plugin.json`, then push a matching tag, e.g. `git tag v0.1.0 && git push origin v0.1.0`. The release workflow attaches `bible-study.zip`. The "latest release" download link above always points to the newest one.
+1. Bump `version` in `plugin/.claude-plugin/plugin.json`, e.g. to `0.2.0`, and merge to `master`.
+2. Either push a matching tag (`git tag v0.2.0 && git push origin v0.2.0`), or open **Actions → Release skill zip → Run workflow** on `master` and enter `v0.2.0`.
+
+The workflow checks the version matches `plugin.json`, builds `bible-study.zip`, and publishes the release. The "latest release" download link above always points to the newest one.
 
 ## Licence
 
