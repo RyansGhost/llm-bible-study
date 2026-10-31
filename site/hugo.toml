@@ -1,3 +1,49 @@
 baseURL = "https://llm-bible-study.ryanfleck.ca/"
 title = "LLM Bible Study"
-languageCode = "en"
+locale = "en"
+enableRobotsTXT = true
+disableKinds = ["taxonomy", "term"]
+
+[params]
+  description = "Structured, well-grounded Bible study with an AI language model: learn each book of the Bible, its major people and themes, and its morals and lessons, from Reformed sources."
+  repo = "https://github.com/RyansGhost/llm-bible-study"
+
+# The book files live inside the Claude skill, so they are written once and
+# used by both the skill and this site. Declaring any mount replaces Hugo's
+# default content mount, so "content" has to be listed again.
+[module]
+  [[module.mounts]]
+    source = "content"
+    target = "content"
+  [[module.mounts]]
+    source = "../plugin/skills/bible-study/books"
+    target = "content/books"
+
+[permalinks.page]
+  books = "/books/:slug/"
+
+[mediaTypes]
+  [mediaTypes."text/markdown"]
+    suffixes = ["md"]
+
+[outputFormats]
+  [outputFormats.markdown]
+    mediaType = "text/markdown"
+    isPlainText = true
+    baseName = "index"
+  [outputFormats.llms]
+    mediaType = "text/plain"
+    isPlainText = true
+    baseName = "llms"
+    notAlternative = true
+
+[outputs]
+  home = ["HTML", "RSS", "llms"]
+  section = ["HTML"]
+  page = ["HTML", "markdown"]
+
+[markup.goldmark.renderer]
+  unsafe = false
+[markup.tableOfContents]
+  startLevel = 2
+  endLevel = 2

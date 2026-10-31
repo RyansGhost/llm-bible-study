@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="{{ site.Language.Locale | default "en" }}">
+<head>
+  {{ partial "head.html" . }}
+</head>
+<body class="kind-{{ .Kind }}">
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="site-header">
+    <div class="wrap header-inner">
+      <a class="wordmark" href="{{ "/" | relURL }}">{{ site.Title }}</a>
+      <nav class="site-nav" aria-label="Site">
+        <a href="{{ "/books/" | relURL }}">Books</a>
+        <a href="{{ "/llms.txt" | relURL }}">llms.txt</a>
+        <a href="{{ site.Params.repo }}">Skill</a>
+      </nav>
+    </div>
+  </header>
+  <main id="main">
+    {{ block "main" . }}{{ end }}
+  </main>
+  <footer class="site-footer">
+    <div class="wrap footer-inner">
+      <p>Summaries are written in our own words from Reformed sources. Check them against Scripture.</p>
+      <p>Content <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> · <a href="{{ site.Params.repo }}">Source on GitHub</a></p>
+    </div>
+  </footer>
+</body>
+</html>

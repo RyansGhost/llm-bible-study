@@ -1,0 +1,29 @@
+{{- /* Every book in canonical order, with a heading whenever the testament or section changes. */ -}}
+{{- $books := (where site.RegularPages "Section" "books").ByWeight }}
+{{- $testament := "" }}
+{{- $section := "" }}
+{{- range $books }}
+  {{- if ne .Params.testament $testament }}
+    {{- if $testament }}</ul></section></div>{{ end }}
+    {{- $testament = .Params.testament }}
+    {{- $section = "" }}
+    <div class="testament">
+    <h2 class="testament-title">{{ cond (eq .Params.testament "old") "Old Testament" "New Testament" }}</h2>
+  {{- end }}
+  {{- if ne .Params.section $section }}
+    {{- if $section }}</ul></section>{{ end }}
+    {{- $section = .Params.section }}
+    <section class="book-group">
+      <h3 class="eyebrow">{{ .Params.section }}</h3>
+      <ul class="book-grid">
+  {{- end }}
+        <li>
+          <a class="book-card status-{{ .Params.status }}" href="{{ .RelPermalink }}">
+            <span class="book-number">{{ .Params.book }}</span>
+            <span class="book-name">{{ .Title }}</span>
+            <span class="rule" aria-hidden="true"></span>
+            <span class="book-status">{{ partial "status-label.html" . }}</span>
+          </a>
+        </li>
+{{- end }}
+{{- if $books }}</ul></section></div>{{ end }}

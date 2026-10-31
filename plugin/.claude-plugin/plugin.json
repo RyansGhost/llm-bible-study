@@ -1,0 +1,13 @@
+{
+  "name": "bible-study",
+  "version": "0.1.0",
+  "description": "Study the Bible one book at a time: check what you know, learn from Reformed sources, get quizzed, and log blunt notes.",
+  "author": {
+    "name": "Ryan Fleck",
+    "url": "https://github.com/RyansGhost"
+  },
+  "homepage": "https://llm-bible-study.ryanfleck.ca/",
+  "repository": "https://github.com/RyansGhost/llm-bible-study",
+  "license": "CC-BY-4.0",
+  "keywords": ["bible", "study", "reformed", "quiz", "learning"]
+}

@@ -1,0 +1,6 @@
+{{- with .Params.status -}}
+{{- if eq . "placeholder" }}Notes coming
+{{- else if eq . "draft" }}Draft · sources to verify
+{{- else if eq . "complete" }}Complete
+{{- else }}{{ . | humanize }}{{ end -}}
+{{- end -}}

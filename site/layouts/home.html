@@ -1,12 +1,20 @@
-<!doctype html>
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>{{ .Site.Title }}</title>
-</head>
-<body>
-  <h1>{{ .Title }}</h1>
-  {{ .Content }}
-</body>
-</html>
+{{ define "main" }}
+<section class="hero">
+  <div class="wrap narrow">
+    <h1>{{ site.Title }}</h1>
+    {{ with .Params.tagline }}<p class="lead">{{ . }}</p>{{ end }}
+    <p class="hero-actions">
+      <a class="button" href="#how-to-start">Start studying</a>
+      <a class="button button-ghost" href="{{ "/books/" | relURL }}">Browse the books</a>
+    </p>
+  </div>
+</section>
+<div class="wrap">
+  <article class="prose home-prose">
+    {{ .Content }}
+  </article>
+</div>
+<div class="wrap books" id="books">
+  {{ partial "book-list.html" . }}
+</div>
+{{ end }}

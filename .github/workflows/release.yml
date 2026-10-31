@@ -1,0 +1,35 @@
+name: Release skill zip
+
+# Push a tag like v0.1.0 to publish a release with bible-study.zip attached.
+# The zip holds the bible-study/ folder with SKILL.md inside, which is the
+# shape the Claude app expects when uploading a skill.
+
+on:
+  push:
+    tags: ["v*"]
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Build the skill zip
+        run: |
+          cd plugin/skills
+          zip -r "$GITHUB_WORKSPACE/bible-study.zip" bible-study -x '*.DS_Store'
+          unzip -l "$GITHUB_WORKSPACE/bible-study.zip" | grep -q ' bible-study/SKILL.md$'
+
+      - name: Publish the release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if gh release view "$GITHUB_REF_NAME" >/dev/null 2>&1; then
+            gh release upload "$GITHUB_REF_NAME" bible-study.zip --clobber
+          else
+            gh release create "$GITHUB_REF_NAME" bible-study.zip \
+              --title "$GITHUB_REF_NAME" --generate-notes
+          fi

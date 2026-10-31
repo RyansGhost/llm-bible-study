@@ -1,0 +1,15 @@
+{
+  "name": "llm-bible-study",
+  "description": "Spoken, book-by-book Bible study grounded in Reformed sources",
+  "owner": {
+    "name": "Ryan Fleck",
+    "url": "https://github.com/RyansGhost"
+  },
+  "plugins": [
+    {
+      "name": "bible-study",
+      "source": "./plugin",
+      "description": "Study the Bible one book at a time: check what you know, learn from Reformed sources, get quizzed, and log blunt notes."
+    }
+  ]
+}

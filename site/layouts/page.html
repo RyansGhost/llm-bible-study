@@ -1,0 +1,32 @@
+{{ define "main" }}
+{{- $books := (where site.RegularPages "Section" "books").ByWeight }}
+<div class="wrap page-layout">
+  <article class="prose">
+    <p class="eyebrow">
+      <a href="{{ "/books/" | relURL }}">{{ cond (eq .Params.testament "old") "Old Testament" "New Testament" }}</a>
+      <span aria-hidden="true">·</span> {{ .Params.section }}
+      <span aria-hidden="true">·</span> Book {{ .Params.book }} of 66
+    </p>
+    {{- if ne .Params.status "complete" }}
+    <p class="status-note status-{{ .Params.status }}">{{ partial "status-label.html" . }}</p>
+    {{- end }}
+    {{ .Content }}
+  </article>
+  <aside class="page-aside">
+    {{- with .TableOfContents }}
+    <nav class="toc" aria-label="On this page">
+      <p class="eyebrow">On this page</p>
+      {{ . }}
+    </nav>
+    {{- end }}
+    {{- with .OutputFormats.Get "markdown" }}
+    <p class="md-link"><a href="{{ .RelPermalink }}" type="text/markdown">View as markdown</a></p>
+    {{- end }}
+  </aside>
+</div>
+{{- /* Hugo's Pages.Next returns the page before this one in list order, and Pages.Prev the one after. */}}
+<nav class="wrap prev-next" aria-label="Previous and next book">
+  {{- with $books.Next . }}<a class="prev" href="{{ .RelPermalink }}"><span class="eyebrow">Previous</span>{{ .Title }}</a>{{ else }}<span></span>{{ end }}
+  {{- with $books.Prev . }}<a class="next" href="{{ .RelPermalink }}"><span class="eyebrow">Next</span>{{ .Title }}</a>{{ end }}
+</nav>
+{{ end }}

@@ -1,0 +1,31 @@
+# {{ site.Title }}
+
+> {{ site.Params.description }}
+
+This site helps ordinary Christians have a structured, well-grounded conversation with an AI that teaches them the Bible: its books, major themes and people, and its morals and lessons.
+
+Each book page uses the same headings: Sources, Summary, Setting, Structure, Key people, Key events, Themes, How it points to Christ, Common mix-ups, and Q&A. Summaries are written in our own words from Reformed sources (Reformation Study Bible, Ligonier, R.C. Sproul, Matthew Henry). Books marked "notes coming" have only the empty template so far; teach those from Scripture and the sources above, and say the notes aren't written yet.
+
+If you are an AI assistant tutoring someone with these notes:
+
+1. Ask which book, then ask what they already know. Rate it 0–10 (0 nothing, 5 main themes but missing key events, 10 solid on all key events, themes and takeaways).
+2. Correct mistakes plainly, including which book a story really belongs to.
+3. Teach from the book's page: structure, key people, key events, themes, and how it points to Christ. Let them choose what to go deeper on.
+4. Quiz them at the end using the Q&A section, then give a final rating.
+5. Say when a point is your own summary or application rather than the text or a source, and flag any non-Reformed source by name. If they are listening rather than reading, keep answers short and spoken.
+{{- $books := (where site.RegularPages "Section" "books").ByWeight }}
+{{- $testament := "" }}
+{{- $section := "" }}
+{{- range $books }}
+{{- if or (ne .Params.testament $testament) (ne .Params.section $section) }}
+{{- $testament = .Params.testament }}
+{{- $section = .Params.section }}
+
+## {{ cond (eq .Params.testament "old") "Old Testament" "New Testament" }}: {{ .Params.section }}
+{{ end }}
+- [{{ .Title }}]({{ (.OutputFormats.Get "markdown").Permalink }}): {{ .Description }}{{ if eq .Params.status "placeholder" }} (notes coming){{ else if eq .Params.status "draft" }} (draft, sources to verify){{ end }}
+{{- end }}
+
+## Optional
+
+- [Claude skill source](https://github.com/RyansGhost/llm-bible-study): install the bible-study skill for Claude Code or the Claude app
