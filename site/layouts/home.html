@@ -1,7 +1,11 @@
 {{ define "main" }}
 <section class="hero">
   <div class="wrap narrow">
-    <h1>{{ site.Title }}</h1>
+    {{- $names := .Params.assistants | default (slice "Claude") }}
+    <h1 class="hero-title">
+      <span class="visually-hidden">Bible Study With {{ delimit $names ", " ", and " }}</span>
+      <span aria-hidden="true"><span class="nowrap">Bible Study With</span> <span class="flip" data-words="{{ $names | jsonify }}"><span class="flip-sizer">{{ range $names }}<span>{{ . }}</span>{{ end }}</span><span class="flip-static">{{ index $names 0 }}</span></span></span>
+    </h1>
     {{ with .Params.tagline }}<p class="lead">{{ . }}</p>{{ end }}
     <p class="hero-actions">
       <a class="button" href="#how-to-start">Start studying</a>
@@ -17,4 +21,7 @@
 <div class="wrap books" id="books">
   {{ partial "book-list.html" . }}
 </div>
+{{- with resources.Get "js/flip.js" | minify | fingerprint }}
+<script src="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" defer></script>
+{{- end }}
 {{ end }}

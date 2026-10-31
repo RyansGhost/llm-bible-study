@@ -1,6 +1,8 @@
 ---
 title: "LLM Bible Study"
 tagline: "Learn the Bible by talking it through with an AI tutor, one book at a time."
+# Names shown on the flip card in the home page heading; the first is shown without JavaScript.
+assistants: ["Claude", "ChatGPT", "Gemini", "Grok", "Copilot", "Meta AI", "DeepSeek", "Perplexity"]
 description: "Structured, well-grounded Bible study with an AI language model. Learn each book of the Bible, its major people and themes, and its morals and lessons, from Reformed sources."
 ---
 

@@ -228,3 +228,73 @@ a:hover { color: var(--olive); }
 @media print {
   .site-header, .site-footer, .page-aside, .prev-next { display: none; }
 }
+
+/* Screen-reader-only text */
+.visually-hidden {
+  position: absolute !important; width: 1px; height: 1px; padding: 0; margin: -1px;
+  overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; border: 0;
+}
+
+/* Split-flap ("flip clock") card in the home heading; see assets/js/flip.js */
+:root { --flap-bg: #24211b; --flap-bg-top: #2d2a23; --flap-fg: #faf7f2; --flap-line: rgb(0 0 0 / 45%); }
+@media (prefers-color-scheme: dark) {
+  :root { --flap-bg: #34312a; --flap-bg-top: #3c3930; --flap-fg: #f3efe6; --flap-line: rgb(0 0 0 / 60%); }
+}
+
+.hero-title { line-height: 1.5; }
+.nowrap { white-space: nowrap; }
+.flip {
+  --flap-h: 1.5em;
+  --flap-r: 0.12em;
+  position: relative;
+  display: inline-block;
+  padding: 0 0.3em;
+  line-height: var(--flap-h);
+  background: var(--flap-bg);
+  color: var(--flap-fg);
+  border-radius: var(--flap-r);
+  box-shadow: 0 0.06em 0 rgb(0 0 0 / 25%), 0 0.25em 0.6em rgb(16 11 0 / 22%);
+  perspective: 22em;
+  white-space: nowrap;
+  text-align: center;
+}
+.flip-sizer { display: inline-grid; visibility: hidden; }
+.flip-sizer > span { grid-area: 1 / 1; }
+.flip-static { position: absolute; inset: 0; }
+
+.flip-half {
+  position: absolute; left: 0; right: 0; height: 50%;
+  overflow: hidden;
+  background: var(--flap-bg);
+  backface-visibility: hidden;
+}
+.flip-half > span { display: block; height: var(--flap-h); line-height: var(--flap-h); }
+.flip-top { top: 0; border-radius: var(--flap-r) var(--flap-r) 0 0; background: var(--flap-bg-top); }
+.flip-bottom { bottom: 0; border-radius: 0 0 var(--flap-r) var(--flap-r); }
+.flip-bottom > span { margin-top: calc(var(--flap-h) / -2); }
+
+/* The hinge line across the middle */
+.flip.is-ready::after {
+  content: ""; position: absolute; left: 0; right: 0; top: 50%; z-index: 4;
+  height: 1px; margin-top: -0.5px; background: var(--flap-line);
+}
+
+.flip-flap { z-index: 3; visibility: hidden; }
+.flip-flap-top { transform-origin: 50% 100%; }
+.flip-flap-bottom { transform-origin: 50% 0; transform: rotateX(90deg); }
+.flip.is-flipping .flip-flap { visibility: visible; }
+.flip.is-flipping .flip-flap-top { animation: flap-top 260ms ease-in forwards; }
+.flip.is-flipping .flip-flap-bottom { animation: flap-bottom 260ms ease-out 260ms forwards; }
+
+@keyframes flap-top {
+  from { transform: rotateX(0deg); filter: brightness(1); }
+  to   { transform: rotateX(-90deg); filter: brightness(0.6); }
+}
+@keyframes flap-bottom {
+  from { transform: rotateX(90deg); filter: brightness(1.4); }
+  to   { transform: rotateX(0deg); filter: brightness(1); }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .flip-flap { display: none; }
+}
