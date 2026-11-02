@@ -21,7 +21,8 @@
 <div class="wrap books" id="books">
   {{ partial "book-list.html" . }}
 </div>
+{{- /* data-cfasync="false" stops Cloudflare Rocket Loader rewriting this tag; when it does, adblockers that block Rocket Loader stop the script running. */}}
 {{- with resources.Get "js/flip.js" | minify | fingerprint }}
-<script src="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" defer></script>
+<script src="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" defer data-cfasync="false"></script>
 {{- end }}
 {{ end }}
