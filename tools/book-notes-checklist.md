@@ -12,7 +12,7 @@ Shared source chapters (read once, used for several books): Van Pelt's "1–2 Sa
 ## Old Testament
 
 ### The Law
-- [ ] 1 Genesis
+- [x] 1 Genesis
 - [ ] 2 Exodus
 - [ ] 3 Leviticus
 - [ ] 4 Numbers
