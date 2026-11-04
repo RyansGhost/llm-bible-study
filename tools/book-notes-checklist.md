@@ -24,8 +24,8 @@ Shared source chapters (read once, used for several books): Van Pelt's "1–2 Sa
 - [x] 8 Ruth
 - [x] 9 1 Samuel
 - [x] 10 2 Samuel
-- [ ] 11 1 Kings
-- [ ] 12 2 Kings
+- [x] 11 1 Kings
+- [x] 12 2 Kings
 - [ ] 13 1 Chronicles
 - [ ] 14 2 Chronicles
 - [ ] 15 Ezra
