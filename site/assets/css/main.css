@@ -116,15 +116,21 @@ a:hover { color: var(--olive); }
 .hero .lead, .hero .lead p { font-size: 1.15rem; color: var(--text); margin: 0 auto 0.75rem; }
 
 .hero-actions { display: flex; gap: 0.75rem; justify-content: center; flex-wrap: wrap; margin: 1.75rem 0 0; }
+/* Button colours, chosen for at least 4.5:1 text contrast (WCAG AA) in both themes */
+:root { --btn-bg: #55661f; --btn-bg-hover: #44521a; --btn-fg: #ffffff; --btn-ghost: #55661f; --btn-ghost-hover: #44521a; }
+@media (prefers-color-scheme: dark) {
+  :root { --btn-bg: #a7bd5c; --btn-bg-hover: #c0d47a; --btn-fg: #1b1a17; --btn-ghost: #c0d47a; --btn-ghost-hover: #a7bd5c; }
+}
 .button {
   display: inline-block; padding: 0.7rem 1.4rem;
-  background: var(--olive); color: #fff; border: 1px solid var(--olive);
+  background: var(--btn-bg); color: var(--btn-fg); border: 1px solid var(--btn-bg);
   font-size: 0.8rem; font-weight: 800; letter-spacing: 0.12em; text-transform: uppercase;
   text-decoration: none;
 }
-.button:hover { background: var(--olive-dark); border-color: var(--olive-dark); color: #fff; }
-.button-ghost { background: transparent; color: var(--olive-dark); }
-.button-ghost:hover { background: transparent; color: var(--olive); border-color: var(--olive); }
+.button:hover { background: var(--btn-bg-hover); border-color: var(--btn-bg-hover); color: var(--btn-fg); }
+.button:focus-visible { outline: 2px solid var(--btn-ghost); outline-offset: 3px; }
+.button-ghost { background: transparent; color: var(--btn-ghost); border-color: var(--btn-ghost); }
+.button-ghost:hover { background: transparent; color: var(--btn-ghost-hover); border-color: var(--btn-ghost-hover); }
 
 /* Home page prose */
 .home-prose { margin: 0 auto; padding-top: 1rem; }
