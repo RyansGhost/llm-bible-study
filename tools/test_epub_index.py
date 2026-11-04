@@ -101,6 +101,7 @@ class RefTests(unittest.TestCase):
         self.assertEqual(ei.books_in_heading("1\u20132 Samuel"), ["1-samuel", "2-samuel"])
         self.assertEqual(ei.books_in_heading("1\u20133 John"), ["1-john", "2-john", "3-john"])
         self.assertEqual(ei.books_in_heading("Ezra\u2013Nehemiah"), ["ezra", "nehemiah"])
+        self.assertEqual(ei.books_in_heading("1 and 2 Samuel"), ["1-samuel", "2-samuel"])
         self.assertEqual(len(ei.books_in_heading("The Twelve")), 12)
 
     def test_headings(self):

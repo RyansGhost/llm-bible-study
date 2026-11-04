@@ -19,7 +19,7 @@ Shared source chapters (read once, used for several books): Van Pelt's "1–2 Sa
 - [x] 5 Deuteronomy
 
 ### History
-- [ ] 6 Joshua (merge with the existing session draft)
+- [x] 6 Joshua (merge with the existing session draft)
 - [ ] 7 Judges
 - [x] 8 Ruth
 - [ ] 9 1 Samuel

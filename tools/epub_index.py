@@ -192,7 +192,7 @@ _ORDINAL = {"first": 1, "1st": 1, "i": 1, "second": 2, "2nd": 2, "ii": 2, "third
 
 # "1–2 Samuel", "1-3 John": one chapter covering several numbered books
 RANGE_HEADING_RE = re.compile(
-    r"(?<![\w])([123])\s*[\u2013-]\s*([23])\s+(Samuel|Kings|Chronicles|Corinthians|Thessalonians|Timothy|Peter|John)\b",
+    r"(?<![\w])([123])\s*(?:[\u2013-]|and|&)\s*([23])\s+(Samuel|Kings|Chronicles|Corinthians|Thessalonians|Timothy|Peter|John)\b",
     re.IGNORECASE,
 )
 TWELVE_RE = re.compile(r"^\s*(The\s+(Book\s+of\s+the\s+)?Twelve|The\s+Minor\s+Prophets|Minor\s+Prophets)\s*$", re.IGNORECASE)
@@ -663,6 +663,8 @@ def cmd_digest(args):
         chosen = []
         for sid in hs:
             s = by_id[sid]
+            if not s["path"] or slug not in books_in_heading(s["path"][0]):
+                continue  # only sections whose top-level heading names the book
             if any(SKIP_HEADING_RE.search(p) for p in s["path"]):
                 continue
             if study_bible and any(CHAPTER_HEADING_RE.match(p) for p in s["path"][1:]):
