@@ -16,14 +16,14 @@ Revelation is "the revelation of Jesus Christ" (1:1), given to John in a series 
 
 ## Setting
 
-- **When:** most likely about AD 95, near the end of the emperor Domitian's reign (AD 81–96), as Irenaeus reports. Hill gives reasons from the book itself for a date after Jerusalem fell in AD 70. Some, especially preterists, date it before AD 70, under Nero.
+- **When:** most likely about AD 95, near the end of the emperor Domitian's reign (AD 81–96), as Irenaeus reports, and as most scholars hold (Reformation Study Bible). Some persecution had already fallen (1:9; 2:13), more was coming (2:10), and false teaching and fading zeal tempted the churches to compromise. Hill gives reasons from the book itself for a date after Jerusalem fell in AD 70. Some, especially preterists, date it before AD 70, under Nero.
 - **Where:** John received the visions on Patmos, a small island off the coast of Asia Minor, where he was exiled "on account of the word of God" (1:9). He wrote to seven churches in the Roman province of Asia (1:11).
 - **Who wrote it:** John (1:1, 4, 9; 22:8). Hill argues this is John the apostle, son of Zebedee: only he had the stature to address seven churches by his bare name. Justin Martyr, Irenaeus and many early writers agree. Dionysius of Alexandria later doubted it because the Greek style differs from John's Gospel, but Hill notes the very different kind of writing explains this.
-- **Where it sits:** the last book of the Bible, and the one prophetic book of the New Testament. Hill describes it as an apocalyptic prophecy in the form of a letter, steeped in imagery from Daniel, Ezekiel, Isaiah, Zechariah, the Psalms and Genesis.
+- **Where it sits:** the last book of the Bible, and the one prophetic book of the New Testament. Hill describes it as an apocalyptic prophecy in the form of a letter, steeped in imagery from Daniel, Ezekiel, Isaiah, Zechariah, the Psalms and Genesis. It alludes to the Old Testament more than the rest of the New Testament put together. God "made it known" by signs (1:1), the word the Greek Old Testament uses for Nebuchadnezzar's symbolic dream (Dan 2:45), so the RSB says to read it as symbolic unless the text demands otherwise. Like Jesus' parables, the symbols reveal truth to those with ears to hear (2:7).
 
 ## Structure
 
-Hill structures the book around four main visions, each beginning with John "in the Spirit" (1:10; 4:2; 17:3; 21:10):
+The Reformation Study Bible's outline is simple: introduction (1), letters to the seven churches (2–3), heavenly visions (4:1–22:5), final exhortations (22:6–20) and closing blessing (22:21). It reads the visions as seven cycles that run in parallel, each viewing the time up to Christ's return from a different angle: 4:1–8:1; 8:2–11:19; 12–14; 15–16; 17:1–19:10; 19:11–21; 20. The characters also enter in one order and are judged in reverse: God's people, the dragon, the beast and false prophet, the bride, and Babylon; then Babylon falls, the bride is married, the beast and false prophet are destroyed, then the dragon, and God's people shine in the new creation. Hill structures the book around four main visions, each beginning with John "in the Spirit" (1:10; 4:2; 17:3; 21:10):
 
 - 1:1–8: Prologue
 - 1:9–3:22: First vision: the Son of Man among the lampstands, and his letters to the seven churches
@@ -89,12 +89,14 @@ Hill structures the book around four main visions, each beginning with John "in 
 
 ## Themes
 
-- **Christ reigns now:** Hill stresses the Lamb's present rule from the throne, though his people suffer (5; 12:10).
+- **God on his throne:** "throne" appears 34 times, half of them in chapters 4–5. God rules history and will bring it to its goal in Christ, so his people worship him (RSB).
+- **Christ reigns now:** Hill stresses the Lamb's present rule from the throne, though his people suffer (5; 12:10). The last days began with his first coming and will be completed at his return (1:5–6).
 - **Victory through the cross:** the Lamb conquers by being slain, and his people conquer by his blood and their faithful witness, even to death (5:5–6; 12:11).
 - **Worship:** heaven's songs to God the Creator and the Lamb the Redeemer run through the book (4–5; 7; 15; 19).
 - **Faithful witness under pressure:** Christ's letters call the churches to repent, hold fast and conquer (2–3).
 - **God's righteous judgment:** on the persecutors and the unrepentant, answering the martyrs' "How long?" (6:10; 16:5–7; 19:1–2).
 - **The church against the world system:** Babylon's seduction of wealth and idolatry, and the call to "come out of her" (18:4).
+- **Satan's counterfeits:** the dragon, the beast and the false prophet form an unholy imitation of the Trinity (16:13): the beast mimics Christ, even with a death-wound healed (13:3), and the false prophet mimics the Spirit by directing worship to the beast. Babylon the prostitute counterfeits the Lamb's bride (17; 19:7–8) (RSB).
 - **The final defeat of evil:** Satan, the beasts, death and Hades are thrown into the lake of fire (19–20).
 - **New creation:** God dwelling with his people in a renewed creation, Eden restored and surpassed (21–22).
 
@@ -105,7 +107,7 @@ The book's title is its theme: "the revelation of Jesus Christ" (1:1). He is "th
 ## Common mix-ups
 
 - The book is "Revelation", singular, not "Revelations".
-- Hill describes four main approaches. Historicist: the book traces church history in order (the view of almost all the Reformers, who saw the papacy as antichrist). Preterist: it was fulfilled mainly in the first century. Futurist: most of it concerns the final years before Christ returns (popular today through dispensationalism). Idealist: it shows principles true in every age. Hill thinks the idealist approach is most useful, grounded in Christ and allowing for a final future fulfilment.
+- Hill describes four main approaches. Historicist: the book traces church history in order (the view of almost all the Reformers, who saw the papacy as antichrist). Preterist: it was fulfilled mainly in the first century. Futurist: most of it concerns the final years before Christ returns (popular today through dispensationalism). Idealist: it shows principles true in every age. Hill thinks the idealist approach is most useful, grounded in Christ and allowing for a final future fulfilment; the RSB thinks a combination of the views is closest to the truth, since its images can be fulfilled more than once.
 - The thousand years (20:1–6). Amillennialists, including Hill and many Reformed churches, read it as Christ's present reign with his saints between his first and second comings. Premillennialists expect a literal thousand-year reign on earth after Christ returns. Postmillennialists expect a long golden age of gospel success before he returns. The Reformed confessions describe one return of Christ followed by the general resurrection and judgment (WCF 32–33).
 - Revelation isn't a strict timeline. Hill points to "recapitulation": the book repeatedly brings us to the edge of the end (6:12–17; 11:15–19; 14:14–20; 16:17–21; 19:11–21; 20:11–15), then goes back to show the same period from another angle.
 - The word "antichrist" doesn't appear in Revelation. It is in 1 and 2 John.
@@ -140,8 +142,9 @@ The book's title is its theme: "the revelation of Jesus Christ" (1:1). He is "th
 
 - Charles E. Hill, "Revelation," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Introduction and Purpose, Background Issues (authorship, date, form and genre, approaches to Revelation, hermeneutical factors), Structure and Outline (four visions), Message and Theology. Print pages to verify.
 - *The Lutheran Study Bible* (Concordia, 2009), introduction to Revelation: Overview, Luther on Revelation (from his 1530 preface), Challenges for Readers. Lutheran source.
-- Reformation Study Bible, introduction to Revelation, p. ___ (to verify)
+- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Revelation: Title and Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of Revelation, Revelation in the Larger Story of the Bible, Christ in Revelation, History of Interpretation, Special Issues, Outline. Print pages to verify.
 
 ## Changelog
 
 1. 2026-11-04: Generated initial notes with Claude Code
+2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code

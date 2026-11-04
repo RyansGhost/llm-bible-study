@@ -16,14 +16,14 @@ Jude is a short, urgent letter. Jude meant to write about the salvation he share
 
 ## Setting
 
-- **When:** uncertain. Kistemaker explains that the date depends on how Jude relates to 2 Peter. If Peter used Jude, Jude was written before the mid-60s, perhaps in the 50s. If Jude used 2 Peter, it was written later, in the mid-60s or after.
-- **Where:** the letter doesn't say where it was sent. The readers knew the Old Testament and Jewish traditions well.
-- **Who wrote it:** "Jude, a servant of Jesus Christ and brother of James" (v. 1): the brother of James and of Jesus (Matt 13:55; Mark 6:3). Kistemaker notes he humbly calls himself a servant rather than the Lord's brother. Like James, he didn't believe during Jesus' ministry (John 7:5) but did after the resurrection (Acts 1:14).
-- **Where it sits:** the last of the General Epistles, just before Revelation. Twenty of its twenty-five verses resemble 2 Peter 2. Kistemaker notes that despite its size, Jude was accepted early as Scripture, appearing in the Muratorian Fragment and used by Tertullian, Clement of Alexandria and Origen.
+- **When:** uncertain. Kistemaker explains that the date depends on how Jude relates to 2 Peter. If Peter used Jude, Jude was written before the mid-60s, perhaps in the 50s. If Jude used 2 Peter, it was written later, in the mid-60s or after. As a younger brother of Jesus (Matt 13:55), Jude could have lived late into the century. The Reformation Study Bible rejects a second-century date: the error Jude fights may foreshadow Gnosticism but isn't its developed form.
+- **Where:** the letter doesn't say where it was sent. Jude's Jewish background shows throughout, though his readers may have been mixed; it may have been a circular letter to churches he knew from travelling ministry (1 Cor 9:5) (RSB).
+- **Who wrote it:** "Jude, a servant of Jesus Christ and brother of James" (v. 1): the brother of James and of Jesus (Matt 13:55; Mark 6:3). Kistemaker notes he humbly calls himself a servant rather than the Lord's brother, as James does (James 1:1). "Jude" (Judas) was a common name, but the only James well known enough to need no description was the Lord's brother. Like James, he didn't believe during Jesus' ministry (John 7:5) but did after the resurrection (Acts 1:14).
+- **Where it sits:** the last of the General Epistles, just before Revelation. Twenty of its twenty-five verses resemble 2 Peter 2. Kistemaker notes that despite its size, Jude was accepted early as Scripture, appearing in the Muratorian Fragment and used by Tertullian, Clement of Alexandria and Origen. The doubts that arose came mainly from its use of Jewish writings outside the Bible.
 
 ## Structure
 
-Kistemaker's outline:
+The Reformation Study Bible's outline is simply greeting (vv. 1–2), body (vv. 3–23) and closing praise (vv. 24–25). Kistemaker's fuller outline:
 
 - vv. 1–2: Greeting
 - vv. 3–4: Purpose: contend for the faith against intruders
@@ -66,6 +66,7 @@ Jude has only one chapter, so here it is by section:
 
 - **Contending for the faith:** the faith was "once for all delivered", complete and not to be changed (v. 3).
 - **Antinomianism:** Kistemaker identifies the false teachers' central error as turning grace into a licence for immorality (v. 4).
+- **The last times foretold:** the apostles warned that scoffers would come "in the last time" (vv. 17–18; compare 2 Pet 3:2–3). Their arrival shows that time has begun.
 - **God's judgment on sin:** past judgments guarantee future judgment (vv. 5–7, 14–15). Kistemaker notes how much this message is needed in a world that assumes God won't punish anyone.
 - **Spiritual pride and rebellion:** rejecting authority and following their own desires (vv. 8, 16, 19).
 - **Kept by God:** believers are "kept for Jesus Christ" (v. 1), keep themselves in God's love (v. 21), and are kept from stumbling by God (v. 24).
@@ -79,7 +80,7 @@ Jesus Christ is "our only Master and Lord" (v. 4), whom the false teachers deny.
 ## Common mix-ups
 
 - Jude isn't Judas Iscariot, nor (most likely) Judas the son of James among the Twelve. He is the brother of James and of Jesus.
-- Jude quotes 1 Enoch (vv. 14–15) and refers to a tradition about Michael and Moses' body (v. 9), probably from the Assumption of Moses. Quoting a book doesn't make the whole book Scripture: Paul quotes pagan poets too (Acts 17:28; Titus 1:12). Jude affirms only what he quotes.
+- Jude quotes 1 Enoch (vv. 14–15) and refers to a tradition about Michael and Moses' body (v. 9), probably from the Assumption of Moses. Quoting a book doesn't make the whole book Scripture: Paul quotes pagan poets too (Acts 17:28; Titus 1:12). Jude affirms only what he quotes: it is his use of the words that is inspired, not the book he quotes from.
 - "Contend for the faith once for all delivered to the saints" is Jude 3.
 - The doxology "Now to him who is able to keep you from stumbling" (vv. 24–25) is Jude, often used as a closing benediction.
 - Jude and 2 Peter share much material. Most modern scholars think Peter used Jude. Kistemaker notes the church fathers generally held the reverse, and both may have used a common source.
@@ -109,8 +110,9 @@ Jesus Christ is "our only Master and Lord" (v. 4), whom the false teachers deny.
 ## Sources
 
 - Simon J. Kistemaker, "Jude," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (relationship to 2 Peter, authorship, date, canonicity), Structure and Outline, Message and Theology (antinomianism, judgment on sin, the glory of Christ). Print pages to verify.
-- Reformation Study Bible, introduction to Jude, p. ___ (to verify)
+- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Jude: Author, Date and Occasion, Genre and Literary Features, Characteristics and Primary Themes, Theology of Jude, Jude in the Larger Story of the Bible, Christ in Jude, History of Interpretation, Special Issues, Outline. Print pages to verify.
 
 ## Changelog
 
 1. 2026-11-04: Generated initial notes with Claude Code
+2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code

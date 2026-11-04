@@ -68,5 +68,5 @@ The EPUB is indexed with `tools/epub_index.py` (work `bible-reformation-study-bi
 - [x] 62 1 John
 - [x] 63 2 John
 - [x] 64 3 John
-- [ ] 65 Jude
-- [ ] 66 Revelation
+- [x] 65 Jude
+- [x] 66 Revelation
