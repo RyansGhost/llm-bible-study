@@ -5,56 +5,196 @@ book: 23
 testament: old
 section: "Major Prophets"
 weight: 23
-status: placeholder
+status: draft
 ---
 
 # Isaiah
 
 ## Sources
 
-- Reformation Study Bible, introduction to Isaiah, p. ___
-- Ligonier: _article title_, _url_
+- Willem A. VanGemeren, "Isaiah," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues (unity of the book), Structure and Outline (theological, historical and literary factors, figuration), Message and Theology (Isaiah 1–39 and 40–66). Print pages to verify.
+- Reformation Study Bible, introduction to Isaiah, p. ___ (to verify)
 
 ## Summary
 
-_Not written yet._ One or two sentences: what Isaiah is about and why it matters.
+Isaiah, the early church's "fifth Gospel" (VanGemeren), is a vision of the Holy One of Israel. He judges his rebellious people and the proud nations, yet promises to redeem a remnant, restore Zion, and fill the earth with his glory. The book moves from judgment under Assyria (1–39) to comfort and restoration after the Babylonian exile (40–66). At its heart stand a royal child from David's line and the Suffering Servant who bears his people's sins.
 
 ## Setting
 
-_Not written yet._ Where, when, who wrote it, and where it sits in the story of Scripture.
+- **When:** Isaiah son of Amoz prophesied in Jerusalem under Uzziah, Jotham, Ahaz and Hezekiah (1:1), about 740–700 BC. VanGemeren lists the crises behind the book:
+    - the rise of Assyria
+    - the Syro-Ephraimite crisis of 734 BC (7–9)
+    - the fall of the northern kingdom in 722 BC
+    - Sennacherib's invasion of Judah in 701 BC (36–37)
+    - the exile in Babylon still to come, and the return after it (40–66)
+- **Where:** Jerusalem and Judah, with oracles addressed to the surrounding nations.
+- **Who wrote it:** Isaiah. Since Bernhard Duhm (1892), many critical scholars divide the book between two or three "Isaiahs", partly because chapters 40–66 address the exile and name Cyrus. VanGemeren defends the book's unity, as did the New Testament, which quotes passages from both halves simply as "Isaiah" (John 12:38–41).
+- **Where it sits:** the first of the Major Prophets. Its history overlaps 2 Kings 15–20, and chapters 36–39 closely parallel 2 Kings 18–20.
 
 ## Structure
 
-- _Chapters_: _section_
+The traditional two-part division (VanGemeren):
+
+- 1–39: Isaiah's vision concerning Judah and Jerusalem
+    - 1–12: judgment and hope for Judah; the call vision (6); Immanuel and the child-king (7–12)
+    - 13–23: oracles concerning the nations
+    - 24–27: the whole world judged, and Zion's feast (the "Isaiah apocalypse")
+    - 28–33: six woes
+    - 34–35: vengeance on the nations, and the ransomed returning to Zion
+    - 36–39: Hezekiah's story: Assyria defeated, Hezekiah's illness, Babylon's envoys
+- 40–66: The Book of Zion's Comfort
+    - 40–48: comfort; the Lord alone is God; Cyrus as his instrument
+    - 49–57: the Servant and Zion's restoration; the Suffering Servant (52:13–53:12)
+    - 58–66: true worship, Zion's glory, and new heavens and a new earth
 
 ## Chapter by chapter
 
-- **Chapter 1:** _two or three sentences_
+- **Isaiah 1:** Judah has rebelled against the Holy One. Its worship is empty, yet "though your sins are like scarlet, they shall be as white as snow" (1:18).
+- **Isaiah 2:** In the latter days the nations stream to the Lord's mountain and beat swords into ploughshares. The day of the Lord will humble the proud.
+- **Isaiah 3:** Jerusalem's leaders and its proud women will be judged.
+- **Isaiah 4:** The "branch of the Lord", and a cleansed remnant sheltered by cloud and fire on Zion.
+- **Isaiah 5:** The song of the vineyard that yielded wild grapes, followed by six woes.
+- **Isaiah 6:** Isaiah sees the Lord on his throne: "Holy, holy, holy". His lips are cleansed, he answers "Here I am! Send me", and he is sent to a people who won't listen. A holy seed remains in the stump.
+- **Isaiah 7:** Ahaz panics at the Syria–Israel alliance. God offers the sign: "the virgin shall conceive and bear a son, and shall call his name Immanuel" (7:14).
+- **Isaiah 8:** Assyria will flood the land like a river. Fear God, not conspiracies; he will be a sanctuary and a stone of stumbling.
+- **Isaiah 9:** Light dawns on those in darkness: "to us a child is born … Wonderful Counsellor, Mighty God" (9:6–7). Judgment on proud Israel.
+- **Isaiah 10:** Woe to unjust lawmakers. Assyria is God's rod but will be judged for its arrogance, and a remnant will return.
+- **Isaiah 11:** A shoot from the stump of Jesse, on whom the Spirit rests. The wolf lies down with the lamb, and the scattered people are regathered.
+- **Isaiah 12:** A song of thanks: "God is my salvation; I will trust" (12:2).
+- **Isaiah 13:** An oracle against Babylon on the day of the Lord.
+- **Isaiah 14:** Israel's restoration, and a taunt against the king of Babylon, the fallen "Day Star" (14:12). Oracles on Assyria and Philistia.
+- **Isaiah 15:** Lament over Moab.
+- **Isaiah 16:** More on Moab, and a throne established in steadfast love in David's tent (16:5).
+- **Isaiah 17:** Damascus and Israel judged.
+- **Isaiah 18:** An oracle concerning Cush, which will bring gifts to Zion.
+- **Isaiah 19:** Egypt judged and then healed: "Blessed be Egypt my people, and Assyria the work of my hands" (19:25).
+- **Isaiah 20:** Isaiah walks stripped and barefoot as a sign that Egypt and Cush will fall to Assyria.
+- **Isaiah 21:** "Fallen, fallen is Babylon". "Watchman, what time of the night?" Oracles on Edom and Arabia.
+- **Isaiah 22:** Jerusalem, the "valley of vision", parties instead of repenting. Shebna is replaced by Eliakim, given "the key of the house of David" (22:22).
+- **Isaiah 23:** Tyre's fall and later restoration.
+- **Isaiah 24:** The whole earth is judged and the Lord reigns on Zion.
+- **Isaiah 25:** God's feast for all peoples on his mountain. He will swallow up death forever and wipe away tears (25:8).
+- **Isaiah 26:** A song of trust: perfect peace for the mind stayed on God (26:3). "Your dead shall live" (26:19).
+- **Isaiah 27:** The Lord slays Leviathan, sings over his fruitful vineyard, and gathers his people.
+- **Isaiah 28:** Woe to Ephraim's drunken leaders. God lays a tested cornerstone in Zion (28:16).
+- **Isaiah 29:** Woe to Ariel (Jerusalem). People honour God with their lips while their hearts are far away (29:13), yet the deaf will hear.
+- **Isaiah 30:** Woe to those who trust Egypt: "in returning and rest you shall be saved; in quietness and in trust shall be your strength" (30:15).
+- **Isaiah 31:** Woe to those who rely on horses. The Lord himself will protect Jerusalem.
+- **Isaiah 32:** A king will reign in righteousness, and the Spirit will be poured out.
+- **Isaiah 33:** Woe to the destroyer. The Lord is our judge, lawgiver and king; he will save.
+- **Isaiah 34:** Judgment on the nations, especially Edom.
+- **Isaiah 35:** The desert blooms, the blind see, and the ransomed return to Zion with singing on the Highway of Holiness.
+- **Isaiah 36:** Sennacherib's officer, the Rabshakeh, taunts Jerusalem.
+- **Isaiah 37:** Hezekiah prays, Isaiah brings God's answer, and the angel of the Lord strikes the Assyrian army.
+- **Isaiah 38:** Hezekiah's illness, his fifteen added years, the sign of the shadow, and his psalm.
+- **Isaiah 39:** Hezekiah shows Babylonian envoys his treasures, and Isaiah foretells exile to Babylon.
+- **Isaiah 40:** "Comfort, comfort my people". A voice prepares the Lord's way in the wilderness. People are grass, but God's word stands. Those who wait on the Lord renew their strength (40:31).
+- **Isaiah 41:** God raises a conqueror from the east. "Fear not … I am with you". The idols are nothing.
+- **Isaiah 42:** The first Servant Song: God's chosen one brings justice gently, a light for the nations (42:1–9).
+- **Isaiah 43:** "When you pass through the waters, I will be with you". The Lord alone is Saviour and does a new thing.
+- **Isaiah 44:** The Spirit poured out. The folly of carving an idol from a log. Cyrus named as God's shepherd (44:28).
+- **Isaiah 45:** Cyrus called God's anointed. "Turn to me and be saved, all the ends of the earth", and every knee shall bow (45:22–23).
+- **Isaiah 46:** Babylon's idols must be carried by animals; God carries his people from birth to old age.
+- **Isaiah 47:** Proud Babylon brought down to the dust.
+- **Isaiah 48:** Stubborn Israel refined in the furnace of affliction. "Go out from Babylon".
+- **Isaiah 49:** The second Servant Song: a light for the nations so that salvation reaches the ends of the earth (49:6). God won't forget Zion.
+- **Isaiah 50:** The third Servant Song: the obedient Servant gives his back to those who strike him and sets his face like flint.
+- **Isaiah 51:** Look to Abraham. "Awake, O arm of the Lord". The cup of wrath is taken from Jerusalem.
+- **Isaiah 52:** "How beautiful upon the mountains are the feet of him who brings good news" (52:7). The fourth Servant Song begins (52:13).
+- **Isaiah 53:** The Suffering Servant, despised and rejected, wounded for our transgressions, led like a lamb to the slaughter. He bears the sin of many and makes many righteous.
+- **Isaiah 54:** Sing, barren one, for your children will be many. God's everlasting love and covenant of peace.
+- **Isaiah 55:** "Come, everyone who thirsts", buy without money. God's thoughts are higher than ours, and his word won't return empty.
+- **Isaiah 56:** Foreigners and eunuchs who keep the covenant are welcomed. "My house shall be called a house of prayer for all peoples" (56:7).
+- **Isaiah 57:** Idolatry condemned. The high and holy God dwells with the contrite and lowly.
+- **Isaiah 58:** True fasting is to loose the bonds of wickedness and feed the hungry. Call the Sabbath a delight.
+- **Isaiah 59:** Sin separates people from God. Finding no one to intercede, God's own arm brings salvation, and a Redeemer comes to Zion.
+- **Isaiah 60:** "Arise, shine, for your light has come". The nations come to Zion's light.
+- **Isaiah 61:** "The Spirit of the Lord God is upon me … to bring good news to the poor" (61:1–2).
+- **Isaiah 62:** Zion receives a new name, and watchmen pray without rest.
+- **Isaiah 63:** The divine warrior returns from Edom. A prayer recalling God's past mercies.
+- **Isaiah 64:** "Oh that you would rend the heavens and come down!" We are the clay, and you are our potter.
+- **Isaiah 65:** God creates new heavens and a new earth (65:17). The rebels are judged, and the wolf and lamb feed together.
+- **Isaiah 66:** Heaven is God's throne; he looks to the humble and contrite. The nations see his glory, and the new creation endures.
 
 ## Key people
 
-- _Name_: _one line on their role_
+- **Isaiah son of Amoz:** prophet in Jerusalem, called in the temple vision (6).
+- **Uzziah, Jotham, Ahaz and Hezekiah:** the kings of Judah in his time.
+- **Ahaz:** refuses to trust God and is given the Immanuel sign (7).
+- **Hezekiah:** trusts God against Assyria (36–37), but later shows his treasures to Babylon (39).
+- **Sennacherib and the Rabshakeh:** the Assyrian king and his spokesman.
+- **Cyrus:** the Persian king named as God's shepherd and anointed (44:28; 45:1).
+- **The Servant of the Lord:** the figure of the Servant Songs (42; 49; 50; 52–53), who suffers to bring salvation.
+- **Isaiah's sons:** Shear-jashub ("a remnant shall return") and Maher-shalal-hash-baz, whose names are signs (7:3; 8:3).
 
 ## Key events
 
-- _Event (chapter)_: _one line_
+- Isaiah's call vision in the temple (6)
+- The Immanuel sign to Ahaz (7)
+- The promise of the child-king (9) and the shoot of Jesse (11)
+- Oracles against the nations (13–23)
+- Sennacherib's siege and defeat (36–37)
+- Hezekiah's illness and recovery (38)
+- The prediction of exile to Babylon (39)
+- "Comfort, comfort my people" (40)
+- Cyrus named (44–45)
+- The Suffering Servant (52:13–53:12)
+- The promise of new heavens and a new earth (65–66)
 
 ## Themes
 
-- _Theme_: _one line, with a key verse_
+- **The Holy One of Israel:** Isaiah's favourite name for God. VanGemeren calls the vision of chapter 6 a "mirror text" that shapes the whole book: God's holiness and glory, Isaiah's cleansing, the people's hardening, judgment, and the holy seed.
+- **Judgment and salvation:** the same God who judges pride and injustice also comforts, redeems and restores (1:24–27; 40:1–2).
+- **The remnant:** a purified remnant survives judgment and returns (6:13; 10:20–22).
+- **Trust in God, not alliances:** Ahaz turns to Assyria and others to Egypt; Isaiah calls for quiet trust in the Lord (7:9; 30:15; 31:1).
+- **The coming King and the Servant:** a Davidic child-king (9; 11) and a Servant who suffers for his people (53).
+- **The Lord alone is God:** chapters 40–48 mock idols and declare God's sovereignty over history, even naming Cyrus in advance.
+- **Salvation for the nations:** the nations will come to Zion, and God's salvation will reach the ends of the earth (2:2–4; 49:6; 56:7; 60).
+- **New creation:** the story ends with new heavens and a new earth (65:17; 66:22).
 
 ## How it points to Christ
 
-_Not written yet._ One or two lines, with New Testament references.
+Isaiah is quoted in the New Testament more than almost any other book:
+
+- **Immanuel:** born of a virgin (7:14; Matt 1:22–23).
+- **The child born to us:** Mighty God and Prince of Peace on David's throne (9:6–7; Luke 1:32–33).
+- **The shoot of Jesse:** anointed with the Spirit (11:1–2; Rom 15:12).
+- **The voice in the wilderness:** John the Baptist prepares his way (40:3; Mark 1:2–3).
+- **The Servant:** in whom God delights (42:1–4; Matt 12:18–21). He was pierced for our transgressions, and by his wounds we are healed (53; Acts 8:32–35; 1 Pet 2:22–25).
+- **The Spirit-anointed preacher:** Jesus read Isaiah 61 in Nazareth and said, "Today this Scripture has been fulfilled in your hearing" (Luke 4:16–21).
+- **The cornerstone** laid in Zion (28:16; 1 Pet 2:6).
+- **New heavens and a new earth:** fulfilled in Christ's return (65:17; Rev 21:1).
+
+John even says Isaiah saw Christ's glory in his temple vision (John 12:41).
 
 ## Common mix-ups
 
-- _Things easily confused with other books_
+- The Immanuel sign (7:14) had a meaning in Ahaz's day and a deeper fulfilment in Jesus' birth (Matt 1:23).
+- "How you are fallen from heaven, O Day Star" (14:12, "Lucifer" in the King James) is first a taunt against the king of Babylon. Many have also applied it to Satan's fall.
+- Chapters 36–39 are almost the same as 2 Kings 18–20.
+- Isaiah prophesied before the exile, Jeremiah during its approach, and Ezekiel and Daniel in exile.
+- The "Servant" in Isaiah is sometimes Israel as a nation (41:8) and sometimes an individual who restores Israel (49:5–6; 53). The New Testament identifies that individual as Jesus.
+- Cyrus is named about 150 years before he lived (44:28; 45:1), which is a key reason critics assign chapters 40–66 to a later author.
+- "They shall mount up with wings like eagles" is Isaiah 40:31, not a psalm.
 
 ## Going deeper
 
-- **_Topic_:** _a question worth a longer conversation, and where the sources discuss it_
+- **One Isaiah or several?** VanGemeren surveys the critical theory of a second and third Isaiah and defends the book's unity. What's at stake for predictive prophecy, and for how Jesus and the apostles cite Isaiah? Read: VanGemeren, Unity of the Book.
+- **Isaiah 6 as the key to the book.** Trace the themes of holiness, glory, cleansing, hardening and the holy seed from chapter 6 through the rest of Isaiah.
+- **Who is the Servant?** Read the four Servant Songs (42:1–9; 49:1–13; 50:4–11; 52:13–53:12). How does the Servant relate to Israel? How do Acts 8 and 1 Peter 2 answer the eunuch's question, "about whom does the prophet say this?"
+- **Righteousness as justice and as salvation.** VanGemeren shows how "righteousness" in 56:1 carries both senses, tying the two halves of Isaiah together. Compare Romans 1:16–17 and 3:21–26.
+- **Trust or alliances?** Ahaz (7), the pro-Egypt party (30–31) and Hezekiah (36–37) face similar crises with different responses. What does Isaiah teach about where to put our trust?
+- **New heavens and new earth.** How do Isaiah 65–66 shape the hope of Revelation 21–22?
 
 ## Q&A
 
-1. _Question?_ _Answer._
+1. When did Isaiah see the Lord on his throne? In the year King Uzziah died (6:1).
+2. What did the seraphim cry? "Holy, holy, holy is the Lord of hosts; the whole earth is full of his glory" (6:3).
+3. What did Isaiah say when God asked "Whom shall I send?" "Here I am! Send me" (6:8).
+4. What sign was given to Ahaz? A virgin would conceive and bear a son named Immanuel (7:14).
+5. Name some titles of the child in Isaiah 9:6. Wonderful Counsellor, Mighty God, Everlasting Father, Prince of Peace.
+6. Who is called God's "shepherd" and "anointed" in Isaiah? Cyrus king of Persia (44:28; 45:1).
+7. How does Isaiah 40 begin? "Comfort, comfort my people, says your God."
+8. Which chapter describes the Suffering Servant wounded for our transgressions? Isaiah 53 (beginning at 52:13).
+9. Which passage did Jesus read in the Nazareth synagogue? Isaiah 61:1–2 (Luke 4:16–21).
+10. What does God promise to create at the end of Isaiah? New heavens and a new earth (65:17; 66:22).
