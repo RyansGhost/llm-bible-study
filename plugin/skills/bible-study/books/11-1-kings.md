@@ -16,18 +16,20 @@ status: draft
 
 ## Setting
 
-- **When:** from David's last days and Solomon's accession (about 970 BC) to the death of Ahab (about 853 BC).
+- **When:** from David's last days to the death of Ahab (about 853 BC). Fixed points (Reformation Study Bible): Solomon reigned about 970–930 BC, and the kingdom divided in 930 BC. Dating each later king is hard, because the two kingdoms may have counted years differently and some reigns overlapped as co-regencies.
 - **Where:** Jerusalem and its temple; after the split, Judah (capital Jerusalem) and Israel (capitals Shechem, Tirzah, and then Samaria). Elijah's ministry ranges from Carmel to Sinai (Horeb).
-- **Who wrote it:** unknown, probably a Judean writer. 1 and 2 Kings were one book, finished after 561 BC (its last event, 2 Kgs 25:27). Jewish tradition named Jeremiah as the author. The writer names sources, such as the "Book of the Acts of Solomon" (11:41) and royal chronicles.
-- **Where it sits:** the last of the Former Prophets (Joshua to Kings), continuing from 2 Samuel. Fullilove calls Kings "selective and theological history": it doesn't report everything, but chooses events to show why the kingdoms fell.
+- **Who wrote it:** unknown. Jewish tradition named Jeremiah, but there's no firm evidence. 1 and 2 Kings were one book, completed during the exile, about 550 BC: its last event is 561 BC (2 Kgs 25:27), and it doesn't mention the return in 538 BC. Some think a first edition was written under Josiah. The writer used older sources, naming the "Book of the Acts of Solomon" (11:41) and the chronicles of the kings of Israel and of Judah.
+- **Where it sits:** the last of the Former Prophets (Joshua to Kings), which share the outlook of Deuteronomy. 1 Kings finishes the story of David's court begun in 2 Samuel; the Greek Bible calls 1 and 2 Kings "3 and 4 Kingdoms". Fullilove calls Kings "selective and theological history": it chooses events to show why the kingdoms fell.
 
 ## Structure
 
-The whole of Kings (Fullilove) runs: Solomon (1 Kgs 1–11); the divided kingdom (1 Kgs 12 – 2 Kgs 17), slowing down for Elijah and Elisha; and Judah alone (2 Kgs 18–25). 1 Kings covers:
+The Reformation Study Bible's outline of 1 Kings:
 
 - 1–11: Solomon: his succession, wisdom, temple, glory, and fall
-- 12–16: The kingdom divides: Rehoboam and Jeroboam, and the kings of Judah and Israel to Ahab
-- 17–22: Elijah and Ahab: drought, Mount Carmel, Horeb, Naboth's vineyard, Ahab's death
+- 12–16: The early divided kingdom: Rehoboam and Jeroboam, and the kings of Judah and Israel to Ahab
+- 17–22: Prophets and kings: Elijah and Ahab (this section runs on to 2 Kgs 8:15)
+
+After the split, the writer moves back and forth between the two kingdoms, telling the story of one people of God. Each reign has a set frame: when the king began (dated by the other kingdom's king), his age, how long he reigned, his mother's name (in Judah), and a verdict on him; then his death, burial and successor. Fullilove's outline of all of Kings: Solomon (1 Kgs 1–11), the divided kingdom (1 Kgs 12 – 2 Kgs 17), and Judah alone (2 Kgs 18–25).
 
 ## Chapter by chapter
 
@@ -89,10 +91,13 @@ The whole of Kings (Fullilove) runs: Solomon (1 Kgs 1–11); the divided kingdom
 ## Themes
 
 - **Covenant faithfulness is the measure of every king:** Kings judges each ruler by Deuteronomy, especially worship at the one place God chose (Deut 12) and the covenant's blessings and curses (Deut 28) (Fullilove).
+- **Like king, like nation:** as a king goes, so the people usually go. Every northern king "walked in the way of Jeroboam"; in Judah, David is the standard (15:3, 11, 26).
+- **One God, one sanctuary:** the Lord alone rules all nations, and he chose one place for worship (Deut 12). The kings' usual sin isn't dropping the Lord altogether, but mixing his worship with other gods at unauthorised high places (RSB).
 - **The divided heart:** even wise Solomon breaks the law of the king: horses, gold and many wives (Deut 17:16–17; 1 Kgs 10–11). "His heart was not wholly true to the Lord" (11:4).
 - **The temple and God's presence:** God's glory fills the house Solomon builds (8:10–11), yet "heaven … cannot contain you" (8:27).
 - **The Davidic promise holds:** despite Solomon's sin, God keeps "a lamp" for David in Jerusalem (11:36; 15:4).
-- **The prophetic word:** prophets confront kings, and every word they speak comes true, often after a delay (Fullilove).
+- **The prophetic word:** prophets confront kings, and every word they speak comes true, often after a delay (Fullilove). Besides Elijah there are Nathan, Ahijah, Shemaiah and Micaiah.
+- **Why the kingdom split:** the old rivalry between Judah and Ephraim (Gen 49; Judg 8–9; 2 Sam 20) breaks out when Jeroboam, an Ephraimite, leads the north away from David's house (12:16) (RSB).
 - **The Lord, not Baal, is God:** the Carmel contest shows that only the Lord answers (18:39).
 
 ## How it points to Christ
@@ -137,8 +142,9 @@ Elijah's ministry anticipates the gospel. Jesus points to the widow of Zarephath
 
 - William B. Fullilove, "1–2 Kings," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues (author and date, genre, chronology, historical accuracy), Structure and Outline, Message and Theology (the Mosaic covenant, the Davidic covenant, the prophetic word). Print pages to verify.
 - *The Lutheran Study Bible* (Concordia, 2009), introduction to 1 and 2 Kings. Lutheran source.
-- Reformation Study Bible, introduction to 1 Kings, p. ___ (to verify)
+- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to 1 Kings: Title, Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of 1 and 2 Kings, 1 and 2 Kings in the Larger Story of the Bible, Special Issues, Outline. Print pages to verify.
 
 ## Changelog
 
 1. 2026-11-04: Generated initial notes with Claude Code
+2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code

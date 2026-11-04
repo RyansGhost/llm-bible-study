@@ -16,16 +16,18 @@ status: draft
 
 ## Setting
 
-- **When:** from about 852 BC (King Ahaziah of Israel) to 561 BC (Jehoiachin's release in Babylon).
+- **When:** from about 853 BC (King Ahaziah of Israel) to 561 BC (Jehoiachin's release in Babylon). Landmarks (Reformation Study Bible): Samaria falls to Assyria in 722 BC; Hezekiah (715–686 BC) leads a great reform; Josiah (640–609 BC) tries to reform and reunite the land, but dies at Megiddo in 609 BC; Babylon destroys Jerusalem in 586 BC.
 - **Where:** Israel (capital Samaria) and Judah (capital Jerusalem), with the great empires pressing in: Syria (Aram), Assyria, Egypt, and finally Babylon.
-- **Who wrote it:** unknown, probably a Judean writer during the exile. 1 and 2 Kings were one book (Fullilove).
+- **Who wrote it:** unknown, probably a Judean writer during the exile, about 550 BC. 1 and 2 Kings were one book (Fullilove; RSB).
 - **Where it sits:** the second half of Kings and the end of the Former Prophets. Prophets like Isaiah, Hosea, Amos, Micah, Jeremiah and Jonah ministered during these reigns. Read their books alongside it.
 
 ## Structure
 
-- 1–8: Elijah's departure and Elisha's ministry
-- 9–17: The kings of the divided kingdom, from Jehu's purge to the fall of Samaria (722 BC)
-- 18–25: Judah alone: Hezekiah, Manasseh, Josiah, and the fall of Jerusalem (586 BC)
+The Reformation Study Bible's outline continues from 1 Kings:
+
+- 1:1–8:15: Prophets and kings: Elijah taken up, and Elisha's ministry (continuing from 1 Kgs 17)
+- 8:16–17:41: The late divided kingdom: from Jehu's purge to the fall of Samaria (722 BC), with a reflection on why Israel went into exile (17:7–23)
+- 18–25: Judah alone: Hezekiah, Manasseh, Josiah, the fall of Jerusalem (586 BC), Gedaliah's murder, and Jehoiachin in Babylon
 
 ## Chapter by chapter
 
@@ -96,7 +98,7 @@ status: draft
 - **God's patience and justice:** God sends prophet after prophet (17:13), but finally judges.
 - **Reform is real but not enough:** Hezekiah and Josiah are among Judah's best kings, yet the people's hearts aren't changed and judgment comes (23:25–27).
 - **God's care for outsiders:** a Syrian general (5) and a Shunammite woman (4; 8) receive God's mercy through Elisha.
-- **The Davidic line preserved:** despite judgment, God keeps a "lamp" for David (8:19). The book ends with David's heir alive and honoured in Babylon (25:27–30).
+- **The Davidic line preserved:** despite judgment, God keeps a "lamp" for David (8:19). The book ends with David's heir alive and honoured above the other captive kings in Babylon (25:27–30), a glimmer of hope fulfilled in Christ, the Son of David (RSB).
 
 ## How it points to Christ
 
@@ -140,8 +142,9 @@ Above all, Kings ends with a question about God's promise to David. Jehoiachin's
 
 - William B. Fullilove, "1–2 Kings," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues, Structure and Outline, Message and Theology (the Mosaic covenant, the Davidic covenant, the prophetic word and delayed retribution). Print pages to verify.
 - *The Lutheran Study Bible* (Concordia, 2009), introduction to 1 and 2 Kings. Lutheran source.
-- Reformation Study Bible, introduction to 2 Kings, p. ___ (to verify)
+- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to 2 Kings: Title and Author, Date and Occasion, Outline. Print pages to verify.
 
 ## Changelog
 
 1. 2026-11-04: Generated initial notes with Claude Code
+2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code

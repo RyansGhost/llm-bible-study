@@ -18,16 +18,17 @@ status: draft
 
 - **When:** David's reign, about 1010–970 BC (the Lutheran Study Bible gives 1009–970 BC).
 - **Where:** Hebron, where David first reigns over Judah for seven and a half years; then Jerusalem, captured from the Jebusites and made the "city of David"; and the surrounding nations he defeats.
-- **Who wrote it:** unknown, as with 1 Samuel. 1 Chronicles 29:29 mentions records by Samuel, Nathan and Gad.
+- **Who wrote it:** unknown, as with 1 Samuel. 1 Chronicles 29:29 mentions records by Samuel, Nathan and Gad, and the book includes poems from the time, such as David's laments for Saul and Abner (1:17–27; 3:33–34). Its final form probably comes from a court historian in the ninth or eighth century BC (Reformation Study Bible).
 - **Where it sits:** the second half of the one book of Samuel, continuing straight from Saul's death. 1 Kings picks up with David's old age.
 
 ## Structure
 
-- 1–4: David king over Judah at Hebron; civil war with Saul's house
-- 5–10: David king over all Israel: Jerusalem, the ark, God's covenant with David, victories, kindness to Mephibosheth
-- 11–12: David's sin with Bathsheba, and Nathan's rebuke
-- 13–20: The consequences in David's house: Amnon, Absalom's rebellion, Sheba's revolt
-- 21–24: Appendix: famine and the Gibeonites, David's song, his last words, his mighty men, the census and the altar
+The whole book centres on David's kingship, almost a history of his court. The Reformation Study Bible divides it in four, with David's sin (11–12) as the turning point:
+
+- 1:1–5:5: God makes David king, first over Judah at Hebron, then over all Israel after civil war with Saul's house
+- 5:6–10:19: David's glorious reign: Jerusalem taken, the ark brought up, God's covenant with David (7), victories, kindness to Mephibosheth
+- 11–20: David's sin and its consequences: Bathsheba and Uriah, Nathan's rebuke, Amnon and Tamar, Absalom's rebellion, Sheba's revolt
+- 21–24: Epilogue: famine and the Gibeonites, David's mighty men, the census and the altar. It is arranged symmetrically around two poems: the Lord as David's deliverer (22) and David's last words about God's everlasting covenant (23:1–7)
 
 ## Chapter by chapter
 
@@ -87,8 +88,8 @@ status: draft
 
 ## Themes
 
-- **The Davidic covenant:** God promises David an everlasting house, kingdom and throne through his offspring (7:12–16; Ps 89; Ps 132). McKelvey shows how it carries forward the promises to Abraham, including that kings would come from him (Gen 17:6).
-- **Sin and its consequences:** David is forgiven (12:13), yet "the sword shall never depart from your house" (12:10). The rest of the book unfolds that judgment.
+- **The Davidic covenant:** God promises David an everlasting house, kingdom and throne through his offspring (7:12–16; Ps 89; Ps 132). McKelvey shows how it carries forward the promises to Abraham, including that kings would come from him (Gen 17:6). Solomon fulfils it in part, as David's son who builds the temple, but only Christ fulfils its "forever" (RSB).
+- **Sin and its consequences:** David is forgiven (12:13), yet "the sword shall never depart from your house" (12:10). The rest of the book unfolds that judgment: David sees his own sins repeated in his sons, and loses three of them to the sword (Amnon, Absalom, and later Adonijah).
 - **Repentance:** David's honest confession (12:13; Ps 51) marks him off from Saul's excuses.
 - **God's kindness (*hesed*):** David's loyal love to Mephibosheth (9) reflects God's own covenant loyalty.
 - **Worship and God's holiness:** David's joy before the ark and Uzzah's death both show that God's presence is a delight and must be approached his way (6).
@@ -135,8 +136,9 @@ David fleeing Jerusalem across the Kidron, rejected by his own people (15:23), a
 
 - Michael G. McKelvey, "1–2 Samuel," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Structure and Outline, Message and Theology (David, the Davidic covenant, the heart, David and the Psalms), Approaching the New Testament. Print pages to verify.
 - *The Lutheran Study Bible* (Concordia, 2009), introduction to 1 and 2 Samuel. Lutheran source.
-- Reformation Study Bible, introduction to 2 Samuel, p. ___ (to verify)
+- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to 2 Samuel: Title and Author, Characteristics and Primary Themes, Outline. Print pages to verify.
 
 ## Changelog
 
 1. 2026-11-04: Generated initial notes with Claude Code
+2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code

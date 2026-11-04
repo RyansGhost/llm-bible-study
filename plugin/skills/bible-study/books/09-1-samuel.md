@@ -16,18 +16,21 @@ status: draft
 
 ## Setting
 
-- **When:** about 1100–1010 BC: Eli's last years, Samuel's leadership, and Saul's reign (about 1048–1009 BC in the Lutheran Study Bible's dating).
+- **When:** about 1100 BC (roughly Samuel's birth) to about 1010 BC, when David began to reign at Hebron. The length of Saul's reign is uncertain, because the Hebrew of 13:1 is damaged (Reformation Study Bible); the Lutheran Study Bible gives about 1048–1009 BC.
 - **Where:** Shiloh, Ramah, Mizpah, Gibeah (Saul's home), Bethlehem (David's), the wilderness of Judah, and the borderlands with the Philistines.
-- **Who wrote it:** unknown. It is named for Samuel, but his death is recorded in 25:1. Jewish tradition says prophets who lived through the events wrote it (compare 1 Chr 29:29). The Lutheran Study Bible dates it to about 970 BC.
-- **Where it sits:** 1 and 2 Samuel were one book in Hebrew, split in the Greek translation. They carry on from Judges and Ruth, which ends with David's family line.
+- **Who wrote it:** unknown. It is named for Samuel, who anointed both Saul and David, but his death is recorded in 25:1. Samuel may have written some early material, with others continuing it (compare 1 Chr 29:29). Phrases like "to this day", and the note that Ziklag belongs "to the kings of Judah" (27:6), show the final form came after the kingdom divided; the RSB suggests a court historian in the ninth or eighth century BC.
+- **Where it sits:** 1 and 2 Samuel were one book in Hebrew. The Greek translation split them and treated Samuel and Kings together as "the Kingdoms". They carry on from Judges and Ruth, which ends with David's family line.
 
 ## Structure
 
-McKelvey divides Samuel by its three main figures:
+The Reformation Study Bible's outline follows the move from judges to kings:
 
-- 1–7: Samuel: his birth, Eli's fall, the ark captured and returned, Samuel as judge
-- 8–15: Saul: Israel asks for a king, Saul is anointed and wins early victories, then disobeys and is rejected
-- 16–31: David's rise: anointed, kills Goliath, hunted by Saul, spares Saul twice; Saul dies at Gilboa (continued in 2 Samuel)
+- 1–7: Before the monarchy: God rules and rescues his people (Samuel's birth, Eli's fall, the ark captured and returned, Samuel as judge)
+- 8–12: The people demand a king; Saul is chosen and confirmed
+- 13–15: Israel's first king: Saul's disobedience and rejection
+- 16–31: God's chosen king: David's rise and Saul's fall (David anointed, Goliath, Saul's pursuit, Saul's death at Gilboa)
+
+Across 1 and 2 Samuel, Saul and David run in parallel: both begin with victories and both sin gravely. The difference is how each responds to his sin (RSB). McKelvey divides the book by its three figures: Samuel, Saul and David.
 
 ## Chapter by chapter
 
@@ -99,6 +102,7 @@ McKelvey divides Samuel by its three main figures:
 - **The Lord looks on the heart:** Saul has the appearance of a king, David a heart for God (16:7). McKelvey traces "heart" through Hannah, Eli, Saul and David.
 - **Obedience over ritual:** "To obey is better than sacrifice" (15:22). Saul's religion is outward and his obedience partial.
 - **God raises the lowly and humbles the proud:** Hannah's song (2:1–10) previews the whole book: barren Hannah, the boy Samuel, the shepherd David are raised; Eli's house, the Philistines' Dagon and proud Saul are brought low.
+- **God rules behind the scenes:** he steers even Saul's search for lost donkeys to bring him to Samuel (9:15–16), and chooses David before anyone else sees it (16:1–13).
 - **God's presence cannot be manipulated:** treating the ark as a charm brings defeat; the ark humiliates Dagon on its own.
 - **Waiting on God's timing:** David refuses twice to kill "the Lord's anointed" (24:6; 26:9), trusting God to give the throne.
 - **Vows and oaths:** the Lutheran Study Bible traces vows through the book: Hannah's, Saul's rash oath, and Jonathan and David's covenant.
@@ -144,8 +148,9 @@ Jesus himself cites David eating the holy bread at Nob (21; Mark 2:25–26). Lik
 
 - Michael G. McKelvey, "1–2 Samuel," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues, Structure and Outline, Message and Theology (Samuel, kingship, Saul, David, the heart). Print pages to verify.
 - *The Lutheran Study Bible* (Concordia, 2009), introduction to 1 and 2 Samuel: Overview, Reading 1 and 2 Samuel, Luther on 1 and 2 Samuel. Lutheran source.
-- Reformation Study Bible, introduction to 1 Samuel, p. ___ (to verify)
+- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to 1 Samuel: Title, Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of 1 and 2 Samuel, 1 and 2 Samuel in the Larger Story of the Bible, History of Interpretation, Outline. Print pages to verify.
 
 ## Changelog
 
 1. 2026-11-04: Generated initial notes with Claude Code
+2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code

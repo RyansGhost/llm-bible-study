@@ -12,10 +12,10 @@ The EPUB is indexed with `tools/epub_index.py` (work `bible-reformation-study-bi
 - [x] 06 Joshua
 - [x] 07 Judges
 - [x] 08 Ruth
-- [ ] 09 1 Samuel
-- [ ] 10 2 Samuel
-- [ ] 11 1 Kings
-- [ ] 12 2 Kings
+- [x] 09 1 Samuel
+- [x] 10 2 Samuel
+- [x] 11 1 Kings
+- [x] 12 2 Kings
 - [ ] 13 1 Chronicles
 - [ ] 14 2 Chronicles
 - [ ] 15 Ezra
