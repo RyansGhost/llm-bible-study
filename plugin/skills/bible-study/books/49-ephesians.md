@@ -23,16 +23,20 @@ Ephesians unfolds God's eternal plan to unite all things in Christ, and the chur
 
 ## Structure
 
-Chapters 1–3 set out what God has done for us in Christ; chapters 4–6 tell us how to live in response. The word "walk" links them: once we walked in sin (2:1–2), but now we walk in good works (2:10), worthily (4:1), in love (5:2), as children of light (5:8), and wisely (5:15). The Reformation Study Bible's outline:
+Chapters 1–3 set out what God has done for us in Christ; chapters 4–6 tell us how to live in response. The word "walk" links them: once we walked in sin (2:1–2), but now we walk in good works (2:10), worthily (4:1), in love (5:2), as children of light (5:8), and wisely (5:15). The subdivisions follow the Reformation Study Bible.
 
-- 1:1–2: Greeting
-- 1:3–14: Praise to God for every blessing in Christ: the Father chooses, the Son redeems, the Spirit seals
-- 1:15–23: Prayer for the church to know God's power in the risen Christ
-- 2:1–3:13: Our position in Christ: saved by grace; Jew and Gentile made one; the mystery revealed to Paul
-- 3:14–21: Prayer to know Christ's love, and praise
-- 4:1–6:9: Our walk in Christ, toward unity and purity: gifts in the body, the old self and the new, walking in love, light and wisdom, and household relationships
-- 6:10–20: Our stand against the spiritual forces of evil: the armour of God
-- 6:21–24: Final greetings
+- 1–3: Doctrine: our riches in Christ
+    - 1:1–2: greeting
+    - 1:3–14: praise for every blessing in Christ: the Father chooses, the Son redeems, the Spirit seals
+    - 1:15–23: prayer to know God's power in the risen Christ
+    - 2:1–3:13: our position in Christ: saved by grace; Jew and Gentile made one; the mystery revealed to Paul
+    - 3:14–21: prayer to know Christ's love, and praise
+- 4–6: Practice: our walk in Christ
+    - 4:1–16: unity and gifts in the body
+    - 4:17–5:21: the old self and the new; walking in love, light and wisdom
+    - 5:22–6:9: household relationships
+    - 6:10–20: our stand against the spiritual forces of evil: the armour of God
+    - 6:21–24: final greetings
 
 ## Chapter by chapter
 
@@ -113,3 +117,4 @@ Christ is at the centre of God's plan: "to unite all things in him, things in he
 
 1. 2026-11-04: Generated initial notes with Claude Code
 2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code
+3. 2026-11-04: Structure regrouped into nested sections, combining the earlier outline with the Reformation Study Bible's divisions

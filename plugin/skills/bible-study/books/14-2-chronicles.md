@@ -23,14 +23,18 @@ status: draft
 
 ## Structure
 
-The Reformation Study Bible's outline has three parts:
+The Reformation Study Bible's three parts. Solomon's reign is arranged symmetrically, with the temple's dedication and God's answer at its centre (5:2–7:22), and his power struggle and later fall are left out. Afterwards each king is measured by the ideal of David and Solomon: faithful to the law, supporting the temple, listening to prophets and priests.
 
-- 1–9: The united kingdom under Solomon. His reign is arranged symmetrically, with wisdom and wealth at either end and the temple's dedication and God's answer at the centre (5:2–7:22). Solomon's power struggle and later fall are left out.
-- 10–28: The divided kingdom, told from Judah's side, from Rehoboam to Ahaz. Each king is measured by the ideal of David and Solomon: faithful to the law, supporting the temple, listening to prophets and priests.
+- 1–9: The united kingdom under Solomon: wisdom, the temple built and dedicated, God's answer, Solomon's glory
+- 10–28: The divided kingdom, told from Judah's side
     - 10–12: the kingdom divides; Rehoboam
     - 13–20: Abijah, Asa and Jehoshaphat: reform and reliance on God
     - 21–28: Jehoram to Ahaz: apostasy and decline, with Joash, Amaziah and Uzziah rising and falling
-- 29–36: The reunited kingdom. Hezekiah gathers the faithful of north and south around the temple again. Failures follow (Manasseh, Amon, the last kings), but each is answered by God's renewal: Manasseh's repentance (33), Josiah's reforms (34–35), and, after the exile, Cyrus' decree (36:22–23).
+- 29–36: The reunited kingdom: Hezekiah gathers the faithful of north and south around the temple again
+    - 29–32: Hezekiah: the temple cleansed, a great Passover, deliverance from Assyria
+    - 33: Manasseh's sin and repentance; Amon
+    - 34–35: Josiah's reforms and Passover
+    - 36: the last kings, the exile, and Cyrus' decree
 
 ## Chapter by chapter
 
@@ -161,3 +165,4 @@ Jesus refers to the martyrdom of Zechariah son of Jehoiada (24:20–22) when he 
 
 1. 2026-11-04: Generated initial notes with Claude Code
 2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code
+3. 2026-11-04: Structure regrouped into nested sections, combining the earlier outline with the Reformation Study Bible's divisions

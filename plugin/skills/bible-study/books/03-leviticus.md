@@ -23,14 +23,19 @@ Leviticus ("about the Levites"; in Hebrew *vayikra*, "and he called") answers th
 
 ## Structure
 
-The Reformation Study Bible's outline has four parts:
+Two halves (McKelvey): how to worship the holy God, and how to live with him. Within them, the Reformation Study Bible's four parts: sacrifice (1–7), priesthood (8–10), uncleanness and its cleansing (11–16), and holiness in practice (17–27).
 
-- 1–7: Laws on sacrifice: the five offerings, and instructions for the priests
-- 8–10: The priesthood begins: Aaron and his sons ordained; Nadab and Abihu die
-- 11–16: Uncleanness and its cleansing: food, childbirth, skin disease, discharges, and the Day of Atonement (16)
-- 17–27: Holiness in practice: everyday holiness (17–20), holy priests (21–22), holy times and the Jubilee (23–25), blessings and curses (26), and vows (27)
-
-McKelvey sees two halves: worshipping the holy God (1–10) and living with him (11–27).
+- 1–10: Worshipping the holy God
+    - 1–7: laws on sacrifice: the five offerings, and instructions for the priests
+    - 8–10: the priesthood begins: Aaron and his sons ordained; Nadab and Abihu die
+- 11–27: Living with the holy God
+    - 11–15: clean and unclean: food, childbirth, skin disease, discharges
+    - 16: the Day of Atonement
+    - 17–20: holiness in everyday life
+    - 21–22: holy priests
+    - 23–25: holy times, the Sabbath year and the Jubilee
+    - 26: blessings and curses
+    - 27: vows and gifts to the Lord
 
 ## Chapter by chapter
 
@@ -141,3 +146,4 @@ Jesus, untouched by uncleanness, touched lepers and made them clean (Mark 1:40�
 
 1. 2026-11-04: Generated initial notes with Claude Code
 2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code
+3. 2026-11-04: Structure regrouped into nested sections, combining the earlier outline with the Reformation Study Bible's divisions

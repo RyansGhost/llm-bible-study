@@ -23,14 +23,15 @@ Numbers follows Israel from Mount Sinai to the edge of the promised land. The ge
 
 ## Structure
 
-The Reformation Study Bible's outline has four parts. The first and last each open with a census and prepare for the land; the middle two explain why the first generation died, and how God still meant to bless Israel.
+Two censuses frame the book. One counts the generation that fails; the other counts the generation that will enter the land (Glodo, following Olson). Within that frame, the Reformation Study Bible's four parts: preparing for the journey, from Sinai to Moab, Balaam, and preparing to enter Canaan.
 
-- 1:1–10:10: Preparing for the journey: the first census, the camp, the Levites, and laws for a holy people
-- 10:11–22:1: From Sinai to the plains of Moab: complaining, the spies, rebellion, Moses' sin at Meribah, forty years of wandering
-- 22:2–25:18: Balaam: hired to curse Israel, he can only bless it; then the sin at Baal-peor
-- 26–36: Preparing to enter Canaan: the second census, Joshua appointed, offerings, Midian, the land's boundaries, and cities of refuge
-
-Glodo, following Olson, frames the same material as the end of the old generation (1–25) and the birth of the new (26–36).
+- 1–25: The end of the old generation
+    - 1:1–10:10: preparing for the journey: the first census, the camp, the Levites, and laws for a holy people
+    - 10:11–22:1: from Sinai to the plains of Moab: complaining, the spies, rebellion, Moses' sin at Meribah, forty years of wandering
+    - 22:2–25:18: Balaam, hired to curse Israel, can only bless it; then the sin at Baal-peor
+- 26–36: The birth of the new generation
+    - 26–30: the second census, Joshua appointed, and laws for life in the land
+    - 31–36: victory over Midian, the tribes east of the Jordan, the land's boundaries, and the cities of refuge
 
 ## Chapter by chapter
 
@@ -158,3 +159,4 @@ The ashes of the red heifer cleansed the body; Christ's blood cleanses the consc
 
 1. 2026-11-04: Generated initial notes with Claude Code
 2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code
+3. 2026-11-04: Structure regrouped into nested sections, combining the earlier outline with the Reformation Study Bible's divisions

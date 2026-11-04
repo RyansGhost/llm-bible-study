@@ -28,18 +28,18 @@ Isaiah, the early church's "fifth Gospel" (VanGemeren), is a vision of the Holy 
 
 ## Structure
 
-Two parts, with chapters 36–39 as the bridge: 1–35 focus on judgment through Assyria, and 40–66 on the remnant's return from Babylon and final salvation. Each part opens with a scene from God's heavenly court (6; 40:1–8). The Reformation Study Bible's outline:
+Two parts (VanGemeren), with chapters 36–39 as the bridge: 1–35 focus on judgment through Assyria, and 40–66 on the remnant's return from Babylon and final salvation. Each part opens with a scene from God's heavenly court (6; 40:1–8). The subdivisions follow the Reformation Study Bible.
 
-- 1–12: The Lord is the Holy One of Israel: judgment and hope for Judah; the call vision (6); Immanuel and the child-king (7–12)
-- 13–23: Oracles against the nations
-- 24–27: The "little apocalypse": the whole world judged, and Zion's feast
-- 28–35: Judgment and salvation: six woes; vengeance on the nations; the ransomed return to Zion
-- 36–39: Isaiah and Hezekiah: Assyria defeated, Hezekiah's illness, Babylon's envoys
-- 40–48: The glorious kingdom of God: comfort; the Lord alone is God; Cyrus as his instrument
-- 49–55: The ministry of restoration: the Servant and Zion; the Suffering Servant (52:13–53:12)
-- 56–66: Living for the coming kingdom, and its certainty: true worship, Zion's glory, new heavens and a new earth
-
-VanGemeren calls 40–66 "the Book of Zion's Comfort".
+- 1–39: Isaiah's vision concerning Judah and Jerusalem
+    - 1–12: the Holy One of Israel: judgment and hope for Judah; the call vision (6); Immanuel and the child-king (7–12)
+    - 13–23: oracles against the nations
+    - 24–27: the "little apocalypse": the whole world judged, and Zion's feast
+    - 28–35: judgment and salvation: six woes; vengeance on the nations; the ransomed return to Zion
+    - 36–39: Isaiah and Hezekiah: Assyria defeated, Hezekiah's illness, Babylon's envoys
+- 40–66: The Book of Zion's Comfort
+    - 40–48: the glorious kingdom of God: comfort; the Lord alone is God; Cyrus as his instrument
+    - 49–55: the ministry of restoration: the Servant and Zion; the Suffering Servant (52:13–53:12)
+    - 56–66: living for the coming kingdom: true worship, Zion's glory, new heavens and a new earth
 
 ## Chapter by chapter
 
@@ -202,3 +202,4 @@ John even says Isaiah saw Christ's glory in his temple vision (John 12:41).
 
 1. 2026-11-04: Generated initial notes with Claude Code
 2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code
+3. 2026-11-04: Structure regrouped into nested sections, combining the earlier outline with the Reformation Study Bible's divisions

@@ -23,19 +23,21 @@ Genesis ("origin"; in Hebrew *bereshit*, "in the beginning") is the book of begi
 
 ## Structure
 
-After a prologue, Genesis is built on ten headings, "These are the generations (*toledoth*) of …", each opening a new family story (RSB; Currid). The first three accounts and the next three run in parallel, and the last four set rejected lines (Ishmael, Esau) beside chosen ones (Isaac, Jacob).
+After a prologue, Genesis is built on ten headings, "These are the generations (*toledoth*) of …", each opening a new family story (RSB; Currid). The last four set rejected lines (Ishmael, Esau) beside chosen ones (Isaac, Jacob). In three parts:
 
 - 1:1–2:3: Prologue: creation of the heavens and the earth
-- 2:4–4:26: The heavens and the earth: Eden, the fall, Cain and Abel
-- 5:1–6:8: Adam: the godly line of Seth; sin before the flood
-- 6:9–9:29: Noah: the flood and God's covenant
-- 10:1–11:9: Noah's sons: the table of nations and Babel
-- 11:10–26: Shem
-- 11:27–25:11: Terah: Abraham and God's covenant promises
-- 25:12–18: Ishmael
-- 25:19–35:29: Isaac: Jacob and Esau
-- 36:1–37:1: Esau
-- 37:2–50:26: Jacob: Joseph, Judah, and the move to Egypt
+- 2:4–11:26: The early history of the world, from Adam to Abraham
+    - 2:4–4:26: the heavens and the earth: Eden, the fall, Cain and Abel
+    - 5:1–6:8: Adam: the godly line of Seth; sin before the flood
+    - 6:9–9:29: Noah: the flood and God's covenant
+    - 10:1–11:9: Noah's sons: the table of nations and Babel
+    - 11:10–26: Shem
+- 11:27–50:26: The patriarchs
+    - 11:27–25:11: Terah: Abraham and God's covenant promises
+    - 25:12–18: Ishmael
+    - 25:19–35:29: Isaac: Jacob and Esau
+    - 36:1–37:1: Esau
+    - 37:2–50:26: Jacob: Joseph, Judah, and the move to Egypt
 
 Currid also reads Genesis 1–3 as the whole Bible's message in miniature: creation, fall and redemption.
 
@@ -191,3 +193,4 @@ Joseph, rejected by his brothers and raised to save many lives, is a pattern of 
 
 1. 2026-11-04: Generated initial notes with Claude Code
 2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code
+3. 2026-11-04: Structure regrouped into nested sections, combining the earlier outline with the Reformation Study Bible's divisions
