@@ -16,14 +16,14 @@ Job is about a righteous man who loses everything and wrestles with God over why
 
 ## Setting
 
-- **When:** the events seem to belong to the age of the patriarchs (about 2000–1700 BC). Belcher points to wealth counted in livestock, Job offering sacrifices as head of his family, and his long life of 140 years. The date of writing is unknown.
+- **When:** the events seem to belong to the age of the patriarchs (about 2000–1700 BC). Belcher points to wealth counted in livestock, Job offering sacrifices as head of his family, and his long life of 140 years. The date of writing is unknown: the Reformation Study Bible places the author after 1500 BC, perhaps as late as Solomon's time, when wisdom writing flourished. Ezekiel's mention of Job (Ezek 14:14, 20) and copies among the Dead Sea Scrolls rule out a very late date.
 - **Where:** the land of Uz, east of Canaan, probably around Edom or north Arabia. Job is not an Israelite, and the book never mentions the law of Moses.
-- **Who wrote it:** unknown. The Lutheran Study Bible suggests Job or someone of his time; others date the writing much later.
-- **Where it sits:** the first of the Wisdom and Poetry books. Belcher compares it with Egyptian and Babylonian texts about the suffering of the righteous, and notes how differently Job answers.
+- **Who wrote it:** unknown. Not Job himself, the RSB argues: if he had known about the scene in heaven, the whole debate would have been pointless. The author was an Israelite poet, since the narrator uses God's covenant name, the LORD, while Job and his friends almost never do; he probably drew on older sources from Job's time. The Lutheran Study Bible suggests Job or someone of his time.
+- **Where it sits:** the first of the Wisdom and Poetry books. Belcher compares it with Egyptian and Babylonian texts about the suffering of the righteous, and notes how differently Job answers. Its poetry blends lawsuit, lament and debate, and its Hebrew is among the hardest in the Bible.
 
 ## Structure
 
-Belcher's outline. The prologue and epilogue are prose; everything between is poetry:
+Belcher's outline. The prologue and epilogue are prose; everything between is poetry. The Reformation Study Bible groups it as prologue (1–2), dialogue (3–27), monologues (28:1–42:6: wisdom poem, Job, Elihu, the Lord), and epilogue (42:7–17).
 
 - 1–2: Prologue: Job's character, the scenes in heaven, and the two tests
 - 3: Job's lament
@@ -106,10 +106,10 @@ Job is mostly speeches, so these are short summaries of each speaker's argument.
 
 ## Themes
 
-- **Suffering of the righteous:** Job shows that suffering isn't always punishment for particular sins. The friends' neat theory that the righteous prosper and the wicked suffer doesn't hold (21; 42:7). Belcher shows how the prologue gives readers the view Job lacks.
+- **Suffering of the righteous:** Job shows that suffering isn't always punishment for particular sins. It's true that God punishes the wicked and rewards the faithful, but not on our timetable, and great suffering doesn't prove great sin (Luke 13:1–5; John 9:1–3). The friends run that rule in reverse (21; 42:7). Job suffers not because he is one of the worst but one of the best (RSB). Belcher shows how the prologue gives readers the view Job lacks.
 - **Does anyone serve God for nothing?** The test in the prologue (1:9) asks whether faith is real or only a bargain for blessings.
 - **God's sovereignty over Satan and suffering:** Satan can do nothing without God's permission, and God sets the limits (1:12; 2:6).
-- **Honest lament:** Job pours out his complaints to God, not just about him. God says Job spoke rightly, and the friends did not (42:7–8).
+- **Honest lament:** Job pours out his complaints to God, not just about him; the friends say true things about God but never speak to him. God says Job spoke rightly, and the friends did not (42:7–8). Yet Job goes too far in questioning God's justice, and repents (40:8; 42:6).
 - **God's wisdom beyond ours:** God never tells Job about the heavenly test. He shows his wisdom in creation, and Job learns to trust him without full answers (38–42).
 - **The longing for a mediator:** Job longs for an arbiter, a witness in heaven, and a Redeemer (9:33; 16:19–21; 19:25).
 
@@ -155,8 +155,9 @@ Job is a righteous sufferer, though not sinless. Christ is the truly innocent su
 
 - Richard P. Belcher Jr., "Job," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues (historical context, genre), Structure and Outline, Message and Theology (the prologue, Job's lament, the speeches, Elihu, God's speeches, the epilogue). Print pages to verify.
 - *The Lutheran Study Bible* (Concordia, 2009), introduction to Job: Overview. Lutheran source.
-- Reformation Study Bible, introduction to Job, p. ___ (to verify)
+- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Job: Title, Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of Job, Job in the Larger Story of the Bible, Christ in Job, History of Interpretation, Outline. Print pages to verify.
 
 ## Changelog
 
 1. 2026-11-04: Generated initial notes with Claude Code
+2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code

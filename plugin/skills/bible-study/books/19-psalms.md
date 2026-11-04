@@ -18,7 +18,7 @@ Psalms is Israel's book of prayer and praise: 150 songs and prayers written over
 
 - **When:** from Moses (Psalm 90, perhaps about 1400 BC) through David and the monarchy to after the exile (Psalm 137 looks back on Babylon). The collection reached its final form after the exile (Futato).
 - **Where:** in Israel's life of worship, at the tabernacle and temple, in battle, in exile, and in private distress.
-- **Who wrote it:** many authors. David is linked with about 73 psalms; others are "of" Asaph, the sons of Korah, Solomon, Moses, Heman, Ethan, and many are anonymous. Futato notes that "of David" doesn't always mean authorship in the modern sense: it can mean "for" or "about" David.
+- **Who wrote it:** many authors. David is linked with about 73 psalms; others are "of" Asaph, the sons of Korah, Solomon, Moses, Heman, Ethan, and many are anonymous. Futato notes that "of David" could grammatically mean "for" or "about" David. The Reformation Study Bible holds that the titles are original and reliable and do name the author: Psalm 18's title matches 2 Samuel 22:1, and Scripture remembers David as Israel's singer (2 Sam 23:1; Matt 22:43). Fourteen titles give the event behind the psalm (such as 3, 18, 51).
 - **Where it sits:** first of the Writings, the third part of the Hebrew Bible. Jesus refers to "the Law of Moses and the Prophets and the Psalms" (Luke 24:44). It is the Old Testament book the New Testament quotes most.
 
 ## Structure
@@ -30,8 +30,9 @@ Psalms is Israel's book of prayer and praise: 150 songs and prayers written over
     - Book 4: Psalms 90–106
     - Book 5: Psalms 107–150
 - **A two-part introduction:** Psalm 1 (the blessed life of delighting in God's instruction) and Psalm 2 (the Lord and his Anointed King) (Futato).
+- **Five books, like the five books of Moses:** both are God's instruction (*torah*) for his people (1:2) (RSB).
 - **From lament to praise:** laments cluster early and praise grows toward the end, which is why the Hebrew title is "Book of Praises" even though laments are the most common type (Futato).
-- **The story of the five books:** following scholarship since 1985, Futato reads the books as a storyline. Books 1–3 follow David's kingdom to its collapse (Psalm 89 laments the apparent failure of God's covenant with David). Book 4 answers "the Lord reigns" (93; 95–99) and goes back to Moses. Book 5 renews hope in God's king and ends in praise.
+- **The story of the five books:** following scholarship since 1985, Futato reads the books as a storyline. Book 1 opens with God's covenant with his King (2); Book 2 ends with the kingship passing to Solomon (72); Book 3 ends darkly, with Psalm 88 (the only psalm with no praise) and Psalm 89's lament that David's crown lies in the dust. Books 4 and 5 answer the exiles' question, how to live without a son of David on the throne: by trusting that "the Lord reigns" (93; 95–99), and by obedience (119) and true worship (145–150), with David as a model (138–145) and the Messiah promised (110) (RSB).
 
 ## Chapter by chapter
 
@@ -111,9 +112,12 @@ The Psalms aren't a narrative, but they recall many events:
 
 ## Themes
 
-- **The Lord reigns:** Futato calls God's kingship the dominant theme: "The Lord reigns" (93:1), and his King is coming (2; 110).
+- **The Lord reigns:** Futato calls God's kingship the dominant theme: "The Lord reigns" (93:1), and his King is coming (2; 110). God is King, Creator and Redeemer. Luther called the Psalms a "little Bible", a summary of the Old Testament.
+- **The King's hymnbook:** Israel's king led its worship, so many psalms belong first to David's line and supremely to Christ, who prays them (22) and to whom they are sung (Heb 2:12) (RSB).
 - **The blessed life:** "Blessed is the man" (1:1). The book teaches the way of life and well-being by delighting in God's instruction. Futato notes that Psalm 1 begins with "blessed" and ends with "perish".
-- **Honest lament:** the most common type of psalm. God's people may bring fear, grief, anger and doubt to him (13; 22; 88).
+- **Kinds of psalm:** hymns of praise (103), laments (6), thanksgivings for answered prayer (116), songs of confidence (23), royal psalms about God's or David's kingship (2; 47), and wisdom psalms (1; 37) (RSB).
+- **Honest lament:** the most common type of psalm. God's people may bring fear, grief, anger and doubt to him (13; 22; 88). Nearly every lament turns to trust by the end.
+- **Cries for justice:** some psalms ask God to punish the wicked (69; 109). Christians are told to bless personal enemies (Rom 12:14–21); these prayers are for flagrant, unrepentant enemies of God's people, and must leave room for God to save them as he saved us (RSB).
 - **Praise and thanksgiving:** the book moves from lament to praise, ending in a crescendo of hallelujahs (146–150).
 - **God's word:** Psalms 1, 19 and 119 delight in God's law as life-giving instruction.
 - **Repentance and forgiveness:** Psalms 32, 51 and 130.
@@ -164,8 +168,9 @@ Christians have long prayed the Psalms with Christ: he is both the one the Psalm
 
 - Mark D. Futato, "Psalms," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues (composition, authorship, genre), Structure and Outline (lament to praise, the five books), Message and Theology (Psalm 1 as instruction, the kingship of God, our King is coming). Print pages to verify.
 - John Calvin, *Commentary on the Book of Psalms*, preface (cited in Futato).
-- Reformation Study Bible, introduction to Psalms, p. ___ (to verify)
+- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Psalms: Title, Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of the Psalms, Psalms in the Larger Story of the Bible, Christ in the Psalms, History of Interpretation, Special Issues, Outline. Print pages to verify.
 
 ## Changelog
 
 1. 2026-11-04: Generated initial notes with Claude Code
+2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code

@@ -20,9 +20,9 @@ The EPUB is indexed with `tools/epub_index.py` (work `bible-reformation-study-bi
 - [x] 14 2 Chronicles
 - [x] 15 Ezra
 - [x] 16 Nehemiah
-- [ ] 17 Esther
-- [ ] 18 Job
-- [ ] 19 Psalms
+- [x] 17 Esther
+- [x] 18 Job
+- [x] 19 Psalms
 - [ ] 20 Proverbs
 - [ ] 21 Ecclesiastes
 - [ ] 22 Song of Solomon

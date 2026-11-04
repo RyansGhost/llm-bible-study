@@ -16,25 +16,22 @@ Esther tells how God saved his scattered people from genocide in the Persian emp
 
 ## Setting
 
-- **When:** the reign of Ahasuerus, better known as Xerxes I (486–465 BC), roughly 483–473 BC. This falls between the temple's completion (Ezra 6) and Ezra's return (Ezra 7).
-- **Where:** Susa, the Persian winter capital, and the empire from India to Cush. These are Jews who stayed in exile rather than returning to Jerusalem.
-- **Who wrote it:** unknown. Lee and the Lutheran Study Bible both place it around 400 BC, before Alexander the Great. The author mentions royal chronicles (10:2).
-- **Where it sits:** in English Bibles, the last of the history books. In the Hebrew Bible it is one of the five festival scrolls (Megilloth), read at Purim, about a month before Passover (Lee).
+- **When:** the reign of Ahasuerus, better known as Xerxes I (486–465 BC), roughly 483–473 BC. This falls between the temple's completion (Ezra 6) and Ezra's return (Ezra 7). The Reformation Study Bible notes details that fit known history: the king's great feast in his third year matches the council of 483 BC that planned the invasion of Greece (Herodotus), and the four-year gap before Esther meets the king (2:16) matches his war with Greece.
+- **Where:** Susa, the Persian winter capital, and the empire from India to Cush. These are Jews who stayed in exile rather than returning to Jerusalem. The author knows Susa's palace and Persian words and names well.
+- **Who wrote it:** unknown, probably a Persian Jew living in Susa; Mordecai has been suggested, but it can't be shown. Lee, the RSB and the Lutheran Study Bible place it in the late fifth or fourth century BC. The author mentions royal chronicles (10:2).
+- **Why:** to explain and fix the feast of Purim (9:20–32), to show that Jews could serve within a pagan empire, and to show God protecting his people through ordinary events, not just miracles (RSB).
+- **Where it sits:** in English Bibles, the last of the history books. In the Hebrew Bible it is one of the five festival scrolls (Megilloth), read at Purim, about a month before Passover (Lee). The Greek Old Testament adds over a hundred verses, including prayers by Mordecai and Esther; Protestant churches follow the shorter Hebrew text.
 
 ## Structure
 
-Lee suggests three ways of seeing the book's shape:
+The Reformation Study Bible's outline, with chapter 6, the king's sleepless night, as the turning point:
 
-- **Banquets:** the turning points happen at feasts: the king's feasts (1), Esther's two banquets (5; 7), and the feasting of Purim (9).
-- **Plot:** the setting (1–2), the threat and its reversal (3–9:19), and the establishment of Purim (9:20–10:3).
-- **Reversals:** what Haman planned for the Jews falls on his own head (9:1).
+- 1–2: Introduction: Vashti deposed; Esther becomes queen; Mordecai uncovers a plot
+- 3:1–5:14: Haman plots to destroy the Jews: his decree, Mordecai's appeal, Esther's first banquet, the gallows built
+- 6:1–9:16: The Lord saves the Jews: Mordecai honoured, Haman exposed and hanged, the counter-decree, the Jews' victory
+- 9:17–10:3: Conclusion: Purim established; Mordecai's greatness
 
-In outline:
-
-- 1–2: Vashti deposed; Esther becomes queen; Mordecai uncovers a plot
-- 3–4: Haman's decree to destroy the Jews; Mordecai's appeal to Esther
-- 5–7: Esther's banquets; Mordecai honoured; Haman exposed and hanged
-- 8–10: A counter-decree; the Jews' victory; Purim; Mordecai's greatness
+Lee notes the shape can also be traced through the banquets (three pairs, at the beginning, middle and end) and through its reversals: what Haman planned for the Jews falls on his own head (9:1).
 
 ## Chapter by chapter
 
@@ -76,9 +73,10 @@ In outline:
 
 - **God's hidden providence:** God is never named, yet he is everywhere behind the "coincidences": Esther's rise, the timing of Mordecai's discovery, the king's sleepless night, and Haman's arrival at just the wrong moment (6:1–4).
 - **Reversal:** the book is full of turnarounds. The Jews' mourning becomes feasting, Haman honours the man he planned to hang, and he dies on his own gallows (9:1, 22). Lee makes reversal one of the book's key structures.
-- **Courage and responsibility:** God's sovereignty doesn't remove Esther's responsibility to act (4:13–16).
+- **Courage and responsibility:** God's sovereignty doesn't remove Esther's responsibility to act (4:13–16). At first Mordecai and Esther hide their identity, unlike Daniel; events force them to declare it (2:10, 20) (RSB).
+- **Feasting and fasting:** the story moves from royal feasts through fasting in sackcloth (4:3, 16) to the joyful feast of Purim, which celebrates rest from enemies (9:22).
 - **The ancient enemy:** Mordecai is a Benjaminite from Saul's family (2:5), and Haman an Agagite, from the line of the Amalekite king Saul failed to destroy (1 Sam 15). The old conflict resurfaces.
-- **God's people in exile:** Jews living far from the land are still God's people, and he preserves them.
+- **God's people in exile:** Jews living far from the land are still God's people, and he preserves them, even when they must trust him without a prophet's word. The book's violence is reported, not held up as a model (RSB).
 - **Remembering deliverance:** Purim keeps God's rescue alive in Israel's memory, as Passover does.
 
 ## How it points to Christ
@@ -122,8 +120,9 @@ The great reversal, the enemy defeated by the very weapon he prepared, finds its
 
 - Peter Y. Lee, "Esther," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues (canonical matters, place in the canon, ancient versions, historicity), Structure and Outline (banquets, plot, reversals). Print pages to verify.
 - *The Lutheran Study Bible* (Concordia, 2009), introduction to Esther: Overview. Lutheran source.
-- Reformation Study Bible, introduction to Esther, p. ___ (to verify)
+- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Esther: Title, Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of Esther, Esther in the Larger Story of the Bible, Christ in Esther, History of Interpretation, Outline. Print pages to verify.
 
 ## Changelog
 
 1. 2026-11-04: Generated initial notes with Claude Code
+2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code
