@@ -49,8 +49,8 @@ The EPUB is indexed with `tools/epub_index.py` (work `bible-reformation-study-bi
 - [x] 43 John
 - [x] 44 Acts
 - [x] 45 Romans
-- [ ] 46 1 Corinthians
-- [ ] 47 2 Corinthians
+- [x] 46 1 Corinthians
+- [x] 47 2 Corinthians
 - [ ] 48 Galatians
 - [ ] 49 Ephesians
 - [ ] 50 Philippians

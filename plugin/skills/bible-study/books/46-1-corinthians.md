@@ -16,14 +16,14 @@ status: draft
 
 ## Setting
 
-- **When:** about AD 53–55, from Ephesus during Paul's third journey (16:8). Waters dates Paul's founding visit to about AD 49–51, using the inscription that dates Gallio's office (Acts 18:12–17).
-- **Where:** Corinth, a wealthy, cosmopolitan port city in Achaia (southern Greece), known for commerce, competition and immorality.
+- **When:** about AD 55, from Ephesus, where Paul stayed over two years on his third journey (16:8; Acts 19:8–10). Waters dates Paul's founding visit to about AD 49–51, using the inscription that dates Gallio's office (Acts 18:12–17).
+- **Where:** Corinth, one of the largest cities in the Roman world, a wealthy, cosmopolitan port in Achaia (southern Greece), known for commerce, competition and immorality. Some believers thought anything went; others swung to harsh self-denial (6:12–20; 7:1) (Reformation Study Bible).
 - **Who wrote it:** Paul, with Sosthenes (1:1).
-- **Where it sits:** Paul had founded the church during 18 months there (Acts 18:1–18). This letter answers reports from "Chloe's people" (1:11) and a letter the Corinthians sent him (7:1). Paul had written an earlier letter that is now lost (5:9).
+- **Where it sits:** Paul had founded the church during 18 months there, coming from Athens resolved to preach nothing but Christ crucified (2:1–5; Acts 18:1–18). He worked with Aquila and Priscilla and turned to the Gentiles when the synagogue opposed him. This letter answers reports from "Chloe's people" (1:11) and a letter the Corinthians sent him (7:1). Paul had written an earlier letter that is now lost (5:9). The many topics don't mean the letter was stitched together from several: Paul is answering point by point, sometimes quoting the Corinthians' own slogans ("All things are lawful for me", 6:12).
 
 ## Structure
 
-Waters' outline:
+The Reformation Study Bible divides the body by Paul's sources: the report from Chloe's household (1:10–6:20), then his answers to their letter (7:1–16:12), each marked "Now concerning…" (7:1, 25; 8:1; 12:1; 16:1, 12). Waters' more detailed outline:
 
 - 1:1–9: Greeting and thanksgiving
 - 1:10–4:21: Divisions and factions: the wisdom of the world against the word of the cross
@@ -75,12 +75,13 @@ Waters' outline:
 
 - **The cross against worldly wisdom:** Christ crucified looks foolish and weak, but it is God's wisdom and power (1:18–25). Waters shows Paul bringing the cross to bear on the church's divisions.
 - **This age and the age to come:** Waters highlights Paul's framework. Believers already belong to the new age in Christ, but still live in the present age and must not be shaped by it.
-- **Unity in the church:** one foundation, one temple, one body, one Spirit (3:11, 16; 12:12–13).
+- **Unity in the church:** one foundation, one temple, one body, one Spirit (3:11, 16; 12:12–13). Behind the many problems lie pride in spiritual knowledge, challenges to Paul's authority, and above all a lack of love (RSB).
 - **Holiness of the body:** the believer's body belongs to the Lord and is the Spirit's temple (6:12–20).
 - **Christian freedom limited by love:** don't wound a weaker brother's conscience (8; 10:23–33).
-- **Worship that builds up:** gifts are for the common good, exercised in love and order (12–14).
+- **Worship that builds up:** gifts are for the common good, exercised in love and order (12–14). Christians still debate whether tongues and prophecy continue today or ceased with the apostles; many Reformed churches hold that they ceased (compare WCF 1.1). The Lord's Supper (11:17–34) has also been central to debates about how Christ is present in it.
 - **Love:** the more excellent way (13).
-- **The resurrection:** the heart of the gospel and the hope of believers (15).
+- **The resurrection:** Christ died for our sins and rose, "in accordance with the Scriptures" (15:3–4). Deny the resurrection of believers and you deny Christ's. He is the firstfruits of the harvest, and we will be raised with glorious bodies (15:20–23, 42–57).
+- **A holy people:** believers are "sanctified in Christ Jesus, called to be saints" (1:2). The ceremonial law is fulfilled in Christ, but God's moral law still guides his people (6:9–11).
 
 ## How it points to Christ
 
@@ -121,8 +122,9 @@ Christ crucified is the centre of the letter (2:2). He is the power and wisdom o
 
 - Guy Prentiss Waters, "1–2 Corinthians," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (Paul and the church in Corinth, the problems in Corinth), Structure and Outline, Message and Theology (Paul's redemptive-historical framework, the gospel, the death and resurrection of Christ, the Spirit and the body). Print pages to verify.
 - John Calvin, *Commentary on 1 Corinthians*, dedicatory epistle (quoted in Waters).
-- Reformation Study Bible, introduction to 1 Corinthians, p. ___ (to verify)
+- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to 1 Corinthians: Title and Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of 1 Corinthians, 1 Corinthians in the Larger Story of the Bible, Christ in 1 Corinthians, History of Interpretation, Outline. Print pages to verify.
 
 ## Changelog
 
 1. 2026-11-04: Generated initial notes with Claude Code
+2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code
