@@ -47,10 +47,10 @@ Shared source chapters (read once, used for several books): Van Pelt's "1–2 Sa
 - [x] 27 Daniel
 
 ### Minor Prophets
-- [ ] 28 Hosea
-- [ ] 29 Joel
-- [ ] 30 Amos
-- [ ] 31 Obadiah
+- [x] 28 Hosea
+- [x] 29 Joel
+- [x] 30 Amos
+- [x] 31 Obadiah
 - [ ] 32 Jonah
 - [ ] 33 Micah
 - [ ] 34 Nahum
