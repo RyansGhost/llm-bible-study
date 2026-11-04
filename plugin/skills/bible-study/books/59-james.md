@@ -16,21 +16,22 @@ James is a practical, punchy letter about living out real faith. It is written t
 
 ## Setting
 
-- **When:** probably early, in the 40s AD (the Lutheran Study Bible gives about AD 50), before James' martyrdom in AD 62. It may be one of the first New Testament books written.
+- **When:** between AD 44, when persecution scattered believers (Acts 12), and James' martyrdom in AD 62. Since it says nothing of the circumcision debate settled at the Jerusalem council (Acts 15), it may be from before AD 49, perhaps the earliest New Testament book (Reformation Study Bible; the Lutheran Study Bible gives about AD 50).
 - **Where:** from Jerusalem, "to the twelve tribes in the Dispersion" (1:1): Jewish Christians living outside Palestine, probably in several congregations (Lowe).
-- **Who wrote it:** James, the brother of Jesus and leader of the Jerusalem church, known as "James the Just". Lowe weighs the arguments for pseudonymity and finds them unconvincing.
-- **Where it sits:** the first of the letters often called the "General" or "Catholic" Epistles, addressed to a wide audience. It is very Jewish in flavour, and calls the Christian assembly a "synagogue" (2:2).
+- **Who wrote it:** James, the brother of Jesus and leader of the Jerusalem church, known as "James the Just". His authority fits the leader who presided at the Jerusalem council (Acts 15:13–21; Gal 1:19). Lowe weighs the arguments for pseudonymity and finds them unconvincing.
+- **Where it sits:** the first of the letters often called the "General" or "Catholic" Epistles, addressed to a wide audience, much like Jewish leaders' letters to Jews abroad. Its practical wisdom has earned it the name "the New Testament Proverbs". It is very Jewish in flavour, and calls the Christian assembly a "synagogue" (2:2).
 
 ## Structure
 
-Lowe follows Richard Bauckham's simple outline, noting that chapter 1 introduces almost every theme expounded later:
+Lowe follows Richard Bauckham: chapter 1 introduces almost every theme the rest of the letter expands. The Reformation Study Bible's outline:
 
-- 1:1: Greeting
-- 1:2–27: Introduction: trials, wisdom, rich and poor, temptation, hearing and doing
-- 2:1–26: Faith and works, especially in how rich and poor are treated
-- 3:1–4:12: The tongue, true wisdom, and quarrels from worldly desires
-- 4:13–5:6: Warnings to the boastful and the rich
-- 5:7–20: Patience until the Lord comes, oaths, prayer, and restoring the wanderer
+- 1: Perseverance: trials, wisdom, rich and poor, temptation, hearing and doing
+- 2: Faith and behaviour: favouritism, and faith shown by works
+- 3:1–12: The tongue
+- 3:13–18: Wisdom from above and wisdom from below
+- 4:1–12: Submitting to God: quarrels, worldliness, humility
+- 4:13–5:6: Warnings to merchants and the rich
+- 5:7–20: Patience until the Lord comes; oaths, prayer, and restoring the wanderer
 
 ## Chapter by chapter
 
@@ -68,6 +69,8 @@ Lowe follows Richard Bauckham's simple outline, noting that chapter 1 introduces
 - **Rich and poor:** no favouritism; God's care for the poor; warnings to the rich (2:1–7; 5:1–6).
 - **The tongue:** speech reveals the heart and must be tamed (1:19, 26; 3:1–12).
 - **Humility and prayer:** submit to God, draw near to him, and pray in faith (4:6–10; 5:13–18).
+- **The coming judgment:** James keeps pointing to the Judge at the door as the reason to live rightly (2:12–13; 4:12; 5:9). Those who persevere receive the crown of life (1:12).
+- **A high view of Christ:** James is "a servant of God and of the Lord Jesus Christ" (1:1), setting them side by side, and calls Jesus "the Lord of glory" (2:1).
 
 ## How it points to Christ
 
@@ -75,7 +78,7 @@ James names Jesus only twice: "the Lord Jesus Christ" (1:1) and "our glorious Lo
 
 ## Common mix-ups
 
-- James and Paul don't contradict each other. Paul is answering the question "How is a sinner made right with God?": by faith alone, apart from works (Rom 3:28). James is answering "What does real faith look like?": it works (2:18). "Justified" in James means shown to be righteous. The Reformers' summary: we are justified by faith alone, but the faith that justifies is never alone (WCF 11.2).
+- James and Paul don't contradict each other. Paul is answering the question "How is a sinner made right with God?": by faith alone, apart from works (Rom 3:28). James is answering "What does real faith look like?": it works (2:18). "Justified" in James means shown to be righteous. The Reformation Study Bible notes that the context is the final judgment (2:12–13): a lifetime of works will show at the last day that faith was real, not earn God's verdict. The Reformers' summary: we are justified by faith alone, but the faith that justifies is never alone (WCF 11.2).
 - Luther called James "an epistle of straw" in his 1522 preface. The Lutheran Study Bible explains he was comparing it with Paul's letters, not denying its truth, and he elsewhere called it "a good book" that promotes God's law.
 - This James is the Lord's brother, not James the son of Zebedee (one of the Twelve), who was martyred in about AD 44 (Acts 12:2).
 - "Faith without works is dead" is James 2:26 (and 2:17).
@@ -108,8 +111,9 @@ James names Jesus only twice: "the Lord Jesus Christ" (1:1) and "our glorious Lo
 
 - Bruce A. Lowe, "James," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (authorship and date, occasion and purpose), Structure and Outline (genre, outline), Message and Theology (God, wisdom and change, Paul, faith and works, rich and poor). Print pages to verify.
 - *The Lutheran Study Bible* (Concordia, 2009), introduction to James: Overview, Luther on James, Challenges for Readers. Lutheran source.
-- Reformation Study Bible, introduction to James, p. ___ (to verify)
+- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to James: Title and Author, Date and Occasion, Genre and Literary Features, Characteristics and Primary Themes, Theology in James, James in the Larger Story of the Bible, Christ in James, History of Interpretation, Special Issues, Outline. Print pages to verify.
 
 ## Changelog
 
 1. 2026-11-04: Generated initial notes with Claude Code
+2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code
