@@ -44,7 +44,7 @@ Shared source chapters (read once, used for several books): Van Pelt's "1–2 Sa
 - [x] 24 Jeremiah
 - [x] 25 Lamentations
 - [x] 26 Ezekiel
-- [ ] 27 Daniel
+- [x] 27 Daniel
 
 ### Minor Prophets
 - [ ] 28 Hosea
