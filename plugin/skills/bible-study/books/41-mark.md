@@ -16,14 +16,14 @@ Mark is the shortest and fastest-moving Gospel. It opens with "the beginning of 
 
 ## Setting
 
-- **When:** Jesus' public ministry, from his baptism to his resurrection (about AD 27–30/33). Gladd notes several scholars date the writing to the late 50s or early 60s, before Matthew and Luke and before Jerusalem's fall in AD 70.
+- **When:** Jesus' public ministry, from his baptism to his resurrection (about AD 27–30/33). Gladd notes several scholars date the writing to the late 50s or early 60s, before Matthew and Luke and before Jerusalem's fall in AD 70. The Reformation Study Bible agrees it was written before AD 70, and earlier still if Luke and Acts were finished by about AD 62. The early church said it was written for the church in Rome: it explains Jewish customs and Aramaic words for Gentile readers (7:3–4; 5:41), uses Latin terms, and names Rufus, probably known in Rome (15:21; Rom 16:13).
 - **Where:** the Jordan, Galilee (especially Capernaum and the lake), Gentile regions (Decapolis, Tyre and Sidon, Caesarea Philippi), the journey south, and Jerusalem.
-- **Who wrote it:** John Mark, not one of the Twelve. Early tradition from Papias says Mark wrote down Peter's preaching as "Peter's interpreter", which Gladd uses to explain how a non-apostle could write eyewitness-based testimony.
-- **Where it sits:** the second Gospel. Most scholars think it was the first written, and that Matthew and Luke used it. Gladd explains the Gospels as ancient biographies grounded in eyewitness testimony, written for the wider church.
+- **Who wrote it:** John Mark, not one of the Twelve. The Jerusalem church met in his mother's house (Acts 12:12); he deserted Paul and Barnabas on their first journey but was later valued by Paul (Acts 13:13; 15:37–39; 2 Tim 4:11), and was with Peter in Rome (1 Pet 5:13). Early tradition from Papias says Mark wrote down Peter's preaching as "Peter's interpreter", which Gladd uses to explain how a non-apostle could write eyewitness-based testimony. Forgers chose famous names, not a figure like Mark (RSB). The young man who fled naked at Jesus' arrest (14:51–52) may be Mark himself.
+- **Where it sits:** the second Gospel. Most scholars think it was the first written, and that Matthew and Luke used it. Gladd explains the Gospels as ancient biographies grounded in eyewitness testimony, written for the wider church; the RSB adds that they have been called passion narratives with long introductions, and that Mark may be the first to call a written account a "gospel" (1:1). The oldest manuscripts end at 16:8; the longer ending (16:9–20) seems to come from another hand.
 
 ## Structure
 
-Gladd notes the Synoptic Gospels move geographically: from the Jordan to Galilee, where Jesus is welcomed, to Jerusalem, where he is rejected and killed.
+Gladd notes the Synoptic Gospels move geographically: from the Jordan to Galilee, where Jesus is welcomed, to Jerusalem, where he is rejected and killed. Peter's confession (8:29) is the watershed. The Reformation Study Bible outlines it as preparation (1:1–13), the disclosure of the Christ (1:14–8:26), his suffering (8:27–15:47), and the resurrection (16). Mark often "sandwiches" one story inside another so each explains the other, such as the fig tree around the temple cleansing (11:12–21) and Peter's denial around Jesus' trial (14:53–72).
 
 - 1:1–13: Prologue: John the Baptist, Jesus' baptism and temptation
 - 1:14–8:21: Jesus' authority in Galilee and beyond: teaching, healing, exorcisms, opposition, and the disciples' slowness
@@ -83,7 +83,9 @@ Gladd notes the Synoptic Gospels move geographically: from the Jordan to Galilee
 - **The suffering Messiah:** Gladd sums up Mark's purpose as reworking messianic hopes: the Messiah's reign comes through suffering and apparent defeat (8:31; 10:45).
 - **Isaiah's new exodus:** Gladd notes the influence of Isaiah's promise of a second exodus on Mark, from its opening quotation (1:2–3) onward.
 - **Discipleship:** following Jesus means taking up the cross (8:34). The disciples' repeated failures show the need for grace.
-- **Authority:** Jesus acts with God's own authority over sin, Sabbath, nature, demons and death.
+- **Authority:** Jesus acts with God's own authority over sin, Sabbath, nature, demons and death. The gospel itself is God's power over evil and sickness (1:27; compare Rom 1:16).
+- **Glory through the cross:** against Rome's idea of power, the Son of Man's glory is his sacrifice, and greatness among his people means serving (10:42–45) (RSB).
+- **The Gentiles:** the temple is a house of prayer for all nations (11:17), and the first person to confess Jesus as Son of God after his death is a Roman soldier (15:39).
 - **Urgency:** the frequent "immediately" gives the Gospel its pace.
 
 ## How it points to Christ
@@ -123,8 +125,9 @@ Mark is the gospel of Jesus Christ, the Son of God (1:1). It shows Jesus as both
 ## Sources
 
 - Benjamin Gladd, "Mark," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (genre, eyewitness testimony, audience, authorship, date, text, purpose), Structure and Outline, Message and Theology (the messianic secret, Jesus and Isaiah's second exodus). Print pages to verify.
-- Reformation Study Bible, introduction to Mark, p. ___ (to verify)
+- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Mark: Title, Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of Mark, Mark in the Larger Story of the Bible, Christ in Mark, History of Interpretation, Special Issues, Outline. Print pages to verify.
 
 ## Changelog
 
 1. 2026-11-04: Generated initial notes with Claude Code
+2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code

@@ -16,14 +16,14 @@ Matthew presents Jesus as the promised Messiah, the Son of David and Son of Abra
 
 ## Setting
 
-- **When:** Jesus' life, from his birth (about 6–4 BC) to his resurrection (about AD 30–33). Kidd notes most modern scholars date the Gospel after AD 70; many conservative scholars date it earlier, in the 60s.
-- **Where:** Bethlehem, Egypt, Nazareth, Galilee (especially Capernaum), the journey south, and Jerusalem.
-- **Who wrote it:** the apostle Matthew (also called Levi), a former tax collector (9:9). The title "according to Matthew" was always attached, and early church tradition from Papias says Matthew collected Jesus' sayings (Kidd).
+- **When:** Jesus' life, from his birth (about 6–4 BC) to his resurrection (about AD 30–33). Kidd notes most modern scholars date the Gospel after AD 70; many conservative scholars date it earlier, in the 60s. The Reformation Study Bible favours AD 64–70: it warns against the Sadducees, who soon vanished after AD 70, and treats Jerusalem's fall as prophecy, not past event (24). Ignatius quotes it by about AD 110.
+- **Where:** Bethlehem, Egypt, Nazareth, Galilee (especially Capernaum), the journey south, and Jerusalem. It was probably written in Syrian Antioch, home of Ignatius and of a mixed Jewish and Gentile church (Acts 11:19–26), which would explain its concern with both legalism and lawlessness (RSB).
+- **Who wrote it:** the apostle Matthew (also called Levi), a former tax collector (9:9). The title "according to Matthew" was always attached, and early church tradition from Papias says Matthew collected Jesus' sayings, perhaps first in Hebrew or Aramaic (Kidd). As a tax collector dealing with Jews and Romans, he would have known several languages. It is hard to see why the church would credit such a minor, compromised apostle unless he really wrote it (RSB).
 - **Where it sits:** the first Gospel in the New Testament. Most scholars think Matthew used Mark, since about 90% of Mark appears in Matthew (Kidd). Kidd suggests it was written for Greek-speaking Jewish Christians grappling with the mission to the Gentiles.
 
 ## Structure
 
-Herman Ridderbos called Matthew "the architect among the Evangelists" (quoted in Kidd). Five sections each pair narrative with a major discourse, each ending "when Jesus finished these sayings" (7:28; 11:1; 13:53; 19:1; 26:1). Kidd compares them to the five books of Moses.
+Herman Ridderbos called Matthew "the architect among the Evangelists" (quoted in Kidd). Five sections each pair narrative with a major discourse, each ending "when Jesus finished these sayings" (7:28; 11:1; 13:53; 19:1; 26:1). Kidd compares them to the five books of Moses, presenting Jesus as the prophet like Moses. The narratives ask who the King is; the discourses describe his people (RSB). The Reformation Study Bible also marks two turning points with "From that time Jesus began…": to preach the kingdom (4:17), and to show his disciples he must suffer (16:21). Its outline: the beginnings of Jesus Christ (1:1–4:11), his proclamation of the kingdom (4:12–16:20), the revealing of his suffering (16:21–25:46), and his death and resurrection (26–28).
 
 - 1–2: Prologue: genealogy and birth
 - 3–7: Narrative and **the Sermon on the Mount** (5–7)
@@ -97,12 +97,14 @@ Herman Ridderbos called Matthew "the architect among the Evangelists" (quoted in
 ## Themes
 
 - **Fulfilment:** Matthew repeatedly says events happened "to fulfil what was spoken by the prophet" (1:22; 2:15; 4:14; 21:4). Kidd sees Matthew as a scribe "trained for the kingdom" bringing out treasures old and new (13:52).
-- **Jesus the King and the kingdom of heaven:** the kingdom has come in Jesus and will be completed at his return, "now and not yet" (Kidd).
+- **A new beginning:** Matthew opens with "the book of the genealogy" (1:1), echoing Genesis (Gen 2:4; 5:1): Jesus begins a new creation (RSB).
+- **Jesus the King and the kingdom of heaven:** Jesus is the Son of David who fulfils God's covenants with David and Abraham. The kingdom has come in him and will be completed at his return, "now and not yet" (Kidd). Meanwhile good and evil grow together until the harvest (13:24–30).
 - **Immanuel, God with us:** the Gospel is framed by "God with us" (1:23) and "I am with you always" (28:20).
 - **Jesus and the law:** Jesus fulfils the law and teaches its true meaning (5:17–48). Kidd describes Jesus as a "new Torah" and greater than Moses.
 - **Greater than the temple, Jonah and Solomon:** Jesus surpasses Israel's priesthood, prophets and kings (12:6, 41–42).
 - **The church:** Matthew is the only Gospel to use the word "church" (16:18; 18:17).
-- **Mission to the nations:** from the magi to the Great Commission, Jesus' work reaches all peoples (2:1–12; 28:19).
+- **Mission to the nations:** this very Jewish Gospel shows God's promise to bless all nations through Abraham: women with Gentile links in the genealogy (1:3–6), the magi, and the Great Commission (2:1–12; 28:19).
+- **Truly God and truly man:** "God with us" who speaks with his own authority ("But I say to you"), yet hungry, tired and tempted, the faithful servant Israel failed to be (4:1–11; 8:23–27).
 - **Discipleship and righteousness:** a righteousness that exceeds the Pharisees' comes from the heart (5:20).
 
 ## How it points to Christ
@@ -152,8 +154,9 @@ His death is the ransom for many (20:28) and the blood of the covenant poured ou
 ## Sources
 
 - Reggie M. Kidd, "Matthew," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (authorship, audience, date, purpose, historicity), Structure and Outline, Message and Theology (Immanuel, Jesus as the new Torah, greater than the temple, Jonah and Solomon). Print pages to verify.
-- Reformation Study Bible, introduction to Matthew, p. ___ (to verify)
+- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Matthew: Title, Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of Matthew, Matthew in the Larger Story of the Bible, Christ in Matthew, History of Interpretation, Outline. Print pages to verify.
 
 ## Changelog
 
 1. 2026-11-04: Generated initial notes with Claude Code
+2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code

@@ -43,8 +43,8 @@ The EPUB is indexed with `tools/epub_index.py` (work `bible-reformation-study-bi
 - [x] 37 Haggai
 - [x] 38 Zechariah
 - [x] 39 Malachi
-- [ ] 40 Matthew
-- [ ] 41 Mark
+- [x] 40 Matthew
+- [x] 41 Mark
 - [ ] 42 Luke
 - [ ] 43 John
 - [ ] 44 Acts
