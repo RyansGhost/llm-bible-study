@@ -16,15 +16,18 @@ God tells Hosea to marry an unfaithful woman, Gomer, so that his marriage become
 
 ## Setting
 
-- **When:** about 750–715 BC (the Lutheran Study Bible gives about 740–715 BC), from the last prosperous years of Jeroboam II to just before Assyria destroyed the northern kingdom in 722 BC (1:1).
-- **Where:** the northern kingdom of Israel, often called "Ephraim", with Samaria, Bethel and Gilgal. Judah is also addressed.
-- **Who wrote it:** Hosea son of Beeri, the only writing prophet from the northern kingdom.
+- **When:** the second half of the eighth century BC (the Lutheran Study Bible gives about 740–715 BC). Hosea began under Jeroboam II (793–753 BC), whose reign was prosperous and secure, and preached on through the chaos after it: six kings in about twenty-five years, four of them assassinated (2 Kgs 15–17). Israel swung between Egypt and Assyria for help (7:11; 12:1), and the Syro-Ephraimite war (735–732 BC) seems to lie behind 5:8–10. Samaria had not yet fallen when he spoke (13:16) (Reformation Study Bible).
+- **Where:** the northern kingdom of Israel, often called "Ephraim", with Samaria, Bethel and Gilgal. Judah is also addressed. Worship of the Lord had become mixed with the Canaanite fertility cult of Baal ("lord" or "master"), complete with ritual prostitution, and the priests went along with it (2:5–13; 4:4–14).
+- **Who wrote it:** Hosea son of Beeri, apparently a native of the north, given how well he knows its places and history. He and Amos are the only writing prophets who date their work by kings of both Israel and Judah (1:1).
 - **Where it sits:** first of the Twelve (the Minor Prophets). Timmer notes these twelve books were collected together by the 2nd century BC, though their order varies in ancient copies. Hosea was a contemporary of Amos, Isaiah and Micah.
 
 ## Structure
 
-- 1–3: Hosea's marriage as a living parable: Gomer, the children's names, and redemption
-- 4–14: Oracles applying the parable to Israel
+The Reformation Study Bible's outline:
+
+- 1:1: Heading
+- 1:2–3:5: The lesson of Hosea's family: Gomer, the children's names, and redemption. These chapters sit between prose and poetry.
+- 4–14: Hosea's message, in poetry, applying the picture to Israel
     - 4–10: charges against priests, kings and people; judgment coming
     - 11–14: God's undying love, and a final call to return
 
@@ -48,7 +51,7 @@ God tells Hosea to marry an unfaithful woman, Gomer, so that his marriage become
 ## Key people
 
 - **Hosea:** a prophet to the northern kingdom whose marriage becomes his message.
-- **Gomer:** Hosea's unfaithful wife, a picture of Israel.
+- **Gomer:** Hosea's unfaithful wife, a picture of Israel. The most natural reading is that Hosea married her knowing she would be unfaithful, as God took Israel knowing she would stray (Deut 31:16), and that she is the woman he buys back in chapter 3 (RSB).
 - **Jezreel, Lo-ruhamah and Lo-ammi:** Hosea's children, whose names announce judgment, and are later reversed in mercy (1:10–2:1; 2:23).
 - **Jeroboam II:** king of Israel when Hosea began.
 - **Ephraim:** the leading northern tribe, standing for the whole northern kingdom.
@@ -62,10 +65,11 @@ God tells Hosea to marry an unfaithful woman, Gomer, so that his marriage become
 
 ## Themes
 
-- **Spiritual adultery:** Israel's idolatry is unfaithfulness to her husband, the Lord (2; 4:12).
-- **Steadfast love (*hesed*):** God's loyal, covenant love, which he wants from his people more than sacrifices (6:6).
+- **The broken covenant:** God redeemed Israel from Egypt, called her his son, and bound himself to her at Sinai, but she broke the commandments and ran after idols (4:1–2; 9:10; 11:1–2).
+- **Spiritual adultery:** Israel's idolatry is unfaithfulness to her husband, the Lord, even "hiring lovers" (2; 4:12; 8:9). Hosea pictures God as husband and as father (11:1–4), but also as a lion, a moth and the spring rain (5:12–14; 6:3).
+- **Steadfast love (*hesed*):** God's loyal, covenant love, which he wants from his people more than sacrifices (6:6). Jesus quotes this verse twice against empty ritual (Matt 9:13; 12:7).
 - **Knowledge of God:** the people perish for lack of knowing God (4:1, 6).
-- **Judgment as covenant discipline:** Assyria will come, but God's purpose is to bring Israel back (2:14–15; 5:15).
+- **Judgment as covenant discipline:** the land will be laid waste and the people exiled to Assyria (5:9–14; 9:3), but God's purpose is to bring Israel back (2:14–15; 5:15). Paul applies the promise to call "Not My People" his people to Gentiles brought in through Christ (1:10; 2:23; Rom 9:25–26).
 - **Repentance:** Timmer notes how strongly Hosea links repentance with turning from other gods to find full life in the Lord (14:1–3).
 - **Love that won't let go:** "How can I give you up, O Ephraim?" (11:8–9).
 
@@ -108,8 +112,9 @@ Hosea buying back his faithless wife pictures Christ, who redeems an unfaithful 
 
 - Daniel C. Timmer, "The Twelve," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues (the Twelve as a collection), Message and Theology (sin, punishment, repentance and deliverance; the day of the Lord), Approaching the New Testament. Print pages to verify.
 - *The Lutheran Study Bible* (Concordia, 2009), introduction to Hosea: Overview. Lutheran source.
-- Reformation Study Bible, introduction to Hosea, p. ___ (to verify)
+- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Hosea: Title and Author, Date, Occasion, Genre and Literary Features, Characteristics and Primary Themes, Theology of Hosea, Hosea in the Larger Story of the Bible, Christ in Hosea, History of Interpretation, Special Issues, Outline. Print pages to verify.
 
 ## Changelog
 
 1. 2026-11-04: Generated initial notes with Claude Code
+2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code

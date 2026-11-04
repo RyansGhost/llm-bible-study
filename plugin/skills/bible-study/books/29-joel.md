@@ -16,17 +16,21 @@ A devastating locust plague strips Judah bare, and Joel reads it as a warning of
 
 ## Setting
 
-- **When:** uncertain. The book gives no king's name. The Lutheran Study Bible places it after Jehoshaphat's reign (9th century BC) or later; many scholars prefer after the exile.
-- **Where:** Judah and Jerusalem, with its temple, priests and elders.
-- **Who wrote it:** Joel son of Pethuel (1:1). Nothing else is known about him.
+- **When:** uncertain; the book names no king. Many scholars date it after the exile, but the Reformation Study Bible notes that the temple and its worship are still in use, which suggests a date before Judah fell. With Calvin, it concludes the date can't be known for sure. The Lutheran Study Bible places it after Jehoshaphat's reign (9th century BC) or later.
+- **Where:** Judah and Jerusalem, with its temple, priests and elders. An unprecedented locust plague has ruined the harvest and even stopped the temple offerings (1:9–13).
+- **Who wrote it:** Joel son of Pethuel (1:1), whose name means "the Lord is God". Nothing else is known about him; his interest in the temple suggests he lived in Jerusalem.
 - **Where it sits:** second of the Twelve in the Hebrew order. Timmer sees the day of the Lord as the overarching theme of the Twelve, and Joel is full of it.
 
 ## Structure
 
-- 1:1–2:17: The locust plague and the coming day of the Lord: a call to lament and repent
-- 2:18–27: God's answer: pity, and the land restored
-- 2:28–32: The Spirit poured out on all flesh
-- 3: The nations judged in the Valley of Jehoshaphat, and the Lord dwelling in Zion
+The Reformation Study Bible's outline has two halves, with the promise of the Spirit (2:28) as the hinge of the book:
+
+- 1:1: Heading
+- 1:2–2:17: Crises that demand repentance: the locust plague, and the coming day of the Lord pictured as an invading army; a call to lament, fast and return to God
+- 2:18–3:21: The covenant God's answers
+    - 2:18–27: pity, and the land restored
+    - 2:28–32: the Spirit poured out on all flesh
+    - 3: the nations judged in the Valley of Jehoshaphat, and the Lord dwelling in Zion
 
 ## Chapter by chapter
 
@@ -51,10 +55,11 @@ A devastating locust plague strips Judah bare, and Joel reads it as a warning of
 ## Themes
 
 - **The day of the Lord:** a day of darkness and judgment for the unrepentant, and salvation for those who call on God (1:15; 2:1–11, 31–32; 3:14). Timmer describes it as the "metatheme" of the Twelve.
-- **True repentance:** inward, wholehearted turning, "rend your hearts" (2:12–13). Timmer notes that repentance doesn't guarantee escape from every judgment ("who knows whether he will turn", 2:14), but it is the way back to God.
+- **True repentance:** inward, wholehearted turning, "rend your hearts" (2:12–13), shown outwardly in fasting and weeping. Everyone is called, from elders to nursing infants and newlyweds (2:15–17). Timmer notes that repentance doesn't guarantee escape from every judgment ("who knows whether he will turn", 2:14), but it is the way back to God.
 - **God's character:** "gracious and merciful, slow to anger, and abounding in steadfast love" (2:13; Ex 34:6).
+- **God rules nature and history:** the locusts are his army (2:11, 25), and his judgment and salvation alike show "that I am the Lord your God" (3:17).
 - **Restoration:** God gives back more than was lost (2:23–27).
-- **The Spirit for all God's people:** not just prophets, kings and priests, but sons and daughters, old and young, servants (2:28–29).
+- **The Spirit for all God's people:** not just prophets, kings and priests, but sons and daughters, old and young, servants (2:28–29). Peter declares it fulfilled at Pentecost (Acts 2:16–21), and Paul uses 2:32 to show that salvation is for Jew and Gentile alike (Rom 10:13).
 - **Judgment on the nations, safety in Zion:** God judges those who oppressed his people, and is a refuge for them (3:16).
 
 ## How it points to Christ
@@ -94,8 +99,9 @@ On the day of Pentecost, Peter declared that Joel's promise of the Spirit poured
 
 - Daniel C. Timmer, "The Twelve," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Message and Theology (the day of the Lord, repentance, deliverance of the remnant, the nations), Approaching the New Testament. Print pages to verify.
 - *The Lutheran Study Bible* (Concordia, 2009), introduction to Joel: Overview. Lutheran source.
-- Reformation Study Bible, introduction to Joel, p. ___ (to verify)
+- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Joel: Title and Author, Date, Occasion, Genre and Literary Features, Characteristics and Primary Themes, Theology of Joel, Joel in the Larger Story of the Bible, Christ in Joel, History of Interpretation, Outline. Print pages to verify.
 
 ## Changelog
 
 1. 2026-11-04: Generated initial notes with Claude Code
+2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code

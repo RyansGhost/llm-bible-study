@@ -16,17 +16,20 @@ Amos, a shepherd and fig farmer from Judah, is sent north to prosperous Israel t
 
 ## Setting
 
-- **When:** in the reigns of Uzziah of Judah and Jeroboam II of Israel, "two years before the earthquake" (1:1), about 760 BC (the Lutheran Study Bible gives about 792–740 BC). It was a time of peace and wealth for Israel.
-- **Where:** Amos was from Tekoa in Judah but preached in the northern kingdom, at Bethel and Samaria.
-- **Who wrote it:** Amos, who insists he was no professional prophet but a herdsman and a dresser of sycamore figs whom God called (7:14–15).
-- **Where it sits:** among the Twelve. Timmer dates Amos with Hosea to the mid-8th century, the start of the Twelve's rough chronological span.
+- **When:** in the reigns of Uzziah of Judah (792–740 BC) and Jeroboam II of Israel (793–753 BC), "two years before the earthquake" (1:1), a quake remembered centuries later (Zech 14:5); about 760 BC. It was a time of peace and wealth: Jeroboam had restored Israel's old borders, as Jonah foretold (2 Kgs 14:25), but the prosperity came with harsh oppression of the poor. Assyria's rise under Tiglath-pileser III (745–727 BC) and Samaria's fall (722 BC) were still ahead (Reformation Study Bible).
+- **Where:** Amos was from Tekoa in Judah, about five miles south of Bethlehem, but preached in the northern kingdom, at Bethel and probably Samaria (7:10–13).
+- **Who wrote it:** Amos, who insists he was no professional prophet but a herdsman and a dresser of sycamore figs whom God called (7:14–15). Yet he knew the nations' history and the covenant well.
+- **Where it sits:** among the Twelve. Timmer dates Amos with Hosea to the mid-8th century, the start of the Twelve's rough chronological span. Almost all of it is poetry: oracles, sermons and short hymns to God the Creator (4:13; 5:8–9; 9:5–6).
 
 ## Structure
 
-- 1–2: Oracles against the nations, closing in on Judah and finally Israel
-- 3–6: Messages against Israel: privilege and responsibility, oppression, empty worship, complacency
-- 7:1–9:10: Five visions of judgment, with Amos' confrontation with Amaziah
-- 9:11–15: Restoration of David's fallen booth
+The Reformation Study Bible's outline:
+
+- 1:1–2: Heading and introduction: the Lord roars from Zion
+- 1:3–2:16: Judgment on the nations: Damascus, Philistia, Tyre, Edom, Ammon, Moab and Judah, then, at greatest length, Israel. Israel's hearers would cheer until the net closed on them.
+- 3–6: Prophecies against Israel: privilege and responsibility, oppression, empty worship, ignored warnings, complacency, and exile
+- 7:1–9:10: Five visions of judgment: locusts, fire, the plumb line, summer fruit, and the Lord by the altar, with Amos' confrontation with Amaziah (7:10–17)
+- 9:11–15: Restoration: David's fallen booth rebuilt, and a land of Eden-like plenty
 
 ## Chapter by chapter
 
@@ -59,11 +62,12 @@ Amos, a shepherd and fig farmer from Judah, is sent north to prosperous Israel t
 ## Themes
 
 - **Social justice as covenant faithfulness:** God condemns oppression of the poor, bribery, cheating and exploitation (2:6–8; 5:11–12; 8:4–6).
-- **Worship without justice is hated:** God rejects feasts and songs from people who trample the needy (5:21–24).
+- **Worship without justice is hated:** God rejects feasts and songs from people who trample the needy (5:21–24). Israel kept up the rituals, even beyond what the law required (4:4–5), while practising idolatry (5:26).
+- **Ignored warnings:** famine, drought, blight, locusts, plague and defeat were God's calls to return, but each time "you did not return to me" (4:6–11).
 - **Privilege brings responsibility:** Israel's special relationship with God makes its sin worse (3:2).
 - **God's judgment on all nations:** the God of Israel holds every nation accountable for its cruelty (1–2).
 - **Seek the Lord and live:** Timmer notes how Amos ties repentance to "life" (5:4, 6, 14), and how it reaches beyond a single historical judgment.
-- **Hope for a remnant:** God will not utterly destroy Jacob, and will restore David's house (9:8, 11–15).
+- **Hope for a remnant:** God will not utterly destroy Jacob, and will restore David's house (9:8, 11–15). At the Jerusalem council, James quotes 9:11–12 to show that Gentiles coming to Christ fulfil it (Acts 15:16–17).
 
 ## How it points to Christ
 
@@ -104,8 +108,9 @@ Jesus, like Amos, confronted religious leaders who neglected "justice and mercy 
 
 - Daniel C. Timmer, "The Twelve," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Message and Theology (chronology, sin in Israel and the nations, punishment, repentance, deliverance of the remnant), Approaching the New Testament. Print pages to verify.
 - *The Lutheran Study Bible* (Concordia, 2009), introduction to Amos: Overview. Lutheran source.
-- Reformation Study Bible, introduction to Amos, p. ___ (to verify)
+- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Amos: Title and Author, Date, Occasion, Genre and Literary Features, Characteristics and Primary Themes, Theology of Amos, Amos in the Larger Story of the Bible, Christ in Amos, History of Interpretation, Outline. Print pages to verify.
 
 ## Changelog
 
 1. 2026-11-04: Generated initial notes with Claude Code
+2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code
