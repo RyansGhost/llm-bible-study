@@ -55,10 +55,10 @@ Shared source chapters (read once, used for several books): Van Pelt's "1–2 Sa
 - [x] 33 Micah
 - [x] 34 Nahum
 - [x] 35 Habakkuk
-- [ ] 36 Zephaniah
-- [ ] 37 Haggai
-- [ ] 38 Zechariah
-- [ ] 39 Malachi
+- [x] 36 Zephaniah
+- [x] 37 Haggai
+- [x] 38 Zechariah
+- [x] 39 Malachi
 
 ## New Testament
 

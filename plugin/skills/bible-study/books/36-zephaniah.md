@@ -5,56 +5,93 @@ book: 36
 testament: old
 section: "Minor Prophets"
 weight: 36
-status: placeholder
+status: draft
 ---
 
 # Zephaniah
 
 ## Sources
 
-- Reformation Study Bible, introduction to Zephaniah, p. ___
-- Ligonier: _article title_, _url_
+- Daniel C. Timmer, "The Twelve," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Message and Theology (the day of the Lord, sin and punishment, repentance, the remnant, the nations). Print pages to verify.
+- *The Lutheran Study Bible* (Concordia, 2009), introduction to Zephaniah: Overview. Lutheran source.
+- Reformation Study Bible, introduction to Zephaniah, p. ___ (to verify)
 
 ## Summary
 
-_Not written yet._ One or two sentences: what Zephaniah is about and why it matters.
+Zephaniah announces the great and terrible day of the Lord, which will sweep away the idolatry and complacency of Judah and the pride of the surrounding nations. He urges the humble to seek the Lord, so that perhaps they may be hidden on that day. Beyond judgment he sees a purified people from many nations calling on God's name, and a Lord who rejoices over his people with singing (3:17).
 
 ## Setting
 
-_Not written yet._ Where, when, who wrote it, and where it sits in the story of Scripture.
+- **When:** in the days of King Josiah of Judah (640–609 BC; 1:1), probably before or early in Josiah's reforms (622 BC), while idolatry was still widespread.
+- **Where:** Judah and Jerusalem, with oracles against Philistia, Moab, Ammon, Cush and Assyria.
+- **Who wrote it:** Zephaniah, whose family line is traced back four generations to Hezekiah (1:1), perhaps King Hezekiah. That would make him a distant relative of Josiah.
+- **Where it sits:** among the Twelve. Timmer notes its heading is similar to those of Hosea, Amos and Micah, and that Zephaniah presses repentance strongly (2:1–3).
 
 ## Structure
 
-- _Chapters_: _section_
+- 1:1–2:3: The day of the Lord against Judah, and a call to seek the Lord
+- 2:4–15: Judgment on the nations, west, east, south and north
+- 3:1–8: Woe to Jerusalem
+- 3:9–20: Restoration: purified nations, a humble remnant, God rejoicing over his people
 
 ## Chapter by chapter
 
-- **Chapter 1:** _two or three sentences_
+- **Zephaniah 1:** God will sweep away everything from the face of the earth, especially Judah's idolatry: Baal worship, star worship, and swearing by Milcom. People who say "the Lord will do neither good nor ill" will be judged. "The great day of the Lord is near": a day of wrath, distress, darkness and trumpet blast (1:14–16).
+- **Zephaniah 2:** "Seek the Lord, all you humble of the land … seek righteousness; seek humility; perhaps you may be hidden on the day of the Lord's anger" (2:3). Judgment on Philistia, Moab, Ammon, Cush and proud Nineveh.
+- **Zephaniah 3:** Woe to Jerusalem, whose officials, judges, prophets and priests are corrupt. Yet God will purify the peoples' speech so that all may call on his name. He will leave a humble remnant who take refuge in him. "The Lord your God is in your midst … he will rejoice over you with gladness … he will exult over you with loud singing" (3:17). He will gather the outcasts and restore their fortunes.
 
 ## Key people
 
-- _Name_: _one line on their role_
+- **Zephaniah:** a prophet in Josiah's reign, possibly of royal descent.
+- **Josiah:** king of Judah, who later led a great reform (2 Kgs 22–23).
+- **The humble of the land:** the faithful remnant urged to seek the Lord (2:3; 3:12).
+- **The nations:** Philistia, Moab, Ammon, Cush and Assyria.
 
 ## Key events
 
-- _Event (chapter)_: _one line_
+- The announcement of the day of the Lord (1)
+- The call to seek the Lord (2:1–3)
+- Oracles against the nations (2:4–15)
+- The promise of restoration (3:9–20)
 
 ## Themes
 
-- _Theme_: _one line, with a key verse_
+- **The day of the Lord:** the dominant theme, a day of universal judgment. Timmer calls it the "metatheme" of the Twelve. Zephaniah's description inspired the medieval hymn "Dies Irae" ("Day of Wrath").
+- **Complacency and idolatry:** God judges those who mix worship of the Lord with other gods (1:4–6), and those who think he does nothing (1:12).
+- **Seek the Lord in humility:** repentance is the only refuge (2:1–3). Timmer notes that this "perhaps" means repentance doesn't presume on God's mercy.
+- **God's judgment on proud nations:** Nineveh's pride is singled out (2:15).
+- **A purified, humble remnant:** a lowly people who trust the Lord (3:12–13).
+- **Salvation for the nations:** peoples whose speech God purifies will call on his name (3:9).
+- **God's joy over his people:** the climax is God himself rejoicing over his redeemed (3:14–17).
 
 ## How it points to Christ
 
-_Not written yet._ One or two lines, with New Testament references.
+The day of the Lord finds its fullest meaning in Christ. In his first coming he brought salvation to the humble. At his second he will judge the world in righteousness (Acts 17:31). The nations calling on the Lord's name with purified lips (3:9) began at Pentecost, when the Spirit gave the apostles words for every language (Acts 2). The God who rejoices over his people "in your midst" (3:17) comes to dwell among us in Jesus (John 1:14), and the joy of 3:14–17 echoes in heaven's rejoicing over repentant sinners (Luke 15:7, 10).
 
 ## Common mix-ups
 
-- _Things easily confused with other books_
+- Zephaniah prophesied under Josiah, before the Babylonian invasions, not after the exile.
+- The "Hezekiah" in his family line (1:1) is probably the king, but that isn't certain.
+- Zephaniah 3:17 ("he will rejoice over you with singing") is a promise of joy, while chapter 1 is one of the darkest descriptions of judgment in the Bible. Both are in the same short book.
+- Don't confuse Zephaniah with Zechariah or Zedekiah.
 
 ## Going deeper
 
-- **_Topic_:** _a question worth a longer conversation, and where the sources discuss it_
+- **The day of the Lord.** Timmer calls it a "metatheme" with many facets. Compare Zephaniah 1 with Joel 2 and Amos 5:18–20. What does it mean for God's people and for the nations?
+- **Spiritual complacency (1:12).** What does it look like to think "the Lord will do neither good nor ill"? How can that attitude creep into the church?
+- **"Perhaps you may be hidden" (2:3).** Why "perhaps"? How does this humble hope relate to the certainty of salvation in Christ?
+- **The nations at the end (3:9–10).** How does Zephaniah's vision of purified speech relate to Babel (Gen 11) and Pentecost (Acts 2)?
+- **God's song (3:17).** What does it mean that God rejoices over his people with singing? How does this shape our view of God?
 
 ## Q&A
 
-1. _Question?_ _Answer._
+1. During which king's reign did Zephaniah prophesy? Josiah's (1:1).
+2. What is the main theme of Zephaniah? The day of the Lord.
+3. How does Zephaniah describe the day of the Lord? A day of wrath, distress, ruin, darkness and trumpet blast (1:15–16).
+4. Which false gods does Zephaniah condemn? Baal, the host of heaven (star worship), and Milcom (1:4–5).
+5. What does Zephaniah tell the humble to seek? The Lord, righteousness and humility (2:3).
+6. Which proud city does Zephaniah say will become a desolation? Nineveh (2:13–15).
+7. What will God do to the peoples' speech? Purify it, so they all call on his name (3:9).
+8. What kind of remnant will God leave? A humble and lowly people who take refuge in his name (3:12).
+9. What will God do over his people, according to 3:17? Rejoice over them with gladness and exult over them with loud singing.
+10. Which medieval hymn was inspired by Zephaniah 1? "Dies Irae" ("Day of Wrath").
