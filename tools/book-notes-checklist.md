@@ -66,7 +66,7 @@ Shared source chapters (read once, used for several books): Van Pelt's "1–2 Sa
 - [x] 40 Matthew
 - [x] 41 Mark
 - [x] 42 Luke
-- [ ] 43 John
+- [x] 43 John
 
 ### History
 - [ ] 44 Acts
