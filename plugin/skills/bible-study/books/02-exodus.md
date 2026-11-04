@@ -23,19 +23,17 @@ Exodus ("departure") is the story of God keeping his promise to Abraham (Gen 15:
 
 ## Structure
 
-Currid describes Exodus as a "diptych", two panels hinged together: in Egypt Israel served Pharaoh; at Sinai they become the Lord's servants. Jethro's visit (18) is the hinge, looking back on what God has done and forward to the law (RSB).
+Currid describes Exodus as a "diptych", two panels hinged together: in Egypt Israel served Pharaoh; at Sinai they become the Lord's servants. Jethro's visit (18) is the hinge, looking back on what God has done and forward to the law (RSB). The nested sections follow the RSB:
 
 - 1–18: Israel in Egypt and the road to Sinai (mostly narrative)
-    - 1–2: slavery, and Moses' birth and flight
-    - 3–4: the burning bush and Moses' call
-    - 5–11: confrontation with Pharaoh and the ten plagues
-    - 12:1–15:21: Passover, the exodus, and the song at the sea
-    - 15:22–18:27: testing in the wilderness: manna, water, Amalek, and Jethro
+    - 1:1–15:21: God delivers his people: slavery, Moses' call, the plagues, Passover, and the sea
+    - 15:22–18:27: God leads his people through the wilderness: manna, water, Amalek, and Jethro
 - 19–40: Israel at Sinai (mostly law)
-    - 19–24: the covenant, the Ten Commandments, and the Book of the Covenant
+    - 19–24: God and Israel enter into covenant: the Ten Commandments and the Book of the Covenant
     - 25–31: the pattern for the tabernacle and its priests
-    - 32–34: the golden calf, judgment, Moses' intercession, and the covenant renewed
-    - 35–40: the tabernacle made, set up, and filled with God's glory
+    - 32–34: Israel's rebellion with the golden calf, judgment, and restoration
+    - 35–39: Israel's craftsmen make the tabernacle
+    - 40: the tabernacle set up and filled with God's glory
 
 ## Chapter by chapter
 

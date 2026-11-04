@@ -23,7 +23,7 @@ Leviticus ("about the Levites"; in Hebrew *vayikra*, "and he called") answers th
 
 ## Structure
 
-Two halves (McKelvey): how to worship the holy God, and how to live with him. Within them, the Reformation Study Bible's four parts: sacrifice (1–7), priesthood (8–10), uncleanness and its cleansing (11–16), and holiness in practice (17–27).
+McKelvey's outline has two parts: how to worship the holy God, and how to live with him. The Reformation Study Bible divides the same material into four: sacrifice (1–7), priesthood (8–10), uncleanness and its cleansing (11–16), and holiness in practice (17–27).
 
 - 1–10: Worshipping the holy God
     - 1–7: laws on sacrifice: the five offerings, and instructions for the priests
@@ -31,9 +31,7 @@ Two halves (McKelvey): how to worship the holy God, and how to live with him. Wi
 - 11–27: Living with the holy God
     - 11–15: clean and unclean: food, childbirth, skin disease, discharges
     - 16: the Day of Atonement
-    - 17–20: holiness in everyday life
-    - 21–22: holy priests
-    - 23–25: holy times, the Sabbath year and the Jubilee
+    - 17–25: laws of holiness, holy times, the Sabbath year and the Jubilee
     - 26: blessings and curses
     - 27: vows and gifts to the Lord
 

@@ -23,7 +23,7 @@ Genesis ("origin"; in Hebrew *bereshit*, "in the beginning") is the book of begi
 
 ## Structure
 
-After a prologue, Genesis is built on ten headings, "These are the generations (*toledoth*) of …", each opening a new family story (RSB; Currid). The last four set rejected lines (Ishmael, Esau) beside chosen ones (Isaac, Jacob). In three parts:
+Currid divides Genesis into three sections: creation, the early history of the world, and the patriarchs. Within them, a recurring heading, "These are the generations (*toledoth*) of …", opens each new family story; Currid counts eleven, and the Reformation Study Bible treats the two for Esau (36:1, 9) as one account, giving ten. The last four set rejected lines (Ishmael, Esau) beside chosen ones (Isaac, Jacob). The nested sections follow the RSB:
 
 - 1:1–2:3: Prologue: creation of the heavens and the earth
 - 2:4–11:26: The early history of the world, from Adam to Abraham

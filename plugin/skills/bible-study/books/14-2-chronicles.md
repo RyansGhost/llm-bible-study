@@ -23,18 +23,15 @@ status: draft
 
 ## Structure
 
-The Reformation Study Bible's three parts. Solomon's reign is arranged symmetrically, with the temple's dedication and God's answer at its centre (5:2–7:22), and his power struggle and later fall are left out. Afterwards each king is measured by the ideal of David and Solomon: faithful to the law, supporting the temple, listening to prophets and priests.
+The Reformation Study Bible's three parts (Pratt divides Chronicles the same way). Solomon's reign is arranged symmetrically, with the temple's dedication and God's answer at its centre (5:2–7:22), and his power struggle and later fall are left out. Afterwards each king is measured by the ideal of David and Solomon: faithful to the law, supporting the temple, listening to prophets and priests. The RSB subdivides by reign:
 
 - 1–9: The united kingdom under Solomon: wisdom, the temple built and dedicated, God's answer, Solomon's glory
-- 10–28: The divided kingdom, told from Judah's side
-    - 10–12: the kingdom divides; Rehoboam
-    - 13–20: Abijah, Asa and Jehoshaphat: reform and reliance on God
-    - 21–28: Jehoram to Ahaz: apostasy and decline, with Joash, Amaziah and Uzziah rising and falling
+- 10–28: The divided kingdom, told from Judah's side: Rehoboam, Abijah, Asa, Jehoshaphat, Jehoram, Ahaziah, Athaliah's usurpation, Joash, Amaziah, Uzziah, Jotham and Ahaz
 - 29–36: The reunited kingdom: Hezekiah gathers the faithful of north and south around the temple again
     - 29–32: Hezekiah: the temple cleansed, a great Passover, deliverance from Assyria
-    - 33: Manasseh's sin and repentance; Amon
+    - 33: Manasseh's sin and repentance, and Amon
     - 34–35: Josiah's reforms and Passover
-    - 36: the last kings, the exile, and Cyrus' decree
+    - 36: Josiah's successors, the exile, and Cyrus' decree
 
 ## Chapter by chapter
 

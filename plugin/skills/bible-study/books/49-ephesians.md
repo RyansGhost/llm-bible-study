@@ -23,20 +23,22 @@ Ephesians unfolds God's eternal plan to unite all things in Christ, and the chur
 
 ## Structure
 
-Chapters 1–3 set out what God has done for us in Christ; chapters 4–6 tell us how to live in response. The word "walk" links them: once we walked in sin (2:1–2), but now we walk in good works (2:10), worthily (4:1), in love (5:2), as children of light (5:8), and wisely (5:15). The subdivisions follow the Reformation Study Bible.
+Waters describes the body of the letter as two halves: the great indicatives of the gospel (1:3–3:21) and the great imperatives (4:1–6:20). The word "walk" links them: once we walked in sin (2:1–2), but now in good works (2:10), and each main division of the second half opens with a call to walk (4:1, 17; 5:2, 8, 15). The first half's sections follow the Reformation Study Bible.
 
-- 1–3: Doctrine: our riches in Christ
-    - 1:1–2: greeting
+- 1:1–2: Greeting
+- 1:3–3:21: Doctrine: our riches in Christ
     - 1:3–14: praise for every blessing in Christ: the Father chooses, the Son redeems, the Spirit seals
     - 1:15–23: prayer to know God's power in the risen Christ
     - 2:1–3:13: our position in Christ: saved by grace; Jew and Gentile made one; the mystery revealed to Paul
     - 3:14–21: prayer to know Christ's love, and praise
-- 4–6: Practice: our walk in Christ
-    - 4:1–16: unity and gifts in the body
-    - 4:17–5:21: the old self and the new; walking in love, light and wisdom
-    - 5:22–6:9: household relationships
-    - 6:10–20: our stand against the spiritual forces of evil: the armour of God
-    - 6:21–24: final greetings
+- 4:1–6:20: Practice: our walk in Christ
+    - 4:1–16: walk worthily: unity and gifts in the body
+    - 4:17–5:1: no longer walk as the Gentiles do: put off the old self, put on the new
+    - 5:2–7: walk in love
+    - 5:8–14: walk as children of light
+    - 5:15–6:9: walk wisely: filled with the Spirit, in marriage, family and work
+    - 6:10–20: stand firm in the armour of God
+- 6:21–24: Final greetings
 
 ## Chapter by chapter
 

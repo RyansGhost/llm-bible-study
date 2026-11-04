@@ -23,15 +23,13 @@ Numbers follows Israel from Mount Sinai to the edge of the promised land. The ge
 
 ## Structure
 
-Two censuses frame the book. One counts the generation that fails; the other counts the generation that will enter the land (Glodo, following Olson). Within that frame, the Reformation Study Bible's four parts: preparing for the journey, from Sinai to Moab, Balaam, and preparing to enter Canaan.
+Two censuses frame the book. One counts the generation that fails; the other counts the generation that will enter the land (Glodo, following Olson). The nested sections are the Reformation Study Bible's:
 
 - 1–25: The end of the old generation
     - 1:1–10:10: preparing for the journey: the first census, the camp, the Levites, and laws for a holy people
     - 10:11–22:1: from Sinai to the plains of Moab: complaining, the spies, rebellion, Moses' sin at Meribah, forty years of wandering
     - 22:2–25:18: Balaam, hired to curse Israel, can only bless it; then the sin at Baal-peor
-- 26–36: The birth of the new generation
-    - 26–30: the second census, Joshua appointed, and laws for life in the land
-    - 31–36: victory over Midian, the tribes east of the Jordan, the land's boundaries, and the cities of refuge
+- 26–36: The birth of the new generation, preparing to enter Canaan: the second census, Joshua appointed, laws for life in the land, victory over Midian, the tribes east of the Jordan, the land's boundaries, and the cities of refuge
 
 ## Chapter by chapter
 
