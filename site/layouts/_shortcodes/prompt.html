@@ -1,0 +1,21 @@
+{{- /* A prompt box with a "copy to clipboard" button.
+     Usage in content:  {{< prompt label="Prompt for any AI" >}} markdown {{< /prompt >}}
+     The inner markdown is shown rendered, and copied as the plain source text.
+     The button stays hidden until assets/js/copy.js runs, so it never shows
+     without JavaScript. */ -}}
+{{- $text := trim .Inner "\n\r " -}}
+<figure class="prompt">
+  <figcaption class="prompt-bar">
+    <span class="prompt-label">{{ .Get "label" | default "Prompt" }}</span>
+    <button type="button" class="prompt-copy" hidden>
+      <svg class="icon-copy" viewBox="0 0 24 24" width="16" height="16" aria-hidden="true" focusable="false"><rect x="9" y="9" width="12" height="12" rx="1.5" fill="none" stroke="currentColor" stroke-width="2"/><path d="M5 15H4a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1h10a1 1 0 0 1 1 1v1" fill="none" stroke="currentColor" stroke-width="2"/></svg>
+      <svg class="icon-check" viewBox="0 0 24 24" width="16" height="16" aria-hidden="true" focusable="false"><path d="M4 12.5l5 5L20 6.5" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      <span class="prompt-copy-text">Copy prompt</span>
+    </button>
+  </figcaption>
+  <div class="prompt-body">
+{{ $text | .Page.RenderString (dict "display" "block") }}
+  </div>
+  <textarea class="prompt-source" hidden readonly aria-hidden="true" tabindex="-1">{{ $text }}</textarea>
+  <span class="prompt-status visually-hidden" role="status" aria-live="polite"></span>
+</figure>

@@ -21,10 +21,12 @@
 <div class="wrap books" id="books">
   {{ partial "book-list.html" . }}
 </div>
-{{- /* The flip-clock script is inlined: no separate file means nothing to 404,
+{{- /* The flip-clock and copy-button scripts are inlined: no separate file means nothing to 404,
      fail an integrity check, or be blocked by URL. data-cfasync="false" stops
      Cloudflare Rocket Loader rewriting the tag. */}}
-{{- with resources.Get "js/flip.js" | minify }}
+{{- range slice "js/flip.js" "js/copy.js" }}
+{{- with resources.Get . | minify }}
 <script data-cfasync="false">{{ .Content | safeJS }}</script>
+{{- end }}
 {{- end }}
 {{ end }}

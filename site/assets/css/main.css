@@ -144,7 +144,30 @@ a:hover { color: var(--olive); }
   border: 1px solid var(--olive); color: var(--olive-dark);
   font-family: var(--font-serif); font-size: 1rem;
 }
-.home-prose blockquote { font-family: var(--font-sans); font-size: 1rem; background: var(--cream); padding: 1rem 1.25rem; }
+
+/* Prompt box with a copy button (layouts/_shortcodes/prompt.html) */
+.prompt { margin: 1.5rem 0; border: 1px solid var(--line); border-left: 3px solid var(--olive); background: var(--cream); }
+.prompt-bar {
+  display: flex; align-items: center; justify-content: space-between; gap: 0.75rem;
+  padding: 0.55rem 0.6rem 0.55rem 1.25rem; border-bottom: 1px solid var(--line);
+}
+.prompt-label { font-size: 0.75rem; font-weight: 800; letter-spacing: 0.12em; text-transform: uppercase; color: var(--muted); }
+.prompt-copy {
+  display: inline-flex; align-items: center; gap: 0.45rem; flex-shrink: 0;
+  padding: 0.5rem 0.9rem; cursor: pointer;
+  background: var(--btn-bg); color: var(--btn-fg); border: 1px solid var(--btn-bg);
+  font: inherit; font-size: 0.75rem; font-weight: 800; letter-spacing: 0.1em; text-transform: uppercase;
+}
+.prompt-copy[hidden] { display: none; }
+.prompt-copy:hover { background: var(--btn-bg-hover); border-color: var(--btn-bg-hover); }
+.prompt-copy:focus-visible { outline: 2px solid var(--btn-ghost); outline-offset: 3px; }
+.prompt-copy .icon-check, .prompt-copy.is-copied .icon-copy { display: none; }
+.prompt-copy.is-copied .icon-check { display: inline; }
+.prompt-body { padding: 0.25rem 1.25rem 0.5rem; font-size: 1rem; overflow-wrap: anywhere; }
+.prompt-body p { margin: 0.85rem 0; }
+.home-prose .prompt-body ol { list-style: decimal; padding-left: 1.4rem; }
+.home-prose .prompt-body ol > li { padding-left: 0.25rem; margin: 0.45rem 0; }
+.home-prose .prompt-body ol > li::before { content: none; }
 
 /* Book index */
 .books { padding: 3.5rem var(--gutter) 4rem; }
