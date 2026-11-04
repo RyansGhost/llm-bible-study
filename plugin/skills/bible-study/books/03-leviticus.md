@@ -12,28 +12,25 @@ status: draft
 
 ## Summary
 
-Leviticus answers a pressing question left by the end of Exodus: how can a holy God live among sinful people? He provides sacrifices to atone for sin, priests to serve, laws to separate clean from unclean, and a calendar of holy days. All of it calls Israel to "be holy, for I the Lord your God am holy" (19:2).
+Leviticus ("about the Levites"; in Hebrew *vayikra*, "and he called") answers the question left at the end of Exodus: how can a holy God live among sinful people? It is a manual for worship at the tabernacle, addressed to all Israel, not just the priests. God provides sacrifices to atone for sin, priests to serve, laws to separate clean from unclean, and a calendar of holy days. All of it calls Israel to "be holy, for I am holy" (11:45; 19:2).
 
 ## Setting
 
-- **When:** about a year after the exodus, during Israel's stay at Mount Sinai (about 1445 BC in the Lutheran Study Bible's dating).
+- **When:** about a year after the exodus, during Israel's stay at Mount Sinai (about 1445 BC in the Lutheran Study Bible's dating). It was probably written down during the wilderness years, before Moses died (Reformation Study Bible).
 - **Where:** the tabernacle in Israel's camp at the foot of Sinai.
-- **Who wrote it:** Moses. McKelvey points out that no book claims more often to be God's own words: "The Lord spoke to Moses" opens chapter after chapter. Many critical scholars assign it to a late "Priestly" source, but much recent scholarship places that material before the exile.
-- **Where it sits:** the third book of Moses, the middle of the five. It picks up straight from the end of Exodus, when God's glory fills the tabernacle (Ex 40:34; Lev 1:1), and Numbers carries on from it.
+- **Who wrote it:** Moses. McKelvey points out that no book claims more often to be God's own words: "The Lord spoke to Moses" opens chapter after chapter. Many critical scholars date it after the exile, but the RSB answers that its worship doesn't match the second temple's, and earlier books (Deuteronomy, Amos, Ezekiel) already assume or quote it.
+- **Where it sits:** the third book of Moses, the middle of the five. It is almost all speeches, with only two short stories: the priests' ordination with the deaths of Nadab and Abihu (8–10), and the blasphemer (24). It picks up straight from the end of Exodus, when God's glory fills the tabernacle (Ex 40:34; Lev 1:1), and Numbers carries on from it.
 
 ## Structure
 
-Two parts (McKelvey): how to worship the holy God, and how to live with him.
+The Reformation Study Bible's outline has four parts:
 
-- 1–10: Worshipping the holy God
-    - 1–7: the five offerings, and instructions for the priests
-    - 8–10: the ordination of Aaron and his sons, and the death of Nadab and Abihu
-- 11–27: Living with the holy God
-    - 11–15: clean and unclean
-    - 16: the Day of Atonement
-    - 17–25: laws of holiness, holy times, the Sabbath year and the Jubilee
-    - 26: blessings and curses
-    - 27: vows and gifts to the Lord
+- 1–7: Laws on sacrifice: the five offerings, and instructions for the priests
+- 8–10: The priesthood begins: Aaron and his sons ordained; Nadab and Abihu die
+- 11–16: Uncleanness and its cleansing: food, childbirth, skin disease, discharges, and the Day of Atonement (16)
+- 17–27: Holiness in practice: everyday holiness (17–20), holy priests (21–22), holy times and the Jubilee (23–25), blessings and curses (26), and vows (27)
+
+McKelvey sees two halves: worshipping the holy God (1–10) and living with him (11–27).
 
 ## Chapter by chapter
 
@@ -88,12 +85,14 @@ Two parts (McKelvey): how to worship the holy God, and how to live with him.
 
 ## Themes
 
-- **God's holiness:** the book's thesis is 19:2, "You shall be holy, for I the Lord your God am holy". McKelvey notes the Hebrew root for "holy" appears about 143 times, more than in any other Old Testament book.
+- **God's presence:** God now lives among his people in the tabernacle (26:11–12), but sin restricts access: only the high priest enters the Most Holy Place, once a year (16).
+- **God's holiness:** the book's thesis is 11:45 and 19:2, "You shall be holy, for I the Lord your God am holy". McKelvey notes the Hebrew root for "holy" appears about 143 times, more than in any other Old Testament book.
 - **Atonement by blood:** sin defiles, and blood shed on the altar cleanses and reconciles (17:11; Heb 9:22).
-- **Clean and unclean:** daily life is marked off into holy and common, clean and unclean, teaching Israel that sin and death don't belong in God's presence (10:10).
+- **Clean and unclean:** daily life is marked off into holy and common, clean and unclean (10:10). God is the source of whole, perfect life, so blemishes, disease and anything linked with death picture what can't come near him (RSB).
 - **Mediation:** priests stand between a holy God and sinful people. Luther observed that the priesthood exists only because of sin (Lutheran Study Bible).
 - **Holy time:** even Israel's week and year belong to the Lord: Sabbaths, feasts, the Day of Atonement, and the Jubilee (23; 25).
-- **Holiness reaches everyday life:** the same law that regulates sacrifice also commands honesty, justice, care for the poor and the foreigner, and love for neighbours (19).
+- **Holiness reaches everyday life:** the same law that regulates sacrifice also commands honesty, justice, care for the poor and the foreigner, and love for neighbours (19:18).
+- **What still applies:** Christians don't keep the sacrifices, food laws or purity rites, which were tied to the tabernacle and fulfilled in Christ (Mark 7:19; Heb 10). But God's moral standard is unchanged: his people must still be holy as he is holy (1 Pet 1:15–16).
 
 ## How it points to Christ
 
@@ -136,8 +135,9 @@ Jesus, untouched by uncleanness, touched lepers and made them clean (Mark 1:40�
 - Michael G. McKelvey, "Leviticus," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues, Title, Historical Context, Structure and Outline, Message and Theology (holiness, sacrifice, time), Approaching the New Testament. Print pages to verify.
 - *The Lutheran Study Bible* (Concordia, 2009), introduction to Leviticus: Overview, Luther on Leviticus, Challenges for Readers. Lutheran source.
 - Westminster Confession of Faith 19.3–5 (ceremonial, civil and moral law).
-- Reformation Study Bible, introduction to Leviticus, p. ___ (to verify)
+- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Leviticus: Title, Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of Leviticus, Leviticus in the Larger Story of the Bible, Christ in Leviticus, History of Interpretation, Special Issues, Outline. Print pages to verify.
 
 ## Changelog
 
 1. 2026-11-04: Generated initial notes with Claude Code
+2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code

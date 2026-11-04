@@ -12,25 +12,30 @@ status: draft
 
 ## Summary
 
-Genesis is the book of beginnings: of the world, of humanity, of sin, and of God's plan to save. God creates a good world, humanity falls into sin, and God at once promises a Saver, the "offspring" of the woman (3:15). He then carries that promise through Noah, Abraham, Isaac, Jacob and Joseph by covenant, keeping it alive through every family failure.
+Genesis ("origin"; in Hebrew *bereshit*, "in the beginning") is the book of beginnings: of the world, of humanity, of sin, and of God's plan to save. God makes humans to rule the earth under him, but they fall into sin, and God at once promises that the woman's "offspring" will defeat the serpent (3:15). He carries that promise through a chosen family line, Noah, Abraham, Isaac, Jacob and Joseph, by covenant and often by choosing the younger over the older, keeping it alive through every family failure. Genesis opens the long story that runs through to Kings, and sets the scene for the whole Bible.
 
 ## Setting
 
-- **When:** from creation to Joseph's death in Egypt. The events before Abraham can't be dated. The patriarchs fit the Middle Bronze Age (about 2000–1550 BC), and the Lutheran Study Bible dates Abraham's call to about 2091 BC.
+- **When:** from creation to Joseph's death in Egypt. The events before Abraham can't be dated. The patriarchs were a semi-nomadic family living around 2000 BC, and names and customs in chapters 12–50 fit that era (Reformation Study Bible). Moses probably wrote in the fifteenth century BC (RSB; the Lutheran Study Bible gives about 1446–1406 BC).
 - **Where:** Eden, Mesopotamia (Ur, Haran, Babel), Canaan (Shechem, Bethel, Hebron, Beersheba), and finally Egypt.
-- **Who wrote it:** Moses, by long Jewish and Christian tradition (Lutheran Study Bible: about 1446–1406 BC). Currid traces the modern theory that editors stitched Genesis together from several documents, and argues that the book's careful literary unity tells against it.
-- **Where it sits:** the first of the five books of Moses (the Pentateuch). It is the prologue to the exodus story and the foundation for every later doctrine of Scripture.
+- **Who wrote it:** Moses gave Genesis its substance, probably using older oral and written sources. Later inspired editors updated some place names (14:14) and added a few notes, such as the list of Edom's kings "before any king reigned over Israel" (36:31). Jesus treats the Pentateuch as Moses' (John 7:22). The RSB and Currid both reject the modern theory that Genesis was stitched together from conflicting documents (J, E, D and P).
+- **Where it sits:** the first of the five books of Moses (the Pentateuch), and the start of one continuous history running from creation to the fall of Jerusalem (Genesis–Kings). Chapters 1–11 echo, and deliberately contradict, older Near Eastern creation and flood stories such as *Enuma Elish* and *Atrahasis*.
 
 ## Structure
 
-Genesis is built around eleven headings, "These are the generations (*toledoth*) of …" (2:4; 5:1; 6:9; 10:1; 11:10, 27; 25:12, 19; 36:1, 9; 37:2). Each one opens a new family story (Currid). In three parts:
+After a prologue, Genesis is built on ten headings, "These are the generations (*toledoth*) of …", each opening a new family story (RSB; Currid). The first three accounts and the next three run in parallel, and the last four set rejected lines (Ishmael, Esau) beside chosen ones (Isaac, Jacob).
 
-- 1:1–2:3: Creation of the heavens and the earth
-- 2:4–11:26: The early history of the world, from Adam to Abraham: Eden and the fall, Cain and Abel, the flood, the nations, Babel
-- 11:27–50:26: The patriarchs:
-    - 11:27–25:18: Abraham
-    - 25:19–37:1: Isaac and Jacob
-    - 37:2–50:26: Joseph and his brothers
+- 1:1–2:3: Prologue: creation of the heavens and the earth
+- 2:4–4:26: The heavens and the earth: Eden, the fall, Cain and Abel
+- 5:1–6:8: Adam: the godly line of Seth; sin before the flood
+- 6:9–9:29: Noah: the flood and God's covenant
+- 10:1–11:9: Noah's sons: the table of nations and Babel
+- 11:10–26: Shem
+- 11:27–25:11: Terah: Abraham and God's covenant promises
+- 25:12–18: Ishmael
+- 25:19–35:29: Isaac: Jacob and Esau
+- 36:1–37:1: Esau
+- 37:2–50:26: Jacob: Joseph, Judah, and the move to Egypt
 
 Currid also reads Genesis 1–3 as the whole Bible's message in miniature: creation, fall and redemption.
 
@@ -68,12 +73,12 @@ Currid also reads Genesis 1–3 as the whole Bible's message in miniature: creat
 - **Genesis 30:** Rivalry between the sisters brings more sons through their servants. Rachel finally bears Joseph, and Jacob's flocks grow.
 - **Genesis 31:** Jacob leaves Laban secretly; Rachel steals her father's household gods. Jacob and Laban part with a covenant at Mizpah.
 - **Genesis 32:** Afraid of meeting Esau, Jacob prays and sends gifts. He wrestles with God at Peniel and is renamed Israel.
-- **Genesis 33:** Esau welcomes Jacob, and they are reconciled. Jacob settles near Shechem.
+- **Genesis 33:** Esau welcomes Jacob, and they are reconciled; Jacob presses gifts on him, as if handing back the blessing. Jacob settles near Shechem.
 - **Genesis 34:** Dinah is violated by Shechem, and her brothers Simeon and Levi take bloody revenge on the city.
 - **Genesis 35:** Jacob returns to Bethel and God renews the covenant. Rachel dies giving birth to Benjamin, and Isaac dies.
 - **Genesis 36:** The descendants of Esau, the Edomites.
 - **Genesis 37:** Joseph, Jacob's favourite son, dreams of ruling his brothers. They sell him to traders bound for Egypt.
-- **Genesis 38:** Judah wrongs his daughter-in-law Tamar, who bears twins by him, Perez and Zerah. Perez is an ancestor of David and of Jesus.
+- **Genesis 38:** Judah wrongs his daughter-in-law Tamar, who bears twins by him, Perez and Zerah. God uses even this to carry on the promised line: Perez is an ancestor of David and of Jesus, and Judah begins to change.
 - **Genesis 39:** Joseph serves Potiphar faithfully, refuses his wife, and is falsely accused and jailed. In every place "the Lord was with Joseph".
 - **Genesis 40:** In prison Joseph interprets the dreams of Pharaoh's cupbearer and baker.
 - **Genesis 41:** Joseph interprets Pharaoh's dreams of seven good years and seven years of famine, and is made ruler over Egypt.
@@ -102,8 +107,9 @@ Currid also reads Genesis 1–3 as the whole Bible's message in miniature: creat
 - **Esau:** Isaac's older son, who despises his birthright; ancestor of Edom.
 - **Jacob (Israel):** a schemer whom God chooses, renames, and makes father of the twelve tribes.
 - **Rachel and Leah:** Jacob's wives, sisters and rivals.
-- **Judah:** Jacob's son who later offers himself for Benjamin; the sceptre is promised to his tribe.
-- **Joseph:** Jacob's favourite son, sold into slavery and raised to rule Egypt, saving his family.
+- **Judah:** Jacob's son who sells Joseph, wrongs Tamar, and later offers himself as a slave in Benjamin's place; the sceptre is promised to his tribe (49:10).
+- **Tamar and Perez:** Judah's daughter-in-law and their son, through whom the royal line of David runs (38; Ruth 4:18–22).
+- **Joseph:** Jacob's favourite son, sold into slavery and raised to rule Egypt, saving his family. His son Ephraim is blessed ahead of the older Manasseh (48).
 
 ## Key events
 
@@ -125,9 +131,11 @@ Currid also reads Genesis 1–3 as the whole Bible's message in miniature: creat
 
 ## Themes
 
-- **God the Creator:** Genesis opens with God, not with the world. He speaks and it is, and everything he makes is good (1:1, 31). Currid stresses that the account is about God first.
-- **Sin and its spread:** one act of disobedience leads to shame, murder, violence, the flood and Babel (3; 4; 6:5; 11).
-- **Promise and offspring:** the "offspring" of 3:15 runs through the genealogies to Abraham's offspring (12:7; 22:18), Judah's line and David.
+- **God the Creator, above and near:** God speaks and the world is ordered, and everything he makes is good (1:1–2:3). Yet he also forms the man by hand and walks with him in the garden (2:4–3:24). The RSB notes how the two accounts show his transcendence and his closeness.
+- **Humanity as God's rulers:** made in his image to fill the earth and rule it under him (1:26–28).
+- **Sin and its spread:** one act of disobedience leads to shame, murder, revenge, violence, the flood and Babel's "anti-kingdom" (3; 4; 6:5; 11). "The intention of man's heart is evil from his youth" (8:21).
+- **Promise and offspring:** the "offspring" of 3:15 runs through the genealogies to Abraham's offspring (12:7; 22:18). By the end two royal lines stand out, Joseph's and Judah's, and Judah's wins (49:8–10), pointing to David.
+- **God's sovereign choice:** God chooses Abraham, and repeatedly the younger over the older: Isaac, Jacob, Perez, Ephraim (25:23; 48). He opens barren wombs and protects the mothers of the line (12; 20; 21).
 - **Covenant:** God binds himself to Noah, Abraham, Isaac and Jacob, initiating and guaranteeing each covenant himself (6:18; 9:9; 15; 17; 26:3–5; 28:13–15).
 - **Faith and righteousness:** Abraham believes God, and it is counted to him as righteousness (15:6). Luther called Genesis an "exceedingly evangelical" book, full of examples of faith and unbelief (Lutheran Study Bible).
 - **God's providence through human sin:** barren wives, family deceit and Joseph's slavery all serve God's plan: "God meant it for good" (50:20).
@@ -177,8 +185,9 @@ Joseph, rejected by his brothers and raised to save many lives, is a pattern of 
 - John D. Currid, "Genesis," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues, Literary Analysis, Structure and Outline, Message and Theology, Centrality of the Covenant, Approaching the New Testament. Print pages to verify.
 - *The Lutheran Study Bible* (Concordia, 2009), introduction to Genesis: Overview, Luther on Genesis, Challenges for Readers, Genesis and Theories of Evolution, Outline. Lutheran source.
 - Westminster Confession of Faith 4.1 (creation) and 7.1–3 (the covenants).
-- Reformation Study Bible, introduction to Genesis, p. ___ (to verify)
+- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Genesis: Title, Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of Genesis, Genesis in the Larger Story of the Bible, Christ in Genesis, History of Interpretation, Special Issues, Outline. Print pages to verify.
 
 ## Changelog
 
 1. 2026-11-04: Generated initial notes with Claude Code
+2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code

@@ -12,30 +12,26 @@ status: draft
 
 ## Summary
 
-Exodus is the story of God keeping his promise to Abraham (Gen 15:13–14). He rescues Abraham's enslaved descendants from Egypt by mighty acts of judgment and brings them to Mount Sinai. There he binds them to himself by covenant, gives them his law, and comes to live among them in the tabernacle.
+Exodus ("departure") is the story of God keeping his promise to Abraham (Gen 15:13–14). It has three movements: God rescues Abraham's enslaved descendants from Egypt by mighty acts of judgment; at Mount Sinai he binds them to himself by covenant and gives them his law; and he comes to live among them in the tabernacle. Through it all God makes himself known, to Israel and to a Pharaoh who said, "Who is the Lord?" (5:2), and Moses stands between God and the people as mediator.
 
 ## Setting
 
-- **When:** after more than four hundred years in Egypt. The traditional date for the exodus is about 1446 BC (from 1 Kgs 6:1); many critical scholars prefer about 1260 BC (Lutheran Study Bible, Challenges for Readers).
-- **Where:** Egypt (Goshen), Midian, the Red Sea, the wilderness, and Mount Sinai (also called Horeb).
-- **Who wrote it:** Moses, by Jewish and Christian tradition (Lutheran Study Bible). Currid shows the author knew Egyptian life and religion closely, as someone raised in Pharaoh's court would.
-- **Where it sits:** the second book of Moses. It picks up where Genesis ends, "in Egypt", and its Hebrew title comes from its opening words, "These are the names".
+- **When:** after 430 years in Egypt (12:40–41). The Reformation Study Bible dates the exodus to about 1447 BC, 480 years before Solomon began the temple (1 Kgs 6:1; compare Judg 11:26). On that dating, the "new king who did not know Joseph" (1:8) was probably Ahmose I, who drove the Hyksos out of Egypt, and the Pharaoh of the exodus was Thutmose III. Many scholars prefer a date around 1270 BC under Rameses II, but the RSB notes that recent finds in Transjordan and at Jericho have weakened that case.
+- **Where:** Egypt (Goshen and the store city Rameses), Midian, the sea crossing (perhaps at one of the Bitter Lakes), the wilderness of Sinai, and Mount Sinai (Horeb), traditionally Jebel Musa.
+- **Who wrote it:** Moses, between the exodus and his death about 1406 BC (RSB). The book records Moses writing things down (17:14; 24:4; 34:28), and Jesus calls it "the book of Moses" (Mark 12:26). Currid shows the author knew Egyptian life and religion closely, as someone raised in Pharaoh's court would.
+- **Where it sits:** the second book of Moses, continuing the history that runs from Genesis to Kings. It picks up where Genesis ends, "in Egypt", and its Hebrew title comes from its opening words, "These are the names".
 
 ## Structure
 
-Currid describes Exodus as a "diptych", two panels hinged together. In Egypt Israel served Pharaoh; at Sinai they become the Lord's servants.
+Exodus falls into two halves, with Jethro's visit (18) as the hinge: he looks back on what God has done and forward to the law Israel will live by (RSB). Currid calls it a "diptych": in Egypt Israel served Pharaoh; at Sinai they become the Lord's servants. The RSB outline:
 
-- 1–18: Israel in Egypt and the road to Sinai (mostly narrative)
-    - 1–2: slavery, and Moses' birth and flight
-    - 3–4: the burning bush and Moses' call
-    - 5–11: confrontation with Pharaoh and the ten plagues
-    - 12–15: Passover, the exodus, and the crossing of the sea
-    - 16–18: the wilderness: manna, water, Amalek, Jethro
-- 19–40: Israel at Sinai (mostly law)
-    - 19–24: the covenant, the Ten Commandments, and the Book of the Covenant
-    - 25–31: instructions for the tabernacle and the priesthood
-    - 32–34: the golden calf, Moses' intercession, and the covenant renewed
-    - 35–40: the tabernacle built and filled with God's glory
+- 1:1–15:21: God delivers his people: slavery, Moses' call, the plagues, Passover, and the sea
+- 15:22–18:27: God leads his people: testing in the wilderness, manna, water, Amalek, Jethro
+- 19–24: God and Israel enter into covenant: the Ten Commandments and the Book of the Covenant
+- 25–31: God shows the pattern for the tabernacle and its priests
+- 32–34: Israel's rebellion with the golden calf, judgment, and restoration
+- 35–39: Israel's craftsmen make the tabernacle
+- 40: The tabernacle is set up and filled with God's glory
 
 ## Chapter by chapter
 
@@ -100,6 +96,7 @@ Currid describes Exodus as a "diptych", two panels hinged together. In Egypt Isr
 - The first Passover (12)
 - Crossing the Red Sea (14)
 - Manna, and water from the rock (16–17)
+- Jethro's visit and the appointing of judges (18)
 - The Ten Commandments at Sinai (20)
 - The covenant sealed with blood (24)
 - Instructions for the tabernacle (25–31)
@@ -113,9 +110,11 @@ Currid describes Exodus as a "diptych", two panels hinged together. In Egypt Isr
 - **Redemption:** God brings his people out of slavery "with an outstretched arm and with great acts of judgment" (6:6), and the exodus becomes the pattern for all later salvation.
 - **The Lord against the gods of Egypt:** the plagues are a contest over who is the one true God (12:12). Currid shows how each one strikes something Egypt worshipped, from the Nile to the sun.
 - **God's sovereignty and the hardened heart:** both God and Pharaoh are said to harden Pharaoh's heart (4:21; 8:15; 9:12), so that God's power is shown (9:16; Rom 9:17).
-- **Covenant and law:** saved first, then given the law: "I am the Lord your God, who brought you out … You shall have no other gods" (20:2–3).
+- **God makes himself known:** the plagues, the sea and Sinai all show who the Lord is, to Israel and to Egypt (6:7; 7:5; 14:4). He moves from a distant God to one who lives among his people (RSB).
+- **Covenant and law:** saved first, then given the law: "I am the Lord your God, who brought you out … You shall have no other gods" (20:2–3). The RSB notes the covenant follows the shape of second-millennium treaties (preamble, obligations, ratification, copies kept in the sanctuary), and its case laws value human life above property, unlike other ancient codes.
 - **God dwelling with his people:** the tabernacle is the place where the holy God lives among sinners (25:8; 40:34).
-- **Idolatry and intercession:** the golden calf breaks the covenant almost at once, and Moses' pleading shows the need for a mediator.
+- **Moses the mediator:** God judges Egypt, rescues Israel, speaks his law and feeds his people through Moses, who also pleads for them after the golden calf (32–34). This prepares for Christ, the mediator of a better covenant.
+- **Holiness and grace:** after the golden calf, God proclaims himself merciful and gracious, slow to anger, abounding in steadfast love, yet not clearing the guilty (34:6–7), one of the Old Testament's central statements about who God is.
 
 ## How it points to Christ
 
@@ -160,8 +159,9 @@ The tabernacle, God living among his people, is fulfilled when the Word "dwelt" 
 - John D. Currid, "Exodus," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues, Structure and Outline, Message and Theology (the plagues, the hardening of Pharaoh's heart, the law, the tabernacle, the golden calf). Print pages to verify.
 - *The Lutheran Study Bible* (Concordia, 2009), introduction to Exodus: Overview, Luther on Exodus, Challenges for Readers, Outline. Lutheran source.
 - Westminster Confession of Faith 19 (the law of God) and Westminster Shorter Catechism Q41–81 (the Ten Commandments).
-- Reformation Study Bible, introduction to Exodus, p. ___ (to verify)
+- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Exodus: Title, Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of Exodus, Exodus in the Larger Story of the Bible, Christ in Exodus, History of Interpretation, Special Issues, Outline. Print pages to verify.
 
 ## Changelog
 
 1. 2026-11-04: Generated initial notes with Claude Code
+2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code

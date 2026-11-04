@@ -12,26 +12,25 @@ status: draft
 
 ## Summary
 
-Numbers follows Israel from Mount Sinai to the edge of the promised land. The generation God rescued from Egypt refuses to trust him and dies in the wilderness over forty years. God stays faithful, though, and brings their children to the plains of Moab ready to enter Canaan.
+Numbers follows Israel from Mount Sinai to the edge of the promised land. The generation God rescued from Egypt refuses to trust him and dies in the wilderness over forty years; even Moses sins and may not enter. God stays faithful, though, and brings their children to the plains of Moab ready to enter Canaan. The book was likely written to warn that new generation to trust and obey where their parents had failed, and Paul uses it the same way for Christians (1 Cor 10:1–13).
 
 ## Setting
 
-- **When:** from the second year after the exodus to the fortieth (about 1445–1406 BC in the Lutheran Study Bible's dating).
+- **When:** from the second year after the exodus to the fortieth (about 1445–1406 BC in the Lutheran Study Bible's dating). Moses probably wrote it near the end of the wilderness years, before his death (Reformation Study Bible).
 - **Where:** the wilderness of Sinai, Kadesh in the wilderness of Zin and Paran, the journey around Edom, and finally the plains of Moab across the Jordan from Jericho.
-- **Who wrote it:** Moses, who is said to have recorded the journey (33:2). "The Lord spoke to Moses" appears more than forty times. Glodo argues it was written for the second generation on the plains of Moab, before Deuteronomy.
-- **Where it sits:** the fourth book of Moses. Its English title comes from the two censuses; its Hebrew title, "In the wilderness", names its setting.
+- **Who wrote it:** Moses, who is said to have recorded the journey (33:2). "The Lord spoke to Moses" appears more than forty times. A few notes may have been added after his death, such as the remark that Moses was the meekest man on earth (12:3) (RSB). Glodo argues it was written for the second generation on the plains of Moab, before Deuteronomy.
+- **Where it sits:** the fourth book of Moses. Its Hebrew title, *Bemidbar*, "in the wilderness", names its setting; the English title comes from the Greek *Arithmoi*, "numbers", after the two censuses.
 
 ## Structure
 
-Two censuses frame the book. One counts the generation that fails; the other counts the generation that will enter the land (Glodo, following Olson):
+The Reformation Study Bible's outline has four parts. The first and last each open with a census and prepare for the land; the middle two explain why the first generation died, and how God still meant to bless Israel.
 
-- 1–25: The end of the old generation
-    - 1–10: the army counted, consecrated and set out from Sinai
-    - 11–20: complaining, rebellion, and judgment in the wilderness
-    - 21–25: first victories, Balaam's oracles, and the sin at Baal-peor
-- 26–36: The birth of the new generation
-    - 26–30: the second census, Joshua appointed, laws for life in the land
-    - 31–36: victory over Midian, the tribes east of the Jordan, the land's boundaries, and the cities of refuge
+- 1:1–10:10: Preparing for the journey: the first census, the camp, the Levites, and laws for a holy people
+- 10:11–22:1: From Sinai to the plains of Moab: complaining, the spies, rebellion, Moses' sin at Meribah, forty years of wandering
+- 22:2–25:18: Balaam: hired to curse Israel, he can only bless it; then the sin at Baal-peor
+- 26–36: Preparing to enter Canaan: the second census, Joshua appointed, offerings, Midian, the land's boundaries, and cities of refuge
+
+Glodo, following Olson, frames the same material as the end of the old generation (1–25) and the birth of the new (26–36).
 
 ## Chapter by chapter
 
@@ -104,6 +103,8 @@ Two censuses frame the book. One counts the generation that fails; the other cou
 
 - **Unbelief and its cost:** the generation that saw the plagues and the sea refuses to trust God at Kadesh, and dies in the wilderness (14:11, 22–23).
 - **God's faithfulness despite his people:** they grumble again and again, yet God keeps feeding, guiding and protecting them, and brings the next generation to the border.
+- **Judged under the covenant:** the complaints about food and water echo Exodus, but now they are punished (compare Ex 16 with Num 11). Having sworn the covenant at Sinai, Israel is held to its terms (RSB).
+- **Even the best fall short:** Moses himself is shut out of the land after Meribah (20:12), a reminder that all are saved by grace, not by their own record.
 - **God's presence among his people:** the cloud over the tabernacle sets every move (9:15–23). The camp is ordered around God's dwelling, with the Levites guarding it.
 - **Holy war and holiness:** Glodo shows the censuses are preparation for war, and the army must be holy because God marches with it (5:1–4; 10:35).
 - **Intercession:** Moses and Aaron repeatedly stand between God's judgment and the people (14:13–19; 16:46–48).
@@ -151,8 +152,9 @@ The ashes of the red heifer cleansed the body; Christ's blood cleanses the consc
 
 - Michael J. Glodo, "Numbers," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues, Authorship, Date and Audience, Structure and Outline, Message and Theology. Print pages to verify.
 - *The Lutheran Study Bible* (Concordia, 2009), introduction to Numbers: Overview, Luther on Numbers, Challenges for Readers. Lutheran source.
-- Reformation Study Bible, introduction to Numbers, p. ___ (to verify)
+- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Numbers: Title, Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of Numbers, Numbers in the Larger Story of the Bible, Christ in Numbers, History of Interpretation, Special Issues, Outline. Print pages to verify.
 
 ## Changelog
 
 1. 2026-11-04: Generated initial notes with Claude Code
+2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code
