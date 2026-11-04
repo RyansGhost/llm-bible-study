@@ -28,8 +28,8 @@ Shared source chapters (read once, used for several books): Van Pelt's "1–2 Sa
 - [x] 12 2 Kings
 - [x] 13 1 Chronicles
 - [x] 14 2 Chronicles
-- [ ] 15 Ezra
-- [ ] 16 Nehemiah
+- [x] 15 Ezra
+- [x] 16 Nehemiah
 - [ ] 17 Esther
 
 ### Wisdom and Poetry
