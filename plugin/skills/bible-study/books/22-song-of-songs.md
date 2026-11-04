@@ -1,6 +1,6 @@
 ---
-title: "Song of Songs"
-description: "Song of Songs: key people, events, themes, and how it points to Christ"
+title: "Song of Solomon"
+description: "Song of Solomon: key people, events, themes, and how it points to Christ"
 book: 22
 testament: old
 section: "Wisdom and Poetry"
@@ -8,16 +8,16 @@ weight: 22
 status: placeholder
 ---
 
-# Song of Songs
+# Song of Solomon
 
 ## Sources
 
-- Reformation Study Bible, introduction to Song of Songs, p. ___
+- Reformation Study Bible, introduction to Song of Solomon, p. ___
 - Ligonier: _article title_, _url_
 
 ## Summary
 
-_Not written yet._ One or two sentences: what Song of Songs is about and why it matters.
+_Not written yet._ One or two sentences: what Song of Solomon (also called the Song of Songs) is about and why it matters.
 
 ## Setting
 
@@ -26,6 +26,10 @@ _Not written yet._ Where, when, who wrote it, and where it sits in the story of 
 ## Structure
 
 - _Chapters_: _section_
+
+## Chapter by chapter
+
+- **Chapter 1:** _two or three sentences_
 
 ## Key people
 
@@ -46,6 +50,10 @@ _Not written yet._ One or two lines, with New Testament references.
 ## Common mix-ups
 
 - _Things easily confused with other books_
+
+## Going deeper
+
+- **_Topic_:** _a question worth a longer conversation, and where the sources discuss it_
 
 ## Q&A
 

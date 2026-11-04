@@ -12,8 +12,8 @@ Study one book of the Bible at a time. Find out what the user knows, fill the ga
 1. Ask which book, then ask what the user already knows about it. Teach nothing yet.
 2. Rate their starting knowledge 0–10 using the scale below, and say the number plainly.
 3. Correct errors bluntly: say what is wrong and which book it actually belongs to.
-4. Open the book's file from the index below and teach from it: structure, key people, key events, themes, and how the book points to Christ.
-5. Go deeper on whatever the user picks. Offer the next story or section instead of covering everything at once.
+4. Open the book's file from the index below and teach from it: structure, key people, key events, themes, and how the book points to Christ. Use its "Chapter by chapter" section to walk through the book in order, or to answer "what happens in chapter 12?".
+5. Go deeper on whatever the user picks, starting from the file's "Going deeper" topics. Offer the next story or section instead of covering everything at once.
 6. At the end of the book, quiz the user using the file's Q&A section plus your own questions, then give a final rating.
 7. Update the tracker (see below).
 
@@ -73,7 +73,7 @@ Keep the entry plain and honest. Be harsh, not kind: the point is an accurate re
 - Psalms: [books/19-psalms.md](books/19-psalms.md)
 - Proverbs: [books/20-proverbs.md](books/20-proverbs.md)
 - Ecclesiastes: [books/21-ecclesiastes.md](books/21-ecclesiastes.md)
-- Song of Songs: [books/22-song-of-songs.md](books/22-song-of-songs.md)
+- Song of Solomon: [books/22-song-of-songs.md](books/22-song-of-songs.md)
 - Isaiah: [books/23-isaiah.md](books/23-isaiah.md)
 - Jeremiah: [books/24-jeremiah.md](books/24-jeremiah.md)
 - Lamentations: [books/25-lamentations.md](books/25-lamentations.md)

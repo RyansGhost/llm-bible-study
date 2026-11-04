@@ -27,6 +27,10 @@ _Not written yet._ Where, when, who wrote it, and where it sits in the story of 
 
 - _Chapters_: _section_
 
+## Chapter by chapter
+
+- **Chapter 1:** _two or three sentences_
+
 ## Key people
 
 - _Name_: _one line on their role_
@@ -46,6 +50,10 @@ _Not written yet._ One or two lines, with New Testament references.
 ## Common mix-ups
 
 - _Things easily confused with other books_
+
+## Going deeper
+
+- **_Topic_:** _a question worth a longer conversation, and where the sources discuss it_
 
 ## Q&A
 

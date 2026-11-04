@@ -36,6 +36,12 @@ For every indexed work this shows:
 Then read and search:
 
 ```bash
+python3 tools/epub_index.py digest joshua
+```
+
+`digest` prints each work's introduction to the book (background, structure, theology, and a study Bible's overview and outline) without the Scripture text, so it can be read in one pass.
+
+```bash
 python3 tools/epub_index.py toc WORK
 ```
 
@@ -51,7 +57,7 @@ python3 tools/epub_index.py search "scarlet cord"
 
 ## 3. Write the note
 
-Fill in the book file's template headings: Sources, Summary, Setting, Structure, Key people, Key events, Themes, How it points to Christ, Common mix-ups, and Q&A. Follow `plugin/skills/bible-study/sources.md`:
+Fill in the book file's template headings: Sources, Summary, Setting, Structure, Chapter by chapter, Key people, Key events, Themes, How it points to Christ, Common mix-ups, Going deeper, and Q&A. Follow `plugin/skills/bible-study/sources.md`:
 
 - **Own words.** Summarise; never copy study Bible introductions or notes. Quote only short phrases, in quotation marks, with the author named.
 - **Source order.** Scripture first, then the confessions, study Bibles, and commentaries. Every key event and theme gets chapter and verse.

@@ -7,6 +7,7 @@ Standard library only. EPUBs and indexes are git-ignored: never commit them.
     python3 tools/epub_index.py list                      # indexed works
     python3 tools/epub_index.py toc WORK                  # a work's sections
     python3 tools/epub_index.py book genesis              # where each work covers a Bible book
+    python3 tools/epub_index.py digest genesis            # each work's introduction to it, for drafting
     python3 tools/epub_index.py search "scarlet cord"     # full-text search
     python3 tools/epub_index.py show WORK:SECTION         # print one section
 
@@ -640,6 +641,45 @@ def cmd_book(args):
         print()
 
 
+CHAPTER_HEADING_RE = re.compile(r"^\S.*\s\d{1,3}\W*$")  # "Genesis 1", "Ruth 2\u2020"
+SKIP_HEADING_RE = re.compile(r"bibliography|scripture index|general index|textual notes|study notes", re.IGNORECASE)
+
+
+def cmd_digest(args):
+    """Print each work's introduction to a Bible book, capped per section, for drafting its notes."""
+    slug = slug_for_name(args.book) or args.book.lower().replace(" ", "-")
+    if slug not in BOOK_BY_SLUG:
+        sys.exit(f"Unknown Bible book '{args.book}'.")
+    for w, meta in load_works(args.index).items():
+        refs = json.loads((Path(args.index) / w / "refs.json").read_text()).get(slug)
+        if not refs or not refs["heading_sections"]:
+            continue
+        sections = load_sections(args.index, w)
+        by_id = {s["id"]: s for s in sections}
+        study_bible = any(any(p.endswith("Study Notes") for p in s["path"]) for s in sections[:: max(1, len(sections) // 400)])
+        hs = refs["heading_sections"]
+        if len(hs) >= 0.6 * len(sections):
+            continue  # a whole work about one book: use toc/show instead
+        chosen = []
+        for sid in hs:
+            s = by_id[sid]
+            if any(SKIP_HEADING_RE.search(p) for p in s["path"]):
+                continue
+            if study_bible and any(CHAPTER_HEADING_RE.match(p) for p in s["path"][1:]):
+                break  # a study Bible's introduction ends where the Scripture text begins
+            chosen.append(s)
+        if not chosen:
+            continue
+        print(f"\n######## {meta['title']} ({', '.join(meta['creators'])}) [{w}]")
+        for s in chosen:
+            words = s["text"].split()
+            print(f"\n## {' > '.join(s['path'])}  [{w}:{s['id']}]")
+            text = " ".join(words[: args.max_words])
+            print(textwrap.fill(text, width=160))
+            if len(words) > args.max_words:
+                print(f"[... {len(words) - args.max_words} more words: show {w}:{s['id']}]")
+
+
 def cmd_search(args):
     pattern = re.compile(args.query if args.regex else re.escape(args.query), re.IGNORECASE)
     works = [resolve_work(args.index, args.work)] if args.work else list(load_works(args.index))
@@ -687,6 +727,10 @@ def main(argv=None):
     p.add_argument("book")
     p.add_argument("--limit", type=int, default=12)
     p.set_defaults(func=cmd_book)
+    p = sub.add_parser("digest", help="each work's introduction to a Bible book, for drafting")
+    p.add_argument("book")
+    p.add_argument("--max-words", type=int, default=600)
+    p.set_defaults(func=cmd_digest)
     p = sub.add_parser("search", help="full-text search across works")
     p.add_argument("query")
     p.add_argument("--work")
