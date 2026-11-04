@@ -16,7 +16,7 @@ The Song of Solomon (in Hebrew, the Song of Songs, "the very best song") is a co
 
 ## Setting
 
-- **When:** traditionally Solomon's reign (about 970–930 BC). Van Pelt notes two options: Solomon wrote it in the 10th century BC, or an unknown author wrote it between the 10th and 5th centuries BC. The mention of Tirzah (6:4) has been taken as a sign of an early date, but it may simply be used for its meaning, "pleasant" (Reformation Study Bible).
+- **When:** traditionally Solomon's reign (about 970–930 BC). Van Pelt notes two options: Solomon wrote it in the 10th century BC, or an unknown author wrote it between the 10th and 5th centuries BC. The mention of Tirzah (6:4) has been taken as a sign of an early date, but it may simply be used for its meaning, "pleasant" (Reformation Study Bible). The Reformation Heritage KJV Study Bible (RH) takes it as written by Solomon: pairing Jerusalem with Tirzah, later the rival northern capital, and the warm references to northern places (Carmel, Sharon, Hermon) fit the time before the kingdom split.
 - **Where:** Jerusalem and the countryside of Israel: vineyards, gardens, Lebanon, Engedi, Sharon.
 - **Who wrote it:** the heading reads "The Song of Songs, which is Solomon's" (1:1). That can mean written by, dedicated to, or associated with Solomon, who composed over a thousand songs (1 Kgs 4:32). Jewish and Christian tradition holds Solomon wrote it.
 - **Where it sits:** among the Writings and the wisdom books (Van Pelt). In Jewish tradition it is the first of the five festival scrolls, read at Passover. It has no narrow occasion or audience: it speaks to every time.
@@ -73,13 +73,13 @@ The Song is poetry, not a straightforward story, but it includes:
 - **Exclusive belonging:** "My beloved is mine, and I am his" (2:16; 6:3; 7:10).
 - **Love can't be bought:** wealth can't purchase true love (8:7), and the woman refuses Solomon's vineyard for her own (8:11–12).
 - **Wisdom for life:** Van Pelt reads the Song as wisdom teaching, showing how to make good decisions about love in God's world.
-- **Allegory or love poetry?** For most of history Jews and Christians, including many Reformers and Puritans, read the Song as an allegory of God (or Christ) and his people. Most interpreters now read it first as love poetry. The RSB holds both together: it is about human love, and because Scripture uses marriage to picture God and his people (Hos 1–3; Eph 5:25–32), it is also a window on Christ's love for his church.
+- **Allegory or love poetry?** For most of history Jews and Christians, including many Reformers and Puritans, read the Song as an allegory of God (or Christ) and his people. Most interpreters now read it first as love poetry. The RSB holds both together: it is about human love, and because Scripture uses marriage to picture God and his people (Hos 1–3; Eph 5:25–32), it is also a window on Christ's love for his church. RH defends the traditional reading as primary, naming the theme as the union and communion of Christ and his church. Its reasons: Jesus taught that all the Old Testament speaks of him (Luke 24:27, 44); "song of songs" means the greatest song; Solomon, "peace", is a type of Christ; Psalm 45 is a royal love song applied to Christ (Heb 1:8–9); and Christ knocking at the door (Rev 3:20) may echo 5:2. It warns against fanciful readings not rooted in the text.
 
 ## How it points to Christ
 
 Scripture uses marriage to picture God's covenant love for his people (Isa 54:5; Hos 2:19–20). Paul says marriage is ultimately about Christ and the church (Eph 5:25–32). So even read as a song about human love, the Song points beyond itself to the greater love of the Bridegroom for his bride, a love truly "strong as death", which went to the cross (John 15:13) and ends in the marriage supper of the Lamb (Rev 19:7–9).
 
-Much of the church's history, including many Puritans, read the Song directly as an allegory of Christ and his church. Van Pelt takes a different approach: the Song is first wisdom about human love and marriage, and the gospel connection runs through marriage itself as God designed it.
+Much of the church's history, including many Puritans, read the Song directly as an allegory of Christ and his church. RH reads the bride's longing, her lapses and her renewed seeking (5:2–8) as the believer's experience of communion with Christ, and notes that the Song ends, as the Bible does, with a cry for the Beloved to come quickly (8:14; Rev 22:20). Van Pelt takes a different approach: the Song is first wisdom about human love and marriage, and the gospel connection runs through marriage itself as God designed it.
 
 ## Common mix-ups
 
@@ -149,6 +149,7 @@ Much of the church's history, including many Puritans, read the Song directly as
 
 - Miles V. Van Pelt, "Song of Songs," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues (authorship and date, genre, proposed setting), Structure and Outline, Message and Theology (interpretation, message, a summary of the Song's content).
 - *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Song of Solomon: Title, Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of the Song of Solomon, The Song of Solomon in the Larger Story of the Bible, Christ in the Song of Solomon, History of Interpretation, Outline.
+- *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to Song of Solomon: Authorship, Date, Theme, Purpose, Synopsis, Special Problems of Interpretation, Outline; chapter summaries.
 
 ## Changelog
 

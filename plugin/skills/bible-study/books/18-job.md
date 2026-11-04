@@ -16,7 +16,7 @@ Job is about a righteous man who loses everything and wrestles with God over why
 
 ## Setting
 
-- **When:** the events seem to belong to the age of the patriarchs (about 2000–1700 BC). Belcher points to wealth counted in livestock, Job offering sacrifices as head of his family, and his long life of 140 years. The date of writing is unknown: the Reformation Study Bible places the author after 1500 BC, perhaps as late as Solomon's time, when wisdom writing flourished. Ezekiel's mention of Job (Ezek 14:14, 20) and copies among the Dead Sea Scrolls rule out a very late date.
+- **When:** the events seem to belong to the age of the patriarchs (about 2000–1700 BC). Belcher points to wealth counted in livestock, Job offering sacrifices as head of his family, and his long life of 140 years. The date of writing is unknown: the Reformation Study Bible places the author after 1500 BC, perhaps as late as Solomon's time, when wisdom writing flourished. Ezekiel's mention of Job (Ezek 14:14, 20) and copies among the Dead Sea Scrolls rule out a very late date. The Reformation Heritage KJV Study Bible (RH) sets the events even earlier, about 2500–2000 BC, noting how often God is called "the Almighty" (*Shaddai*), the name linked with the patriarchs (Ex 6:3). It suggests Solomon's reign, the high point of wisdom writing, as a likely time of writing, perhaps by Solomon himself.
 - **Where:** the land of Uz, east of Canaan, probably around Edom or north Arabia. Job is not an Israelite, and the book never mentions the law of Moses.
 - **Who wrote it:** unknown. Not Job himself, the RSB argues: if he had known about the scene in heaven, the whole debate would have been pointless. The author was an Israelite poet, since the narrator uses God's covenant name, the LORD, while Job and his friends almost never do; he probably drew on older sources from Job's time. The Lutheran Study Bible suggests Job or someone of his time.
 - **Where it sits:** the first of the Wisdom and Poetry books. Belcher compares it with Egyptian and Babylonian texts about the suffering of the righteous, and notes how differently Job answers. Its poetry blends lawsuit, lament and debate, and its Hebrew is among the hardest in the Bible.
@@ -33,6 +33,8 @@ Belcher's outline. The prologue and epilogue are prose; everything between is po
 - 32–37: Elihu's speeches
 - 38:1–42:6: God's speeches from the whirlwind, and Job's response
 - 42:7–17: Epilogue: the friends rebuked and Job restored
+
+RH reads the book as built in matching layers around the wisdom poem of chapter 28: prose at both ends, Job's lament (3) balanced by his confession (42:1–6), and three rounds of dialogue balanced by three sets of speeches (Job, Elihu, the Lord). At the centre stands "the fear of the Lord, that is wisdom" (28:28).
 
 ## Chapter by chapter
 
@@ -115,9 +117,9 @@ Job is mostly speeches, so these are short summaries of each speaker's argument.
 
 ## How it points to Christ
 
-Job's cries for someone to stand between him and God (9:33), a witness in heaven to plead for him (16:19–21), and a living Redeemer he will see in his flesh (19:25–27) are answered in Jesus. He is the one mediator between God and humanity (1 Tim 2:5), our advocate with the Father (1 John 2:1), and the risen Redeemer whose resurrection guarantees ours.
+Job's cries for someone to stand between him and God (9:33), a witness in heaven to plead for him (16:19–21), and a living Redeemer he will see in his flesh (19:25–27) are answered in Jesus. Job also asks God to be his "surety" (17:3, KJV), and Elihu speaks of a mediator who finds a ransom so that a sinner is spared from death (33:23–28) (RH). He is the one mediator between God and humanity (1 Tim 2:5), our advocate with the Father (1 John 2:1), and the risen Redeemer whose resurrection guarantees ours.
 
-Job is a righteous sufferer, though not sinless. Christ is the truly innocent sufferer, who endured far more and entrusted himself to God (1 Pet 2:22–23). As Job prays for the friends who wronged him (42:8–10), Christ intercedes for sinners. Satan the accuser, active in Job's story, is finally thrown down by the Lamb (Rev 12:10–11).
+Job is a righteous sufferer, though not sinless. Christ is the truly innocent sufferer, who endured far more and entrusted himself to God (1 Pet 2:22–23). As Job prays for the friends who wronged him (42:8–10), Christ intercedes for sinners. Job's path, humbled while God seemed hidden and then raised up, follows the shape of Christ's suffering and glory (RH). Satan the accuser, active in Job's story, is finally thrown down by the Lamb (Rev 12:10–11).
 
 ## Common mix-ups
 
@@ -185,6 +187,7 @@ Job is a righteous sufferer, though not sinless. Christ is the truly innocent su
 - Richard P. Belcher Jr., "Job," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues (historical context, genre), Structure and Outline, Message and Theology (the prologue, Job's lament, the speeches, Elihu, God's speeches, the epilogue).
 - *The Lutheran Study Bible* (Concordia, 2009), introduction to Job: Overview. Lutheran source.
 - *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Job: Title, Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of Job, Job in the Larger Story of the Bible, Christ in Job, History of Interpretation, Outline.
+- *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to Job: Authorship, Date, Theme, Purpose, Synopsis, Outline; chapter summaries.
 
 ## Changelog
 

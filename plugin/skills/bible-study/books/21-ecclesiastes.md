@@ -18,7 +18,7 @@ Ecclesiastes records the search of "the Preacher" (Qohelet, "the gatherer") for 
 
 - **When:** the 10th century BC if Solomon wrote it; after the exile (6th century BC or later) if not. Belcher notes that most scholars now date it late, partly because its Hebrew has features of late biblical Hebrew.
 - **Where:** Jerusalem, from the viewpoint of a king who has had every resource to test life (1:12–2:11).
-- **Who wrote it:** the speaker calls himself Qohelet, "son of David, king in Jerusalem" (1:1). Jewish and Christian tradition identified him with Solomon, fitting his wisdom and wealth (1:16; 2:4–9). Belcher thinks Solomon is not the author and that the book uses a Solomon-like persona. The Reformation Study Bible notes that good scholars differ, Solomon is never named, and the book's message doesn't depend on settling it.
+- **Who wrote it:** the speaker calls himself Qohelet, "son of David, king in Jerusalem" (1:1). Jewish and Christian tradition identified him with Solomon, fitting his wisdom and wealth (1:16; 2:4–9). Belcher thinks Solomon is not the author and that the book uses a Solomon-like persona. The Reformation Study Bible notes that good scholars differ, Solomon is never named, and the book's message doesn't depend on settling it. The Reformation Heritage KJV Study Bible (RH) holds to Solomon, late in his reign (970–930 BC), pointing to the many parallels with his life in 1 Kings.
 - **Where it sits:** a wisdom book that tackles the hard cases Proverbs doesn't. It is written for believers who find God's ways frustrating and perplexing, not mainly as an argument for unbelievers (RSB). Luther's German title, *Prediger*, gave us "the Preacher". In Jewish tradition it is one of the five festival scrolls, read at the Feast of Booths.
 
 ## Structure
@@ -67,11 +67,12 @@ Ecclesiastes isn't a narrative. Its "events" are Qohelet's experiments:
 
 ## Themes
 
-- ***Hebel*, "vanity":** the book's key word, literally "breath" or "vapour". It appears 38 times. Belcher shows it can mean what is fleeting, but often what lacks lasting significance; the RSB stresses what is frustrating (chasing the wind, 1:14) and perplexing (3:11; 8:17). "All is vanity" is deliberate overstatement, balanced by the call to joy.
+- ***Hebel*, "vanity":** the book's key word, literally "breath" or "vapour". It appears 38 times. Belcher shows it can mean what is fleeting, but often what lacks lasting significance; the RSB stresses what is frustrating (chasing the wind, 1:14) and perplexing (3:11; 8:17). "All is vanity" is deliberate overstatement, balanced by the call to joy. RH puts the weight on brevity: life is a passing breath, so nothing temporary can satisfy, and "eat, drink and enjoy" means contentment with God's gifts, not self-indulgence.
 - **Life "under the sun":** life in this world since the fall, so the book works like a commentary on Genesis 3:16–19 (RSB; compare the return to dust, 3:20; 12:7). Paul echoes it when he says creation was "subjected to futility" (Rom 8:20). Qohelet looks at life from the human vantage point. Belcher contrasts this with Proverbs: the sages start from God's revelation, while Qohelet reasons from what he himself observes, and keeps hitting limits.
 - **Death the leveller:** wise and foolish, human and animal, all die (2:14–16; 3:19–20; 9:2–3).
 - **Enjoy God's gifts:** again and again Qohelet commends eating, drinking, work and marriage as gifts to receive from God (2:24–26; 3:12–13; 5:18–20; 9:7–10).
 - **God's sovereignty and mystery:** God has a time for everything, but we can't see the whole (3:11; 8:17).
+- **Living with eternity in view:** RH sums up the theme from 3:11–14 and 12:13–14: God has set eternity in our hearts, so we receive this life as his gift while living for the life to come.
 - **Fear God and remember judgment:** God does everything so that people will fear him (3:14; 5:1–7). The epilogue's call to fear God and keep his commands (12:13–14) draws out where Qohelet's teaching leads (RSB); Belcher argues it explains the problems of life in light of who God is.
 - **Sovereignty and responsibility:** the ability to enjoy what we have is God's gift (5:18–6:2), yet joy is given to those who please him and do good (2:26; 3:12–13).
 
@@ -150,6 +151,7 @@ The "one Shepherd" who gives true wisdom (12:11) points to Christ, the Good Shep
 
 - Richard P. Belcher Jr., "Ecclesiastes," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues (authorship, the Hebrew of Ecclesiastes), Structure and Outline (literary analysis, the term Qohelet, different approaches), Message and Theology (the meaning of *hebel*, the main question, how Qohelet knows, the calls to enjoyment, Qohelet's view of God, the epilogue).
 - *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Ecclesiastes: Title, Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of Ecclesiastes, Ecclesiastes in the Larger Story of the Bible, Christ in Ecclesiastes, Outline.
+- *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to Ecclesiastes: Authorship, Date, Theme, Purpose, Synopsis, Outline; chapter summaries.
 
 ## Changelog
 

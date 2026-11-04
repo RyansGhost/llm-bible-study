@@ -21,11 +21,11 @@ The EPUB is indexed with `tools/epub_index.py` (work `beeke-reformation-heritage
 - [x] 15 Ezra
 - [x] 16 Nehemiah
 - [x] 17 Esther
-- [ ] 18 Job
-- [ ] 19 Psalms
-- [ ] 20 Proverbs
-- [ ] 21 Ecclesiastes
-- [ ] 22 Song of Solomon
+- [x] 18 Job
+- [x] 19 Psalms
+- [x] 20 Proverbs
+- [x] 21 Ecclesiastes
+- [x] 22 Song of Solomon
 - [ ] 23 Isaiah
 - [ ] 24 Jeremiah
 - [ ] 25 Lamentations
