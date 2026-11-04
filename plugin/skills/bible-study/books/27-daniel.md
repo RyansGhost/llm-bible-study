@@ -18,17 +18,17 @@ Daniel shows God's people how to live faithfully in exile, confident that God ru
 
 - **When:** Daniel was taken to Babylon as a young man in 605 BC, after Babylon defeated Egypt at Carchemish. His ministry lasted until after Cyrus' conquest of Babylon in 539 BC (1:21; 10:1) (Belcher).
 - **Where:** the royal court of Babylon, and then of Persia.
-- **Who wrote it:** traditionally Daniel; the visions are in the first person (7–12). Many critical scholars date the book to about 165 BC, during Antiochus IV's persecution, because its prophecies of that period are so detailed. Conservative scholars hold to Daniel in the 6th century BC.
+- **Who wrote it:** Daniel, whose name means "God is my Judge". The book presents him as its author (9:2; 10:2), written soon after 539 BC, and Jesus quotes "the prophet Daniel" (Matt 24:15). Many critical scholars date it to about 165 BC, during Antiochus IV's persecution, because its prophecies of that period (11) are so detailed. The Reformation Study Bible answers that this rests mainly on assuming predictive prophecy is impossible. The other arguments don't require a late date either: Belshazzar and "Darius the Mede" have reasonable explanations, the later-looking Aramaic may reflect updating by copyists, and a few Greek words for instruments fit early contact with Greece.
 - **Where it sits:** among the Major Prophets in English Bibles, and among the Writings in the Hebrew Bible. Belcher notes it is written in Hebrew (1:1–2:4a; 8–12) and Aramaic (2:4b–7:28). The Aramaic section concerns the nations, the Hebrew section God's people in particular.
 
 ## Structure
 
-The basic division (Belcher):
+The basic division (Belcher; Reformation Study Bible):
 
-- 1–6: Stories of faithfulness in exile
-- 7–12: Visions of the future
+- 1–6: Stories of Daniel and his friends at the Babylonian and Persian courts, faithful in exile (compare Jer 29:4–7)
+- 7–12: Daniel's apocalyptic visions of the future
 
-Belcher also pairs chapters by theme:
+Both halves carry one message: Nebuchadnezzar's dream (2) and Daniel's vision (7) say the same thing, that God rules history and will rescue his people from or through their trials. Belcher also pairs chapters by theme:
 
 - 1: living faithfully in exile
 - 2 and 7: four kingdoms, and the victory of God's kingdom
@@ -82,8 +82,8 @@ Belcher also pairs chapters by theme:
 
 - **Faithfulness in exile:** Belcher frames the whole book this way: how to serve God faithfully in a hostile culture without compromise (1; 3; 6).
 - **God rules over earthly kings:** "the Most High rules the kingdom of men and gives it to whom he will" (4:17). Proud kings are humbled (4–5).
-- **The kingdoms of the world and the kingdom of God:** empires rise and fall, but God's kingdom will never be destroyed (2:44; 7:14).
-- **Suffering and persecution:** God's people will face intense persecution (7:21–25; 8; 11), but it is limited and will end.
+- **The kingdoms of the world and the kingdom of God:** empires rise and fall, but God's kingdom will never be destroyed (2:44; 7:14). Many who hold to the early date read the four kingdoms of 2 and 7 as Babylon, Medo-Persia, Greece and Rome; critics who take them as ending with Greece must posit a separate Median empire that never existed between Babylon and Persia (RSB).
+- **Suffering and persecution:** God's people will face intense persecution (7:21–25; 8; 11), but it is limited and will end. Antiochus IV "Epiphanes" (175–164 BC) tried to stamp out Jewish faith, and Daniel strengthened those who resisted him, as it did Christians under Rome. Beyond him, Daniel points to a final enemy, whom the New Testament calls the man of lawlessness, and a "time of trouble" before the end (11:36–12:1; Matt 24:15; 2 Thess 2:3–4).
 - **Prayer and confession:** Daniel prays regularly (6:10) and confesses his people's sin, appealing to God's mercy (9:3–19).
 - **Resurrection and final judgment:** Daniel 12:2 is the Old Testament's clearest statement of bodily resurrection.
 
@@ -128,8 +128,9 @@ Many interpreters see Christ's death in the "anointed one" who is "cut off" in t
 ## Sources
 
 - Richard P. Belcher Jr., "Daniel," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues, Structure and Outline, Message and Theology (living faithfully in exile; Daniel 2 and 7; the seventy weeks; Daniel 8 and 10–12), Approaching the New Testament. Print pages to verify.
-- Reformation Study Bible, introduction to Daniel, p. ___ (to verify)
+- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Daniel: Title, Author, Date and Occasion, Genre and Literary Features, Characteristics and Primary Themes, Theology of Daniel, Daniel in the Larger Story of the Bible, Christ in Daniel, History of Interpretation, Outline. Print pages to verify.
 
 ## Changelog
 
 1. 2026-11-04: Generated initial notes with Claude Code
+2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code

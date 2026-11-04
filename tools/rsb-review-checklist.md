@@ -29,8 +29,8 @@ The EPUB is indexed with `tools/epub_index.py` (work `bible-reformation-study-bi
 - [x] 23 Isaiah
 - [x] 24 Jeremiah
 - [x] 25 Lamentations
-- [ ] 26 Ezekiel
-- [ ] 27 Daniel
+- [x] 26 Ezekiel
+- [x] 27 Daniel
 - [ ] 28 Hosea
 - [ ] 29 Joel
 - [ ] 30 Amos

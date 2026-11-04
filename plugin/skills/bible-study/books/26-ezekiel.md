@@ -16,18 +16,19 @@ Ezekiel was a priest carried into exile in Babylon. There God showed him visions
 
 ## Setting
 
-- **When:** Ezekiel was taken to Babylon with King Jehoiachin in 597 BC. He received his first vision in 593 BC and his last dated one in 571 BC. The fall of Jerusalem (586 BC) is the hinge of the book (33:21).
-- **Where:** among the exiles by the Chebar canal near Nippur in Babylonia (1:1–3). In visions he is taken to Jerusalem (8–11; 40–48).
-- **Who wrote it:** Ezekiel son of Buzi, a priest (1:3). He writes mostly in the first person, with precise dates. McKelvey notes that a few 20th-century scholars questioned its unity, but most accept it as substantially Ezekiel's.
-- **Where it sits:** the third Major Prophet, a younger contemporary of Jeremiah (in Jerusalem) and Daniel (in Babylon's court).
+- **When:** Ezekiel was taken to Babylon with King Jehoiachin in 597 BC, at about 26. He was called in 593 BC, aged thirty, the age a priest would have begun serving at the temple, and his last dated oracle is from 571 BC (29:17). The book dates everything by the years of Jehoiachin's exile, treating him as the last rightful king of David's line (Reformation Study Bible). The fall of Jerusalem (586 BC) is the hinge of the book (33:21).
+- **Where:** among the exiles by the Chebar canal in Babylonia, probably at Tel-abib (1:1–3; 3:15). In visions he is taken to Jerusalem (8–11; 40–48). The exiles were tempted to despair, feeling cut off from God and surrounded by Babylon's apparently triumphant gods (33:10; 37:11).
+- **Who wrote it:** Ezekiel son of Buzi, a priest (1:3), whose name means "God makes strong". He writes mostly in the first person, with precise dates, probably completing the book soon after 571 BC. McKelvey notes that a few 20th-century scholars questioned its unity, but most accept it as substantially Ezekiel's; its unified structure and priestly outlook point to one author (RSB).
+- **Where it sits:** the third Major Prophet, a younger contemporary of Jeremiah (in Jerusalem) and Daniel (in Babylon's court). Revelation draws heavily on it.
 
 ## Structure
 
-McKelvey's three-part division:
+Three movements, also found in Isaiah and Zephaniah: judgment on God's people, judgment on the nations, then mercy for God's people. The news of Jerusalem's fall frames the oracles against the nations (24:26–27; 33:21–22) and turns the book from judgment to hope (McKelvey; Reformation Study Bible):
 
-- 1–24: Judgment coming on Jerusalem: the call visions, sign-acts, the glory departing, and indictments
-- 25–32: Judgment on the nations: Ammon, Moab, Edom, Philistia, Tyre, Sidon and Egypt
-- 33–48: Restoration of God's people: the watchman renewed, the true Shepherd, new hearts, dry bones, Gog, and the new temple and land
+- 1–3: Ezekiel's call and commission: the vision of God's glory, the scroll, the watchman
+- 4–24: Judgment on Judah and Jerusalem: sign-acts, the glory departing, parables and indictments
+- 25–32: Oracles against seven nations: Ammon, Moab, Edom, Philistia, Tyre, Sidon and Egypt
+- 33–48: Blessing for Judah and Jerusalem: the watchman renewed, the true Shepherd, new hearts, dry bones, Gog, and the new temple and land
 
 ## Chapter by chapter
 
@@ -82,7 +83,7 @@ McKelvey's three-part division:
 
 ## Key people
 
-- **Ezekiel:** a priest in exile, called "son of man" (a mortal), and a watchman to Israel.
+- **Ezekiel:** a priest in exile, called "son of man" (a mortal, frail before God, unlike the messianic title in Daniel 7:13), and a watchman to Israel.
 - **Ezekiel's wife:** her death becomes a sign of Jerusalem's fall (24:15–27).
 - **The elders of Israel:** exile leaders who come to Ezekiel with idols in their hearts (8; 14; 20).
 - **Jehoiachin:** the exiled king by whose captivity the book is dated.
@@ -110,10 +111,12 @@ McKelvey's three-part division:
 - **The glory of God:** McKelvey highlights the temple and God's glory as a key to the book. The glory departs because of sin (10–11) and returns to a new temple (43), a pattern he describes as creation, de-creation and re-creation.
 - **God's holiness:** the root for "holy" appears about 51 times. God's holy name has been profaned by his people and must be vindicated (36:22–23).
 - **God's sovereignty:** "they will know that I am the Lord" recurs throughout. God rules Israel and the nations to make himself known.
-- **Sin and individual responsibility:** Israel's idolatry and injustice are exposed, and each person answers for his own sin (18).
+- **Sin and responsibility:** no prophet catalogues Israel's history of sin more fully (16; 20; 23). Each generation, and each person, answers for its own sin, not its fathers' (18).
+- **Sign-acts and visions:** Ezekiel acts out his message (lying on his side, shaving his head, packing an exile's bag) because his hearers resisted plain words (4–5; 12).
 - **The watchman:** the prophet must warn the wicked, and is accountable if he stays silent (3; 33).
 - **God's mercy and the remnant:** even in judgment God keeps a remnant, and has no pleasure in the death of the wicked (5:3; 18:23).
-- **New heart and Spirit:** the deepest hope is inner renewal by God's Spirit (11:19–20; 36:26–27; 37:14).
+- **New heart and Spirit:** the deepest hope is inner renewal by God's Spirit, something God does for his people because they can't do it themselves (11:19–20; 36:26–27; 37:14).
+- **A restoration still to come:** the new temple still restricts access and needs sacrifices (40–46). Its fullness comes in Christ and the new Jerusalem, where God's presence fills the whole city (Rev 21–22) (RSB).
 
 ## How it points to Christ
 
@@ -156,8 +159,9 @@ The glory that left the temple returns in Jesus, the Word who "dwelt among us" a
 ## Sources
 
 - Michael G. McKelvey, "Ezekiel," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues (authorship, historical background and audience), Structure and Outline, Message and Theology (creation, de-creation and re-creation; God's holiness, sovereignty, mercy; man's sinfulness and responsibility), Approaching the New Testament. Print pages to verify.
-- Reformation Study Bible, introduction to Ezekiel, p. ___ (to verify)
+- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Ezekiel: Title, Author, Date and Occasion, Genre and Literary Features, Characteristics and Primary Themes, Theology of Ezekiel, Ezekiel in the Larger Story of the Bible, Christ in Ezekiel, Ezekiel in the History of Interpretation, Outline. Print pages to verify.
 
 ## Changelog
 
 1. 2026-11-04: Generated initial notes with Claude Code
+2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code
