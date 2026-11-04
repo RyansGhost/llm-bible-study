@@ -92,6 +92,17 @@ class RefTests(unittest.TestCase):
     def test_numbered_books_beat_plain_names(self):
         self.assertEqual(ei.find_refs("1 John 4:8 and John 4:8"), {"1-john": ["4:8"], "john": ["4:8"]})
 
+    def test_publisher_abbreviations(self):
+        self.assertEqual(ei.find_refs("Cf Dt 1:6; Jsh 24:2; 1Sm 17:45; Rv 21:4; Ac 2:38; Ac 2"), {
+            "deuteronomy": ["1:6"], "joshua": ["24:2"], "1-samuel": ["17:45"], "revelation": ["21:4"], "acts": ["2:38"],
+        })
+
+    def test_combined_book_headings(self):
+        self.assertEqual(ei.books_in_heading("1\u20132 Samuel"), ["1-samuel", "2-samuel"])
+        self.assertEqual(ei.books_in_heading("1\u20133 John"), ["1-john", "2-john", "3-john"])
+        self.assertEqual(ei.books_in_heading("Ezra\u2013Nehemiah"), ["ezra", "nehemiah"])
+        self.assertEqual(len(ei.books_in_heading("The Twelve")), 12)
+
     def test_headings(self):
         self.assertEqual(ei.books_in_heading("The First Epistle of John"), ["1-john"])
         self.assertEqual(ei.books_in_heading("The Second Book of the Kings"), ["2-kings"])
@@ -113,7 +124,8 @@ class EpubTests(unittest.TestCase):
         sections = [json.loads(line) for line in (work / "sections.jsonl").read_text().splitlines()]
         # The first chapter has no heading, so it takes its title from the NCX.
         self.assertEqual(sections[0]["path"], ["Introduction to Joshua"])
-        self.assertEqual(sections[-1]["path"], ["Introduction to Joshua", "Rahab and the spies", "The cord"])
+        # Each file starts from its own table-of-contents entry.
+        self.assertEqual(sections[-1]["path"], ["Chapter Two", "Rahab and the spies", "The cord"])
         self.assertNotIn("p{}", sections[0]["text"])  # <style> is skipped
         refs = json.loads((work / "refs.json").read_text())
         self.assertIn("1", refs["deuteronomy"]["cited_in"])
@@ -131,6 +143,19 @@ class EpubTests(unittest.TestCase):
         with redirect_stdout(out):
             ei.main(["--index", str(self.index), "book", "Exodus"])
         self.assertIn("12:13", out.getvalue())
+
+    def test_class_marked_headings(self):
+        ch = """<html xmlns="http://www.w3.org/1999/xhtml"><body>
+        <p class="chtit">Genesis</p><p class="head2">The <i>Fall</i></p><p class="indent">Text about Gen. 3:15.</p>
+        <div class="ct">Genesis Study Notes</div><p class="cn">Genesis 3</p><p class="fn">3:15 First gospel.</p>
+        </body></html>"""
+        meta = ei.index_epub(make_epub(self.tmp / "cls.epub", {"OEBPS/text/ch2.xhtml": ch}), self.index)
+        lines = (self.index / meta["work"] / "sections.jsonl").read_text().splitlines()
+        sections = [json.loads(line) for line in lines]
+        self.assertEqual(sections[-2]["path"], ["Genesis", "The Fall"])
+        self.assertEqual(sections[-1]["path"], ["Genesis Study Notes", "Genesis 3"])
+        refs = json.loads((self.index / meta["work"] / "refs.json").read_text())
+        self.assertEqual(len(refs["genesis"]["heading_sections"]), 2)
 
     def test_adobe_drm_is_refused(self):
         epub = make_epub(self.tmp / "drm.epub", {"META-INF/rights.xml": "<rights/>"})

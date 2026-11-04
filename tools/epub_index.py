@@ -40,69 +40,69 @@ BOOKS = [
     (1, "genesis", ["Genesis", "Gen", "Gn"]),
     (2, "exodus", ["Exodus", "Exod", "Exo", "Ex"]),
     (3, "leviticus", ["Leviticus", "Lev", "Lv"]),
-    (4, "numbers", ["Numbers", "Num", "Nm", "Nb"]),
+    (4, "numbers", ["Numbers", "Num", "Nm", "Nb", "Nu"]),
     (5, "deuteronomy", ["Deuteronomy", "Deut", "Dt"]),
-    (6, "joshua", ["Joshua", "Josh", "Jos"]),
-    (7, "judges", ["Judges", "Judg", "Jdg", "Jg"]),
+    (6, "joshua", ["Joshua", "Josh", "Jos", "Jsh"]),
+    (7, "judges", ["Judges", "Judg", "Jdg", "Jg", "Jgs"]),
     (8, "ruth", ["Ruth", "Rth", "Ru"]),
-    (9, "1-samuel", ["1 Samuel", "1 Sam", "1 Sa", "1Sam", "1Sa", "I Samuel", "I Sam", "First Samuel"]),
-    (10, "2-samuel", ["2 Samuel", "2 Sam", "2 Sa", "2Sam", "2Sa", "II Samuel", "II Sam", "Second Samuel"]),
+    (9, "1-samuel", ["1 Samuel", "1 Sam", "1 Sa", "1Sam", "1Sa", "I Samuel", "I Sam", "First Samuel", "1Sm", "1 Sm"]),
+    (10, "2-samuel", ["2 Samuel", "2 Sam", "2 Sa", "2Sam", "2Sa", "II Samuel", "II Sam", "Second Samuel", "2Sm", "2 Sm"]),
     (11, "1-kings", ["1 Kings", "1 Kgs", "1 Ki", "1Kgs", "1Ki", "I Kings", "I Kgs", "First Kings"]),
     (12, "2-kings", ["2 Kings", "2 Kgs", "2 Ki", "2Kgs", "2Ki", "II Kings", "II Kgs", "Second Kings"]),
-    (13, "1-chronicles", ["1 Chronicles", "1 Chron", "1 Chr", "1Chr", "I Chronicles", "I Chron", "I Chr", "First Chronicles"]),
-    (14, "2-chronicles", ["2 Chronicles", "2 Chron", "2 Chr", "2Chr", "II Chronicles", "II Chron", "II Chr", "Second Chronicles"]),
+    (13, "1-chronicles", ["1 Chronicles", "1 Chron", "1 Chr", "1Chr", "I Chronicles", "I Chron", "I Chr", "First Chronicles", "1Ch"]),
+    (14, "2-chronicles", ["2 Chronicles", "2 Chron", "2 Chr", "2Chr", "II Chronicles", "II Chron", "II Chr", "Second Chronicles", "2Ch"]),
     (15, "ezra", ["Ezra", "Ezr"]),
-    (16, "nehemiah", ["Nehemiah", "Neh"]),
+    (16, "nehemiah", ["Nehemiah", "Neh", "Ne"]),
     (17, "esther", ["Esther", "Esth", "Est"]),
-    (18, "job", ["Job"]),
+    (18, "job", ["Job", "Jb"]),
     (19, "psalms", ["Psalms", "Psalm", "Pss", "Psa", "Ps"]),
     (20, "proverbs", ["Proverbs", "Prov", "Prv", "Pr"]),
-    (21, "ecclesiastes", ["Ecclesiastes", "Eccles", "Eccl", "Ecc", "Qoh"]),
-    (22, "song-of-songs", ["Song of Songs", "Song of Solomon", "Canticles", "Song", "Cant", "SS"]),
+    (21, "ecclesiastes", ["Ecclesiastes", "Eccles", "Eccl", "Ecc", "Qoh", "Ec"]),
+    (22, "song-of-songs", ["Song of Songs", "Song of Solomon", "Canticles", "Song", "Cant", "SS", "Sg"]),
     (23, "isaiah", ["Isaiah", "Isa", "Is"]),
     (24, "jeremiah", ["Jeremiah", "Jer"]),
-    (25, "lamentations", ["Lamentations", "Lam"]),
+    (25, "lamentations", ["Lamentations", "Lam", "Lm"]),
     (26, "ezekiel", ["Ezekiel", "Ezek", "Eze", "Ezk"]),
     (27, "daniel", ["Daniel", "Dan", "Dn"]),
     (28, "hosea", ["Hosea", "Hos"]),
     (29, "joel", ["Joel", "Jl"]),
     (30, "amos", ["Amos", "Am"]),
     (31, "obadiah", ["Obadiah", "Obad", "Ob"]),
-    (32, "jonah", ["Jonah", "Jon"]),
-    (33, "micah", ["Micah", "Mic"]),
-    (34, "nahum", ["Nahum", "Nah"]),
+    (32, "jonah", ["Jonah", "Jon", "Jnh"]),
+    (33, "micah", ["Micah", "Mic", "Mi"]),
+    (34, "nahum", ["Nahum", "Nah", "Na"]),
     (35, "habakkuk", ["Habakkuk", "Hab"]),
     (36, "zephaniah", ["Zephaniah", "Zeph", "Zep"]),
-    (37, "haggai", ["Haggai", "Hag"]),
+    (37, "haggai", ["Haggai", "Hag", "Hg"]),
     (38, "zechariah", ["Zechariah", "Zech", "Zec"]),
     (39, "malachi", ["Malachi", "Mal"]),
     (40, "matthew", ["Matthew", "Matt", "Mt"]),
     (41, "mark", ["Mark", "Mk", "Mrk"]),
     (42, "luke", ["Luke", "Lk"]),
     (43, "john", ["John", "Jn", "Jhn"]),
-    (44, "acts", ["Acts", "Act"]),
+    (44, "acts", ["Acts", "Act", "Ac"]),
     (45, "romans", ["Romans", "Rom", "Rm"]),
-    (46, "1-corinthians", ["1 Corinthians", "1 Cor", "1Cor", "I Corinthians", "I Cor", "First Corinthians"]),
-    (47, "2-corinthians", ["2 Corinthians", "2 Cor", "2Cor", "II Corinthians", "II Cor", "Second Corinthians"]),
+    (46, "1-corinthians", ["1 Corinthians", "1 Cor", "1Cor", "I Corinthians", "I Cor", "First Corinthians", "1Co", "1 Co"]),
+    (47, "2-corinthians", ["2 Corinthians", "2 Cor", "2Cor", "II Corinthians", "II Cor", "Second Corinthians", "2Co", "2 Co"]),
     (48, "galatians", ["Galatians", "Gal"]),
     (49, "ephesians", ["Ephesians", "Eph"]),
     (50, "philippians", ["Philippians", "Phil", "Php"]),
     (51, "colossians", ["Colossians", "Col"]),
-    (52, "1-thessalonians", ["1 Thessalonians", "1 Thess", "1 Th", "1Thess", "I Thessalonians", "I Thess", "First Thessalonians"]),
-    (53, "2-thessalonians", ["2 Thessalonians", "2 Thess", "2 Th", "2Thess", "II Thessalonians", "II Thess", "Second Thessalonians"]),
-    (54, "1-timothy", ["1 Timothy", "1 Tim", "1Tim", "I Timothy", "I Tim", "First Timothy"]),
-    (55, "2-timothy", ["2 Timothy", "2 Tim", "2Tim", "II Timothy", "II Tim", "Second Timothy"]),
-    (56, "titus", ["Titus", "Tit"]),
+    (52, "1-thessalonians", ["1 Thessalonians", "1 Thess", "1 Th", "1Thess", "I Thessalonians", "I Thess", "First Thessalonians", "1Th", "1Thes"]),
+    (53, "2-thessalonians", ["2 Thessalonians", "2 Thess", "2 Th", "2Thess", "II Thessalonians", "II Thess", "Second Thessalonians", "2Th", "2Thes"]),
+    (54, "1-timothy", ["1 Timothy", "1 Tim", "1Tim", "I Timothy", "I Tim", "First Timothy", "1Tm", "1 Tm"]),
+    (55, "2-timothy", ["2 Timothy", "2 Tim", "2Tim", "II Timothy", "II Tim", "Second Timothy", "2Tm", "2 Tm"]),
+    (56, "titus", ["Titus", "Tit", "Ti"]),
     (57, "philemon", ["Philemon", "Philem", "Phlm", "Phm"]),
     (58, "hebrews", ["Hebrews", "Heb"]),
     (59, "james", ["James", "Jas", "Jms"]),
-    (60, "1-peter", ["1 Peter", "1 Pet", "1 Pt", "1Pet", "I Peter", "I Pet", "First Peter"]),
-    (61, "2-peter", ["2 Peter", "2 Pet", "2 Pt", "2Pet", "II Peter", "II Pet", "Second Peter"]),
+    (60, "1-peter", ["1 Peter", "1 Pet", "1 Pt", "1Pet", "I Peter", "I Pet", "First Peter", "1Pt"]),
+    (61, "2-peter", ["2 Peter", "2 Pet", "2 Pt", "2Pet", "II Peter", "II Pet", "Second Peter", "2Pt"]),
     (62, "1-john", ["1 John", "1 Jn", "1Jn", "I John", "I Jn", "First John"]),
     (63, "2-john", ["2 John", "2 Jn", "2Jn", "II John", "II Jn", "Second John"]),
     (64, "3-john", ["3 John", "3 Jn", "3Jn", "III John", "III Jn", "Third John"]),
     (65, "jude", ["Jude", "Jud"]),
-    (66, "revelation", ["Revelation", "Rev", "Apocalypse", "Apoc"]),
+    (66, "revelation", ["Revelation", "Rev", "Apocalypse", "Apoc", "Rv"]),
 ]
 BOOK_BY_SLUG = {slug: (num, names) for num, slug, names in BOOKS}
 BOOK_FILE = {slug: f"{num:02d}-{slug}.md" for num, slug, _ in BOOKS}
@@ -189,9 +189,30 @@ ORDINAL_HEADING_RE = re.compile(
 _ORDINAL = {"first": 1, "1st": 1, "i": 1, "second": 2, "2nd": 2, "ii": 2, "third": 3, "3rd": 3, "iii": 3}
 
 
+# "1–2 Samuel", "1-3 John": one chapter covering several numbered books
+RANGE_HEADING_RE = re.compile(
+    r"(?<![\w])([123])\s*[\u2013-]\s*([23])\s+(Samuel|Kings|Chronicles|Corinthians|Thessalonians|Timothy|Peter|John)\b",
+    re.IGNORECASE,
+)
+TWELVE_RE = re.compile(r"^\s*(The\s+(Book\s+of\s+the\s+)?Twelve|The\s+Minor\s+Prophets|Minor\s+Prophets)\s*$", re.IGNORECASE)
+TWELVE = [slug for num, slug, _ in BOOKS if 28 <= num <= 39]
+
+
 def books_in_heading(heading):
     out = []
     heading = heading or ""
+    for part in heading.split(" / "):
+        if TWELVE_RE.match(part):
+            out.extend(b for b in TWELVE if b not in out)
+
+    def book_range(m):
+        for n in range(int(m.group(1)), int(m.group(2)) + 1):
+            slug = f"{n}-{m.group(3).lower()}"
+            if slug in BOOK_BY_SLUG and slug not in out:
+                out.append(slug)
+        return " "
+
+    heading = RANGE_HEADING_RE.sub(book_range, heading)
 
     def ordinal(m):
         slug = f"{_ORDINAL[m.group(1).lower()]}-{m.group(2).lower()}"
@@ -327,6 +348,25 @@ def read_ncx(zf, ncx_href):
     return toc
 
 
+# Many publishers mark headings with a class on <p> or <div> instead of <h1>-<h6>.
+# Level 1 is a book or chapter title; deeper levels are sub-headings.
+HEADING_CLASSES = {
+    # Crossway (e.g. Van Pelt, Kruger)
+    "chtit": 1, "fbtit": 1, "fbtit1": 1, "head1": 2, "head2": 2, "head3": 3, "head3n": 3, "head4": 4, "head5": 5,
+    # Concordia (The Lutheran Study Bible)
+    "ct": 1, "pt": 1, "cn": 2, "ah": 2, "ahaft": 3, "sbh": 3, "sbah": 4,
+    # Common generic names
+    "chapter-title": 1, "chaptertitle": 1, "chapter-head": 1, "title": 1, "subtitle": 2,
+    "h1": 1, "h2": 2, "h3": 3, "h4": 4, "a-head": 2, "b-head": 3, "c-head": 4,
+}
+
+
+def heading_level(attrs):
+    classes = (dict(attrs).get("class") or "").lower().split()
+    levels = [HEADING_CLASSES[c] for c in classes if c in HEADING_CLASSES]
+    return min(levels) if levels else None
+
+
 class _Extractor(HTMLParser):
     """Turn an XHTML chapter into [(heading level, heading, paragraphs)] blocks."""
 
@@ -338,6 +378,8 @@ class _Extractor(HTMLParser):
         self.blocks = [[0, "", []]]  # level, heading, paragraphs
         self.buf = []
         self.heading = None  # level while inside a heading
+        self.heading_tag = None  # (tag, open count) that closes a class-marked heading
+        self.open = {}
         self.skip = 0
 
     def _flush(self):
@@ -347,24 +389,38 @@ class _Extractor(HTMLParser):
             self.blocks[-1][2].append(text)
 
     def handle_starttag(self, tag, attrs):
+        self.open[tag] = self.open.get(tag, 0) + 1
         if tag in self.SKIP:
             self.skip += 1
+        elif self.heading:
+            return  # markup inside a heading
         elif re.fullmatch(r"h[1-6]", tag):
             self._flush()
             self.heading = int(tag[1])
+            self.heading_tag = (tag, self.open[tag])
+        elif tag in ("p", "div") and heading_level(attrs):
+            self._flush()
+            self.heading = heading_level(attrs)
+            self.heading_tag = (tag, self.open[tag])
         elif tag in self.BLOCK:
             self._flush()
 
+    def _end_heading(self):
+        title = " ".join("".join(self.buf).split())
+        self.buf = []
+        if title:
+            self.blocks.append([self.heading, title, []])
+        self.heading = None
+        self.heading_tag = None
+
     def handle_endtag(self, tag):
+        closing_heading = self.heading and self.heading_tag == (tag, self.open.get(tag, 0))
+        self.open[tag] = max(0, self.open.get(tag, 0) - 1)
         if tag in self.SKIP:
             self.skip = max(0, self.skip - 1)
-        elif re.fullmatch(r"h[1-6]", tag) and self.heading:
-            title = " ".join("".join(self.buf).split())
-            self.buf = []
-            if title:
-                self.blocks.append([self.heading, title, []])
-            self.heading = None
-        elif tag in self.BLOCK:
+        elif closing_heading:
+            self._end_heading()
+        elif tag in self.BLOCK and not self.heading:
             self._flush()
 
     def handle_data(self, data):
@@ -406,11 +462,13 @@ def build_sections(zf, spine, toc):
         except KeyError:
             continue
         blocks = extract_blocks(raw)
+        if toc.get(href):
+            # A new chapter in the table of contents: start the heading trail afresh.
+            # Strip a chapter number glued to the title ("1Genesis" -> "Genesis").
+            path = [(1, re.sub(r"^\d+(?=[A-Za-z])", "", toc[href]))]
         for level, heading, paragraphs in blocks:
             if heading:
                 path = [(lv, t) for lv, t in path if lv < level] + [(level, heading)]
-            elif not path and toc.get(href):
-                path = [(1, toc[href])]
             if not paragraphs and heading:
                 continue  # a heading with no body text; it still shapes the trail
             title = path[-1][1] if path else (toc.get(href) or posixpath.basename(href))
@@ -441,7 +499,14 @@ def work_slug(meta, filename):
     """Short, citable id: author surname + up to four title words, e.g. luther-commentary-epistle-galatians."""
     title = meta.get("title") or Path(filename).stem
     creator = (meta.get("creators") or [""])[0]
-    surname = creator.split(",")[0] if "," in creator else (creator.split() or [""])[-1]
+    if "," in creator:
+        surname = creator.split(",")[0]
+    else:
+        parts = creator.split() or [""]
+        surname = parts[-1]
+        # Keep particles: "Miles V. Van Pelt" -> "Van Pelt", "Ludwig von Mises" -> "von Mises"
+        if len(parts) > 2 and parts[-2].lower() in {"van", "von", "de", "der", "den", "du", "da", "di", "le", "la", "st.", "ten", "ter"}:
+            surname = f"{parts[-2]} {parts[-1]}"
     words = [w for w in re.findall(r"[a-z0-9]+", title.lower()) if w not in _STOP][:4]
     s = "-".join([w for w in re.findall(r"[a-z0-9]+", surname.lower())] + words)
     return s[:60].strip("-") or "work"

@@ -10,10 +10,10 @@ Summaries are written in our own words from trusted sources of the Reformation a
 
 1. Scripture itself, which has the final word.
 2. The Reformed confessions and catechisms: the Westminster Standards and the Three Forms of Unity (Belgic Confession, Heidelberg Catechism, Canons of Dort).
-3. Study Bibles: the Reformation Study Bible (R.C. Sproul) and the Reformation Heritage KJV Study Bible (Joel R. Beeke).
+3. Study Bibles and introductions: the Reformation Study Bible (R.C. Sproul), the Reformation Heritage KJV Study Bible (Joel R. Beeke), The Lutheran Study Bible, and the biblical-theological introductions to the Old Testament (ed. Miles V. Van Pelt) and New Testament (ed. Michael J. Kruger).
 4. Commentaries and teachers: John Calvin, Martin Luther, Matthew Henry, Joel R. Beeke, the Puritans (such as Thomas Watson and John Owen), Charles Spurgeon, and R.C. Sproul and Ligonier Ministries.
 
-Luther and Spurgeon are trusted but not Reformed on every point. When drawing on Luther for the Lord's Supper, baptism or law and gospel, or on Spurgeon for baptism, say so and give the Reformed confessions' view as well. The full list, with works and citation rules, is at [Sources]({{ with site.GetPage "/sources" }}{{ (.OutputFormats.Get "markdown").Permalink }}{{ end }}).
+Luther, The Lutheran Study Bible and Spurgeon are trusted but not Reformed on every point. When drawing on the Lutheran sources for the Lord's Supper, baptism or law and gospel, or on Spurgeon for baptism, say so and give the Reformed confessions' view as well. The full list, with works and citation rules, is at [Sources]({{ with site.GetPage "/sources" }}{{ (.OutputFormats.Get "markdown").Permalink }}{{ end }}).
 
 If you are an AI assistant tutoring someone with these notes:
 

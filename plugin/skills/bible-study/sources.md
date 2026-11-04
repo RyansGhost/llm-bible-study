@@ -25,6 +25,14 @@ The main sources for book introductions, outlines and notes. Cite them by book i
 
 - **Reformation Study Bible** (ed. R.C. Sproul, Ligonier Ministries).
 - **Reformation Heritage KJV Study Bible** (general editor Joel R. Beeke, Reformation Heritage Books).
+- **The Lutheran Study Bible** (Concordia Publishing House, 2009): book introductions, outlines, chapter notes, and a "Luther on ..." feature for each book. See the note below on where it differs from Reformed teaching.
+
+## Biblical-theological introductions
+
+Book-by-book introductions by Reformed scholars, most of them at Reformed Theological Seminary. Each covers a book's background, structure, message and theology, and how it leads to Christ and the New Testament. Each chapter has its own author, so cite the chapter author, e.g. *John J. Yeo, "Ruth," in Van Pelt, ed.*
+
+- **Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised*** (Crossway, 2016).
+- **Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized*** (Crossway, 2016).
 
 ## 4. Commentaries and teachers
 
@@ -44,6 +52,7 @@ Some trusted sources are not Reformed on every point. Use them freely, but on th
 
 - **Luther (Lutheran)**: the Lord's Supper (Christ's body and blood "in, with and under" the bread and wine), baptism, and some emphases in law and gospel.
 - **Spurgeon (Reformed Baptist)**: baptism of believers only, not infants.
+- **The Lutheran Study Bible (Lutheran)**: the sacraments, as for Luther, and its "Law Themes / Gospel Themes" framing of each book, which follows Lutheran law-and-gospel teaching.
 
 ## Citation rules
 
