@@ -16,23 +16,23 @@ Ephesians unfolds God's eternal plan to unite all things in Christ, and the chur
 
 ## Setting
 
-- **When:** about AD 60–62, during Paul's imprisonment, probably in Rome (3:1; 4:1; 6:20).
-- **Where:** Ephesus, a leading city of Asia Minor, where Paul had ministered for about three years (Acts 19–20). Waters notes that "in Ephesus" (1:1) is missing from some early manuscripts, so the letter may also have been meant to circulate among nearby churches.
-- **Who wrote it:** Paul (1:1; 3:1). Waters observes that for about eighteen centuries no one doubted this. Many modern critical scholars call it pseudonymous, and Waters defends Paul's authorship.
+- **When:** about AD 60–62, during Paul's imprisonment, probably his house arrest in Rome (3:1; 4:1; 6:20; Acts 28), soon after he wrote Colossians, which shares much of its wording (Reformation Study Bible).
+- **Where:** Ephesus, a leading city of Asia Minor, where Paul had ministered for about three years (Acts 19–20). Ephesus was the capital of the province of Asia and one of the five greatest cities of the empire, famous for its temple of Artemis (Diana), one of the Seven Wonders of the ancient world (Acts 19:23–41). Waters notes that "in Ephesus" (1:1) is missing from some early manuscripts, so the letter may also have been meant to circulate among nearby churches; that would explain its lack of personal greetings and Paul's "hearing" of their faith (1:15).
+- **Who wrote it:** Paul (1:1; 3:1). Waters observes that for about eighteen centuries no one doubted this. Many modern critical scholars call it pseudonymous, pointing to its fuller style and closeness to Colossians. Waters and the RSB defend Paul's authorship: an imitator would hardly copy Colossians word for word yet boldly move beyond it, and the overlap is best explained by Paul writing both at nearly the same time.
 - **Where it sits:** one of the four "Prison Epistles" (Ephesians, Philippians, Colossians, Philemon), carried by Tychicus (6:21) along with Colossians. Waters sees it as a broad summary of the gospel teaching the church had received, rather than a response to a crisis.
 
 ## Structure
 
-- 1–3: Doctrine: our riches in Christ
-    - 1: praise for God's blessings in Christ, and a prayer for understanding
-    - 2: saved by grace; Jew and Gentile made one
-    - 3: the mystery revealed to Paul, and a prayer to know Christ's love
-- 4–6: Practice: our walk in Christ
-    - 4:1–16: unity and gifts in the body
-    - 4:17–5:21: the old self and the new, walking in love, light and wisdom
-    - 5:22–6:9: household relationships
-    - 6:10–20: the armour of God
-    - 6:21–24: closing
+Chapters 1–3 set out what God has done for us in Christ; chapters 4–6 tell us how to live in response. The word "walk" links them: once we walked in sin (2:1–2), but now we walk in good works (2:10), worthily (4:1), in love (5:2), as children of light (5:8), and wisely (5:15). The Reformation Study Bible's outline:
+
+- 1:1–2: Greeting
+- 1:3–14: Praise to God for every blessing in Christ: the Father chooses, the Son redeems, the Spirit seals
+- 1:15–23: Prayer for the church to know God's power in the risen Christ
+- 2:1–3:13: Our position in Christ: saved by grace; Jew and Gentile made one; the mystery revealed to Paul
+- 3:14–21: Prayer to know Christ's love, and praise
+- 4:1–6:9: Our walk in Christ, toward unity and purity: gifts in the body, the old self and the new, walking in love, light and wisdom, and household relationships
+- 6:10–20: Our stand against the spiritual forces of evil: the armour of God
+- 6:21–24: Final greetings
 
 ## Chapter by chapter
 
@@ -57,14 +57,15 @@ Ephesians unfolds God's eternal plan to unite all things in Christ, and the chur
 
 ## Themes
 
-- **Every spiritual blessing in Christ:** election, adoption, redemption, forgiveness and sealing by the Spirit (1:3–14).
+- **Every spiritual blessing in Christ:** election, adoption, redemption, forgiveness and sealing by the Spirit (1:3–14), the work of the Father, Son and Spirit. This passage has long shaped Reformed teaching on the doctrines of grace.
+- **The mystery revealed:** "mystery" comes seven times. God's plan, hidden before Christ and now made known, is to unite all things in him, and its sign is the church, where Gentiles are fellow heirs with Jews (1:9–10; 3:3–6).
 - **God's sovereign grace:** chosen before the world began, saved by grace through faith, not works (1:4–5; 2:8–9).
 - **Union with Christ:** "in Christ" and "in him" appear again and again, and believers are seated with him in the heavenly places (2:6).
 - **One new people:** Jew and Gentile reconciled to God and each other in one body (2:11–22).
 - **The church:** Christ's body, God's temple, and Christ's bride. The church displays God's wisdom to the heavenly powers (3:10).
 - **Unity and maturity:** gifted leaders equip the saints to build up the body in love (4:1–16).
 - **A new way of life:** put off the old self, put on the new (4:22–24).
-- **Christ-shaped households:** marriage reflects Christ and the church (5:22–33).
+- **Christ-shaped households:** marriage reflects Christ and the church (5:22–33). Love like Christ's (5:2) and mutual submission out of reverence for him (5:21) are the foundation for every role in the home and at work, and remembering the cross keeps this from becoming mere moralism.
 - **Spiritual warfare:** stand firm in God's armour and pray (6:10–20).
 
 ## How it points to Christ
@@ -106,8 +107,9 @@ Christ is at the centre of God's plan: "to unite all things in him, things in he
 
 - Guy Prentiss Waters, "Ephesians," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (authorship, "to the Ephesians?", purpose), Structure and Outline, Message and Theology. Print pages to verify.
 - John Chrysostom, *Homilies on Ephesians*, "The Argument" (quoted in Waters).
-- Reformation Study Bible, introduction to Ephesians, p. ___ (to verify)
+- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Ephesians: Title and Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of Ephesians, Ephesians in the Larger Story of the Bible, Christ in Ephesians, History of Interpretation, Outline. Print pages to verify.
 
 ## Changelog
 
 1. 2026-11-04: Generated initial notes with Claude Code
+2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code

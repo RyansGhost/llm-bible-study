@@ -16,19 +16,22 @@ Philippians is a warm letter from Paul in prison to a church that had partnered 
 
 ## Setting
 
-- **When:** about AD 60–62, during Paul's imprisonment, most likely in Rome (1:13; 4:22). Some scholars suggest Ephesus or Caesarea.
-- **Where:** Philippi, a Roman colony in Macedonia, where Paul founded the first church in Europe (Acts 16): Lydia, the slave girl, and the jailer.
+- **When:** about AD 60–62, during Paul's imprisonment, most likely in Rome near its end, about AD 61: the "imperial guard" (1:13), "Caesar's household" (4:22) and the real prospect of execution (1:20–26) fit a trial at the highest level. Some scholars suggest Caesarea or Ephesus, though Acts records no imprisonment in Ephesus (Reformation Study Bible).
+- **Where:** Philippi, a Roman colony in Macedonia on the main road between Rome and the east, named after Philip of Macedon and settled partly by retired soldiers who enjoyed Roman citizenship. That gives extra force to Paul's language about citizenship (1:27; 3:20). Paul founded the first church in Europe there (Acts 16: Lydia, the slave girl, and the jailer) and visited again later (Acts 20:1–6). The church was mostly Gentile.
 - **Who wrote it:** Paul, with Timothy (1:1).
-- **Where it sits:** one of the Prison Epistles. Lowe cautions against overstating conflict in the church. Paul's imprisonment, Epaphroditus' near-fatal illness, and the letter's farewell tone are the clearer background. Lowe compares it with farewell speeches in Scripture (John 13–17; Acts 20).
+- **Where it sits:** one of the Prison Epistles. Lowe cautions against overstating conflict in the church. Paul's imprisonment, Epaphroditus' near-fatal illness, and the letter's farewell tone are the clearer background. Lowe compares it with farewell speeches in Scripture (John 13–17; Acts 20). The RSB also notes real pressures: persecution (1:27–30), false teachers (3:2–21) and quarrels (4:2–3). The sharp turn at 3:2 doesn't mean chapter 3 came from another letter; its themes and wording tie it to the rest.
 
 ## Structure
 
-- 1:1–11: Greeting, thanksgiving and prayer for their partnership
-- 1:12–26: Paul's circumstances: the gospel advancing; to live is Christ, to die is gain
-- 1:27–2:18: Live worthy of the gospel: unity, humility, and Christ's example
-- 2:19–30: Timothy and Epaphroditus
-- 3:1–4:1: Warning against false confidence; knowing Christ; pressing on; heavenly citizenship
-- 4:2–23: Appeals, joy, peace, contentment, and thanks for their gift
+Many take 1:27 as the letter's main point: live worthy of the gospel, standing firm in one spirit, striving together for the faith. The Reformation Study Bible's outline:
+
+- 1:1–2: Greeting
+- 1:3–11: Thanksgiving and prayer for their partnership
+- 1:12–2:30: The truth of the gospel: Paul's circumstances (to live is Christ, to die is gain); live worthy of the gospel in unity and humility, after Christ's example (2:5–11); Timothy and Epaphroditus
+- 3:1–4:1: Truth against error: no confidence in the flesh; knowing Christ; pressing on; heavenly citizenship
+- 4:2–9: Appeals: agreement, joy, prayer instead of anxiety, right thinking
+- 4:10–20: Thanks for their gift, and contentment
+- 4:21–23: Final greeting and blessing
 
 ## Chapter by chapter
 
@@ -55,14 +58,14 @@ Philippians is a warm letter from Paul in prison to a church that had partnered 
 
 ## Themes
 
-- **Joy in all circumstances:** "rejoice" runs through the letter, written from prison (1:18; 2:17–18; 3:1; 4:4).
+- **Joy in all circumstances:** "joy" and "rejoice" come sixteen times, in a letter written from prison (1:18; 2:17–18; 3:1; 4:4), grounded in the peace of God (4:4–7).
 - **Partnership in the gospel:** the church shares in Paul's ministry by prayer, giving and suffering (1:5, 7; 4:14–16). Lowe reads the letter as one of friendship and partnership.
 - **Facing death:** Paul is ready for either outcome, because Christ is his life and death is gain (1:20–26). Lowe notes the farewell tone.
-- **The mind of Christ:** humility and self-giving love modelled on Christ's own (2:1–11).
+- **The mind of Christ:** humility and self-giving love modelled on Christ's own (2:1–11), and seen in Timothy and Epaphroditus (2:19–30). Christ "emptied himself" not by giving up any part of his deity, but by adding a true human nature and taking a servant's form (2:7; compare Westminster Larger Catechism 36). Calling him "Lord" identifies him with the God of Israel (2:10–11; Isa 45:23).
 - **Righteousness through faith:** not from the law, but from God through faith in Christ (3:9).
-- **Pressing on:** the Christian life as a race toward the prize (3:12–14).
+- **Pressing on:** the Christian life as a race toward the prize (3:12–14). We work out our salvation because God is at work in us (2:12–13), and he will finish what he began (1:6).
 - **Heavenly citizenship:** in a Roman colony proud of its citizenship, believers' true citizenship is in heaven (3:20).
-- **Contentment and peace:** prayer replaces anxiety, and contentment is learned in Christ (4:6–7, 11–13).
+- **Contentment and peace:** prayer replaces anxiety, and contentment is learned in Christ (4:6–7, 11–13). Their gift to Paul is a fragrant offering, like the sacrifices of the temple (4:18).
 
 ## How it points to Christ
 
@@ -103,8 +106,9 @@ For Paul, knowing Christ, sharing his sufferings, and attaining the resurrection
 ## Sources
 
 - Bruce A. Lowe, "Philippians," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (exile, prison and death; ancient farewells), Structure and Outline, Message and Theology. Print pages to verify.
-- Reformation Study Bible, introduction to Philippians, p. ___ (to verify)
+- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Philippians: Title and Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of Philippians, Philippians in the Larger Story of the Bible, Christ in Philippians, History of Interpretation, Outline. Print pages to verify.
 
 ## Changelog
 
 1. 2026-11-04: Generated initial notes with Claude Code
+2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code

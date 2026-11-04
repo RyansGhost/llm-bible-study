@@ -16,14 +16,14 @@ Galatians is Paul's urgent defence of the gospel of grace. False teachers have p
 
 ## Setting
 
-- **When:** debated. Waters explains that the date depends on where "Galatia" was. On the "South Galatian" view, Paul wrote to the churches of his first journey (Pisidian Antioch, Iconium, Lystra, Derbe), perhaps about AD 48–49, before the Jerusalem council. On the "North Galatian" view, it was written in the 50s.
+- **When:** debated. Waters explains that the date depends on where "Galatia" was. On the "South Galatian" view, Paul wrote to the churches of his first journey (Pisidian Antioch, Iconium, Lystra, Derbe), perhaps about AD 48–49, before the Jerusalem council. On the "North Galatian" view, Paul wrote to ethnic Galatians further north, about AD 54–55, during his third journey. The Reformation Study Bible notes that the later date puts it near Romans and 2 Corinthians, which share its concerns, but the earlier date fits Acts more easily: Paul's two Jerusalem visits in Galatians (1:18; 2:1–10) match Acts 9 and the famine visit of Acts 11:29–30, and his private meeting with the leaders doesn't look like the council of Acts 15.
 - **Where:** the Roman province of Galatia, in central Asia Minor (modern Turkey).
 - **Who wrote it:** Paul, "and all the brothers who are with me" (1:1–2). He wrote the closing in his own large letters (6:11).
-- **Where it sits:** often called the "Magna Carta of Christian freedom". Its themes overlap with Romans. Waters notes we know Paul's opponents only through his responses: they apparently required circumcision and law-keeping of Gentile believers and questioned Paul's authority.
+- **Where it sits:** often called the "Magna Carta of Christian freedom". Its themes overlap with Romans. Waters notes we know Paul's opponents only through his responses: they apparently required circumcision and law-keeping of Gentile believers and questioned Paul's authority. The RSB finds three charges behind Paul's answers: that he had defied the Jerusalem apostles (1:11–2:10), that he had clashed with Peter (2:11–14), and that he once preached circumcision himself (5:11). Pressure from nationalist Jews in Judea may have driven them. Already the Galatians were deserting the gospel and quarrelling (1:6; 5:15). Unusually, Paul skips his normal thanksgiving and goes straight to rebuke.
 
 ## Structure
 
-Waters' outline of Paul's argument:
+The Reformation Study Bible's outline: greeting (1:1–5), the problem of another gospel (1:6–9), Paul's defence of his apostleship (1:10–2:14), his defence of the gospel (2:15–6:10), and his conclusion in his own hand (6:11–18). Many see the shape of an ancient persuasive speech. Waters' outline of Paul's argument:
 
 - 1:1–5: Greeting: Paul's apostleship comes from God; Christ gave himself to rescue us
 - 1:6–10: The issue: the Galatians are turning to a different gospel
@@ -65,10 +65,12 @@ Waters' outline of Paul's argument:
 - **One gospel:** there is no other gospel, and adding requirements to Christ destroys grace (1:6–9; 5:2–4).
 - **Paul's apostolic authority:** his gospel came directly from Christ (1:11–12).
 - **Promise and law:** the promise to Abraham came first. The law was added as a temporary guardian leading to Christ (3:15–25).
-- **Adoption and the Spirit:** believers are God's sons and heirs, with the Spirit of his Son in their hearts (4:4–7).
+- **Adoption and the Spirit:** believers are God's sons and heirs, with the Spirit of his Son in their hearts (4:4–7). Paul mentions the Spirit even more often than justification: the Spirit is the blessing promised to Abraham (3:14), and the Galatians received him by faith, not law-keeping (3:2–3).
+- **One gospel for all ages:** the gospel was preached beforehand to Abraham (3:8). All who belong to Christ, Abraham's true offspring, are Abraham's offspring too (3:16, 29). God has always had one way of salvation.
 - **Freedom:** freedom from the law's curse and slavery, not freedom to sin, but to serve one another in love (5:1, 13).
 - **Life in the Spirit:** the fruit of the Spirit against the works of the flesh (5:16–26).
-- **The cross:** Paul's only boast (6:14).
+- **The cross:** Christ bore the law's curse in our place (3:13); his death justifies and also frees us from sin (1:4; 2:20). The cross is Paul's only boast (6:14).
+- **The "New Perspective" debate:** some recent scholars argue that "works of the law" means Jewish identity markers (circumcision, food laws, feasts), so that Galatians is about who belongs to the church rather than how a sinner is saved. The RSB answers that in 3:10–14 Paul plainly means deeds done to gain acceptance with God, and that the Reformation reading stands: justification by faith alone in Christ alone, which then defines the people of God.
 
 ## How it points to Christ
 
@@ -109,8 +111,9 @@ Galatians is a letter about Christ's sufficiency. He "gave himself for our sins 
 
 - Guy Prentiss Waters, "Galatians," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (location and date, Paul's opponents), Structure and Outline, Message and Theology (the issue, Paul's defence of his apostleship, the thesis, the argument). Print pages to verify.
 - Martin Luther, *Commentary on Galatians* (1535). Free at [Project Wittenberg](https://www.projectwittenberg.org/pub/resources/text/wittenberg/wittenberg-luther.html). Lutheran source.
-- Reformation Study Bible, introduction to Galatians, p. ___ (to verify)
+- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Galatians: Title and Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of Galatians, Galatians in the Larger Story of the Bible, Christ in Galatians, History of Interpretation, Outline. Print pages to verify.
 
 ## Changelog
 
 1. 2026-11-04: Generated initial notes with Claude Code
+2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code
