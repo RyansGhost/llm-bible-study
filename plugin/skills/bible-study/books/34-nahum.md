@@ -18,8 +18,9 @@ Nahum announces the fall of Nineveh, the proud, violent capital of the Assyrian 
 
 - **When:** after Assyria destroyed Thebes in Egypt (663 BC, 3:8) and before Nineveh fell to the Babylonians and Medes in 612 BC. Timmer uses these two events to date the book; the Lutheran Study Bible gives about 663–612 BC. The Reformation Study Bible suggests about 660–650 BC, while Thebes' fall was fresh and Assyria was shaken by revolt, when Judah's King Manasseh was Assyria's loyal vassal; or early in Josiah's reign, before 627 BC.
 - **Where:** addressed to Nineveh, but written for the ears of Judah suffering under Assyria. Nahum was from Elkosh, whose location is unknown; suggestions include sites near Nineveh, in Galilee (Capernaum may mean "village of Nahum") and in Judah, which the book itself favours (1:15).
-- **Who wrote it:** Nahum the Elkoshite (1:1). His name means "comfort".
-- **Where it sits:** among the Twelve; in the Greek order it follows Jonah directly. It is a sequel to Jonah: about a century after Nineveh repented, it has returned to violence, and judgment is now certain. Like Isaiah 13–23 and Obadiah, it is an oracle against a foreign nation, not mere national revenge: God judges Israel's sins just as surely (RSB).
+- **Who wrote it:** Nahum the Elkoshite (1:1). His name means "comfort", a short form of Nehemiah, "the Lord comforts" (the Reformation Heritage KJV Study Bible, RH).
+- **Fulfilment:** RH notes that the Babylonian Chronicle describes Nineveh's siege in 612 BC, and that a flooding Tigris helped the attackers breach the walls, much as Nahum pictured (1:8; 2:6).
+- **Where it sits:** among the Twelve; in the Greek order it follows Jonah directly. It is a sequel to Jonah: about a century after Nineveh repented, it has returned to violence, and judgment is now certain. Unlike Jonah, there is no sign Nineveh ever heard Nahum's verdict; RH sees God's freedom in both mercy and judgment (Rom 9:14–18). Like Isaiah 13–23 and Obadiah, it is an oracle against a foreign nation, not mere national revenge: God judges Israel's sins just as surely (RSB).
 
 ## Structure
 
@@ -123,6 +124,7 @@ The God who is both slow to anger and just shows both perfectly at the cross, wh
 - Daniel C. Timmer, "The Twelve," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Message and Theology (chronology, the sins and punishment of the non-Israelite nations, the day of the Lord).
 - *The Lutheran Study Bible* (Concordia, 2009), introduction to Nahum: Overview. Lutheran source.
 - *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Nahum: Title and Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of Nahum, Nahum in the Larger Story of the Bible, Christ in Nahum, History of Interpretation, Outline.
+- *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to Nahum: Authorship, Date, Theme, Purpose, Synopsis, Outline; chapter summaries.
 
 ## Changelog
 

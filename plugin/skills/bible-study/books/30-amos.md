@@ -16,9 +16,9 @@ Amos, a shepherd and fig farmer from Judah, is sent north to prosperous Israel t
 
 ## Setting
 
-- **When:** in the reigns of Uzziah of Judah (792–740 BC) and Jeroboam II of Israel (793–753 BC), "two years before the earthquake" (1:1), a quake remembered centuries later (Zech 14:5); about 760 BC. It was a time of peace and wealth: Jeroboam had restored Israel's old borders, as Jonah foretold (2 Kgs 14:25), but the prosperity came with harsh oppression of the poor. Assyria's rise under Tiglath-pileser III (745–727 BC) and Samaria's fall (722 BC) were still ahead (Reformation Study Bible).
+- **When:** in the reigns of Uzziah of Judah (792–740 BC) and Jeroboam II of Israel (793–753 BC), "two years before the earthquake" (1:1), a quake remembered centuries later (Zech 14:5), and one that excavations at Hazor seem to confirm; about 760 BC (the Reformation Heritage KJV Study Bible, RH, narrows it to 760–755 BC). Israel fell within forty years. It was a time of peace and wealth: Jeroboam had restored Israel's old borders, as Jonah foretold (2 Kgs 14:25), but the prosperity came with harsh oppression of the poor. Assyria's rise under Tiglath-pileser III (745–727 BC) and Samaria's fall (722 BC) were still ahead (Reformation Study Bible).
 - **Where:** Amos was from Tekoa in Judah, about five miles south of Bethlehem, but preached in the northern kingdom, at Bethel and probably Samaria (7:10–13).
-- **Who wrote it:** Amos, who insists he was no professional prophet but a herdsman and a dresser of sycamore figs whom God called (7:14–15). Yet he knew the nations' history and the covenant well.
+- **Who wrote it:** Amos, whose name means "burden" or "burden-bearer" (RH), and who insists he was no professional prophet but a herdsman and a dresser of sycamore figs whom God called (7:14–15). Yet he knew the nations' history and the covenant well.
 - **Where it sits:** among the Twelve. Timmer dates Amos with Hosea to the mid-8th century, the start of the Twelve's rough chronological span. Almost all of it is poetry: oracles, sermons and short hymns to God the Creator (4:13; 5:8–9; 9:5–6).
 
 ## Structure
@@ -138,6 +138,7 @@ Jesus, like Amos, confronted religious leaders who neglected "justice and mercy 
 - Daniel C. Timmer, "The Twelve," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Message and Theology (chronology, sin in Israel and the nations, punishment, repentance, deliverance of the remnant), Approaching the New Testament.
 - *The Lutheran Study Bible* (Concordia, 2009), introduction to Amos: Overview. Lutheran source.
 - *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Amos: Title and Author, Date, Occasion, Genre and Literary Features, Characteristics and Primary Themes, Theology of Amos, Amos in the Larger Story of the Bible, Christ in Amos, History of Interpretation, Outline.
+- *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to Amos: Authorship, Date, Theme, Purpose, Synopsis, Outline; chapter summaries.
 
 ## Changelog
 

@@ -16,9 +16,9 @@ Habakkuk is a conversation between a troubled prophet and God. Habakkuk asks why
 
 ## Setting
 
-- **When:** most likely the reign of Jehoiakim (609–598 BC), when Judah slid back into wickedness after good King Josiah (Jer 22:13–19). Chapter 1 seems to come before 605 BC, while the Babylonians (Chaldeans) were rising but not yet dominant; chapters 2–3 after their victory at Carchemish that year (Reformation Study Bible). The Lutheran Study Bible gives about 605 BC.
+- **When:** most likely the reign of Jehoiakim (609–598 BC), when Judah slid back into wickedness after good King Josiah (Jer 22:13–19). Chapter 1 seems to come before 605 BC, while the Babylonians (Chaldeans) were rising but not yet dominant; chapters 2–3 after their victory at Carchemish that year (Reformation Study Bible). The Lutheran Study Bible gives about 605 BC, and the Reformation Heritage KJV Study Bible (RH) about 607/606 BC, just before Babylon's first invasion.
 - **Where:** Judah and Jerusalem, near the temple (2:20; 3:19).
-- **Who wrote it:** Habakkuk "the prophet" (1:1), perhaps well known in his day. Nothing else is known about him, and the meaning of his name is uncertain.
+- **Who wrote it:** Habakkuk "the prophet" (1:1), perhaps well known in his day. Nothing else is known about him, and the meaning of his name is uncertain (RH suggests "embrace", fitting his clinging faith in 3:17–18). The musical note at the end (3:19) may link him to the temple singers. The legend in the apocryphal Bel and the Dragon that an angel carried him to Daniel in Babylon has no historical worth.
 - **Where it sits:** among the Twelve, a contemporary of Jeremiah, Zephaniah and Nahum. Unusually, it isn't addressed to the people: it records the prophet's own struggle with God, in the pattern of lament psalms, and chapter 3 is a psalm with musical directions.
 
 ## Structure
@@ -129,6 +129,7 @@ Habakkuk's prayer, "in wrath remember mercy" (3:2), is answered at the cross, wh
 - Daniel C. Timmer, "The Twelve," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Message and Theology (sin in Judah, punishment through the nations, the punishment of the nations, deliverance of the remnant).
 - *The Lutheran Study Bible* (Concordia, 2009), introduction to Habakkuk: Overview. Lutheran source.
 - *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Habakkuk: Title and Author, Date and Occasion, Genre and Literary Features, Characteristics and Primary Themes, Theology of Habakkuk, Habakkuk in the Larger Story of the Bible, Christ in Habakkuk, History of Interpretation, Outline.
+- *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to Habakkuk: Authorship, Date, Theme, Purpose, Synopsis, Outline; chapter summaries.
 
 ## Changelog
 

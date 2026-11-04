@@ -18,7 +18,7 @@ Sixteen years after returning from exile, the people of Jerusalem have stopped r
 
 - **When:** the second year of King Darius of Persia, 520 BC. All four messages fall between late August and mid-December (1:1; 2:1, 10, 20). Timmer notes Haggai and Zechariah give some of the clearest dates in the Twelve. The exiles had returned under Cyrus' decree in 538 BC and begun the temple, but opposition and discouragement stopped the work for about sixteen years (Ezra 4). After Haggai's preaching, Darius confirmed Cyrus' decree, and the temple was finished and dedicated in 516 BC (Ezra 6:13–15) (Reformation Study Bible).
 - **Where:** Jerusalem and Judah, a small Persian province.
-- **Who wrote it:** Haggai the prophet, whose name means "festal", perhaps because he was born at a feast. Ezra mentions him with Zechariah encouraging the rebuilding (Ezra 5:1; 6:14).
+- **Who wrote it:** Haggai the prophet, whose name means "festal", perhaps because he was born at a feast. Ezra mentions him with Zechariah encouraging the rebuilding (Ezra 5:1; 6:14). If he was one of those who had seen Solomon's temple (2:3), he was an old man by now, perhaps in his seventies, unlike the young Zechariah (the Reformation Heritage KJV Study Bible, RH, which sums up his theme as putting God first).
 - **Where it sits:** among the Twelve, the first of the three prophets after the exile (Haggai, Zechariah, Malachi), and the second-shortest book of the Old Testament. Its events fit into Ezra 4:24–6:15.
 
 ## Structure
@@ -130,6 +130,7 @@ Zerubbabel, God's chosen signet, appears in Jesus' genealogy (Matt 1:12–13; Lu
 - Daniel C. Timmer, "The Twelve," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Message and Theology (chronology, repentance, deliverance of the remnant).
 - *The Lutheran Study Bible* (Concordia, 2009), introduction to Haggai: Overview. Lutheran source.
 - *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Haggai: Title and Author, Date and Occasion, Genre and Literary Features, Characteristics and Primary Themes, Theology of Haggai, Haggai in the Larger Story of the Bible, Christ in the Book of Haggai, Haggai in the History of Interpretation, Outline.
+- *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to Haggai: Authorship, Date, Theme, Purpose, Synopsis, Outline; chapter summaries.
 
 ## Changelog
 

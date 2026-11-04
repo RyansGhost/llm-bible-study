@@ -16,7 +16,7 @@ Malachi, the last book of the Old Testament, speaks to a returned people who hav
 
 ## Setting
 
-- **When:** in the Persian period, when Judah had a governor (1:8) and the rebuilt temple was in use (1:10), around the time of Ezra and Nehemiah. Some date it between Ezra's arrival (458 BC) and Nehemiah's (445 BC); others between Nehemiah's two visits, about 433 BC (Reformation Study Bible). The Lutheran Study Bible gives about 430 BC. The sins Malachi attacks, foreign marriages, unpaid tithes, corrupt priests and injustice, closely match Nehemiah 13.
+- **When:** in the Persian period, when Judah had a governor (1:8) and the rebuilt temple was in use (1:10), around the time of Ezra and Nehemiah. Some date it between Ezra's arrival (458 BC) and Nehemiah's (445 BC); others between Nehemiah's two visits, about 433 BC (Reformation Study Bible). The Lutheran Study Bible gives about 430 BC, and the Reformation Heritage KJV Study Bible (RH) about 435 BC, between Nehemiah's two terms. The sins Malachi attacks, foreign marriages, unpaid tithes, corrupt priests and injustice, closely match Nehemiah 13.
 - **Where:** Jerusalem and Judah under Persian rule.
 - **Who wrote it:** "Malachi" means "my messenger". Some ancient translations took it as a title (the Greek has "his messenger"; an Aramaic paraphrase identifies him with Ezra). The RSB takes it as the prophet's name, since every other prophetic book is named after its prophet. Nothing else is known about him.
 - **Where it sits:** last of the Twelve and, in English Bibles, the last book of the Old Testament. It speaks to a discouraged people: poor, under Persian rule, and doubting God's promises because the glorious age the prophets foretold hadn't come. About four hundred years of prophetic silence follow, until John the Baptist.
@@ -135,6 +135,7 @@ The Lord who suddenly comes to his temple (3:1) is Jesus, presented there as a b
 - Daniel C. Timmer, "The Twelve," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Message and Theology (repentance and Malachi's dispute structure, deliverance of the remnant, the day of the Lord), Approaching the New Testament.
 - *The Lutheran Study Bible* (Concordia, 2009), introduction to Malachi: Overview. Lutheran source.
 - *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Malachi: Title and Author, Date and Occasion, Genre and Literary Features, Characteristics and Primary Themes, Theology of Malachi, Malachi in the Larger Story of the Bible, Christ in the Book of Malachi, History of Interpretation, Outline.
+- *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to Malachi: Authorship, Date, Theme, Purpose, Synopsis, Outline; chapter summaries.
 
 ## Changelog
 

@@ -17,9 +17,10 @@ God sends Jonah to warn Nineveh, the capital of Israel's brutal enemy Assyria, b
 ## Setting
 
 - **When:** Jonah son of Amittai prophesied in the reign of Jeroboam II of Israel (793–753 BC), foretelling the king's victories that pushed Israel's border back to Solomon's line (2 Kgs 14:25). The Lutheran Study Bible gives about 790 BC. Prosperity hid decay, and Hosea was warning that Assyria would one day conquer Israel, as it did in 722 BC; Jonah may have sensed that saving Nineveh meant trouble for his own nation (Reformation Study Bible).
+- **His name:** Jonah means "dove". The Reformation Heritage KJV Study Bible (RH) dates his ministry to about 760 BC, overlapping Hosea and Amos.
 - **Where:** Israel (Jonah was from Gath-hepher in Galilee), the port of Joppa, the Mediterranean, and Nineveh in Assyria.
 - **Who wrote it:** anonymous. The book is told about Jonah in the third person, by Jonah or another writer after the events. Scholars date its writing anywhere from the 8th to the 3rd century BC; the RSB sees no good reason against an early date, before Nineveh fell in 612 BC.
-- **Where it sits:** among the Twelve, the only one that is mostly a story about a prophet rather than a collection of his oracles. It is a carefully told story, but the RSB reads it as real history, not allegory or parable: Jewish tradition did, and so did Jesus (Matt 12:39–41). Most objections assume God can't act in nature or history. Timmer notes that in one ancient Qumran copy Jonah may have come last in the collection.
+- **Where it sits:** among the Twelve, the only one that is mostly a story about a prophet rather than a collection of his oracles. It is a carefully told story, but the RSB reads it as real history, not allegory or parable: Jewish tradition did, and so did Jesus (Matt 12:39–41). Most objections assume God can't act in nature or history. Timmer notes that in one ancient Qumran copy Jonah may have come last in the collection. Jonah's whole recorded sermon is five words in Hebrew (3:4). RH also notes that Nineveh's people turn to God without first becoming Israelites, a foretaste of the Gentiles welcomed in Acts 15.
 
 ## Structure
 
@@ -131,6 +132,7 @@ Unlike Jonah, who fled from God's mission to the nations, Jesus willingly went t
 - Daniel C. Timmer, "The Twelve," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues (the orders of the Twelve), Message and Theology (repentance of the nations, deliverance of some among the nations), Approaching the New Testament.
 - *The Lutheran Study Bible* (Concordia, 2009), introduction to Jonah: Overview. Lutheran source.
 - *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Jonah: Title and Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of Jonah, Jonah in the Larger Story of the Bible, Christ in Jonah, History of Interpretation, Special Issues, Outline.
+- *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to Jonah: Authorship, Date, Theme, Purpose, Synopsis, Outline; chapter summaries.
 
 ## Changelog
 

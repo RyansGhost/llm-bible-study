@@ -16,7 +16,7 @@ God tells Hosea to marry an unfaithful woman, Gomer, so that his marriage become
 
 ## Setting
 
-- **When:** the second half of the eighth century BC (the Lutheran Study Bible gives about 740–715 BC). Hosea began under Jeroboam II (793–753 BC), whose reign was prosperous and secure, and preached on through the chaos after it: six kings in about twenty-five years, four of them assassinated (2 Kgs 15–17). Israel swung between Egypt and Assyria for help (7:11; 12:1), and the Syro-Ephraimite war (735–732 BC) seems to lie behind 5:8–10. Samaria had not yet fallen when he spoke (13:16) (Reformation Study Bible).
+- **When:** the second half of the eighth century BC (the Lutheran Study Bible gives about 740–715 BC; the Reformation Heritage KJV Study Bible, RH, from before 753 to about 725 BC, ending before Samaria fell). Hosea began under Jeroboam II (793–753 BC), whose reign was prosperous and secure, and preached on through the chaos after it: six kings in about twenty-five years, four of them assassinated (2 Kgs 15–17). Israel swung between Egypt and Assyria for help (7:11; 12:1), and the Syro-Ephraimite war (735–732 BC) seems to lie behind 5:8–10. Samaria had not yet fallen when he spoke (13:16) (Reformation Study Bible).
 - **Where:** the northern kingdom of Israel, often called "Ephraim", with Samaria, Bethel and Gilgal. Judah is also addressed. Worship of the Lord had become mixed with the Canaanite fertility cult of Baal ("lord" or "master"), complete with ritual prostitution, and the priests went along with it (2:5–13; 4:4–14).
 - **Who wrote it:** Hosea son of Beeri, apparently a native of the north, given how well he knows its places and history. He and Amos are the only writing prophets who date their work by kings of both Israel and Judah (1:1).
 - **Where it sits:** first of the Twelve (the Minor Prophets). Timmer notes these twelve books were collected together by the 2nd century BC, though their order varies in ancient copies. Hosea was a contemporary of Amos, Isaiah and Micah.
@@ -71,13 +71,13 @@ The Reformation Study Bible's outline:
 - **Knowledge of God:** the people perish for lack of knowing God (4:1, 6).
 - **Judgment as covenant discipline:** the land will be laid waste and the people exiled to Assyria (5:9–14; 9:3), but God's purpose is to bring Israel back (2:14–15; 5:15). Paul applies the promise to call "Not My People" his people to Gentiles brought in through Christ (1:10; 2:23; Rom 9:25–26).
 - **Repentance:** Timmer notes how strongly Hosea links repentance with turning from other gods to find full life in the Lord (14:1–3).
-- **Love that won't let go:** "How can I give you up, O Ephraim?" (11:8–9).
+- **Love that won't let go:** "How can I give you up, O Ephraim?" (11:8–9). RH's one-line summary of the book: God's love, rejected yet unchanging.
 
 ## How it points to Christ
 
 Matthew quotes "out of Egypt I called my son" (11:1) of Jesus' return from Egypt (Matt 2:15). Jesus, the true Son, succeeds where Israel failed. Jesus quotes "I desire mercy, and not sacrifice" (6:6) against the Pharisees (Matt 9:13; 12:7). Paul uses Hosea's "Not My People … My People" to show God gathering Gentiles into his people (Rom 9:25–26; 1 Pet 2:10), and turns "O death, where is your sting?" into a song of resurrection victory (13:14; 1 Cor 15:55).
 
-Hosea buying back his faithless wife pictures Christ, who redeems an unfaithful bride at great cost (Eph 5:25–27).
+RH notes a turn of grace: Naphtali, the first region to fall to Assyria (2 Kgs 15:29), became the first to see Christ's ministry, as light dawned on Galilee (Matt 4:12–16). Hosea buying back his faithless wife pictures Christ, who redeems an unfaithful bride at great cost (Eph 5:25–27).
 
 ## Common mix-ups
 
@@ -89,7 +89,7 @@ Hosea buying back his faithless wife pictures Christ, who redeems an unfaithful 
 
 ## Going deeper
 
-- **Did God really tell Hosea to marry a promiscuous woman?** Interpreters debate whether Gomer was unfaithful before the marriage or became so after, and whether the account is literal. What does the command cost Hosea, and what does it reveal about God?
+- **Did God really tell Hosea to marry a promiscuous woman?** Interpreters debate whether Gomer was unfaithful before the marriage or became so after, and whether the account is literal. What does the command cost Hosea, and what does it reveal about God? RH lays out the options (a parable rather than a real marriage, or a real one, with Gomer unfaithful before or only after the wedding) and takes 3:1 as the key verse, tying Hosea's love for Gomer to God's love for Israel.
 - **Mercy, not sacrifice (6:6).** Why does God prefer steadfast love and knowledge of him to sacrifices? How does Jesus apply it (Matt 9:13; 12:7)?
 - **God's anguished love (11:1–9).** God speaks as a parent whose heart recoils at judging his child. How does this shape our picture of God's character alongside his justice?
 - **Repentance in the Twelve.** Timmer traces repentance through the Minor Prophets, with Hosea 14 as a high point. What words does God put in Israel's mouth to return with (14:2–3)?
@@ -142,6 +142,7 @@ Hosea buying back his faithless wife pictures Christ, who redeems an unfaithful 
 - Daniel C. Timmer, "The Twelve," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues (the Twelve as a collection), Message and Theology (sin, punishment, repentance and deliverance; the day of the Lord), Approaching the New Testament.
 - *The Lutheran Study Bible* (Concordia, 2009), introduction to Hosea: Overview. Lutheran source.
 - *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Hosea: Title and Author, Date, Occasion, Genre and Literary Features, Characteristics and Primary Themes, Theology of Hosea, Hosea in the Larger Story of the Bible, Christ in Hosea, History of Interpretation, Special Issues, Outline.
+- *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to Hosea: Authorship, Date, Theme, Purpose, Synopsis, Major Problem of Interpretation, Outline; chapter summaries.
 
 ## Changelog
 

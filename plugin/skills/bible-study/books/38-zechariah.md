@@ -16,9 +16,9 @@ Zechariah encourages the returned exiles to finish the temple and return to the 
 
 ## Setting
 
-- **When:** Zechariah began in 520 BC, two months after Haggai (1:1), with dated messages to 518 BC (7:1). Chapters 9–14 may come from later in his life.
+- **When:** Zechariah began in 520 BC, two months after Haggai (1:1), with dated messages to 518 BC (7:1). Chapters 9–14 may come from later in his life; the Reformation Heritage KJV Study Bible (RH) dates them about 480–470 BC, since they mention Greece (9:13), giving a ministry of some fifty years.
 - **Where:** Jerusalem, among the people who had returned from Babylon.
-- **Who wrote it:** Zechariah son of Berechiah, son of Iddo, from a priestly family (1:1; Neh 12:16). Many scholars assign chapters 9–14 to a later author, often in the second century BC, because of the change in style. The Reformation Study Bible finds those arguments tentative, with no agreement among their supporters, and sees no compelling reason to doubt that Zechariah wrote the whole book.
+- **Who wrote it:** Zechariah son of Berechiah, son of Iddo, from a priestly family (1:1; Neh 12:16). His name means "the Lord remembers". Being called "son of Iddo" elsewhere (Ezra 5:1) simply names his better-known grandfather. RH takes Jesus' words about a Zechariah son of Barachiah killed at the temple (Matt 23:35) as referring to this prophet; others see the earlier Zechariah of 2 Chronicles 24:20–22. Many scholars assign chapters 9–14 to a later author, often in the second century BC, because of the change in style. The Reformation Study Bible finds those arguments tentative, with no agreement among their supporters, and sees no compelling reason to doubt that Zechariah wrote the whole book.
 - **Where it sits:** among the Twelve, a contemporary of Haggai (Ezra 5:1; 6:14). Haggai focused on rebuilding the temple; Zechariah on the welfare and future of Jerusalem. It is the longest of the Minor Prophets, and the one the New Testament quotes most. Its visions, like Ezekiel's and Daniel's, are an early form of apocalyptic.
 
 ## Structure
@@ -160,6 +160,7 @@ Joshua's filthy garments replaced with clean ones (3:3–5) pictures justificati
 - Daniel C. Timmer, "The Twelve," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Message and Theology (chronology, repentance, deliverance of the remnant, the nations' repentance and deliverance), Approaching the New Testament.
 - *The Lutheran Study Bible* (Concordia, 2009), introduction to Zechariah: Overview. Lutheran source.
 - *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Zechariah: Title and Author, Date and Occasion, Genre and Literary Features, Characteristics and Primary Themes, Theology of Zechariah, Zechariah in the Larger Story of the Bible, Christ in Zechariah, History of Interpretation, Outline.
+- *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to Zechariah: Authorship, Date, Theme, Purpose; chapter summaries.
 
 ## Changelog
 

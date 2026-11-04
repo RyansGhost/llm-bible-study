@@ -18,7 +18,7 @@ Micah, a country prophet from Judah, condemns the corrupt leaders of both Samari
 
 - **When:** in the reigns of Jotham, Ahaz and Hezekiah of Judah (1:1), about 735–700 BC (the Lutheran Study Bible gives about 750–686 BC). This spans the fall of Samaria (722 BC) and Sennacherib's invasion (701 BC), when Assyria swept through Judah's western foothills up to Jerusalem's gate, as Micah foretold (1:8–16). Ahaz had copied Assyrian worship in the temple (2 Kgs 16:10–18), and greedy landowners were seizing family land while corrupt leaders backed them (2:1–5; 3) (Reformation Study Bible).
 - **Where:** Judah and Jerusalem, with oracles against Samaria. Micah was from Moresheth, a village in Judah's lowlands, an outsider to the capital.
-- **Who wrote it:** Micah of Moresheth, a contemporary of Isaiah (in Jerusalem) and Hosea (in the north).
+- **Who wrote it:** Micah of Moresheth, a contemporary of Isaiah (in Jerusalem) and Hosea (in the north). The Reformation Heritage KJV Study Bible (RH) dates his ministry about 750–700 BC and calls him Judah's counterpart to Amos: the same sins of greed and injustice, and the same warnings, though unlike Amos he saw some fruit in Hezekiah's repentance.
 - **Where it sits:** among the Twelve. Timmer notes its heading is very similar to those of Hosea, Amos and Zephaniah. A century later, elders in Jeremiah's day remembered that Micah's warning against Jerusalem (3:12) had led Hezekiah to repent and the city to be spared, and the memory saved Jeremiah's life (Jer 26:17–19). Micah 4:1–3 is almost identical to Isaiah 2:2–4.
 
 ## Structure
@@ -133,6 +133,7 @@ The God who casts sins into the depths of the sea (7:19) does so through Christ'
 - Daniel C. Timmer, "The Twelve," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Message and Theology (sin in Israel and Judah, punishment, repentance, deliverance of the remnant, the nations), Approaching the New Testament.
 - *The Lutheran Study Bible* (Concordia, 2009), introduction to Micah: Overview. Lutheran source.
 - *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Micah: Title and Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of Micah, Micah in the Larger Story of the Bible, Christ in Micah, History of Interpretation, Outline.
+- *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to Micah: Authorship, Date, Theme, Purpose, Synopsis, Outline; chapter summaries.
 
 ## Changelog
 

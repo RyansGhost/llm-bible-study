@@ -31,18 +31,18 @@ The EPUB is indexed with `tools/epub_index.py` (work `beeke-reformation-heritage
 - [x] 25 Lamentations
 - [x] 26 Ezekiel
 - [x] 27 Daniel
-- [ ] 28 Hosea
-- [ ] 29 Joel
-- [ ] 30 Amos
-- [ ] 31 Obadiah
-- [ ] 32 Jonah
-- [ ] 33 Micah
-- [ ] 34 Nahum
-- [ ] 35 Habakkuk
-- [ ] 36 Zephaniah
-- [ ] 37 Haggai
-- [ ] 38 Zechariah
-- [ ] 39 Malachi
+- [x] 28 Hosea
+- [x] 29 Joel
+- [x] 30 Amos
+- [x] 31 Obadiah
+- [x] 32 Jonah
+- [x] 33 Micah
+- [x] 34 Nahum
+- [x] 35 Habakkuk
+- [x] 36 Zephaniah
+- [x] 37 Haggai
+- [x] 38 Zechariah
+- [x] 39 Malachi
 - [ ] 40 Matthew
 - [ ] 41 Mark
 - [ ] 42 Luke

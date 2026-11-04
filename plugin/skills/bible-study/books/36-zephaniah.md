@@ -17,6 +17,7 @@ Zephaniah announces the great and terrible day of the Lord, which will sweep awa
 ## Setting
 
 - **When:** in the days of King Josiah of Judah (640–609 BC; 1:1), before Nineveh fell in 612 BC (2:13–15). The Reformation Study Bible suggests he began after Josiah's first reforms of 628 BC, since only "the remnant of Baal" is left (1:4), but before the great reform of 622 BC; the sins he attacks are the ones Josiah removed (2 Kgs 23:4–14), so his preaching may have helped spur it. He was a contemporary of Jeremiah.
+- **Dating in brief:** the Reformation Heritage KJV Study Bible (RH) likewise places him in the first half of Josiah's reign, about 640–621 BC, early in Jeremiah's ministry.
 - **Where:** Judah and Jerusalem, with oracles against Philistia, Moab, Ammon, Cush and Assyria.
 - **Who wrote it:** Zephaniah, whose name means "the Lord has hidden" or "treasured". Uniquely among the prophets, his family line is traced back four generations, to Hezekiah (1:1), probably the king, which would make him a man of standing in Jerusalem and a distant relative of Josiah. He uses priestly language, but there's no clear sign he served at the temple.
 - **Where it sits:** among the Twelve, the last of them written before the exile; Haggai, Zechariah and Malachi come after the return (RSB). Timmer notes its heading is similar to those of Hosea, Amos and Micah, and that Zephaniah presses repentance strongly (2:1–3).
@@ -130,6 +131,7 @@ The day of the Lord finds its fullest meaning in Christ. In his first coming he 
 - Daniel C. Timmer, "The Twelve," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Message and Theology (the day of the Lord, sin and punishment, repentance, the remnant, the nations).
 - *The Lutheran Study Bible* (Concordia, 2009), introduction to Zephaniah: Overview. Lutheran source.
 - *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Zephaniah: Title and Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of Zephaniah, Zephaniah in the Larger Story of the Bible, Christ in Zephaniah, History of Interpretation, Outline.
+- *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to Zephaniah: Authorship, Date, Theme, Purpose, Synopsis; chapter summaries.
 
 ## Changelog
 
