@@ -20,7 +20,7 @@ Shared source chapters (read once, used for several books): Van Pelt's "1–2 Sa
 
 ### History
 - [x] 6 Joshua (merge with the existing session draft)
-- [ ] 7 Judges
+- [x] 7 Judges
 - [x] 8 Ruth
 - [ ] 9 1 Samuel
 - [ ] 10 2 Samuel

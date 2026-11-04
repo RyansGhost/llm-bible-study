@@ -112,7 +112,7 @@ Rahab, saved by faith and marked by a scarlet cord, appears in Jesus' genealogy 
 
 - The conquest is not complete: much land remains (13:1), which sets up Judges.
 - Moses' death is in Deuteronomy, not Joshua.
-- Two different Ais are easy to mix up with Jericho: the walls fall at Jericho (6), and the defeat comes at Ai (7) because of Achan.
+- Jericho and Ai are easy to mix up: the walls fall at Jericho (6), and the defeat comes at Ai (7) because of Achan.
 - The Gibeonites trick Israel; they aren't conquered. The sun stands still while Israel defends them (10).
 - Caleb receives Hebron, not Joshua; Joshua's own town is Timnath-serah (19:50).
 - "As for me and my house" is from Joshua 24:15, not Proverbs.

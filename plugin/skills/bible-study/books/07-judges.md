@@ -5,56 +5,130 @@ book: 7
 testament: old
 section: "History"
 weight: 7
-status: placeholder
+status: draft
 ---
 
 # Judges
 
 ## Sources
 
-- Reformation Study Bible, introduction to Judges, p. ___
-- Ligonier: _article title_, _url_
+- Michael J. Glodo, "Judges," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues, Structure and Outline, Message and Theology (the prologues, the cycles, each judge). Print pages to verify.
+- *The Lutheran Study Bible* (Concordia, 2009), introduction to Judges: Overview, Challenges for Readers. Lutheran source.
+- Reformation Study Bible, introduction to Judges, p. ___ (to verify)
 
 ## Summary
 
-_Not written yet._ One or two sentences: what Judges is about and why it matters.
+Judges tells of Israel's spiral into idolatry and chaos between Joshua's death and the rise of the kings. Again and again Israel turns to other gods, God hands them over to oppressors, they cry out, and God mercifully raises up a deliverer. Each round goes worse than the last, and the book ends in moral collapse: "there was no king in Israel. Everyone did what was right in his own eyes" (21:25).
 
 ## Setting
 
-_Not written yet._ Where, when, who wrote it, and where it sits in the story of Scripture.
+- **When:** from Joshua's death to just before Samuel, roughly 1375–1100 BC on the traditional dating (Glodo). Some judges' terms probably overlapped, so the numbers in the book can't simply be added up.
+- **Where:** throughout Canaan, especially the central hill country, with local oppressors on every side: Moab, Canaanite Hazor, Midian, Ammon, and the Philistines.
+- **Who wrote it:** unknown. The Lutheran Study Bible dates it to about 1000 BC. The refrain "there was no king" suggests it was written once kingship had begun, and Jewish tradition credits Samuel.
+- **Where it sits:** the second of the "Former Prophets", between Joshua's conquest and the monarchy in Samuel. Ruth happens "in the days when the judges ruled".
 
 ## Structure
 
-- _Chapters_: _section_
+Two prologues, the stories of twelve judges, and a two-part epilogue (Glodo, following Davis):
+
+- 1:1–3:6: Prologues: the conquest stalls (Israel's view, 1:1–2:5), and why (God's view, 2:6–3:6)
+- 3:7–16:31: The judges: six major judges (Othniel, Ehud, Deborah and Barak, Gideon, Jephthah, Samson), six minor judges, and one "anti-judge" (Abimelech)
+- 17–21: Epilogue: Micah's idol and the Danites (17–18); the Levite's concubine and the civil war against Benjamin (19–21)
 
 ## Chapter by chapter
 
-- **Chapter 1:** _two or three sentences_
+- **Judges 1:** After Joshua's death, Judah leads with some success, but tribe after tribe fails to drive out the Canaanites and puts them to forced labour instead.
+- **Judges 2:** The angel of the Lord rebukes Israel at Bochim. A generation grows up that doesn't know the Lord, and the cycle begins: idolatry, oppression, crying out, deliverance, relapse.
+- **Judges 3:** Nations are left to test Israel. Othniel defeats Cushan-rishathaim. Ehud, a left-handed Benjaminite, kills Eglon of Moab. Shamgar strikes the Philistines with an ox goad.
+- **Judges 4:** Deborah the prophetess calls Barak to fight Sisera, commander of Jabin of Hazor. Sisera's army is routed, and Jael kills Sisera with a tent peg.
+- **Judges 5:** The Song of Deborah celebrates the victory.
+- **Judges 6:** Midian ravages Israel. The angel of the Lord calls fearful Gideon, who tears down his father's altar to Baal, then asks for signs with the fleece.
+- **Judges 7:** God cuts Gideon's army to 300 men, so Israel can't boast. With trumpets, jars and torches they rout Midian.
+- **Judges 8:** Gideon pursues the Midianite kings and refuses to be king, but makes a gold ephod that becomes a snare to Israel.
+- **Judges 9:** Gideon's son Abimelech murders seventy brothers and is made king at Shechem. Jotham tells a fable against him, and Abimelech dies when a woman drops a millstone on his head.
+- **Judges 10:** The minor judges Tola and Jair. Israel serves many gods and is oppressed by the Philistines and Ammon. God refuses to help, then can bear their misery no longer.
+- **Judges 11:** Jephthah, an outcast, is called to fight Ammon. He makes a rash vow, wins, and his daughter comes out to meet him.
+- **Judges 12:** Jephthah fights Ephraim, which fails the "Shibboleth" test. The minor judges Ibzan, Elon and Abdon.
+- **Judges 13:** The angel of the Lord announces Samson's birth to Manoah's barren wife. He is to be a Nazirite from birth.
+- **Judges 14:** Samson insists on a Philistine wife from Timnah, kills a lion, and sets a riddle that ends in violence.
+- **Judges 15:** Samson burns the Philistine fields with foxes and kills a thousand men with a donkey's jawbone.
+- **Judges 16:** Delilah learns the secret of Samson's strength, his hair is cut, and he is captured and blinded. In his death he pulls down the temple of Dagon.
+- **Judges 17:** Micah sets up a household idol and hires a Levite as his priest. "There was no king in Israel" (17:6).
+- **Judges 18:** The tribe of Dan seizes Micah's idols and Levite, destroys the peaceful town of Laish, and sets up its own shrine.
+- **Judges 19:** A Levite's concubine is abused to death in Gibeah of Benjamin, a scene that echoes Sodom (Gen 19).
+- **Judges 20:** All Israel goes to war against Benjamin, which is nearly wiped out.
+- **Judges 21:** Israel finds wives for the surviving Benjaminites by violent and dubious means. "Everyone did what was right in his own eyes" (21:25).
 
 ## Key people
 
-- _Name_: _one line on their role_
+- **Othniel:** Caleb's nephew and son-in-law, the first and model judge.
+- **Ehud:** a left-handed Benjaminite who kills the fat Moabite king Eglon.
+- **Deborah:** a prophetess and judge who summons Barak to battle.
+- **Barak:** the commander who won't go without Deborah, so the honour goes to a woman.
+- **Jael:** a Kenite woman who kills Sisera.
+- **Gideon (Jerubbaal):** a fearful farmer who becomes a mighty deliverer, but whose gold ephod leads Israel astray.
+- **Abimelech:** Gideon's son, who murders his brothers and makes himself king.
+- **Jephthah:** an outcast warrior whose rash vow costs him his daughter.
+- **Samson:** a Nazirite of great strength and little self-control, who defeats more Philistines in his death than in his life.
+- **Delilah:** the woman who betrays Samson to the Philistines.
+- **Micah and the Levite:** a man with a homemade shrine, and a priest for hire.
 
 ## Key events
 
-- _Event (chapter)_: _one line_
+- The conquest stalls; the cycle of sin and deliverance begins (1–2)
+- Ehud kills Eglon (3)
+- Deborah, Barak and Jael defeat Sisera (4–5)
+- Gideon's fleece and his 300 men (6–7)
+- Abimelech's bloody kingship (9)
+- Jephthah's vow (11)
+- Samson's birth, exploits, betrayal and death (13–16)
+- Micah's idol and the Danite shrine (17–18)
+- The outrage at Gibeah and the war against Benjamin (19–21)
 
 ## Themes
 
-- _Theme_: _one line, with a key verse_
+- **The cycle of sin:** Israel turns away, God hands them over, they cry out, and God raises a judge (2:11–19). Glodo shows each round getting worse: longer oppressions, shorter peace.
+- **God's patient mercy:** God keeps rescuing a people who keep failing (2:18; 10:16).
+- **Flawed deliverers:** the judges grow more compromised, from Othniel to Gideon's ephod, Jephthah's vow and Samson's appetites. God works through weak and unlikely instruments.
+- **The Spirit of the Lord:** God's Spirit empowers the judges for victory (3:10; 6:34; 11:29; 14:6).
+- **Covenant amnesia:** a generation "did not know the Lord" (2:10). Failing to teach the next generation brings disaster (Deut 6:6–9).
+- **The need for a faithful king:** "In those days there was no king in Israel" (17:6; 18:1; 19:1; 21:25) prepares for David, and ultimately for Christ.
+- **Becoming like the Canaanites:** by the end, Israelites behave like Sodom (19) and wage war on each other.
 
 ## How it points to Christ
 
-_Not written yet._ One or two lines, with New Testament references.
+Each judge is a Spirit-empowered deliverer whom God raises to save his people from oppression, and each falls short. The book leaves us longing for a deliverer without flaws and a righteous king who will lead the people's hearts back to God. That longing is answered first in David, from Bethlehem in Judah (Ruth 4:17), and finally in Jesus. He is anointed with the Spirit (Luke 4:18), wins the decisive victory by dying (as Samson did, but without sin), and reigns forever.
+
+Hebrews names Gideon, Barak, Samson and Jephthah among those who "through faith conquered kingdoms" (Heb 11:32–34): commended for their faith, not for their lives.
 
 ## Common mix-ups
 
-- _Things easily confused with other books_
+- The "judges" are mostly military deliverers, not courtroom judges. Deborah is the one shown settling disputes (4:4–5).
+- Jael kills Sisera, not Deborah or Barak.
+- Gideon's fleece (6) is a request for signs, not an example of strong faith. God reduces his army to 300 in chapter 7.
+- Abimelech is Gideon's son and a self-made king, not a God-raised judge. There is also an unrelated Abimelech in Genesis.
+- Samson is the last judge in this book; Eli and Samuel judge Israel in 1 Samuel.
+- Ruth is set in the days of the judges but is a separate book.
+- The epilogue (17–21) isn't later in time; it shows how corrupt Israel already was during this period.
 
 ## Going deeper
 
-- **_Topic_:** _a question worth a longer conversation, and where the sources discuss it_
+- **Why does each cycle get worse?** Glodo traces the decline: longer oppressions, shorter rest, weaker judges, and tribes turning on each other. Read: Glodo on the cycles, and his table of years of oppression and rest.
+- **What happened to Jephthah's daughter?** Was she sacrificed (11:39) or devoted to lifelong service? Either way, the vow was rash, and the text never approves it.
+- **Was Samson a hero?** He broke his Nazirite vow piece by piece, chased foreign women, and acted from revenge, yet God used him (14:4) and Hebrews lists him among the faithful. How does God's grace work through a flawed man?
+- **The angel of the Lord.** He appears to Israel (2:1), to Gideon (6) and to Samson's parents (13), speaking as God himself and accepting worship. Many Reformed interpreters see appearances of the pre-incarnate Son here.
+- **Weapons of opportunity.** Glodo notes the odd weapons: a dagger, an ox goad, a tent peg, jars and torches, a millstone, a jawbone. What does that say about who wins Israel's battles?
+- **The epilogue and Gibeah.** The horror of chapter 19 echoes Sodom, and Gibeah is later Saul's hometown. How does Judges prepare for the contrast between Saul and David?
 
 ## Q&A
 
-1. _Question?_ _Answer._
+1. What refrain sums up the book? "In those days there was no king in Israel. Everyone did what was right in his own eyes" (21:25).
+2. Describe the cycle of Judges. Israel sins, God hands them over to oppressors, they cry out, God raises a judge, there is rest, then they sin again (2:11–19).
+3. Who was the first judge? Othniel (3:9).
+4. How did Ehud kill Eglon? With a hidden double-edged dagger, using his left hand (3:15–22).
+5. Who killed Sisera, and how? Jael, with a tent peg (4:21).
+6. How many men did Gideon finally fight with? Three hundred (7:7).
+7. What was Jephthah's rash vow? To sacrifice whatever came out of his house first to meet him; it was his daughter (11:30–35).
+8. What was the secret of Samson's strength? His uncut hair, the sign of his Nazirite vow (16:17).
+9. How did Samson die? By pulling down the temple of Dagon on himself and the Philistines (16:30).
+10. Which tribe was nearly wiped out in a civil war? Benjamin (20).
