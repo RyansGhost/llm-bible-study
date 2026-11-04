@@ -97,4 +97,4 @@ Shared source chapters (read once, used for several books): Van Pelt's "1–2 Sa
 - [x] 65 Jude
 
 ### Prophecy
-- [ ] 66 Revelation
+- [x] 66 Revelation
