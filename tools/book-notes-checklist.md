@@ -22,8 +22,8 @@ Shared source chapters (read once, used for several books): Van Pelt's "1–2 Sa
 - [x] 6 Joshua (merge with the existing session draft)
 - [x] 7 Judges
 - [x] 8 Ruth
-- [ ] 9 1 Samuel
-- [ ] 10 2 Samuel
+- [x] 9 1 Samuel
+- [x] 10 2 Samuel
 - [ ] 11 1 Kings
 - [ ] 12 2 Kings
 - [ ] 13 1 Chronicles
