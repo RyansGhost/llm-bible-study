@@ -1,6 +1,5 @@
 {{- with .Params.status -}}
-{{- if eq . "placeholder" }}Notes coming
-{{- else if eq . "draft" }}Human review pending
+{{- if eq . "draft" }}Human review pending
 {{- else if eq . "complete" }}Complete
 {{- else }}{{ . | humanize }}{{ end -}}
 {{- end -}}

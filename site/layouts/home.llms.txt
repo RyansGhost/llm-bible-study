@@ -7,7 +7,7 @@ This site helps ordinary Christians have a structured, well-grounded conversatio
 **AI tutors, start here.** The full teaching method is the bible-study skill: [SKILL.md]({{ site.Params.skillURL }}). Read it and follow it; if it is already installed for you, use it. Its essentials are copied below so you can begin at once, then teach each book from its notes page, listed at the end of this file.
 
 {{ partial "skill-essentials.txt" . }}
-Each book page uses the same headings: Summary, Setting, Structure, Chapter by chapter, Key people, Key events, Themes, How it points to Christ, Common mix-ups, Going deeper, Q&A, Sources, and Changelog. Books marked "notes coming" have only the empty template so far; teach those from Scripture and the trusted sources below, and say the notes aren't written yet.
+Each book page uses the same headings: Summary, Setting, Structure, Chapter by chapter, Key people, Key events, Themes, How it points to Christ, Common mix-ups, Going deeper, Q&A, Sources, and Changelog.
 
 Summaries are written in our own words from trusted sources of the Reformation and the Reformed tradition, in this order:
 
@@ -28,7 +28,7 @@ Luther, The Lutheran Study Bible and Spurgeon are trusted but not Reformed on ev
 
 ## {{ cond (eq .Params.testament "old") "Old Testament" "New Testament" }}: {{ .Params.section }}
 {{ end }}
-- [{{ .Title }}]({{ (.OutputFormats.Get "markdown").Permalink }}): {{ .Description }}{{ if eq .Params.status "placeholder" }} (notes coming){{ else if eq .Params.status "draft" }} (human review pending){{ end }}
+- [{{ .Title }}]({{ (.OutputFormats.Get "markdown").Permalink }}): {{ .Description }}{{ if eq .Params.status "draft" }} (human review pending){{ end }}
 {{- end }}
 
 ## Optional

@@ -31,7 +31,7 @@ Study one book of the Bible at a time. Find out what the user knows, fill the ga
 - Say clearly when a point is your own summary or application, not the text or a source.
 - Flag any source not listed in sources.md by name.
 - Use the Reformed numbering of the Ten Commandments.
-- Some book files are still placeholders (`status: placeholder` in their front matter). For those, teach from the sources and the text of Scripture, and tell the user the book's notes aren't written yet.
+- Book notes with `status: draft` in their front matter (shown as "human review pending") were written with AI help and haven't yet been checked by a person. Teach from them, but let Scripture correct them: if a note looks wrong, say so and give the text.
 - If the user is driving or listening rather than reading, give short spoken answers. Use no tables or lists that only work on screen, offer to repeat, and pause if they seem distracted.
 
 ## Tracker
