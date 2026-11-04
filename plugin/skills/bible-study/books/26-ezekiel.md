@@ -110,7 +110,7 @@ Three movements, also found in Isaiah and Zephaniah: judgment on God's people, j
 
 - **The glory of God:** McKelvey highlights the temple and God's glory as a key to the book. The glory departs because of sin (10–11) and returns to a new temple (43), a pattern he describes as creation, de-creation and re-creation.
 - **God's holiness:** the root for "holy" appears about 51 times. God's holy name has been profaned by his people and must be vindicated (36:22–23).
-- **God's sovereignty:** "they will know that I am the Lord" recurs throughout. God rules Israel and the nations to make himself known.
+- **God's sovereignty:** "they will know that I am the Lord" recurs throughout, more than sixty times, echoing Exodus, and "the Lord GOD" appears over two hundred times, most of the Old Testament's uses (the Reformation Heritage KJV Study Bible, RH). God rules Israel and the nations to make himself known, and acts "for the sake of my holy name", not because Israel deserves it (36:22).
 - **Sin and responsibility:** no prophet catalogues Israel's history of sin more fully (16; 20; 23). Each generation, and each person, answers for its own sin, not its fathers' (18).
 - **Sign-acts and visions:** Ezekiel acts out his message (lying on his side, shaving his head, packing an exile's bag) because his hearers resisted plain words (4–5; 12).
 - **The watchman:** the prophet must warn the wicked, and is accountable if he stays silent (3; 33).
@@ -140,7 +140,7 @@ The glory that left the temple returns in Jesus, the Word who "dwelt among us" a
 - **Individual responsibility (18).** Does Ezekiel 18 contradict the idea that children suffer for their parents' sin (Ex 20:5)? What is the point for the exiles who blamed their ancestors?
 - **The new heart (36:25–27).** Compare with Jeremiah's new covenant (Jer 31:31–34). How do Reformed theologians connect this with regeneration?
 - **Ezekiel's sign-acts.** Lying on his side, shaving his head, digging through a wall, not mourning his wife: why does God use such dramatic actions? What do they cost the prophet?
-- **How should the temple vision (40–48) be read?** A literal future temple, a symbolic picture of God dwelling with his people fulfilled in Christ and the church, or the new creation of Revelation 21–22? Read McKelvey's discussion of John's use of Ezekiel.
+- **How should the temple vision (40–48) be read?** A literal future temple, a symbolic picture of God dwelling with his people fulfilled in Christ and the church, or the new creation of Revelation 21–22? Read McKelvey's discussion of John's use of Ezekiel. RH sets out four views and favours the symbolic one, the main view of the Reformers: it is a vision, its river grows impossibly deep within a short distance (47:3–5) and reappears in Revelation 22, its plans were never carried out or demanded after the exile, and a future temple with atoning sacrifices (45:15, 17) would contradict Christ's once-for-all sacrifice (Heb 10:10–18).
 - **"They will know that I am the Lord."** Count how often it appears. What does it say about God's purpose in both judgment and salvation?
 
 ## Q&A
@@ -189,6 +189,7 @@ The glory that left the temple returns in Jesus, the Word who "dwelt among us" a
 
 - Michael G. McKelvey, "Ezekiel," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues (authorship, historical background and audience), Structure and Outline, Message and Theology (creation, de-creation and re-creation; God's holiness, sovereignty, mercy; man's sinfulness and responsibility), Approaching the New Testament.
 - *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Ezekiel: Title, Author, Date and Occasion, Genre and Literary Features, Characteristics and Primary Themes, Theology of Ezekiel, Ezekiel in the Larger Story of the Bible, Christ in Ezekiel, Ezekiel in the History of Interpretation, Outline.
+- *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to Ezekiel: Authorship, Date, Theme, Purpose, Synopsis, Major Problems of Interpretation (symbolic actions; the new temple and land); chapter summaries.
 
 ## Changelog
 
