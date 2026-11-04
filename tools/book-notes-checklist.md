@@ -89,8 +89,8 @@ Shared source chapters (read once, used for several books): Van Pelt's "1–2 Sa
 ### General Letters
 - [x] 58 Hebrews
 - [x] 59 James
-- [ ] 60 1 Peter
-- [ ] 61 2 Peter
+- [x] 60 1 Peter
+- [x] 61 2 Peter
 - [ ] 62 1 John
 - [ ] 63 2 John
 - [ ] 64 3 John
