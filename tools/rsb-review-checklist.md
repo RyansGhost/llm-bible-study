@@ -54,9 +54,9 @@ The EPUB is indexed with `tools/epub_index.py` (work `bible-reformation-study-bi
 - [x] 48 Galatians
 - [x] 49 Ephesians
 - [x] 50 Philippians
-- [ ] 51 Colossians
-- [ ] 52 1 Thessalonians
-- [ ] 53 2 Thessalonians
+- [x] 51 Colossians
+- [x] 52 1 Thessalonians
+- [x] 53 2 Thessalonians
 - [ ] 54 1 Timothy
 - [ ] 55 2 Timothy
 - [ ] 56 Titus

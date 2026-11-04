@@ -16,19 +16,21 @@ Colossians is short but rich, and its message is simple: Christ is better (Gladd
 
 ## Setting
 
-- **When:** about AD 60–62, from prison (4:3, 18). Gladd discusses which imprisonment: Rome is the traditional view; Ephesus and Caesarea have also been proposed.
-- **Where:** Colossae, a small town in the Lycus Valley of Asia Minor, near Laodicea and Hierapolis. Paul hadn't visited it. Epaphras had planted the church (1:7; 2:1).
-- **Who wrote it:** Paul, with Timothy (1:1). Gladd notes that some modern scholars dispute this because of differences in style and theology and its similarity to Ephesians, while defending Paul's authorship.
+- **When:** about AD 60–62, from prison (4:3, 18). Gladd discusses which imprisonment: Rome is the traditional view, which the Reformation Study Bible takes; Ephesus and Caesarea have also been proposed. Epaphras had come to Paul in prison with news of a strange teaching at home (1:7–8; 4:12–13).
+- **Where:** Colossae, a small town in the Lycus Valley of Asia Minor. Once a large, prosperous centre of the wool trade on the main road east from Ephesus, by Paul's day it had been eclipsed by its neighbours Laodicea and Hierapolis. Paul hadn't visited it. Epaphras, a Colossian, had planted the church, probably during Paul's long ministry in Ephesus, when the word spread through the whole province of Asia (1:7; 2:1; Acts 19:10). The region of Phrygia was known for ecstatic religion and fear of cosmic powers (RSB).
+- **Who wrote it:** Paul, with Timothy (1:1). Gladd notes that some modern scholars dispute this because of differences in style and theology and its similarity to Ephesians, while defending Paul's authorship. The RSB adds that its unusual words ("fullness", "elemental spirits", "asceticism") are mostly borrowed from the false teachers in order to answer them.
 - **Where it sits:** one of the Prison Epistles, closely tied to Philemon (sharing many names, and Onesimus) and to Ephesians (similar wording). Tychicus carried it (4:7–9).
 
 ## Structure
 
+Teaching first (1:1–2:23), then how to live in light of it (3:1–4:18), joined by "as you received Christ Jesus the Lord, so walk in him" (2:6). The Reformation Study Bible's outline:
+
 - 1:1–14: Greeting, thanksgiving and prayer
-- 1:15–23: The supremacy of Christ, and reconciliation through him
-- 1:24–2:5: Paul's ministry of the mystery: "Christ in you, the hope of glory"
-- 2:6–23: Warning against false teaching: you are complete in Christ
-- 3:1–4:6: The new life: seek things above; put off and put on; households; prayer and wise speech
-- 4:7–18: Greetings and instructions
+- 1:15–23: In praise of the Son: Creator and Redeemer, in a two-part hymn (1:15–20), and reconciliation through him
+- 1:24–2:7: Paul's ministry of the mystery, "Christ in you, the hope of glory", and his concern for the Colossians
+- 2:8–23: The sufficiency of Christ: you are complete in him, so reject empty philosophy, rules and angel worship
+- 3:1–4:6: Life in Christ: seek things above; put off and put on; households; prayer and wise speech
+- 4:7–18: Final greetings
 
 ## Chapter by chapter
 
@@ -58,9 +60,9 @@ Colossians is short but rich, and its message is simple: Christ is better (Gladd
 
 - **The supremacy of Christ:** Gladd sums up the letter as "Christ is better". He is Creator, sustainer, head of the church, and firstborn from the dead (1:15–20).
 - **The fullness of God in Christ:** in him all the fullness of deity dwells bodily (2:9). Believers lack nothing in him.
-- **Warning against false teaching:** human philosophy, Jewish regulations (food, festivals, Sabbaths) seen as shadows now that Christ has come, angel worship and harsh self-denial (2:8, 16–23).
+- **Warning against false teaching:** a mix of Jewish and pagan piety presented as "philosophy": Jewish regulations (food, festivals, Sabbaths) seen as shadows now that Christ has come, angel worship and visions, fear of cosmic powers, and harsh self-denial (2:8, 16–23). It didn't deny that Christ was needed, only that he was enough (RSB).
 - **Union with Christ:** died, buried, raised and hidden with Christ (2:12; 3:1–3).
-- **The cross's victory:** our debt cancelled and the powers disarmed (2:13–15).
+- **The cross's victory:** our debt cancelled, so nothing remains for believers to pay, and the powers disarmed (2:13–15). The Reformers used Colossians against anything that adds to Christ's finished work.
 - **New life:** put off the old self, put on the new (3:5–17).
 - **Christ in everyday life:** households and work done for the Lord (3:18–4:1).
 - **Prayer and witness:** steadfast prayer and gracious speech to outsiders (4:2–6).
@@ -113,8 +115,9 @@ The Old Testament food laws, festivals and Sabbaths were "a shadow of the things
 ## Sources
 
 - Benjamin Gladd, "Colossians," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (occasion, authorship, date), Structure and Outline, Message and Theology. Print pages to verify.
-- Reformation Study Bible, introduction to Colossians, p. ___ (to verify)
+- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Colossians: Title and Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of Colossians, Colossians in the Larger Story of the Bible, Christ in Colossians, History of Interpretation, Special Issues, Outline. Print pages to verify.
 
 ## Changelog
 
 1. 2026-11-04: Generated initial notes with Claude Code
+2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code

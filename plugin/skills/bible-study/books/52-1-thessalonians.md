@@ -16,14 +16,14 @@ status: draft
 
 ## Setting
 
-- **When:** about AD 50–51, from Corinth, during Paul's second missionary journey, only months after founding the church (Acts 17:1–10; 18:5).
-- **Where:** Thessalonica, the capital of the Roman province of Macedonia, a busy harbour city on the main east–west road (the Via Egnatia).
+- **When:** about AD 50–51, from Corinth, during Paul's second missionary journey, only months after founding the church (Acts 17:1–10; 18:5). With Galatians, it is among Paul's earliest surviving letters (Reformation Study Bible).
+- **Where:** Thessalonica, the capital of the Roman province of Macedonia, a busy harbour city of over 200,000 on the main east–west road (the Via Egnatia), founded about 315 BC and named after Alexander the Great's half-sister. Paul preached in the synagogue for three Sabbaths; most converts were Gentiles. He and his team worked with their hands rather than burden the church, helped by gifts from Philippi (2:9; Phil 4:15–16), until a riot drove them out and Jason and others had to post bond (Acts 17:5–9) (RSB).
 - **Who wrote it:** Paul, with Silvanus (Silas) and Timothy (1:1). Cara notes Paul is the real author, with the other two endorsing what he writes.
-- **Where it sits:** among Paul's first letters. Paul had been driven out of Thessalonica by opposition (Acts 17:5–10), couldn't return, and sent Timothy to check on them (3:1–6). This letter is his response to Timothy's report.
+- **Where it sits:** among Paul's first letters. Paul had been driven out of Thessalonica by opposition (Acts 17:5–10), couldn't return, and sent Timothy to check on them (3:1–6). This letter is his response to Timothy's report. Because his time with them was so short, they needed teaching on the resurrection and Christ's return. Unusually, Paul writes "we" almost throughout.
 
 ## Structure
 
-Cara's outline:
+The Reformation Study Bible's outline is simple: greeting (1:1), history of Paul's relationship with them (1:2–3:13), instruction (4:1–5:22), and closing prayer and blessing (5:23–28). Cara's fuller outline:
 
 - 1:1: Opening
 - 1:2–10: Thanksgiving: their work of faith, labour of love and steadfastness of hope
@@ -63,6 +63,8 @@ Cara's outline:
 - **Election and calling:** God chose and called them, and this is the ground for living holy lives (1:4; 2:12; 4:7; 5:9, 24).
 - **Holiness:** sanctification as God's will, especially in sexual purity and brotherly love (4:1–12).
 - **The return of Christ:** the hope of resurrection and reunion for believers who have died (4:13–18), and readiness for the day of the Lord (5:1–11). Cara notes these passages end with commands to encourage one another.
+- **A pastor's heart:** Paul calls them "brothers" again and again, and describes himself as both mother and father to them (2:7, 11). They are his joy and crown (2:19).
+- **Christ is divine:** even in this early letter, Paul joins the Father and the Lord Jesus as one source of grace and one recipient of prayer (1:1; 3:11), and applies "the day of the Lord" to Jesus (5:2).
 - **Persecution and perseverance:** suffering for the gospel as Christ and the prophets did (2:14–16; 3:3–4).
 
 ## How it points to Christ
@@ -73,7 +75,7 @@ The believers wait for God's Son from heaven, "whom he raised from the dead, Jes
 
 - "Pray without ceasing" is 1 Thessalonians 5:17.
 - 4:13–18 is about believers who have died, written to comfort grieving Christians. It isn't mainly a timetable of end-time events.
-- "Caught up ... to meet the Lord in the air" (4:17) is the basis for the word "rapture". Reformed teaching reads it as part of Christ's one visible return, when the living and dead believers meet him, not as a secret, separate event before it.
+- "Caught up ... to meet the Lord in the air" (4:17) is the basis for the word "rapture". Reformed teaching reads it as part of Christ's one visible return, when the living and dead believers meet him, not as a secret, separate event before it. The RSB notes that Paul describes a loud, public event at the end of the age (4:16; compare 3:13).
 - "Like a thief in the night" (5:2) means the day of the Lord comes unexpectedly for unbelievers. Believers, as children of light, shouldn't be caught off guard (5:4).
 - Paul stayed only a short time in Thessalonica (Acts 17 mentions three Sabbaths, though he may have stayed a little longer), so the church was very young.
 - The breastplate and helmet of 5:8 are a short image. The full armour of God is Ephesians 6.
@@ -103,8 +105,9 @@ The believers wait for God's Son from heaven, "whom he raised from the dead, Jes
 ## Sources
 
 - Robert J. Cara, "1 Thessalonians," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (Thessalonica, authorship and date, occasion and purpose, 2:1–12), Structure and Outline, Message and Theology (be imitators, "consistent" eschatology, election and calling). Print pages to verify.
-- Reformation Study Bible, introduction to 1 Thessalonians, p. ___ (to verify)
+- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to 1 Thessalonians: Title and Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of 1 Thessalonians, 1 Thessalonians in the Larger Story of the Bible, Christ in 1 Thessalonians, History of Interpretation, Outline. Print pages to verify.
 
 ## Changelog
 
 1. 2026-11-04: Generated initial notes with Claude Code
+2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code
