@@ -10,12 +10,6 @@ status: draft
 
 # Proverbs
 
-## Sources
-
-- Willem A. VanGemeren, "Proverbs," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues (authorship and date, social context, ancient Near Eastern wisdom), Genre, The Situational Nature of the Sayings, Structure and Outline, Message and Theology (three dimensions of wisdom). Print pages to verify.
-- *The Lutheran Study Bible* (Concordia, 2009), introduction to Proverbs: Overview, Central Theme, Luther on Proverbs, Types of Proverbs, Challenges for Readers, Outline. Lutheran source.
-- Reformation Study Bible, introduction to Proverbs, p. ___ (to verify)
-
 ## Summary
 
 Proverbs is a book of practical wisdom for living well in God's world. It opens with a father's instructions to his son, pleading with him to choose wisdom over folly. Then come hundreds of short sayings about speech, work, money, friendship, marriage, anger, pride and justice. Its foundation is "the fear of the Lord is the beginning of knowledge" (1:7): true wisdom starts with reverent trust in God.
@@ -140,3 +134,9 @@ Proverbs describes the perfectly wise, righteous person who fears the Lord. Only
 8. Who copied out more of Solomon's proverbs? The men of Hezekiah, king of Judah (25:1).
 9. What sharpens a person, according to 27:17? Another person, as iron sharpens iron.
 10. How does Proverbs end? With the poem of the excellent wife who fears the Lord (31:10–31).
+
+## Sources
+
+- Willem A. VanGemeren, "Proverbs," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues (authorship and date, social context, ancient Near Eastern wisdom), Genre, The Situational Nature of the Sayings, Structure and Outline, Message and Theology (three dimensions of wisdom). Print pages to verify.
+- *The Lutheran Study Bible* (Concordia, 2009), introduction to Proverbs: Overview, Central Theme, Luther on Proverbs, Types of Proverbs, Challenges for Readers, Outline. Lutheran source.
+- Reformation Study Bible, introduction to Proverbs, p. ___ (to verify)

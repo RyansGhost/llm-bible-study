@@ -10,12 +10,6 @@ status: draft
 
 # 2 Chronicles
 
-## Sources
-
-- Richard L. Pratt Jr., "1–2 Chronicles," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Structure and Outline, Message and Theology (the people of God, king and temple, blessing and judgment). Print pages to verify.
-- *The Lutheran Study Bible* (Concordia, 2009), introduction to 1 and 2 Chronicles. Lutheran source.
-- Reformation Study Bible, introduction to 2 Chronicles, p. ___ (to verify)
-
 ## Summary
 
 2 Chronicles tells the story of the kings of Judah from Solomon to the exile, with the temple at the centre. Solomon builds it and God's glory fills it. Afterwards, each king is weighed by whether he seeks the Lord and keeps his house of worship. Kings who humble themselves and seek God are blessed; those who forsake him suffer. The book ends with Jerusalem destroyed, and then, in its final verses, with Cyrus' decree letting God's people return to rebuild the temple.
@@ -155,3 +149,9 @@ Jesus refers to the martyrdom of Zechariah son of Jehoiada (24:20–22) when he 
 8. Which king found the Book of the Law? Josiah (34:14–15).
 9. How long did the land rest during the exile? Seventy years, as Jeremiah prophesied (36:21).
 10. How does 2 Chronicles end? With Cyrus' decree allowing God's people to go up and rebuild the temple (36:22–23).
+
+## Sources
+
+- Richard L. Pratt Jr., "1–2 Chronicles," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Structure and Outline, Message and Theology (the people of God, king and temple, blessing and judgment). Print pages to verify.
+- *The Lutheran Study Bible* (Concordia, 2009), introduction to 1 and 2 Chronicles. Lutheran source.
+- Reformation Study Bible, introduction to 2 Chronicles, p. ___ (to verify)

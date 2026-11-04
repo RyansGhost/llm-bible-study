@@ -10,12 +10,6 @@ status: draft
 
 # 1 Kings
 
-## Sources
-
-- William B. Fullilove, "1–2 Kings," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues (author and date, genre, chronology, historical accuracy), Structure and Outline, Message and Theology (the Mosaic covenant, the Davidic covenant, the prophetic word). Print pages to verify.
-- *The Lutheran Study Bible* (Concordia, 2009), introduction to 1 and 2 Kings. Lutheran source.
-- Reformation Study Bible, introduction to 1 Kings, p. ___ (to verify)
-
 ## Summary
 
 1 Kings opens in glory and ends in division. Solomon, given wisdom by God, builds the temple, and the Lord's glory fills it. But his many foreign wives turn his heart to other gods, and after his death the kingdom splits in two: Judah in the south under David's line, and Israel in the north under Jeroboam, who sets up golden calves. In the north, wicked Ahab and Jezebel promote Baal, and God sends the prophet Elijah to confront them.
@@ -138,3 +132,9 @@ Elijah's ministry anticipates the gospel. Jesus points to the widow of Zarephath
 8. What happened on Mount Carmel? Fire from the Lord consumed Elijah's sacrifice after Baal's prophets failed (18).
 9. How did God speak to Elijah at Horeb? In a low whisper, not in the wind, earthquake or fire (19:11–12).
 10. Why did Ahab and Jezebel kill Naboth? To take his vineyard (21).
+
+## Sources
+
+- William B. Fullilove, "1–2 Kings," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues (author and date, genre, chronology, historical accuracy), Structure and Outline, Message and Theology (the Mosaic covenant, the Davidic covenant, the prophetic word). Print pages to verify.
+- *The Lutheran Study Bible* (Concordia, 2009), introduction to 1 and 2 Kings. Lutheran source.
+- Reformation Study Bible, introduction to 1 Kings, p. ___ (to verify)

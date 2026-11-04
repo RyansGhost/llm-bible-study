@@ -10,12 +10,6 @@ status: draft
 
 # Jonah
 
-## Sources
-
-- Daniel C. Timmer, "The Twelve," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues (the orders of the Twelve), Message and Theology (repentance of the nations, deliverance of some among the nations), Approaching the New Testament. Print pages to verify.
-- *The Lutheran Study Bible* (Concordia, 2009), introduction to Jonah: Overview. Lutheran source.
-- Reformation Study Bible, introduction to Jonah, p. ___ (to verify)
-
 ## Summary
 
 God sends Jonah to warn Nineveh, the capital of Israel's brutal enemy Assyria, but Jonah runs the other way. After a storm and three days inside a great fish, he finally obeys. To his dismay, the whole city repents and God spares it. The book ends with God's question to his angry prophet about compassion for a city of 120,000 people who don't know their right hand from their left (4:11).
@@ -100,3 +94,9 @@ Unlike Jonah, who fled from God's mission to the nations, Jesus willingly went t
 8. Why was Jonah angry? Because God was gracious and spared Nineveh (4:1–2).
 9. What did God use to teach Jonah a lesson? A plant, a worm and a scorching east wind (4:6–8).
 10. What did Jesus call "the sign of Jonah"? His three days in the grave before his resurrection (Matt 12:39–40).
+
+## Sources
+
+- Daniel C. Timmer, "The Twelve," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues (the orders of the Twelve), Message and Theology (repentance of the nations, deliverance of some among the nations), Approaching the New Testament. Print pages to verify.
+- *The Lutheran Study Bible* (Concordia, 2009), introduction to Jonah: Overview. Lutheran source.
+- Reformation Study Bible, introduction to Jonah, p. ___ (to verify)

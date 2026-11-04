@@ -10,11 +10,6 @@ status: draft
 
 # Song of Solomon
 
-## Sources
-
-- Miles V. Van Pelt, "Song of Songs," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues (authorship and date, genre, proposed setting), Structure and Outline, Message and Theology (interpretation, message, a summary of the Song's content). Print pages to verify.
-- Reformation Study Bible, introduction to Song of Solomon, p. ___ (to verify)
-
 ## Summary
 
 The Song of Solomon (also called the Song of Songs, "the greatest song") is a collection of love poetry celebrating the love between a woman and her beloved. In vivid images of gardens, vineyards and spices, it portrays desire, longing, separation and reunion, and it insists on love's commitment and power: "love is strong as death … many waters cannot quench love" (8:6–7). As wisdom literature, it teaches God's people how to think about love and marriage in God's world.
@@ -114,3 +109,8 @@ Much of the church's history, including many Puritans, read the Song directly as
 8. What does 8:6 say love is as strong as? Death.
 9. What can't quench love, according to 8:7? Many waters, or floods.
 10. How does the New Testament connect marriage with Christ? Paul says marriage refers to Christ and the church (Eph 5:31–32).
+
+## Sources
+
+- Miles V. Van Pelt, "Song of Songs," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues (authorship and date, genre, proposed setting), Structure and Outline, Message and Theology (interpretation, message, a summary of the Song's content). Print pages to verify.
+- Reformation Study Bible, introduction to Song of Solomon, p. ___ (to verify)

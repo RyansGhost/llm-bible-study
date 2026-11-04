@@ -10,11 +10,6 @@ status: draft
 
 # Ezekiel
 
-## Sources
-
-- Michael G. McKelvey, "Ezekiel," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues (authorship, historical background and audience), Structure and Outline, Message and Theology (creation, de-creation and re-creation; God's holiness, sovereignty, mercy; man's sinfulness and responsibility), Approaching the New Testament. Print pages to verify.
-- Reformation Study Bible, introduction to Ezekiel, p. ___ (to verify)
-
 ## Summary
 
 Ezekiel was a priest carried into exile in Babylon. There God showed him visions of his glory and sent him to warn a stubborn people. He saw God's glory leave the defiled temple before Jerusalem's destruction, and pronounced judgment on Judah and the nations. After the city fell, his message turned to hope: God will shepherd his people himself, give them new hearts and his Spirit, raise the nation like dry bones, and return in glory to a new temple where "the Lord is there".
@@ -157,3 +152,8 @@ The glory that left the temple returns in Jesus, the Word who "dwelt among us" a
 8. Who did God say would shepherd his people? God himself, through "my servant David" (34).
 9. What did God promise in Ezekiel 36:26? A new heart and a new spirit: a heart of flesh in place of a heart of stone.
 10. What is the city called at the end of the book? "The Lord is there" (48:35).
+
+## Sources
+
+- Michael G. McKelvey, "Ezekiel," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues (authorship, historical background and audience), Structure and Outline, Message and Theology (creation, de-creation and re-creation; God's holiness, sovereignty, mercy; man's sinfulness and responsibility), Approaching the New Testament. Print pages to verify.
+- Reformation Study Bible, introduction to Ezekiel, p. ___ (to verify)

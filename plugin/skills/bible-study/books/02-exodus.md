@@ -10,13 +10,6 @@ status: draft
 
 # Exodus
 
-## Sources
-
-- John D. Currid, "Exodus," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues, Structure and Outline, Message and Theology (the plagues, the hardening of Pharaoh's heart, the law, the tabernacle, the golden calf). Print pages to verify.
-- *The Lutheran Study Bible* (Concordia, 2009), introduction to Exodus: Overview, Luther on Exodus, Challenges for Readers, Outline. Lutheran source.
-- Westminster Confession of Faith 19 (the law of God) and Westminster Shorter Catechism Q41–81 (the Ten Commandments).
-- Reformation Study Bible, introduction to Exodus, p. ___ (to verify)
-
 ## Summary
 
 Exodus is the story of God keeping his promise to Abraham (Gen 15:13–14). He rescues Abraham's enslaved descendants from Egypt by mighty acts of judgment and brings them to Mount Sinai. There he binds them to himself by covenant, gives them his law, and comes to live among them in the tabernacle.
@@ -161,3 +154,10 @@ The tabernacle, God living among his people, is fulfilled when the Word "dwelt" 
 8. Who made the golden calf? Aaron (32:2–4).
 9. What happened to Moses' face after he spoke with God? It shone (34:29).
 10. How does Exodus end? The glory of the Lord fills the finished tabernacle (40:34).
+
+## Sources
+
+- John D. Currid, "Exodus," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues, Structure and Outline, Message and Theology (the plagues, the hardening of Pharaoh's heart, the law, the tabernacle, the golden calf). Print pages to verify.
+- *The Lutheran Study Bible* (Concordia, 2009), introduction to Exodus: Overview, Luther on Exodus, Challenges for Readers, Outline. Lutheran source.
+- Westminster Confession of Faith 19 (the law of God) and Westminster Shorter Catechism Q41–81 (the Ten Commandments).
+- Reformation Study Bible, introduction to Exodus, p. ___ (to verify)

@@ -10,12 +10,6 @@ status: draft
 
 # Zephaniah
 
-## Sources
-
-- Daniel C. Timmer, "The Twelve," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Message and Theology (the day of the Lord, sin and punishment, repentance, the remnant, the nations). Print pages to verify.
-- *The Lutheran Study Bible* (Concordia, 2009), introduction to Zephaniah: Overview. Lutheran source.
-- Reformation Study Bible, introduction to Zephaniah, p. ___ (to verify)
-
 ## Summary
 
 Zephaniah announces the great and terrible day of the Lord, which will sweep away the idolatry and complacency of Judah and the pride of the surrounding nations. He urges the humble to seek the Lord, so that perhaps they may be hidden on that day. Beyond judgment he sees a purified people from many nations calling on God's name, and a Lord who rejoices over his people with singing (3:17).
@@ -95,3 +89,9 @@ The day of the Lord finds its fullest meaning in Christ. In his first coming he 
 8. What kind of remnant will God leave? A humble and lowly people who take refuge in his name (3:12).
 9. What will God do over his people, according to 3:17? Rejoice over them with gladness and exult over them with loud singing.
 10. Which medieval hymn was inspired by Zephaniah 1? "Dies Irae" ("Day of Wrath").
+
+## Sources
+
+- Daniel C. Timmer, "The Twelve," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Message and Theology (the day of the Lord, sin and punishment, repentance, the remnant, the nations). Print pages to verify.
+- *The Lutheran Study Bible* (Concordia, 2009), introduction to Zephaniah: Overview. Lutheran source.
+- Reformation Study Bible, introduction to Zephaniah, p. ___ (to verify)

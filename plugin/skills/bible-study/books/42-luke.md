@@ -10,11 +10,6 @@ status: draft
 
 # Luke
 
-## Sources
-
-- Robert J. Cara, "Luke," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (authorship and date, addressee, occasion and purpose, Luke and Acts), Structure and Outline, Message and Theology. Print pages to verify.
-- Reformation Study Bible, introduction to Luke, p. ___ (to verify)
-
 ## Summary
 
 Luke writes an "orderly account" of Jesus' life so that Theophilus may be certain of what he has been taught (1:3–4). He tells the fullest story of Jesus' birth, follows his ministry in Galilee, and devotes a long section to his journey to Jerusalem. That section is full of parables found only in Luke: the good Samaritan, the prodigal son, and the Pharisee and the tax collector. Jesus is the Saviour who came "to seek and to save the lost" (19:10): the rejected Prophet and Messiah who dies, rises, explains the Scriptures, and ascends.
@@ -138,3 +133,8 @@ Luke's genealogy traces him back to Adam (3:38), presenting him as the Saviour f
 8. Which three parables of lost things are in Luke 15? The lost sheep, the lost coin and the lost (prodigal) son.
 9. Who climbed a tree to see Jesus? Zacchaeus, the chief tax collector (19:1–10).
 10. Where did the risen Jesus walk with two disciples? On the road to Emmaus (24:13–35).
+
+## Sources
+
+- Robert J. Cara, "Luke," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (authorship and date, addressee, occasion and purpose, Luke and Acts), Structure and Outline, Message and Theology. Print pages to verify.
+- Reformation Study Bible, introduction to Luke, p. ___ (to verify)

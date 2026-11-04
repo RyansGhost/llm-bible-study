@@ -60,7 +60,7 @@ site/                                Hugo site; mounts the books folder above as
 
 ## Writing a book's notes
 
-Every book file uses the same headings: Sources, Summary, Setting, Structure, Chapter by chapter, Key people, Key events, Themes, How it points to Christ, Common mix-ups, Going deeper, and Q&A. That way the AI can find the same thing in any book. `06-joshua.md` is the worked example.
+Every book file uses the same headings: Summary, Setting, Structure, Chapter by chapter, Key people, Key events, Themes, How it points to Christ, Common mix-ups, Going deeper, Q&A, and Sources. That way the AI can find the same thing in any book. `06-joshua.md` is the worked example.
 
 - Write in your own words. Don't copy study Bible introductions or notes: that text is copyrighted.
 - Cite every source: Reformation Study Bible page numbers, Ligonier URLs, chapter and verse.

@@ -10,12 +10,6 @@ status: draft
 
 # Nahum
 
-## Sources
-
-- Daniel C. Timmer, "The Twelve," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Message and Theology (chronology, the sins and punishment of the non-Israelite nations, the day of the Lord). Print pages to verify.
-- *The Lutheran Study Bible* (Concordia, 2009), introduction to Nahum: Overview. Lutheran source.
-- Reformation Study Bible, introduction to Nahum, p. ___ (to verify)
-
 ## Summary
 
 Nahum announces the fall of Nineveh, the proud, violent capital of the Assyrian empire that had crushed Israel and terrorised Judah. The Lord is slow to anger but will not leave the guilty unpunished. He is a refuge for those who trust him and an overwhelming flood against his enemies. For oppressed Judah, Nineveh's fall is good news; for Nineveh, there is no healing.
@@ -91,3 +85,9 @@ The God who is both slow to anger and just shows both perfectly at the cross, wh
 8. What does Nahum call Nineveh in chapter 3? "The bloody city, all full of lies and plunder" (3:1).
 9. Which earlier prophet also went to Nineveh? Jonah.
 10. How does the book end? With everyone clapping at Nineveh's fall, because all had suffered its cruelty (3:19).
+
+## Sources
+
+- Daniel C. Timmer, "The Twelve," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Message and Theology (chronology, the sins and punishment of the non-Israelite nations, the day of the Lord). Print pages to verify.
+- *The Lutheran Study Bible* (Concordia, 2009), introduction to Nahum: Overview. Lutheran source.
+- Reformation Study Bible, introduction to Nahum, p. ___ (to verify)

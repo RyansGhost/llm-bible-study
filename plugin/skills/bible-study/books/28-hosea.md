@@ -10,12 +10,6 @@ status: draft
 
 # Hosea
 
-## Sources
-
-- Daniel C. Timmer, "The Twelve," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues (the Twelve as a collection), Message and Theology (sin, punishment, repentance and deliverance; the day of the Lord), Approaching the New Testament. Print pages to verify.
-- *The Lutheran Study Bible* (Concordia, 2009), introduction to Hosea: Overview. Lutheran source.
-- Reformation Study Bible, introduction to Hosea, p. ___ (to verify)
-
 ## Summary
 
 God tells Hosea to marry an unfaithful woman, Gomer, so that his marriage becomes a living picture of Israel's unfaithfulness to the Lord. Israel has chased other gods like an adulterous wife, and judgment is coming. Yet God's love won't let her go: as Hosea buys Gomer back, God will woo Israel again, heal her faithlessness, and call "Not My People" his people.
@@ -109,3 +103,9 @@ Hosea buying back his faithless wife pictures Christ, who redeems an unfaithful 
 8. What does God say he cannot do in 11:8? Give up Ephraim.
 9. What does Paul quote from Hosea 13:14? "O death, where is your sting?" (1 Cor 15:55).
 10. How does Hosea end? With a call to return to the Lord, and God's promise to heal and love Israel freely (14).
+
+## Sources
+
+- Daniel C. Timmer, "The Twelve," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues (the Twelve as a collection), Message and Theology (sin, punishment, repentance and deliverance; the day of the Lord), Approaching the New Testament. Print pages to verify.
+- *The Lutheran Study Bible* (Concordia, 2009), introduction to Hosea: Overview. Lutheran source.
+- Reformation Study Bible, introduction to Hosea, p. ___ (to verify)

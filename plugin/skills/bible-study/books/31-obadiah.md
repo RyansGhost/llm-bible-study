@@ -10,12 +10,6 @@ status: draft
 
 # Obadiah
 
-## Sources
-
-- Daniel C. Timmer, "The Twelve," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Message and Theology (the sins and punishment of the nations, the day of the Lord, deliverance of the remnant). Print pages to verify.
-- *The Lutheran Study Bible* (Concordia, 2009), introduction to Obadiah: Overview. Lutheran source.
-- Reformation Study Bible, introduction to Obadiah, p. ___ (to verify)
-
 ## Summary
 
 Obadiah, the shortest book of the Old Testament, is a single vision against Edom. When Jerusalem fell, Edom, descended from Jacob's brother Esau, gloated, looted and handed fleeing Judeans to the enemy. God declares that Edom's pride will be brought down and that it will be done to Edom as it did. On the day of the Lord, Mount Zion will be delivered and "the kingdom shall be the Lord's" (v. 21).
@@ -97,3 +91,9 @@ The rivalry of Esau and Jacob runs through the Bible, all the way to Herod the G
 8. Where will there be deliverance? On Mount Zion (v. 17).
 9. What does Obadiah's name mean? "Servant of the Lord".
 10. How does the book end? "The kingdom shall be the Lord's" (v. 21).
+
+## Sources
+
+- Daniel C. Timmer, "The Twelve," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Message and Theology (the sins and punishment of the nations, the day of the Lord, deliverance of the remnant). Print pages to verify.
+- *The Lutheran Study Bible* (Concordia, 2009), introduction to Obadiah: Overview. Lutheran source.
+- Reformation Study Bible, introduction to Obadiah, p. ___ (to verify)

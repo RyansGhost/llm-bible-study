@@ -10,11 +10,6 @@ status: draft
 
 # Hebrews
 
-## Sources
-
-- Simon J. Kistemaker, "Hebrews," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (occasion, genre, authorship, date, provenance, purpose), Structure and Outline, Message and Theology. Print pages to verify.
-- Reformation Study Bible, introduction to Hebrews, p. ___ (to verify)
-
 ## Summary
 
 Hebrews is a sermon in letter form (the author calls it a "word of exhortation", 13:22), written to Jewish Christians tempted to drift back from Christ to the old ways. Its message is that Jesus is better: better than the angels, Moses, Joshua and Aaron, with a better priesthood, a better covenant, a better sanctuary and a better sacrifice. Kistemaker notes that Hebrews fills a gap in the New Testament: it is the only book that fully explains Jesus as our High Priest, after the order of Melchizedek, who offered himself once for all. Theology and warning alternate throughout: don't drift, don't harden your hearts, don't fall away, but hold fast, draw near, and run the race looking to Jesus.
@@ -123,3 +118,8 @@ Hebrews is perhaps the most thoroughly Christ-centred interpretation of the Old 
 8. How does Hebrews 11:1 define faith? The assurance of things hoped for, the conviction of things not seen.
 9. Who is the founder and perfecter of our faith? Jesus (12:2).
 10. What does 13:8 say about Jesus Christ? He is the same yesterday and today and forever.
+
+## Sources
+
+- Simon J. Kistemaker, "Hebrews," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (occasion, genre, authorship, date, provenance, purpose), Structure and Outline, Message and Theology. Print pages to verify.
+- Reformation Study Bible, introduction to Hebrews, p. ___ (to verify)

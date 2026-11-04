@@ -10,12 +10,6 @@ status: draft
 
 # Amos
 
-## Sources
-
-- Daniel C. Timmer, "The Twelve," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Message and Theology (chronology, sin in Israel and the nations, punishment, repentance, deliverance of the remnant), Approaching the New Testament. Print pages to verify.
-- *The Lutheran Study Bible* (Concordia, 2009), introduction to Amos: Overview. Lutheran source.
-- Reformation Study Bible, introduction to Amos, p. ___ (to verify)
-
 ## Summary
 
 Amos, a shepherd and fig farmer from Judah, is sent north to prosperous Israel to announce that God will judge it. The rich trample the poor, bribe judges, and pile up luxuries while keeping busy religious festivals. God hates their worship without justice: "let justice roll down like waters" (5:24). Through visions Amos sees the end coming, but the book closes with hope: God will rebuild David's fallen house and restore his people.
@@ -105,3 +99,9 @@ Jesus, like Amos, confronted religious leaders who neglected "justice and mercy 
 8. Who told Amos to go back to Judah? Amaziah, the priest of Bethel (7:10–13).
 9. What kind of famine did Amos predict? A famine of hearing the words of the Lord (8:11).
 10. Which promise from Amos did James quote at the Jerusalem council? The rebuilding of David's fallen booth (9:11–12; Acts 15:16–17).
+
+## Sources
+
+- Daniel C. Timmer, "The Twelve," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Message and Theology (chronology, sin in Israel and the nations, punishment, repentance, deliverance of the remnant), Approaching the New Testament. Print pages to verify.
+- *The Lutheran Study Bible* (Concordia, 2009), introduction to Amos: Overview. Lutheran source.
+- Reformation Study Bible, introduction to Amos, p. ___ (to verify)

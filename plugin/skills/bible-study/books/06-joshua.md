@@ -10,14 +10,6 @@ status: draft
 
 # Joshua
 
-## Sources
-
-- Daniel C. Timmer, "Joshua," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues, Historical Context, Structure and Outline, Message and Theology (the land, rest, the nations, the ethical problems of the conquest), Approaching the New Testament. Print pages to verify.
-- *The Lutheran Study Bible* (Concordia, 2009), introduction to Joshua: Overview, Luther on Joshua, Challenges for Readers. Lutheran source.
-- Ligonier devotional on Joshua's courage: <https://learn.ligonier.org/devotionals/joshua-18>
-- Matthew Henry, *Commentary on the Whole Bible*, on Joshua 9 (the oath to the Gibeonites).
-- Reformation Study Bible, introduction to Joshua, p. ___ (to verify)
-
 ## Summary
 
 God keeps his promise to Abraham by bringing Israel into the land under Joshua. He fights for them, judges the Canaanites for their sin, and divides the land among the tribes. The conquest is left incomplete, and the book closes with Israel renewing the covenant and promising to serve the Lord.
@@ -145,3 +137,11 @@ Rahab, saved by faith and marked by a scarlet cord, appears in Jesus' genealogy 
 8. How old was Caleb when he claimed Hebron? 85 (14:10).
 9. Where was the tabernacle set up in the land? Shiloh (18:1).
 10. What did Joshua say in his farewell? "As for me and my house, we will serve the Lord" (24:15).
+
+## Sources
+
+- Daniel C. Timmer, "Joshua," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues, Historical Context, Structure and Outline, Message and Theology (the land, rest, the nations, the ethical problems of the conquest), Approaching the New Testament. Print pages to verify.
+- *The Lutheran Study Bible* (Concordia, 2009), introduction to Joshua: Overview, Luther on Joshua, Challenges for Readers. Lutheran source.
+- Ligonier devotional on Joshua's courage: <https://learn.ligonier.org/devotionals/joshua-18>
+- Matthew Henry, *Commentary on the Whole Bible*, on Joshua 9 (the oath to the Gibeonites).
+- Reformation Study Bible, introduction to Joshua, p. ___ (to verify)

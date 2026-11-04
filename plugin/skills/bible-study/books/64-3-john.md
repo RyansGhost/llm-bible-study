@@ -10,11 +10,6 @@ status: draft
 
 # 3 John
 
-## Sources
-
-- Charles E. Hill, "1–3 John," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): 3 John, Background Issues (author, audience), Structure and Outline, Message and Theology (Gaius, the missionaries, Diotrephes, Demetrius). Print pages to verify.
-- Reformation Study Bible, introduction to 3 John, p. ___ (to verify)
-
 ## Summary
 
 3 John is a personal letter from "the elder" to his dear friend Gaius. John praises Gaius for walking in the truth and for welcoming travelling missionaries, "fellow workers for the truth", and asks him to send them on their way well supplied. By contrast, a church leader named Diotrephes, "who likes to put himself first", refuses to acknowledge John's authority, slanders him, won't welcome the missionaries, and throws out of the church those who do. John will deal with him when he comes. He commends Demetrius, who probably carried the letter. Hill shows how this short letter puts into practice 1 John's teaching on love for the brothers, and its warning against hating them.
@@ -99,3 +94,8 @@ Christ isn't named in 3 John, but the missionaries went out "for the sake of the
 8. What does John say about imitation? Don't imitate evil but imitate good (v. 11).
 9. Who received a good testimony from everyone? Demetrius (v. 12).
 10. How does John hope to finish the conversation? By seeing Gaius soon and talking face to face (vv. 13–14).
+
+## Sources
+
+- Charles E. Hill, "1–3 John," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): 3 John, Background Issues (author, audience), Structure and Outline, Message and Theology (Gaius, the missionaries, Diotrephes, Demetrius). Print pages to verify.
+- Reformation Study Bible, introduction to 3 John, p. ___ (to verify)

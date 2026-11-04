@@ -10,12 +10,6 @@ status: draft
 
 # 1 Chronicles
 
-## Sources
-
-- Richard L. Pratt Jr., "1–2 Chronicles," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues (authorship, audience, date, history and theology), Structure and Outline, Message and Theology (the people of God, king and temple). Print pages to verify.
-- *The Lutheran Study Bible* (Concordia, 2009), introduction to 1 and 2 Chronicles. Lutheran source.
-- Reformation Study Bible, introduction to 1 Chronicles, p. ___ (to verify)
-
 ## Summary
 
 1 Chronicles retells Israel's story for the Jews who had come back from exile in Babylon. It opens with genealogies from Adam to the returned exiles, showing who belongs to God's people. Then it focuses on David: his kingship over "all Israel", bringing the ark to Jerusalem, God's covenant with his house, and his careful preparations for the temple his son Solomon will build. The message to a small, struggling community: God's promises to David's line and his presence in the temple still stand.
@@ -138,3 +132,9 @@ David buys the temple site at the place where judgment was stopped by sacrifice 
 8. What did David confess about the people's offerings? That all things come from God, and they had only given back what was his (29:14).
 9. When was Chronicles written? After the return from exile in Babylon, after 539 BC.
 10. Where does Chronicles come in the Hebrew Bible? Last.
+
+## Sources
+
+- Richard L. Pratt Jr., "1–2 Chronicles," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues (authorship, audience, date, history and theology), Structure and Outline, Message and Theology (the people of God, king and temple). Print pages to verify.
+- *The Lutheran Study Bible* (Concordia, 2009), introduction to 1 and 2 Chronicles. Lutheran source.
+- Reformation Study Bible, introduction to 1 Chronicles, p. ___ (to verify)

@@ -10,12 +10,6 @@ status: draft
 
 # Haggai
 
-## Sources
-
-- Daniel C. Timmer, "The Twelve," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Message and Theology (chronology, repentance, deliverance of the remnant). Print pages to verify.
-- *The Lutheran Study Bible* (Concordia, 2009), introduction to Haggai: Overview. Lutheran source.
-- Reformation Study Bible, introduction to Haggai, p. ___ (to verify)
-
 ## Summary
 
 Sixteen years after returning from exile, the people of Jerusalem have stopped rebuilding the temple and are busy with their own houses, and their harvests keep failing. In four dated messages over four months in 520 BC, Haggai calls them to "consider your ways" and rebuild God's house. The people obey, and God promises his presence, a future glory for the temple greater than Solomon's, and a special place for Zerubbabel, David's descendant.
@@ -99,3 +93,9 @@ Zerubbabel, God's chosen signet, appears in Jesus' genealogy (Matt 1:12–13; Lu
 8. What did God say he would shake? The heavens, the earth, the sea, the dry land and all nations (2:6–7).
 9. What did God call Zerubbabel? His signet ring, chosen (2:23).
 10. Which prophet ministered alongside Haggai? Zechariah (Ezra 5:1).
+
+## Sources
+
+- Daniel C. Timmer, "The Twelve," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Message and Theology (chronology, repentance, deliverance of the remnant). Print pages to verify.
+- *The Lutheran Study Bible* (Concordia, 2009), introduction to Haggai: Overview. Lutheran source.
+- Reformation Study Bible, introduction to Haggai, p. ___ (to verify)

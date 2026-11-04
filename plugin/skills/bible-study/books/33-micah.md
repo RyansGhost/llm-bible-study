@@ -10,12 +10,6 @@ status: draft
 
 # Micah
 
-## Sources
-
-- Daniel C. Timmer, "The Twelve," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Message and Theology (sin in Israel and Judah, punishment, repentance, deliverance of the remnant, the nations), Approaching the New Testament. Print pages to verify.
-- *The Lutheran Study Bible* (Concordia, 2009), introduction to Micah: Overview. Lutheran source.
-- Reformation Study Bible, introduction to Micah, p. ___ (to verify)
-
 ## Summary
 
 Micah, a country prophet from Judah, condemns the corrupt leaders of both Samaria and Jerusalem: rulers who devour the poor, prophets who preach for pay, and people who think temple rituals will cover injustice. Jerusalem itself will be ploughed like a field. Yet Micah also sees the nations streaming to God's mountain, a ruler coming from little Bethlehem, and a God who delights to forgive and throws his people's sins into the depths of the sea.
@@ -104,3 +98,9 @@ The God who casts sins into the depths of the sea (7:19) does so through Christ'
 8. Where will God cast his people's sins? Into the depths of the sea (7:19).
 9. Which prophet shared Micah's vision of the mountain of the Lord? Isaiah (Isa 2:2–4).
 10. Who quoted Micah 5:2 to Herod? The chief priests and scribes (Matt 2:4–6).
+
+## Sources
+
+- Daniel C. Timmer, "The Twelve," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Message and Theology (sin in Israel and Judah, punishment, repentance, deliverance of the remnant, the nations), Approaching the New Testament. Print pages to verify.
+- *The Lutheran Study Bible* (Concordia, 2009), introduction to Micah: Overview. Lutheran source.
+- Reformation Study Bible, introduction to Micah, p. ___ (to verify)

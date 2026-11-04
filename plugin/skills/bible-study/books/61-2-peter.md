@@ -10,11 +10,6 @@ status: draft
 
 # 2 Peter
 
-## Sources
-
-- Simon J. Kistemaker, "2 Peter," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (authorship, date, genre, provenance, place in the canon, purpose), Structure and Outline, Message and Theology. Print pages to verify.
-- Reformation Study Bible, introduction to 2 Peter, p. ___ (to verify)
-
 ## Summary
 
 2 Peter is Peter's farewell. He knows his death is near (1:14), so he writes to remind believers of the truth and warn them against false teachers. God's divine power has given them everything they need for life and godliness, so they must add virtue upon virtue to their faith and make their calling and election sure. Their faith rests not on clever myths but on eyewitness testimony to Christ's majesty and on the prophetic word, which came from God as men were carried along by the Holy Spirit. False teachers will arise, greedy and immoral, and God will judge them as surely as he judged the fallen angels, the ancient world and Sodom. Scoffers mock the promise of Christ's coming, but the Lord isn't slow: he is patient, not wanting any to perish. The day of the Lord will come like a thief, so grow in grace and knowledge.
@@ -105,3 +100,8 @@ From its first verse, 2 Peter calls Jesus "our God and Saviour Jesus Christ" (1:
 8. What do the scoffers ask? "Where is the promise of his coming?" (3:4).
 9. Why hasn't the Lord come yet? He is patient, not wishing that any should perish but that all should reach repentance (3:9).
 10. What do believers wait for, according to 3:13? New heavens and a new earth in which righteousness dwells.
+
+## Sources
+
+- Simon J. Kistemaker, "2 Peter," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (authorship, date, genre, provenance, place in the canon, purpose), Structure and Outline, Message and Theology. Print pages to verify.
+- Reformation Study Bible, introduction to 2 Peter, p. ___ (to verify)

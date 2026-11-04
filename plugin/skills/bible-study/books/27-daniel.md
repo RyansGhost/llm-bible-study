@@ -10,11 +10,6 @@ status: draft
 
 # Daniel
 
-## Sources
-
-- Richard P. Belcher Jr., "Daniel," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues, Structure and Outline, Message and Theology (living faithfully in exile; Daniel 2 and 7; the seventy weeks; Daniel 8 and 10–12), Approaching the New Testament. Print pages to verify.
-- Reformation Study Bible, introduction to Daniel, p. ___ (to verify)
-
 ## Summary
 
 Daniel shows God's people how to live faithfully in exile, confident that God rules over the kings of the earth. In the first half, Daniel and his friends stay loyal to God in Babylon's court, and God rescues them from a fiery furnace and a lions' den while humbling proud kings. In the second half, Daniel's visions reveal a succession of world empires, intense persecution, and the final triumph of God's kingdom, given to "one like a son of man" (7:13–14).
@@ -129,3 +124,8 @@ Many interpreters see Christ's death in the "anointed one" who is "cut off" in t
 8. Who receives the everlasting kingdom in Daniel 7? One like a son of man, coming with the clouds (7:13–14).
 9. Which angel explained Daniel's visions? Gabriel (8:16; 9:21).
 10. What does Daniel 12:2 teach? The resurrection of the dead: some to everlasting life, some to everlasting contempt.
+
+## Sources
+
+- Richard P. Belcher Jr., "Daniel," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues, Structure and Outline, Message and Theology (living faithfully in exile; Daniel 2 and 7; the seventy weeks; Daniel 8 and 10–12), Approaching the New Testament. Print pages to verify.
+- Reformation Study Bible, introduction to Daniel, p. ___ (to verify)

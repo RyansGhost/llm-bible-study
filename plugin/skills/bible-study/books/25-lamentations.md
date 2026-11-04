@@ -10,11 +10,6 @@ status: draft
 
 # Lamentations
 
-## Sources
-
-- Peter Y. Lee, "Lamentations," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues (title, authorship and setting, canonical position, poetic features, imagery, genre), Structure and Outline (the acrostics, summary outline). Print pages to verify.
-- Reformation Study Bible, introduction to Lamentations, p. ___ (to verify)
-
 ## Summary
 
 Lamentations is five poems of grief over the destruction of Jerusalem and the temple by Babylon in 586 BC. They pour out the horror of the siege, confess that the disaster is God's just judgment on Judah's sin, and cry to God for mercy. At the very centre of the book's darkness shines its best-known confession: the Lord's steadfast love never ceases, and his mercies are new every morning (3:22–23).
@@ -102,3 +97,8 @@ Because of him, the mercies of 3:22–23 are secured for good: in Christ, God's 
 8. Whom does the book blame for Jerusalem's fall? The people's sin, especially of the prophets and priests; God's judgment was just (1:18; 4:13).
 9. Which neighbour is singled out for gloating? Edom (4:21–22).
 10. How does the book end? With a prayer for God to restore his people (5:21–22).
+
+## Sources
+
+- Peter Y. Lee, "Lamentations," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues (title, authorship and setting, canonical position, poetic features, imagery, genre), Structure and Outline (the acrostics, summary outline). Print pages to verify.
+- Reformation Study Bible, introduction to Lamentations, p. ___ (to verify)

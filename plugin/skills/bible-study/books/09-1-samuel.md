@@ -10,12 +10,6 @@ status: draft
 
 # 1 Samuel
 
-## Sources
-
-- Michael G. McKelvey, "1–2 Samuel," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues, Structure and Outline, Message and Theology (Samuel, kingship, Saul, David, the heart). Print pages to verify.
-- *The Lutheran Study Bible* (Concordia, 2009), introduction to 1 and 2 Samuel: Overview, Reading 1 and 2 Samuel, Luther on 1 and 2 Samuel. Lutheran source.
-- Reformation Study Bible, introduction to 1 Samuel, p. ___ (to verify)
-
 ## Summary
 
 1 Samuel tells how Israel moved from judges to kings. God answers barren Hannah's prayer with Samuel, the last judge and a great prophet. When Israel demands a king "like all the nations", God gives them Saul, who looks the part but disobeys and is rejected. God then chooses David, a shepherd boy after his own heart, and the book ends with Saul's death on Mount Gilboa while David waits to take the throne.
@@ -145,3 +139,9 @@ Jesus himself cites David eating the holy bread at Nob (21; Mark 2:25–26). Lik
 8. How did David defeat Goliath? With a sling and a stone, in the name of the Lord (17:45–50).
 9. How did Jonathan warn David? With a signal of arrows shot in the field (20).
 10. How did Saul die? Wounded in battle against the Philistines on Mount Gilboa, he fell on his own sword (31:4).
+
+## Sources
+
+- Michael G. McKelvey, "1–2 Samuel," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues, Structure and Outline, Message and Theology (Samuel, kingship, Saul, David, the heart). Print pages to verify.
+- *The Lutheran Study Bible* (Concordia, 2009), introduction to 1 and 2 Samuel: Overview, Reading 1 and 2 Samuel, Luther on 1 and 2 Samuel. Lutheran source.
+- Reformation Study Bible, introduction to 1 Samuel, p. ___ (to verify)

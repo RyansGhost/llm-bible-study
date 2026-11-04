@@ -10,12 +10,6 @@ status: draft
 
 # Nehemiah
 
-## Sources
-
-- Mark D. Futato, "Ezra–Nehemiah," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues, Structure and Outline, Message and Theology (rebuilding the house of God, ordinary people, the written Word, sovereignty and responsibility). Print pages to verify.
-- *The Lutheran Study Bible* (Concordia, 2009), introduction to Nehemiah: Overview. Lutheran source.
-- Reformation Study Bible, introduction to Nehemiah, p. ___ (to verify)
-
 ## Summary
 
 Nehemiah, a Jewish official in the Persian court, hears that Jerusalem's walls are still in ruins. After prayer and with the king's support, he goes to rebuild them, and despite mockery, threats and plots the wall is finished in fifty-two days. Then Ezra reads God's law to the people, they confess their sins and renew the covenant, and the wall is dedicated with great joy. But the book ends with Nehemiah confronting the same failures again, showing how much the people still needed a deeper renewal.
@@ -122,3 +116,9 @@ Jesus builds God's true house, his church, against which the gates of hell will 
 8. What did Nehemiah tell the weeping people? "Do not be grieved, for the joy of the Lord is your strength" (8:10).
 9. What did the people promise in the covenant of chapter 10? Not to marry pagans, to keep the Sabbath, and to support the temple.
 10. What problems did Nehemiah find on his return? Tobiah in the temple, unpaid Levites, Sabbath-breaking and mixed marriages (13).
+
+## Sources
+
+- Mark D. Futato, "Ezra–Nehemiah," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues, Structure and Outline, Message and Theology (rebuilding the house of God, ordinary people, the written Word, sovereignty and responsibility). Print pages to verify.
+- *The Lutheran Study Bible* (Concordia, 2009), introduction to Nehemiah: Overview. Lutheran source.
+- Reformation Study Bible, introduction to Nehemiah, p. ___ (to verify)

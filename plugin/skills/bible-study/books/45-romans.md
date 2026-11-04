@@ -10,13 +10,6 @@ status: draft
 
 # Romans
 
-## Sources
-
-- Guy Prentiss Waters, "Romans," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (when, to whom and why Paul wrote), Structure and Outline (Rom 1:1–7; 1:16–17; a brief outline), Message and Theology. Print pages to verify.
-- Martin Luther, *Preface to the Epistle to the Romans* (1522), quoted by Waters. Free at [Project Wittenberg](https://www.projectwittenberg.org/pub/resources/text/wittenberg/wittenberg-luther.html).
-- Westminster Confession of Faith 3 (God's eternal decree) and 11 (justification).
-- Reformation Study Bible, introduction to Romans, p. ___ (to verify)
-
 ## Summary
 
 Romans is Paul's fullest explanation of the gospel. Its theme is "the righteousness of God", revealed in the gospel "from faith for faith" (1:16–17). Paul shows that all people, Jew and Gentile, are sinners under God's judgment. He shows that God freely justifies sinners by grace through faith in Christ, who died as a sacrifice for sin. Those who are justified are united to Christ, set free from sin's rule, given the Spirit, and kept by God's love. Then he explains God's faithfulness to Israel, and how the gospel shapes everyday Christian life.
@@ -128,3 +121,10 @@ Romans is centred on Christ:
 8. What are the wages of sin? Death; but the free gift of God is eternal life in Christ (6:23).
 9. What is there "now" for those in Christ Jesus? No condemnation (8:1).
 10. What can separate us from the love of God in Christ? Nothing in all creation (8:38–39).
+
+## Sources
+
+- Guy Prentiss Waters, "Romans," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (when, to whom and why Paul wrote), Structure and Outline (Rom 1:1–7; 1:16–17; a brief outline), Message and Theology. Print pages to verify.
+- Martin Luther, *Preface to the Epistle to the Romans* (1522), quoted by Waters. Free at [Project Wittenberg](https://www.projectwittenberg.org/pub/resources/text/wittenberg/wittenberg-luther.html).
+- Westminster Confession of Faith 3 (God's eternal decree) and 11 (justification).
+- Reformation Study Bible, introduction to Romans, p. ___ (to verify)

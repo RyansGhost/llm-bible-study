@@ -10,12 +10,6 @@ status: draft
 
 # Esther
 
-## Sources
-
-- Peter Y. Lee, "Esther," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues (canonical matters, place in the canon, ancient versions, historicity), Structure and Outline (banquets, plot, reversals). Print pages to verify.
-- *The Lutheran Study Bible* (Concordia, 2009), introduction to Esther: Overview. Lutheran source.
-- Reformation Study Bible, introduction to Esther, p. ___ (to verify)
-
 ## Summary
 
 Esther tells how God saved his scattered people from genocide in the Persian empire without his name being mentioned once. A Jewish orphan becomes queen, her cousin Mordecai refuses to bow to the proud official Haman, and Haman plots to destroy every Jew. At the risk of her life, Esther goes to the king, and in a series of dramatic reversals Haman is hanged on the gallows he built for Mordecai. The Jews are delivered, and the feast of Purim celebrates it.
@@ -123,3 +117,9 @@ The great reversal, the enemy defeated by the very weapon he prepared, finds its
 8. What happened during the king's sleepless night? He learned Mordecai had saved his life and had never been rewarded (6:1–3).
 9. How did Haman die? Hanged on the gallows he had built for Mordecai (7:10).
 10. What is unusual about God in Esther? He is never mentioned by name, yet his providence runs through the whole story.
+
+## Sources
+
+- Peter Y. Lee, "Esther," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues (canonical matters, place in the canon, ancient versions, historicity), Structure and Outline (banquets, plot, reversals). Print pages to verify.
+- *The Lutheran Study Bible* (Concordia, 2009), introduction to Esther: Overview. Lutheran source.
+- Reformation Study Bible, introduction to Esther, p. ___ (to verify)

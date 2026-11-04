@@ -10,11 +10,6 @@ status: draft
 
 # Colossians
 
-## Sources
-
-- Benjamin Gladd, "Colossians," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (occasion, authorship, date), Structure and Outline, Message and Theology. Print pages to verify.
-- Reformation Study Bible, introduction to Colossians, p. ___ (to verify)
-
 ## Summary
 
 Colossians is short but rich, and its message is simple: Christ is better (Gladd). He is better than any human philosophy, outdated religious regulations, or spiritual powers. Paul celebrates Christ as the image of the invisible God, Creator and Lord of all, in whom all the fullness of God dwells bodily. Through his cross Christ has forgiven our sins and triumphed over every power. So believers don't need to add anything to him: they are to set their minds on things above and live out their new life in Christ in every relationship.
@@ -114,3 +109,8 @@ The Old Testament food laws, festivals and Sabbaths were "a shadow of the things
 8. Since we have been raised with Christ, what should we seek? The things above, where Christ is seated (3:1).
 9. What should we put on above all? Love, which binds everything together in harmony (3:14).
 10. Which runaway slave is mentioned in Colossians? Onesimus (4:9).
+
+## Sources
+
+- Benjamin Gladd, "Colossians," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (occasion, authorship, date), Structure and Outline, Message and Theology. Print pages to verify.
+- Reformation Study Bible, introduction to Colossians, p. ___ (to verify)

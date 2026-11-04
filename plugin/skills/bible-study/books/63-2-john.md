@@ -10,11 +10,6 @@ status: draft
 
 # 2 John
 
-## Sources
-
-- Charles E. Hill, "1–3 John," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): 2 John, Background Issues (authorship, audience), Structure and Outline, Message and Theology. Print pages to verify.
-- Reformation Study Bible, introduction to 2 John, p. ___ (to verify)
-
 ## Summary
 
 2 John is a short letter from "the elder" to "the elect lady and her children", most likely a local church and its members. It comes out of the same crisis as 1 John: deceivers who deny that Jesus Christ has come in the flesh are going around the churches. John rejoices that some are walking in the truth, repeats the command to love one another, and warns them to watch themselves. Anyone who doesn't abide in the teaching of Christ doesn't have God. So they mustn't welcome such teachers or support their work. Hill notes that 2 John stresses true doctrine and 3 John stresses love for the brothers, but both themes run through both letters.
@@ -95,3 +90,8 @@ The test of true teaching is the confession of "the coming of Jesus Christ in th
 8. What should they not do for a false teacher? Receive him into the house or give him any greeting (v. 10).
 9. Why does John not write more? He hopes to come and talk face to face (v. 12).
 10. Who sends greetings at the end? The children of your elect sister (v. 13).
+
+## Sources
+
+- Charles E. Hill, "1–3 John," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): 2 John, Background Issues (authorship, audience), Structure and Outline, Message and Theology. Print pages to verify.
+- Reformation Study Bible, introduction to 2 John, p. ___ (to verify)

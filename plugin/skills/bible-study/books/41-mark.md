@@ -10,11 +10,6 @@ status: draft
 
 # Mark
 
-## Sources
-
-- Benjamin Gladd, "Mark," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (genre, eyewitness testimony, audience, authorship, date, text, purpose), Structure and Outline, Message and Theology (the messianic secret, Jesus and Isaiah's second exodus). Print pages to verify.
-- Reformation Study Bible, introduction to Mark, p. ___ (to verify)
-
 ## Summary
 
 Mark is the shortest and fastest-moving Gospel. It opens with "the beginning of the gospel of Jesus Christ, the Son of God" (1:1) and races from one scene to the next ("immediately"). Jesus shows his authority over demons, disease, nature and sin, yet keeps telling people to be quiet about him. Halfway through, Peter confesses him as the Christ, and Jesus begins teaching that the Son of Man must suffer, die and rise. The Gospel climaxes at the cross, where a Roman centurion confesses, "Truly this man was the Son of God!" (15:39).
@@ -124,3 +119,8 @@ Mark is the gospel of Jesus Christ, the Son of God (1:1). It shows Jesus as both
 8. What did the centurion say at the cross? "Truly this man was the Son of God!" (15:39).
 9. What happened to the temple curtain when Jesus died? It was torn in two from top to bottom (15:38).
 10. Why do many Bibles mark Mark 16:9–20? It isn't found in the earliest manuscripts.
+
+## Sources
+
+- Benjamin Gladd, "Mark," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (genre, eyewitness testimony, audience, authorship, date, text, purpose), Structure and Outline, Message and Theology (the messianic secret, Jesus and Isaiah's second exodus). Print pages to verify.
+- Reformation Study Bible, introduction to Mark, p. ___ (to verify)

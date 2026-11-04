@@ -10,12 +10,6 @@ status: draft
 
 # Philemon
 
-## Sources
-
-- Benjamin Gladd, "Philemon," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (occasion, authorship, date, purpose), Structure and Outline, Message and Theology (slavery in the ancient world, the restructuring of God's people). Print pages to verify.
-- *The Lutheran Study Bible* (Concordia, 2009), introduction to Philemon: Luther on Philemon (from Luther's 1522 preface, AE 35:390). Lutheran source.
-- Reformation Study Bible, introduction to Philemon, p. ___ (to verify)
-
 ## Summary
 
 Philemon is Paul's shortest letter: a personal appeal to a Christian slave-owner in Colossae. Philemon's slave Onesimus had run away, possibly having wronged or stolen from his master (v. 18). He met Paul in prison and became a Christian. Now Paul sends him back, asking Philemon to welcome him "no longer as a bondservant but more than a bondservant, as a beloved brother" (v. 16). Paul could command, but he appeals out of love, and offers to pay anything Onesimus owes. Gladd shows how the letter displays the gospel restoring broken relationships: Christ's work makes master and slave brothers in the one family of God.
@@ -104,3 +98,9 @@ Philemon is a living picture of the gospel. Luther wrote that "we are all his On
 8. What did Paul ask Philemon to prepare? A guest room (v. 22).
 9. Which other letter mentions Onesimus? Colossians (4:9).
 10. Who sends greetings at the end? Epaphras, Mark, Aristarchus, Demas and Luke (vv. 23–24).
+
+## Sources
+
+- Benjamin Gladd, "Philemon," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (occasion, authorship, date, purpose), Structure and Outline, Message and Theology (slavery in the ancient world, the restructuring of God's people). Print pages to verify.
+- *The Lutheran Study Bible* (Concordia, 2009), introduction to Philemon: Luther on Philemon (from Luther's 1522 preface, AE 35:390). Lutheran source.
+- Reformation Study Bible, introduction to Philemon, p. ___ (to verify)

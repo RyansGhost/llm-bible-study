@@ -10,11 +10,6 @@ status: draft
 
 # 1 John
 
-## Sources
-
-- Charles E. Hill, "1–3 John," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): 1 John, Background Issues (date, chronological order, place, authorship, purpose), Structure and Outline, Message and Theology (ethics, atonement, incarnation, sin, eschatology and antichrist). Print pages to verify.
-- Reformation Study Bible, introduction to 1 John, p. ___ (to verify)
-
 ## Summary
 
 1 John is a letter of assurance to a church shaken by a split. A group of false teachers, whom John calls "antichrists", had left the church (2:19), denying that Jesus is the Christ come in the flesh. Their departure left the faithful unsettled. John writes "so that you may know that you have eternal life" (5:13). He gives tests, or marks, of a true Christian: believing that Jesus is the Christ, the Son of God come in the flesh; obeying God's commands; and loving one another. Hill notes these tests are both doctrinal and practical. God is light and God is love, and he sent his Son as the propitiation for our sins. Those born of God walk in the light, confess their sins, and love their brothers.
@@ -103,3 +98,8 @@ Hill notes that John loves repetition, parallels and groups of three, so the let
 8. How does John define love in 4:10? Not that we loved God, but that he loved us and sent his Son to be the propitiation for our sins.
 9. Why do we love? Because he first loved us (4:19).
 10. Why did John write, according to 5:13? So that those who believe in the name of the Son of God may know that they have eternal life.
+
+## Sources
+
+- Charles E. Hill, "1–3 John," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): 1 John, Background Issues (date, chronological order, place, authorship, purpose), Structure and Outline, Message and Theology (ethics, atonement, incarnation, sin, eschatology and antichrist). Print pages to verify.
+- Reformation Study Bible, introduction to 1 John, p. ___ (to verify)

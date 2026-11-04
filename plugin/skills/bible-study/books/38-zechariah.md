@@ -10,12 +10,6 @@ status: draft
 
 # Zechariah
 
-## Sources
-
-- Daniel C. Timmer, "The Twelve," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Message and Theology (chronology, repentance, deliverance of the remnant, the nations' repentance and deliverance), Approaching the New Testament. Print pages to verify.
-- *The Lutheran Study Bible* (Concordia, 2009), introduction to Zechariah: Overview. Lutheran source.
-- Reformation Study Bible, introduction to Zechariah, p. ___ (to verify)
-
 ## Summary
 
 Zechariah encourages the returned exiles to finish the temple and return to the Lord. In eight night visions God assures them that he is jealous for Jerusalem: he will judge the nations, cleanse his people, and complete his house "not by might, nor by power, but by my Spirit" (4:6). The second half looks further ahead to the coming King riding on a donkey, a rejected shepherd sold for thirty pieces of silver, one "whom they have pierced", a fountain to cleanse from sin, and the day when the Lord will be king over all the earth.
@@ -126,3 +120,9 @@ Joshua's filthy garments replaced with clean ones (3:3–5) pictures justificati
 8. What will people do when they look on the one they pierced? Mourn for him as for an only child (12:10).
 9. What will be opened to cleanse from sin? A fountain (13:1).
 10. How does the book end? With the Lord king over all the earth, and everything "Holy to the Lord" (14:9, 20–21).
+
+## Sources
+
+- Daniel C. Timmer, "The Twelve," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Message and Theology (chronology, repentance, deliverance of the remnant, the nations' repentance and deliverance), Approaching the New Testament. Print pages to verify.
+- *The Lutheran Study Bible* (Concordia, 2009), introduction to Zechariah: Overview. Lutheran source.
+- Reformation Study Bible, introduction to Zechariah, p. ___ (to verify)

@@ -10,12 +10,6 @@ status: draft
 
 # Titus
 
-## Sources
-
-- William B. Barcley, "Introduction to the Pastoral Epistles" and "Titus," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues, Structure and Outline, Message and Theology. Print pages to verify.
-- *The Lutheran Study Bible* (Concordia, 2009), introduction to Titus: Overview, Luther on Titus, Challenges for Readers. Lutheran source.
-- Reformation Study Bible, introduction to Titus, p. ___ (to verify)
-
 ## Summary
 
 Titus is a short letter from Paul to his co-worker Titus, whom he left on the island of Crete to "put what remained into order" (1:5). Titus must appoint elders in every town, men sound in doctrine and life, and silence false teachers who are upsetting whole households. Barcley highlights the word "sound" (healthy): sound doctrine must produce sound living. Paul shows how older men, older women, younger women, young men and slaves should live, grounded in two rich summaries of the gospel: the grace of God that trains us to live godly lives (2:11–14), and God's mercy in saving us by the washing of regeneration and renewal of the Holy Spirit (3:4–7). Luther called it a short epistle but "a model of Christian doctrine" (Lutheran Study Bible).
@@ -98,3 +92,9 @@ Titus has two of the New Testament's richest short summaries of the gospel. In 2
 8. Why did Christ give himself for us, according to 2:14? To redeem us from all lawlessness and purify a people for his own possession, zealous for good works.
 9. How did God save us, according to 3:5? Not because of works done by us, but according to his mercy, by the washing of regeneration and renewal of the Holy Spirit.
 10. How should Titus treat a divisive person? Warn him once and then twice, then have nothing more to do with him (3:10).
+
+## Sources
+
+- William B. Barcley, "Introduction to the Pastoral Epistles" and "Titus," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues, Structure and Outline, Message and Theology. Print pages to verify.
+- *The Lutheran Study Bible* (Concordia, 2009), introduction to Titus: Overview, Luther on Titus, Challenges for Readers. Lutheran source.
+- Reformation Study Bible, introduction to Titus, p. ___ (to verify)

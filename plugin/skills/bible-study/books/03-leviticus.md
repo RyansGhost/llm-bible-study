@@ -10,13 +10,6 @@ status: draft
 
 # Leviticus
 
-## Sources
-
-- Michael G. McKelvey, "Leviticus," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues, Title, Historical Context, Structure and Outline, Message and Theology (holiness, sacrifice, time), Approaching the New Testament. Print pages to verify.
-- *The Lutheran Study Bible* (Concordia, 2009), introduction to Leviticus: Overview, Luther on Leviticus, Challenges for Readers. Lutheran source.
-- Westminster Confession of Faith 19.3–5 (ceremonial, civil and moral law).
-- Reformation Study Bible, introduction to Leviticus, p. ___ (to verify)
-
 ## Summary
 
 Leviticus answers a pressing question left by the end of Exodus: how can a holy God live among sinful people? He provides sacrifices to atone for sin, priests to serve, laws to separate clean from unclean, and a calendar of holy days. All of it calls Israel to "be holy, for I the Lord your God am holy" (19:2).
@@ -137,3 +130,10 @@ Jesus, untouched by uncleanness, touched lepers and made them clean (Mark 1:40�
 7. What happened in the Year of Jubilee? Land returned to its original families and Israelite slaves were set free (25).
 8. Why is the book called Leviticus? From the Greek and Latin title, "about the Levites", because it deals with priestly worship.
 9. How does Hebrews describe Christ's work in Leviticus' terms? As the High Priest who entered the true holy place once for all with his own blood (Heb 9:11–14).
+
+## Sources
+
+- Michael G. McKelvey, "Leviticus," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues, Title, Historical Context, Structure and Outline, Message and Theology (holiness, sacrifice, time), Approaching the New Testament. Print pages to verify.
+- *The Lutheran Study Bible* (Concordia, 2009), introduction to Leviticus: Overview, Luther on Leviticus, Challenges for Readers. Lutheran source.
+- Westminster Confession of Faith 19.3–5 (ceremonial, civil and moral law).
+- Reformation Study Bible, introduction to Leviticus, p. ___ (to verify)

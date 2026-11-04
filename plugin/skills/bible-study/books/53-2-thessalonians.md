@@ -10,12 +10,6 @@ status: draft
 
 # 2 Thessalonians
 
-## Sources
-
-- Robert J. Cara, "2 Thessalonians," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (authorship and date, occasion and purpose), Structure and Outline, Message and Theology (divine warrior, idleness). Print pages to verify.
-- *The Lutheran Study Bible* (Concordia, 2009), introduction to 2 Thessalonians: Overview. Lutheran source.
-- Reformation Study Bible, introduction to 2 Thessalonians, p. ___ (to verify)
-
 ## Summary
 
 2 Thessalonians is a short follow-up letter, written soon after 1 Thessalonians. The church is still suffering persecution, and some have been unsettled by a claim that the day of the Lord has already come. Paul encourages them that God will justly repay their persecutors when Christ is revealed from heaven. He explains that the day of the Lord won't come until the rebellion and the "man of lawlessness" are revealed, whom Christ will destroy at his coming. He thanks God for choosing them, asks for prayer, and firmly corrects those who have stopped working and are living in an unruly way.
@@ -102,3 +96,9 @@ The letter shows the returning Christ in his power and glory. He will be "reveal
 8. What rule did Paul give about work? If anyone isn't willing to work, let him not eat (3:10).
 9. How should they treat a disobedient brother? Have nothing to do with him so he may be ashamed, but warn him as a brother, not an enemy (3:14–15).
 10. How did Paul show his letters were genuine? By writing the greeting in his own hand (3:17).
+
+## Sources
+
+- Robert J. Cara, "2 Thessalonians," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (authorship and date, occasion and purpose), Structure and Outline, Message and Theology (divine warrior, idleness). Print pages to verify.
+- *The Lutheran Study Bible* (Concordia, 2009), introduction to 2 Thessalonians: Overview. Lutheran source.
+- Reformation Study Bible, introduction to 2 Thessalonians, p. ___ (to verify)

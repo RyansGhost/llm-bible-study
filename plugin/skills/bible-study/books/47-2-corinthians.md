@@ -10,11 +10,6 @@ status: draft
 
 # 2 Corinthians
 
-## Sources
-
-- Guy Prentiss Waters, "1–2 Corinthians," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues, Structure and Outline (outline of 2 Corinthians), Message and Theology (the redemptive-historical framework, the death and resurrection of Christ, the Spirit). Print pages to verify.
-- Reformation Study Bible, introduction to 2 Corinthians, p. ___ (to verify)
-
 ## Summary
 
 2 Corinthians is Paul's most personal letter. After a painful visit and a tearful letter, Paul writes with relief that many Corinthians have repented, but also with deep concern about "super-apostles" undermining him. He defends his ministry, not by boasting in strength, but by pointing to the cross: God's power is shown in weakness, like treasure in jars of clay. He also urges them to complete their generous gift for the poor believers in Jerusalem. Charles Hodge noted that no letter of Paul's carries such strong feeling (quoted in Waters).
@@ -111,3 +106,8 @@ At the heart of the letter is the great exchange: God made Christ, who knew no s
 8. What does Paul call the false teachers? "Super-apostles" and false apostles (11:5, 13).
 9. What did God say about Paul's thorn in the flesh? "My grace is sufficient for you, for my power is made perfect in weakness" (12:9).
 10. How does 2 Corinthians end? With a Trinitarian blessing: the grace of Christ, the love of God, and the fellowship of the Holy Spirit (13:14).
+
+## Sources
+
+- Guy Prentiss Waters, "1–2 Corinthians," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues, Structure and Outline (outline of 2 Corinthians), Message and Theology (the redemptive-historical framework, the death and resurrection of Christ, the Spirit). Print pages to verify.
+- Reformation Study Bible, introduction to 2 Corinthians, p. ___ (to verify)

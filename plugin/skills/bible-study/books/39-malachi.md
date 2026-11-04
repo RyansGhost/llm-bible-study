@@ -10,12 +10,6 @@ status: draft
 
 # Malachi
 
-## Sources
-
-- Daniel C. Timmer, "The Twelve," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Message and Theology (repentance and Malachi's dispute structure, deliverance of the remnant, the day of the Lord), Approaching the New Testament. Print pages to verify.
-- *The Lutheran Study Bible* (Concordia, 2009), introduction to Malachi: Overview. Lutheran source.
-- Reformation Study Bible, introduction to Malachi, p. ___ (to verify)
-
 ## Summary
 
 Malachi, the last book of the Old Testament, speaks to a returned people who have grown weary and cynical. They doubt God's love, offer him blemished sacrifices, break faith in marriage, rob him of tithes, and complain that serving him is useless. Through a series of disputes, God answers their objections and calls them back. He promises to send his messenger, and then to come himself to his temple, and before the great day of the Lord to send "Elijah the prophet" to turn hearts back.
@@ -106,3 +100,9 @@ The Lord who suddenly comes to his temple (3:1) is Jesus, presented there as a b
 8. What was written for those who feared the Lord? A book of remembrance (3:16).
 9. What will rise with healing in its wings? The sun of righteousness (4:2).
 10. Whom will God send before the great day of the Lord? Elijah the prophet (4:5), whom Jesus identified as John the Baptist.
+
+## Sources
+
+- Daniel C. Timmer, "The Twelve," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Message and Theology (repentance and Malachi's dispute structure, deliverance of the remnant, the day of the Lord), Approaching the New Testament. Print pages to verify.
+- *The Lutheran Study Bible* (Concordia, 2009), introduction to Malachi: Overview. Lutheran source.
+- Reformation Study Bible, introduction to Malachi, p. ___ (to verify)

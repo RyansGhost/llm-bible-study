@@ -10,12 +10,6 @@ status: draft
 
 # Galatians
 
-## Sources
-
-- Guy Prentiss Waters, "Galatians," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (location and date, Paul's opponents), Structure and Outline, Message and Theology (the issue, Paul's defence of his apostleship, the thesis, the argument). Print pages to verify.
-- Martin Luther, *Commentary on Galatians* (1535). Free at [Project Wittenberg](https://www.projectwittenberg.org/pub/resources/text/wittenberg/wittenberg-luther.html). Lutheran source.
-- Reformation Study Bible, introduction to Galatians, p. ___ (to verify)
-
 ## Summary
 
 Galatians is Paul's urgent defence of the gospel of grace. False teachers have persuaded the Galatian believers that Gentile Christians must be circumcised and keep the law of Moses to be truly right with God. Paul calls this "a different gospel" (1:6). He shows that a person is justified by faith in Christ, not by works of the law (2:16). Believers are Abraham's children and God's adopted sons by faith, and the freedom Christ gives is lived out by walking in the Spirit and serving one another in love. Luther loved Galatians so much he called it the letter he was "betrothed" to (quoted in Waters).
@@ -110,3 +104,9 @@ Galatians is a letter about Christ's sufficiency. He "gave himself for our sins 
 8. What did God send in the fullness of time? His Son, born of a woman, born under the law (4:4).
 9. What is the fruit of the Spirit? Love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, self-control (5:22–23).
 10. In what alone will Paul boast? The cross of our Lord Jesus Christ (6:14).
+
+## Sources
+
+- Guy Prentiss Waters, "Galatians," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (location and date, Paul's opponents), Structure and Outline, Message and Theology (the issue, Paul's defence of his apostleship, the thesis, the argument). Print pages to verify.
+- Martin Luther, *Commentary on Galatians* (1535). Free at [Project Wittenberg](https://www.projectwittenberg.org/pub/resources/text/wittenberg/wittenberg-luther.html). Lutheran source.
+- Reformation Study Bible, introduction to Galatians, p. ___ (to verify)

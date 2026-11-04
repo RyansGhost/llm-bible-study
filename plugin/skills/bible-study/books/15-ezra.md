@@ -10,12 +10,6 @@ status: draft
 
 # Ezra
 
-## Sources
-
-- Mark D. Futato, "Ezra–Nehemiah," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues (authorship, sources, date, genre), Structure and Outline, Message and Theology (rebuilding the house of God, ordinary people, the written Word, sovereignty and responsibility). Print pages to verify.
-- *The Lutheran Study Bible* (Concordia, 2009), introduction to Ezra: Overview. Lutheran source.
-- Reformation Study Bible, introduction to Ezra, p. ___ (to verify)
-
 ## Summary
 
 Ezra tells how God brought his people home from exile in Babylon and rebuilt his "house". In the first wave, under Zerubbabel and Jeshua, the exiles return at Cyrus' decree and, despite opposition, rebuild the temple. Decades later, Ezra the scribe returns to teach God's law, and leads the people to confess and turn from their unfaithful marriages to pagan neighbours.
@@ -120,3 +114,9 @@ Zerubbabel, a descendant of David leading the return, appears in Jesus' genealog
 8. What sin made Ezra tear his clothes? Israelites, including leaders, had married pagan women (9:1–3).
 9. What language are parts of Ezra written in? Aramaic, the diplomatic language of the Persian empire (4:8–6:18; 7:12–26).
 10. How does Ezra connect with the end of 2 Chronicles? Both record Cyrus' decree (2 Chr 36:22–23; Ezra 1:1–3).
+
+## Sources
+
+- Mark D. Futato, "Ezra–Nehemiah," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues (authorship, sources, date, genre), Structure and Outline, Message and Theology (rebuilding the house of God, ordinary people, the written Word, sovereignty and responsibility). Print pages to verify.
+- *The Lutheran Study Bible* (Concordia, 2009), introduction to Ezra: Overview. Lutheran source.
+- Reformation Study Bible, introduction to Ezra, p. ___ (to verify)

@@ -10,11 +10,6 @@ status: draft
 
 # John
 
-## Sources
-
-- Michael J. Kruger, "John," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (authorship, occasion and purpose, date, historicity), Structure and Outline, Message and Theology (Christ as the one true God, as the bringer of new life, as the fulfilment of the Old Testament). Print pages to verify.
-- Reformation Study Bible, introduction to John, p. ___ (to verify)
-
 ## Summary
 
 John tells the story of Jesus from a distinctive angle. It begins before creation: "In the beginning was the Word, and the Word was with God, and the Word was God" (1:1), and the Word became flesh. John selects seven signs and long conversations that reveal who Jesus is, including the seven "I am" sayings. He then slows down for Jesus' last night with his disciples, his death, and his resurrection. He writes so that readers "may believe that Jesus is the Christ, the Son of God, and that by believing you may have life in his name" (20:31).
@@ -137,3 +132,8 @@ On the cross he declares, "It is finished" (19:30). After rising he breathes the
 8. What were Jesus' last words on the cross in John? "It is finished" (19:30).
 9. What did Thomas say when he saw the risen Jesus? "My Lord and my God!" (20:28).
 10. Why did John write his Gospel? So that readers may believe Jesus is the Christ, the Son of God, and have life in his name (20:31).
+
+## Sources
+
+- Michael J. Kruger, "John," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (authorship, occasion and purpose, date, historicity), Structure and Outline, Message and Theology (Christ as the one true God, as the bringer of new life, as the fulfilment of the Old Testament). Print pages to verify.
+- Reformation Study Bible, introduction to John, p. ___ (to verify)

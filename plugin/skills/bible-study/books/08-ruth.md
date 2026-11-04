@@ -10,12 +10,6 @@ status: draft
 
 # Ruth
 
-## Sources
-
-- John J. Yeo, "Ruth," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues, Structure and Outline, Message and Theology, Approaching the New Testament. Print pages to verify.
-- *The Lutheran Study Bible* (Concordia, 2009), introduction to Ruth: Overview, Luther on Ruth, Challenges for Readers, Outline. Lutheran source.
-- Reformation Study Bible, introduction to Ruth, p. ___ (to verify)
-
 ## Summary
 
 Ruth is a short, true story from the days of the judges in which God turns a family's emptiness into fullness. A Moabite widow's loyal faith and a godly relative's costly kindness lead to the birth of Obed, King David's grandfather, and so into the line of Jesus.
@@ -110,3 +104,9 @@ Ruth and Boaz are named in Jesus' genealogy (Matt 1:5). Their great-grandson's t
 7. How was the agreement sealed? He took off his sandal and gave it to Boaz before witnesses (4:7–8).
 8. Who was Ruth's son, and why does he matter? Obed, the grandfather of King David (4:17).
 9. Where does Ruth appear in the New Testament? In Jesus' genealogy, Matthew 1:5.
+
+## Sources
+
+- John J. Yeo, "Ruth," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues, Structure and Outline, Message and Theology, Approaching the New Testament. Print pages to verify.
+- *The Lutheran Study Bible* (Concordia, 2009), introduction to Ruth: Overview, Luther on Ruth, Challenges for Readers, Outline. Lutheran source.
+- Reformation Study Bible, introduction to Ruth, p. ___ (to verify)

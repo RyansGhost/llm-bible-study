@@ -10,11 +10,6 @@ status: draft
 
 # Jeremiah
 
-## Sources
-
-- Peter Y. Lee, "Jeremiah," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues (historical setting, text of Jeremiah), Structure and Outline, Message and Theology (prosecutor of the Mosaic covenant, herald of the new covenant, "from repentance to redemption", the prophetic call). Print pages to verify.
-- Reformation Study Bible, introduction to Jeremiah, p. ___ (to verify)
-
 ## Summary
 
 Jeremiah prophesied through Judah's last forty years, warning a stubborn people to repent or face Babylon. They rejected, beat, imprisoned and nearly killed him, and Jerusalem fell exactly as he said. Yet in the darkest hour, God gave Jeremiah the promise of a new covenant: God would write his law on his people's hearts and forgive their sins (31:31–34). Lee sums up the movement of his message as "from repentance to redemption".
@@ -171,3 +166,8 @@ Jesus quoted Jeremiah's temple sermon when he cleared the temple: "a den of robb
 8. Who wrote down Jeremiah's words, and which king burned the scroll? Baruch wrote them; King Jehoiakim burned the scroll (36).
 9. Who rescued Jeremiah from the cistern? Ebed-melech the Cushite (38:7–13).
 10. Where did Jeremiah end up after Jerusalem fell? In Egypt, taken by the fleeing Jews (43).
+
+## Sources
+
+- Peter Y. Lee, "Jeremiah," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues (historical setting, text of Jeremiah), Structure and Outline, Message and Theology (prosecutor of the Mosaic covenant, herald of the new covenant, "from repentance to redemption", the prophetic call). Print pages to verify.
+- Reformation Study Bible, introduction to Jeremiah, p. ___ (to verify)

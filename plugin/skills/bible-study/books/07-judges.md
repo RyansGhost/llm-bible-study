@@ -10,12 +10,6 @@ status: draft
 
 # Judges
 
-## Sources
-
-- Michael J. Glodo, "Judges," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues, Structure and Outline, Message and Theology (the prologues, the cycles, each judge). Print pages to verify.
-- *The Lutheran Study Bible* (Concordia, 2009), introduction to Judges: Overview, Challenges for Readers. Lutheran source.
-- Reformation Study Bible, introduction to Judges, p. ___ (to verify)
-
 ## Summary
 
 Judges tells of Israel's spiral into idolatry and chaos between Joshua's death and the rise of the kings. Again and again Israel turns to other gods, God hands them over to oppressors, they cry out, and God mercifully raises up a deliverer. Each round goes worse than the last, and the book ends in moral collapse: "there was no king in Israel. Everyone did what was right in his own eyes" (21:25).
@@ -132,3 +126,9 @@ Hebrews names Gideon, Barak, Samson and Jephthah among those who "through faith 
 8. What was the secret of Samson's strength? His uncut hair, the sign of his Nazirite vow (16:17).
 9. How did Samson die? By pulling down the temple of Dagon on himself and the Philistines (16:30).
 10. Which tribe was nearly wiped out in a civil war? Benjamin (20).
+
+## Sources
+
+- Michael J. Glodo, "Judges," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues, Structure and Outline, Message and Theology (the prologues, the cycles, each judge). Print pages to verify.
+- *The Lutheran Study Bible* (Concordia, 2009), introduction to Judges: Overview, Challenges for Readers. Lutheran source.
+- Reformation Study Bible, introduction to Judges, p. ___ (to verify)

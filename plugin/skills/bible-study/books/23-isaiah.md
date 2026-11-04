@@ -10,11 +10,6 @@ status: draft
 
 # Isaiah
 
-## Sources
-
-- Willem A. VanGemeren, "Isaiah," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues (unity of the book), Structure and Outline (theological, historical and literary factors, figuration), Message and Theology (Isaiah 1–39 and 40–66). Print pages to verify.
-- Reformation Study Bible, introduction to Isaiah, p. ___ (to verify)
-
 ## Summary
 
 Isaiah, the early church's "fifth Gospel" (VanGemeren), is a vision of the Holy One of Israel. He judges his rebellious people and the proud nations, yet promises to redeem a remnant, restore Zion, and fill the earth with his glory. The book moves from judgment under Assyria (1–39) to comfort and restoration after the Babylonian exile (40–66). At its heart stand a royal child from David's line and the Suffering Servant who bears his people's sins.
@@ -198,3 +193,8 @@ John even says Isaiah saw Christ's glory in his temple vision (John 12:41).
 8. Which chapter describes the Suffering Servant wounded for our transgressions? Isaiah 53 (beginning at 52:13).
 9. Which passage did Jesus read in the Nazareth synagogue? Isaiah 61:1–2 (Luke 4:16–21).
 10. What does God promise to create at the end of Isaiah? New heavens and a new earth (65:17; 66:22).
+
+## Sources
+
+- Willem A. VanGemeren, "Isaiah," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues (unity of the book), Structure and Outline (theological, historical and literary factors, figuration), Message and Theology (Isaiah 1–39 and 40–66). Print pages to verify.
+- Reformation Study Bible, introduction to Isaiah, p. ___ (to verify)

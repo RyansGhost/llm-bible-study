@@ -10,11 +10,6 @@ status: draft
 
 # 1 Timothy
 
-## Sources
-
-- William B. Barcley, "Introduction to the Pastoral Epistles" and "1 Timothy," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (authorship, date and occasion, false teaching, recipients), Structure and Outline, Message and Theology. Print pages to verify.
-- Reformation Study Bible, introduction to 1 Timothy, p. ___ (to verify)
-
 ## Summary
 
 1 Timothy is Paul's instruction to his trusted co-worker Timothy, whom he left in Ephesus to stop false teachers. Barcley shows the letter alternates between two themes: dealing with the false teachers, and "how one ought to behave in the household of God, which is the church" (3:15). Paul tells Timothy to hold to sound doctrine and a good conscience, to make prayer a priority, and to appoint qualified elders and deacons. He gives guidance on worship, caring for widows, honouring elders, and money: "godliness with contentment is great gain" (6:6). Through it all runs the gospel: "Christ Jesus came into the world to save sinners" (1:15).
@@ -105,3 +100,8 @@ The letter centres on the "trustworthy saying" that Christ Jesus came into the w
 8. Which elders are worthy of double honour? Those who rule well, especially those who labour in preaching and teaching (5:17).
 9. What is great gain? Godliness with contentment (6:6).
 10. What is a root of all kinds of evils? The love of money (6:10).
+
+## Sources
+
+- William B. Barcley, "Introduction to the Pastoral Epistles" and "1 Timothy," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (authorship, date and occasion, false teaching, recipients), Structure and Outline, Message and Theology. Print pages to verify.
+- Reformation Study Bible, introduction to 1 Timothy, p. ___ (to verify)

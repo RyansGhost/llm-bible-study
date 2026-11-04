@@ -10,11 +10,6 @@ status: draft
 
 # Philippians
 
-## Sources
-
-- Bruce A. Lowe, "Philippians," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (exile, prison and death; ancient farewells), Structure and Outline, Message and Theology. Print pages to verify.
-- Reformation Study Bible, introduction to Philippians, p. ___ (to verify)
-
 ## Summary
 
 Philippians is a warm letter from Paul in prison to a church that had partnered with him in the gospel from the start. Lowe reads it as a letter of friendship and partnership, and also of possible bereavement: Paul doesn't know whether he will live or die, so he writes to prepare them. He rejoices that his chains have advanced the gospel ("to live is Christ, and to die is gain", 1:21). He urges humility and unity by pointing to Christ, who emptied himself to the point of death on a cross and was exalted. He counts everything loss compared with knowing Christ, and he thanks them for their gift, having learned contentment in all circumstances.
@@ -104,3 +99,8 @@ For Paul, knowing Christ, sharing his sufferings, and attaining the resurrection
 8. Where is the believer's citizenship? In heaven (3:20).
 9. What should we do instead of being anxious? Pray with thanksgiving, and God's peace will guard our hearts (4:6–7).
 10. What does "I can do all things through him who strengthens me" refer to? Being content in every circumstance, in plenty and in need (4:11–13).
+
+## Sources
+
+- Bruce A. Lowe, "Philippians," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (exile, prison and death; ancient farewells), Structure and Outline, Message and Theology. Print pages to verify.
+- Reformation Study Bible, introduction to Philippians, p. ___ (to verify)

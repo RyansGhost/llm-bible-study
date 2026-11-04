@@ -10,12 +10,6 @@ status: draft
 
 # Numbers
 
-## Sources
-
-- Michael J. Glodo, "Numbers," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues, Authorship, Date and Audience, Structure and Outline, Message and Theology. Print pages to verify.
-- *The Lutheran Study Bible* (Concordia, 2009), introduction to Numbers: Overview, Luther on Numbers, Challenges for Readers. Lutheran source.
-- Reformation Study Bible, introduction to Numbers, p. ___ (to verify)
-
 ## Summary
 
 Numbers follows Israel from Mount Sinai to the edge of the promised land. The generation God rescued from Egypt refuses to trust him and dies in the wilderness over forty years. God stays faithful, though, and brings their children to the plains of Moab ready to enter Canaan.
@@ -152,3 +146,9 @@ The ashes of the red heifer cleansed the body; Christ's blood cleanses the consc
 8. What healed those bitten by snakes? Looking at the bronze serpent Moses lifted up (21:8–9).
 9. Who spoke to Balaam besides God? His donkey (22:28).
 10. Who succeeded Moses as leader? Joshua (27:18–23).
+
+## Sources
+
+- Michael J. Glodo, "Numbers," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues, Authorship, Date and Audience, Structure and Outline, Message and Theology. Print pages to verify.
+- *The Lutheran Study Bible* (Concordia, 2009), introduction to Numbers: Overview, Luther on Numbers, Challenges for Readers. Lutheran source.
+- Reformation Study Bible, introduction to Numbers, p. ___ (to verify)

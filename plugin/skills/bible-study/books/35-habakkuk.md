@@ -10,12 +10,6 @@ status: draft
 
 # Habakkuk
 
-## Sources
-
-- Daniel C. Timmer, "The Twelve," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Message and Theology (sin in Judah, punishment through the nations, the punishment of the nations, deliverance of the remnant). Print pages to verify.
-- *The Lutheran Study Bible* (Concordia, 2009), introduction to Habakkuk: Overview. Lutheran source.
-- Reformation Study Bible, introduction to Habakkuk, p. ___ (to verify)
-
 ## Summary
 
 Habakkuk is a conversation between a troubled prophet and God. Habakkuk asks why God tolerates violence and injustice in Judah. God answers that he is raising up the Babylonians to judge them. That only deepens the problem: how can a holy God use a nation more wicked than Judah? God tells him to wait for the vision, because "the righteous shall live by his faith" (2:4). The book ends with Habakkuk rejoicing in God even if everything else fails.
@@ -95,3 +89,9 @@ Habakkuk's prayer, "in wrath remember mercy" (3:2), is answered at the cross, wh
 8. What did Habakkuk ask God to remember in wrath? Mercy (3:2).
 9. What will Habakkuk do even if the crops fail? Rejoice in the Lord and take joy in the God of his salvation (3:17–18).
 10. Who made Habakkuk 2:4 central to the Reformation? Martin Luther, through Romans 1:17.
+
+## Sources
+
+- Daniel C. Timmer, "The Twelve," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Message and Theology (sin in Judah, punishment through the nations, the punishment of the nations, deliverance of the remnant). Print pages to verify.
+- *The Lutheran Study Bible* (Concordia, 2009), introduction to Habakkuk: Overview. Lutheran source.
+- Reformation Study Bible, introduction to Habakkuk, p. ___ (to verify)

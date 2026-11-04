@@ -10,12 +10,6 @@ status: draft
 
 # Revelation
 
-## Sources
-
-- Charles E. Hill, "Revelation," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Introduction and Purpose, Background Issues (authorship, date, form and genre, approaches to Revelation, hermeneutical factors), Structure and Outline (four visions), Message and Theology. Print pages to verify.
-- *The Lutheran Study Bible* (Concordia, 2009), introduction to Revelation: Overview, Luther on Revelation (from his 1530 preface), Challenges for Readers. Lutheran source.
-- Reformation Study Bible, introduction to Revelation, p. ___ (to verify)
-
 ## Summary
 
 Revelation is "the revelation of Jesus Christ" (1:1), given to John in a series of visions while he was exiled on the island of Patmos. Hill sums it up as showing the paradoxical present rule of Jesus Christ as King over all the kings of the earth, his final triumph, and the salvation of his people through tribulation. The risen Christ speaks to seven churches in Asia. Then John sees God's throne in heaven, where the Lamb who was slain takes the scroll of history. Seals, trumpets and bowls of judgment follow. The dragon and the beasts make war on the saints, and Babylon the great seduces the nations. But Babylon falls, Christ returns as the rider on the white horse, Satan is defeated, the dead are judged, and God makes all things new. The book ends in a new heaven and new earth, where God dwells with his people and wipes away every tear. Its message for every age: be faithful, even to death, because the Lamb has conquered.
@@ -141,3 +135,9 @@ The book's title is its theme: "the revelation of Jesus Christ" (1:1). He is "th
 8. How did the saints conquer the dragon? By the blood of the Lamb and the word of their testimony (12:11).
 9. What happens to Satan at the end of the thousand years? He is released, then defeated and thrown into the lake of fire forever (20:7–10).
 10. What does God say from the throne in 21:5? "Behold, I am making all things new."
+
+## Sources
+
+- Charles E. Hill, "Revelation," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Introduction and Purpose, Background Issues (authorship, date, form and genre, approaches to Revelation, hermeneutical factors), Structure and Outline (four visions), Message and Theology. Print pages to verify.
+- *The Lutheran Study Bible* (Concordia, 2009), introduction to Revelation: Overview, Luther on Revelation (from his 1530 preface), Challenges for Readers. Lutheran source.
+- Reformation Study Bible, introduction to Revelation, p. ___ (to verify)

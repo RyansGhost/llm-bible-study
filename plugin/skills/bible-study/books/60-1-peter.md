@@ -10,12 +10,6 @@ status: draft
 
 # 1 Peter
 
-## Sources
-
-- William B. Barcley, "1 Peter," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (authorship, occasion and date, audience), Structure and Outline, Message and Theology (living in a world that isn't our home, suffering after Christ's example, holiness, witness). Print pages to verify.
-- *The Lutheran Study Bible* (Concordia, 2009), introduction to 1 Peter: Overview, Luther on 1 Peter, Challenges for Readers. Lutheran source.
-- Reformation Study Bible, introduction to 1 Peter, p. ___ (to verify)
-
 ## Summary
 
 1 Peter is a letter of hope to Christians suffering for their faith. Peter calls them "elect exiles" (1:1), and Barcley shows those two words sum up the letter. As God's elect, they are chosen, born again to a living hope, and made a royal priesthood and holy nation. As exiles, they live in a world that isn't their home, so they will face slander and suffering. Peter calls them to be holy, to live honourably among unbelievers, to submit to authorities for the Lord's sake, and to follow Christ's example of suffering without retaliating. Christ suffered once for sins, the righteous for the unrighteous, and glory will follow suffering for them as it did for him.
@@ -107,3 +101,9 @@ Peter, an eyewitness of Christ's sufferings (5:1), shows Jesus as the fulfilment
 8. How does Peter describe Christ's death in 3:18? He suffered once for sins, the righteous for the unrighteous, to bring us to God.
 9. What should we not be surprised at? The fiery trial (4:12).
 10. To what does Peter compare the devil? A roaring lion, seeking someone to devour (5:8).
+
+## Sources
+
+- William B. Barcley, "1 Peter," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (authorship, occasion and date, audience), Structure and Outline, Message and Theology (living in a world that isn't our home, suffering after Christ's example, holiness, witness). Print pages to verify.
+- *The Lutheran Study Bible* (Concordia, 2009), introduction to 1 Peter: Overview, Luther on 1 Peter, Challenges for Readers. Lutheran source.
+- Reformation Study Bible, introduction to 1 Peter, p. ___ (to verify)

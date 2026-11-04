@@ -10,12 +10,6 @@ status: draft
 
 # Job
 
-## Sources
-
-- Richard P. Belcher Jr., "Job," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues (historical context, genre), Structure and Outline, Message and Theology (the prologue, Job's lament, the speeches, Elihu, God's speeches, the epilogue). Print pages to verify.
-- *The Lutheran Study Bible* (Concordia, 2009), introduction to Job: Overview. Lutheran source.
-- Reformation Study Bible, introduction to Job, p. ___ (to verify)
-
 ## Summary
 
 Job is about a righteous man who loses everything and wrestles with God over why. Behind the scenes, God allows Satan to test whether Job serves God for nothing. Job's friends insist he must be suffering for some sin. Job insists on his innocence and demands a hearing with God. When God finally speaks from the whirlwind, he doesn't explain Job's suffering. He reveals his own wisdom and power, and Job bows in humble trust. God rebukes the friends and restores Job.
@@ -156,3 +150,9 @@ Job is a righteous sufferer, though not sinless. Christ is the truly innocent su
 8. How did God answer Job? From the whirlwind, with questions about creation and his power (38–41).
 9. What did God say about the friends? They had not spoken rightly about him, as Job had (42:7).
 10. How did the book end for Job? He prayed for his friends, and God restored him with twice as much as before (42:10).
+
+## Sources
+
+- Richard P. Belcher Jr., "Job," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues (historical context, genre), Structure and Outline, Message and Theology (the prologue, Job's lament, the speeches, Elihu, God's speeches, the epilogue). Print pages to verify.
+- *The Lutheran Study Bible* (Concordia, 2009), introduction to Job: Overview. Lutheran source.
+- Reformation Study Bible, introduction to Job, p. ___ (to verify)

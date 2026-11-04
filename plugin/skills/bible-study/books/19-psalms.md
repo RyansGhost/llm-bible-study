@@ -10,12 +10,6 @@ status: draft
 
 # Psalms
 
-## Sources
-
-- Mark D. Futato, "Psalms," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues (composition, authorship, genre), Structure and Outline (lament to praise, the five books), Message and Theology (Psalm 1 as instruction, the kingship of God, our King is coming). Print pages to verify.
-- John Calvin, *Commentary on the Book of Psalms*, preface (cited in Futato).
-- Reformation Study Bible, introduction to Psalms, p. ___ (to verify)
-
 ## Summary
 
 Psalms is Israel's book of prayer and praise: 150 songs and prayers written over about a thousand years. Its laments, thanksgivings, hymns, royal songs and wisdom poems teach God's people to bring every experience to God and to live the blessed life he intends (Futato). Its great theme is that the Lord reigns as King, and that his anointed King, the Son of David, is coming.
@@ -165,3 +159,9 @@ Christians have long prayed the Psalms with Christ: he is both the one the Psalm
 8. Which psalms are the Songs of Ascents? Psalms 120–134, sung by pilgrims going up to Jerusalem.
 9. Which psalm is quoted most in the New Testament? Psalm 110: "The Lord says to my Lord: sit at my right hand".
 10. How does the book of Psalms end? With Psalms 146–150, each beginning and ending "Praise the Lord!"
+
+## Sources
+
+- Mark D. Futato, "Psalms," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues (composition, authorship, genre), Structure and Outline (lament to praise, the five books), Message and Theology (Psalm 1 as instruction, the kingship of God, our King is coming). Print pages to verify.
+- John Calvin, *Commentary on the Book of Psalms*, preface (cited in Futato).
+- Reformation Study Bible, introduction to Psalms, p. ___ (to verify)

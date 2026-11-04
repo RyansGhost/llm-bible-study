@@ -10,11 +10,6 @@ status: draft
 
 # Acts
 
-## Sources
-
-- Robert J. Cara, "Acts," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (historical background, historical accuracy, authorship and date, addressee and purposes, the Greek text), Structure and Outline (the Peter-and-Paul outline, the Holy Spirit-events outline). Print pages to verify.
-- Reformation Study Bible, introduction to Acts, p. ___ (to verify)
-
 ## Summary
 
 Acts continues the story Luke began: what the risen Jesus kept doing through his apostles by the Holy Spirit. After Jesus ascends, the Spirit comes at Pentecost and the church is born in Jerusalem. Through persecution and mission the good news spreads to Judea and Samaria, then to the Gentiles: from Peter's preaching to Cornelius, to Paul's missionary journeys across the Roman world. The book ends with Paul in Rome under house arrest, proclaiming the kingdom of God "with all boldness and without hindrance" (28:31).
@@ -143,3 +138,8 @@ Acts begins by calling the Gospel of Luke an account of "all that Jesus began to
 8. What did the Jerusalem council decide? Gentile believers did not need to be circumcised to be saved (15).
 9. Who was converted in Philippi besides Lydia? The jailer and his household (16:25–34).
 10. How does Acts end? With Paul in Rome under house arrest, preaching the kingdom of God without hindrance (28:30–31).
+
+## Sources
+
+- Robert J. Cara, "Acts," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (historical background, historical accuracy, authorship and date, addressee and purposes, the Greek text), Structure and Outline (the Peter-and-Paul outline, the Holy Spirit-events outline). Print pages to verify.
+- Reformation Study Bible, introduction to Acts, p. ___ (to verify)

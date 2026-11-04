@@ -10,13 +10,6 @@ status: draft
 
 # Genesis
 
-## Sources
-
-- John D. Currid, "Genesis," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues, Literary Analysis, Structure and Outline, Message and Theology, Centrality of the Covenant, Approaching the New Testament. Print pages to verify.
-- *The Lutheran Study Bible* (Concordia, 2009), introduction to Genesis: Overview, Luther on Genesis, Challenges for Readers, Genesis and Theories of Evolution, Outline. Lutheran source.
-- Westminster Confession of Faith 4.1 (creation) and 7.1–3 (the covenants).
-- Reformation Study Bible, introduction to Genesis, p. ___ (to verify)
-
 ## Summary
 
 Genesis is the book of beginnings: of the world, of humanity, of sin, and of God's plan to save. God creates a good world, humanity falls into sin, and God at once promises a Saver, the "offspring" of the woman (3:15). He then carries that promise through Noah, Abraham, Isaac, Jacob and Joseph by covenant, keeping it alive through every family failure.
@@ -178,3 +171,10 @@ Joseph, rejected by his brothers and raised to save many lives, is a pattern of 
 9. What was Jacob renamed, and when? Israel, after wrestling with God at Peniel (32:28).
 10. How did Joseph explain his brothers' betrayal? "You meant evil against me, but God meant it for good" (50:20).
 11. Which son received the promise of the sceptre? Judah (49:10).
+
+## Sources
+
+- John D. Currid, "Genesis," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues, Literary Analysis, Structure and Outline, Message and Theology, Centrality of the Covenant, Approaching the New Testament. Print pages to verify.
+- *The Lutheran Study Bible* (Concordia, 2009), introduction to Genesis: Overview, Luther on Genesis, Challenges for Readers, Genesis and Theories of Evolution, Outline. Lutheran source.
+- Westminster Confession of Faith 4.1 (creation) and 7.1–3 (the covenants).
+- Reformation Study Bible, introduction to Genesis, p. ___ (to verify)

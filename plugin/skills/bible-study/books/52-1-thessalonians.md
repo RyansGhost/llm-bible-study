@@ -10,11 +10,6 @@ status: draft
 
 # 1 Thessalonians
 
-## Sources
-
-- Robert J. Cara, "1 Thessalonians," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (Thessalonica, authorship and date, occasion and purpose, 2:1–12), Structure and Outline, Message and Theology (be imitators, "consistent" eschatology, election and calling). Print pages to verify.
-- Reformation Study Bible, introduction to 1 Thessalonians, p. ___ (to verify)
-
 ## Summary
 
 1 Thessalonians is one of Paul's earliest letters, written to a young church he had been forced to leave after only a short stay. Timothy has brought good news: they are standing firm in faith and love despite persecution. Paul thanks God for them, defends the sincerity of his ministry among them, and urges them to keep living holy lives that please God. He also answers their questions about believers who have died: the dead in Christ will rise first, and all believers will be with the Lord forever. Cara notes that while the second-coming passages are the best known, Paul's main points in them are clear and meant to encourage.
@@ -104,3 +99,8 @@ The believers wait for God's Son from heaven, "whom he raised from the dead, Jes
 8. When the Lord descends from heaven, who will rise first? The dead in Christ (4:16).
 9. How will the day of the Lord come? Like a thief in the night (5:2).
 10. What three commands come in 5:16–18? Rejoice always, pray without ceasing, give thanks in all circumstances.
+
+## Sources
+
+- Robert J. Cara, "1 Thessalonians," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (Thessalonica, authorship and date, occasion and purpose, 2:1–12), Structure and Outline, Message and Theology (be imitators, "consistent" eschatology, election and calling). Print pages to verify.
+- Reformation Study Bible, introduction to 1 Thessalonians, p. ___ (to verify)

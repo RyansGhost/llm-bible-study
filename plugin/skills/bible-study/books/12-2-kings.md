@@ -10,12 +10,6 @@ status: draft
 
 # 2 Kings
 
-## Sources
-
-- William B. Fullilove, "1–2 Kings," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues, Structure and Outline, Message and Theology (the Mosaic covenant, the Davidic covenant, the prophetic word and delayed retribution). Print pages to verify.
-- *The Lutheran Study Bible* (Concordia, 2009), introduction to 1 and 2 Kings. Lutheran source.
-- Reformation Study Bible, introduction to 2 Kings, p. ___ (to verify)
-
 ## Summary
 
 2 Kings traces both kingdoms to their fall. Elijah is taken to heaven and Elisha carries on with many miracles. But the northern kingdom never turns from Jeroboam's idols and falls to Assyria in 722 BC. Judah has bright moments under Hezekiah and Josiah, but Manasseh's wickedness seals its fate: Babylon destroys Jerusalem and the temple in 586 BC. The book ends in exile, with one small sign of hope: David's descendant Jehoiachin released from prison in Babylon.
@@ -141,3 +135,9 @@ Above all, Kings ends with a question about God's promise to David. Jehoiachin's
 8. What did Josiah's workers find in the temple? The Book of the Law (22:8).
 9. When was Jerusalem destroyed, and by whom? In 586 BC, by Nebuchadnezzar of Babylon (25:8–10).
 10. How does 2 Kings end? With King Jehoiachin released from prison in Babylon and eating at the king's table (25:27–30).
+
+## Sources
+
+- William B. Fullilove, "1–2 Kings," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues, Structure and Outline, Message and Theology (the Mosaic covenant, the Davidic covenant, the prophetic word and delayed retribution). Print pages to verify.
+- *The Lutheran Study Bible* (Concordia, 2009), introduction to 1 and 2 Kings. Lutheran source.
+- Reformation Study Bible, introduction to 2 Kings, p. ___ (to verify)

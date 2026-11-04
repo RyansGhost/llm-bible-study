@@ -10,12 +10,6 @@ status: draft
 
 # 1 Corinthians
 
-## Sources
-
-- Guy Prentiss Waters, "1–2 Corinthians," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (Paul and the church in Corinth, the problems in Corinth), Structure and Outline, Message and Theology (Paul's redemptive-historical framework, the gospel, the death and resurrection of Christ, the Spirit and the body). Print pages to verify.
-- John Calvin, *Commentary on 1 Corinthians*, dedicatory epistle (quoted in Waters).
-- Reformation Study Bible, introduction to 1 Corinthians, p. ___ (to verify)
-
 ## Summary
 
 1 Corinthians is Paul's pastoral response to a gifted but troubled young church: divisions, pride, sexual immorality, lawsuits, disputes over food offered to idols, disorder in worship, and doubts about the resurrection. Paul answers each problem by bringing the gospel to bear: Christ crucified, the wisdom and power of God; the church as God's temple and Christ's body; love as the greatest gift; and Christ's resurrection as the guarantee of ours. Calvin called it a letter "not less obscure than useful" (quoted in Waters).
@@ -122,3 +116,9 @@ Christ crucified is the centre of the letter (2:2). He is the power and wisdom o
 8. What is the greatest of faith, hope and love? Love (13:13).
 9. What is "of first importance" in the gospel? That Christ died for our sins, was buried, was raised on the third day, and appeared (15:3–5).
 10. What does Paul say about death in 15:54–55? Death is swallowed up in victory; "O death, where is your sting?"
+
+## Sources
+
+- Guy Prentiss Waters, "1–2 Corinthians," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (Paul and the church in Corinth, the problems in Corinth), Structure and Outline, Message and Theology (Paul's redemptive-historical framework, the gospel, the death and resurrection of Christ, the Spirit and the body). Print pages to verify.
+- John Calvin, *Commentary on 1 Corinthians*, dedicatory epistle (quoted in Waters).
+- Reformation Study Bible, introduction to 1 Corinthians, p. ___ (to verify)

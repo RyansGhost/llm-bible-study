@@ -10,11 +10,6 @@ status: draft
 
 # Jude
 
-## Sources
-
-- Simon J. Kistemaker, "Jude," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (relationship to 2 Peter, authorship, date, canonicity), Structure and Outline, Message and Theology (antinomianism, judgment on sin, the glory of Christ). Print pages to verify.
-- Reformation Study Bible, introduction to Jude, p. ___ (to verify)
-
 ## Summary
 
 Jude is a short, urgent letter. Jude meant to write about the salvation he shared with his readers, but instead had to urge them "to contend for the faith that was once for all delivered to the saints" (v. 3). Ungodly people had crept into the church unnoticed, turning God's grace into a licence for immorality and denying Jesus Christ, the only Master and Lord. Jude reminds the readers how God judged unbelieving Israel, rebellious angels and Sodom, and describes the intruders in vivid pictures: waterless clouds, fruitless trees, wild waves and wandering stars. But he ends with hope: build yourselves up in the faith, pray in the Holy Spirit, keep yourselves in God's love, show mercy, and trust the one "who is able to keep you from stumbling" (v. 24). Kistemaker sums up its message as warning against antinomianism, judgment on sin, and the glory of Christ.
@@ -110,3 +105,8 @@ Jesus Christ is "our only Master and Lord" (v. 4), whom the false teachers deny.
 8. Whose prophecy does Jude quote? Enoch's, the seventh from Adam (vv. 14–15).
 9. How should believers keep themselves? Building themselves up in the faith, praying in the Holy Spirit, keeping themselves in God's love, and waiting for Christ's mercy (vv. 20–21).
 10. What is God able to do, according to v. 24? Keep you from stumbling and present you blameless before his glory with great joy.
+
+## Sources
+
+- Simon J. Kistemaker, "Jude," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (relationship to 2 Peter, authorship, date, canonicity), Structure and Outline, Message and Theology (antinomianism, judgment on sin, the glory of Christ). Print pages to verify.
+- Reformation Study Bible, introduction to Jude, p. ___ (to verify)

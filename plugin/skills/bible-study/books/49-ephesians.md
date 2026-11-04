@@ -10,12 +10,6 @@ status: draft
 
 # Ephesians
 
-## Sources
-
-- Guy Prentiss Waters, "Ephesians," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (authorship, "to the Ephesians?", purpose), Structure and Outline, Message and Theology. Print pages to verify.
-- John Chrysostom, *Homilies on Ephesians*, "The Argument" (quoted in Waters).
-- Reformation Study Bible, introduction to Ephesians, p. ___ (to verify)
-
 ## Summary
 
 Ephesians unfolds God's eternal plan to unite all things in Christ, and the church's place in it. The first half (1–3) praises God for every spiritual blessing in Christ: chosen, adopted, redeemed, sealed by the Spirit. Sinners dead in sin are saved by grace through faith, and Jews and Gentiles are made one new people. The second half (4–6) shows how to "walk in a manner worthy" of that calling: in unity, holiness and love, in marriage, family and work, and standing firm in the armour of God. The church father Chrysostom said Paul entrusted the Ephesians with his deepest thoughts (quoted in Waters).
@@ -107,3 +101,9 @@ Christ is at the centre of God's plan: "to unite all things in him, things in he
 8. Why does Christ give apostles, prophets, evangelists, and shepherds and teachers? To equip the saints for ministry and build up the body (4:11–12).
 9. How should husbands love their wives? As Christ loved the church and gave himself up for her (5:25).
 10. What is the sword of the Spirit? The word of God (6:17).
+
+## Sources
+
+- Guy Prentiss Waters, "Ephesians," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (authorship, "to the Ephesians?", purpose), Structure and Outline, Message and Theology. Print pages to verify.
+- John Chrysostom, *Homilies on Ephesians*, "The Argument" (quoted in Waters).
+- Reformation Study Bible, introduction to Ephesians, p. ___ (to verify)

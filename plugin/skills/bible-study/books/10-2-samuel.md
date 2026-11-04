@@ -10,12 +10,6 @@ status: draft
 
 # 2 Samuel
 
-## Sources
-
-- Michael G. McKelvey, "1–2 Samuel," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Structure and Outline, Message and Theology (David, the Davidic covenant, the heart, David and the Psalms), Approaching the New Testament. Print pages to verify.
-- *The Lutheran Study Bible* (Concordia, 2009), introduction to 1 and 2 Samuel. Lutheran source.
-- Reformation Study Bible, introduction to 2 Samuel, p. ___ (to verify)
-
 ## Summary
 
 2 Samuel is the story of David's reign. He becomes king, first over Judah and then over all Israel, makes Jerusalem his capital, and brings up the ark. God makes a covenant promising David a dynasty and a throne that will last forever (7). But David's adultery with Bathsheba and the murder of Uriah bring God's discipline: violence in his own family, Absalom's rebellion, and lasting turmoil. The book shows both the glory and the failure of the best human king.
@@ -136,3 +130,9 @@ David fleeing Jerusalem across the Kidron, rejected by his own people (15:23), a
 8. Which of David's sons rebelled against him? Absalom (15).
 9. How did Absalom die? Caught by his hair in an oak tree, then killed by Joab (18:9–15).
 10. What did David buy from Araunah? His threshing floor, to build an altar where the plague stopped (24:18–25).
+
+## Sources
+
+- Michael G. McKelvey, "1–2 Samuel," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Structure and Outline, Message and Theology (David, the Davidic covenant, the heart, David and the Psalms), Approaching the New Testament. Print pages to verify.
+- *The Lutheran Study Bible* (Concordia, 2009), introduction to 1 and 2 Samuel. Lutheran source.
+- Reformation Study Bible, introduction to 2 Samuel, p. ___ (to verify)

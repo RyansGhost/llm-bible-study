@@ -10,12 +10,6 @@ status: draft
 
 # 2 Timothy
 
-## Sources
-
-- William B. Barcley, "Introduction to the Pastoral Epistles" and "2 Timothy," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues, Structure and Outline, Message and Theology. Print pages to verify.
-- *The Lutheran Study Bible* (Concordia, 2009), introduction to 2 Timothy: Overview, Luther on 2 Timothy. Lutheran source.
-- Reformation Study Bible, introduction to 2 Timothy, p. ___ (to verify)
-
 ## Summary
 
 2 Timothy is Paul's last surviving letter, written from a Roman prison as he waits to be executed. Barcley sums up its theme as "a call to faithfulness". Paul wants the gospel passed on faithfully after the apostles are gone, and he wants Timothy to persevere despite suffering and false teaching. He urges Timothy not to be ashamed, to guard the good deposit, to entrust it to faithful men, to endure hardship like a soldier, and to preach the word, which is breathed out by God. Paul faces death with confidence: he has fought the good fight, finished the race and kept the faith. Luther called it a farewell letter (Lutheran Study Bible).
@@ -105,3 +99,9 @@ Paul begins with the grace given to us in Christ Jesus before the ages began, no
 8. What does Paul charge Timothy to do in 4:2? Preach the word, in season and out of season.
 9. What did Paul say about his life in 4:7? "I have fought the good fight, I have finished the race, I have kept the faith."
 10. Who deserted Paul, and who alone was with him? Demas deserted him; only Luke was with him (4:10–11).
+
+## Sources
+
+- William B. Barcley, "Introduction to the Pastoral Epistles" and "2 Timothy," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues, Structure and Outline, Message and Theology. Print pages to verify.
+- *The Lutheran Study Bible* (Concordia, 2009), introduction to 2 Timothy: Overview, Luther on 2 Timothy. Lutheran source.
+- Reformation Study Bible, introduction to 2 Timothy, p. ___ (to verify)

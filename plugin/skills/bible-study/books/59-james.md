@@ -10,12 +10,6 @@ status: draft
 
 # James
 
-## Sources
-
-- Bruce A. Lowe, "James," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (authorship and date, occasion and purpose), Structure and Outline (genre, outline), Message and Theology (God, wisdom and change, Paul, faith and works, rich and poor). Print pages to verify.
-- *The Lutheran Study Bible* (Concordia, 2009), introduction to James: Overview, Luther on James, Challenges for Readers. Lutheran source.
-- Reformation Study Bible, introduction to James, p. ___ (to verify)
-
 ## Summary
 
 James is a practical, punchy letter about living out real faith. It is written to Jewish Christians scattered abroad, facing trials, favouritism, quarrels and the pull of wealth. James calls them to count trials as joy, ask God for wisdom, be doers of the word and not hearers only, refuse to favour the rich over the poor, tame the tongue, humble themselves before God, and wait patiently for the Lord's coming. His best-known teaching is that "faith apart from works is dead" (2:26). Lowe notes the letter can feel like a "stream of consciousness", but it is carefully built and full of theology, with many echoes of Jesus' Sermon on the Mount.
@@ -109,3 +103,9 @@ James names Jesus only twice: "the Lord Jesus Christ" (1:1) and "our glorious Lo
 8. What does James say about faith without works? It is dead (2:17, 26).
 9. What small part of the body does James compare to a fire? The tongue (3:5–6).
 10. What does James say about the prayer of a righteous person? It has great power as it is working (5:16).
+
+## Sources
+
+- Bruce A. Lowe, "James," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (authorship and date, occasion and purpose), Structure and Outline (genre, outline), Message and Theology (God, wisdom and change, Paul, faith and works, rich and poor). Print pages to verify.
+- *The Lutheran Study Bible* (Concordia, 2009), introduction to James: Overview, Luther on James, Challenges for Readers. Lutheran source.
+- Reformation Study Bible, introduction to James, p. ___ (to verify)

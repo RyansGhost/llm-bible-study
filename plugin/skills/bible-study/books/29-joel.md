@@ -10,12 +10,6 @@ status: draft
 
 # Joel
 
-## Sources
-
-- Daniel C. Timmer, "The Twelve," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Message and Theology (the day of the Lord, repentance, deliverance of the remnant, the nations), Approaching the New Testament. Print pages to verify.
-- *The Lutheran Study Bible* (Concordia, 2009), introduction to Joel: Overview. Lutheran source.
-- Reformation Study Bible, introduction to Joel, p. ___ (to verify)
-
 ## Summary
 
 A devastating locust plague strips Judah bare, and Joel reads it as a warning of the coming "day of the Lord". He calls the whole nation to fast, weep and return to God with torn hearts, not just torn clothes. God promises to restore what the locusts ate, to pour out his Spirit on all people, and finally to judge the nations and dwell in Zion with his people.
@@ -95,3 +89,9 @@ On the day of Pentecost, Peter declared that Joel's promise of the Spirit poured
 8. Where are the nations judged? In the Valley of Jehoshaphat (3:2, 12).
 9. Who quoted Joel on the day of Pentecost? Peter (Acts 2:16–21).
 10. How does Joel end? With the promise that the Lord dwells in Zion (3:21).
+
+## Sources
+
+- Daniel C. Timmer, "The Twelve," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Message and Theology (the day of the Lord, repentance, deliverance of the remnant, the nations), Approaching the New Testament. Print pages to verify.
+- *The Lutheran Study Bible* (Concordia, 2009), introduction to Joel: Overview. Lutheran source.
+- Reformation Study Bible, introduction to Joel, p. ___ (to verify)

@@ -10,12 +10,6 @@ status: draft
 
 # Deuteronomy
 
-## Sources
-
-- John Scott Redd, "Deuteronomy," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues (title, authorship, date and setting, audience), Structure and Outline, Message and Theology. Print pages to verify.
-- *The Lutheran Study Bible* (Concordia, 2009), introduction to Deuteronomy. Lutheran source.
-- Reformation Study Bible, introduction to Deuteronomy, p. ___ (to verify)
-
 ## Summary
 
 Deuteronomy is Moses' farewell: a series of sermons to the new generation on the plains of Moab, renewing God's covenant before they enter the land. Moses retells their history, restates and explains the law, and sets before them life and death, blessing and curse. He urges them to love the Lord with all their heart, and then he dies within sight of the promised land.
@@ -143,3 +137,9 @@ Peter identifies Jesus as the prophet like Moses (18:15; Acts 3:22–23). Paul r
 8. What did Moses set before Israel in chapter 30? Life and death, blessing and curse, telling them to choose life (30:19).
 9. Where did Moses die, and who buried him? On Mount Nebo in Moab; the Lord buried him (34:1–6).
 10. Which book does Jesus quote three times in his temptation? Deuteronomy (Matt 4:1–11).
+
+## Sources
+
+- John Scott Redd, "Deuteronomy," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues (title, authorship, date and setting, audience), Structure and Outline, Message and Theology. Print pages to verify.
+- *The Lutheran Study Bible* (Concordia, 2009), introduction to Deuteronomy. Lutheran source.
+- Reformation Study Bible, introduction to Deuteronomy, p. ___ (to verify)

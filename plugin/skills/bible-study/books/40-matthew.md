@@ -10,11 +10,6 @@ status: draft
 
 # Matthew
 
-## Sources
-
-- Reggie M. Kidd, "Matthew," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (authorship, audience, date, purpose, historicity), Structure and Outline, Message and Theology (Immanuel, Jesus as the new Torah, greater than the temple, Jonah and Solomon). Print pages to verify.
-- Reformation Study Bible, introduction to Matthew, p. ___ (to verify)
-
 ## Summary
 
 Matthew presents Jesus as the promised Messiah, the Son of David and Son of Abraham. He fulfils Israel's Scriptures, brings the kingdom of heaven, and is "Immanuel", God with us. Matthew alternates Jesus' deeds with five great blocks of teaching, beginning with the Sermon on the Mount. He traces Israel's leaders rejecting their King, his death and resurrection, and the risen Lord sending his disciples to make disciples of all nations, promising "I am with you always" (28:20).
@@ -153,3 +148,8 @@ His death is the ransom for many (20:28) and the blood of the covenant poured ou
 8. Why did the Son of Man come, according to 20:28? To serve, and to give his life as a ransom for many.
 9. For how much did Judas betray Jesus? Thirty pieces of silver (26:15).
 10. What did Jesus command in the Great Commission? Make disciples of all nations, baptising and teaching them, with his promise to be with them always (28:19–20).
+
+## Sources
+
+- Reggie M. Kidd, "Matthew," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (authorship, audience, date, purpose, historicity), Structure and Outline, Message and Theology (Immanuel, Jesus as the new Torah, greater than the temple, Jonah and Solomon). Print pages to verify.
+- Reformation Study Bible, introduction to Matthew, p. ___ (to verify)
