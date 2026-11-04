@@ -16,7 +16,7 @@ Anyone can ask an AI about the Bible, but the answers are often vague, drift fro
 - **Notes for every book.** All 66 books have notes on their setting, structure, key people, key events, themes, and how they point to Christ, with a quiz to finish.
 - **Trusted sources.** The notes draw on Scripture first, then the Reformed confessions, study Bibles, and teachers of the Reformation and the Reformed tradition. See the full [list of sources](/sources/).
 
-It works with any AI assistant, and it works spoken aloud as well as typed. To begin, see [how to start](/#how-to-start).
+It works with any AI assistant, and it works spoken aloud as well as typed. To begin, see [how to start](/#start).
 
 ## How the notes are made
 

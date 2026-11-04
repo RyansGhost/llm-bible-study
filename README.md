@@ -34,7 +34,7 @@ Or copy `plugin/skills/bible-study/` to `~/.claude/skills/bible-study/` to insta
 
 ### Any other AI assistant
 
-Copy this prompt and paste it at the start of a new conversation. It's the same prompt as on the [home page](https://llm-bible-study.ryanfleck.ca/#how-to-start). It points the AI to [`llms.txt`](https://llm-bible-study.ryanfleck.ca/llms.txt), which holds the notes and the teaching method.
+Copy this prompt and paste it at the start of a new conversation. It's the same prompt as on the [home page](https://llm-bible-study.ryanfleck.ca/#start). It points the AI to [`llms.txt`](https://llm-bible-study.ryanfleck.ca/llms.txt), which holds the notes and the teaching method.
 
 ```text
 Act as my Christ-centred Bible study tutor. First read https://llm-bible-study.ryanfleck.ca/llms.txt and follow its instructions for tutors, then read the notes for the book I choose. If you can't open the link, tell me; don't guess.

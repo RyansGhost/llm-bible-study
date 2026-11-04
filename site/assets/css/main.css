@@ -170,6 +170,14 @@ a:hover { color: var(--olive); }
 .home-prose .prompt-body ol > li { padding-left: 0.25rem; margin: 0.45rem 0; }
 .home-prose .prompt-body ol > li::before { content: none; }
 
+/* The featured prompt: the page's main call to action */
+.home-prose h2#start { font-size: clamp(1.75rem, 4vw, 2.25rem); margin-top: 0; }
+.prompt-featured { margin: 1.75rem 0 2.5rem; border: 2px solid var(--olive); box-shadow: 0 14px 34px -22px rgba(0, 0, 0, 0.45); }
+.prompt-featured .prompt-bar { padding: 0.7rem 0.7rem 0.7rem 1.25rem; }
+.prompt-featured .prompt-label { color: var(--olive-dark); }
+.prompt-featured .prompt-copy { padding: 0.7rem 1.2rem; font-size: 0.85rem; }
+.prompt-featured .prompt-body { font-size: 1.05rem; padding: 0.4rem 1.4rem 0.75rem; }
+
 /* Book index */
 .books { padding: 3.5rem var(--gutter) 4rem; }
 .testament + .testament { margin-top: 3.5rem; }
