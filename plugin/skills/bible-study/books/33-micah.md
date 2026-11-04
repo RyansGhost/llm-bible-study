@@ -16,18 +16,18 @@ Micah, a country prophet from Judah, condemns the corrupt leaders of both Samari
 
 ## Setting
 
-- **When:** in the reigns of Jotham, Ahaz and Hezekiah of Judah (1:1), about 735–700 BC (the Lutheran Study Bible gives about 750–686 BC). This spans the fall of Samaria (722 BC) and Sennacherib's invasion (701 BC).
-- **Where:** Judah and Jerusalem, with oracles against Samaria. Micah was from Moresheth, a village in Judah's lowlands.
+- **When:** in the reigns of Jotham, Ahaz and Hezekiah of Judah (1:1), about 735–700 BC (the Lutheran Study Bible gives about 750–686 BC). This spans the fall of Samaria (722 BC) and Sennacherib's invasion (701 BC), when Assyria swept through Judah's western foothills up to Jerusalem's gate, as Micah foretold (1:8–16). Ahaz had copied Assyrian worship in the temple (2 Kgs 16:10–18), and greedy landowners were seizing family land while corrupt leaders backed them (2:1–5; 3) (Reformation Study Bible).
+- **Where:** Judah and Jerusalem, with oracles against Samaria. Micah was from Moresheth, a village in Judah's lowlands, an outsider to the capital.
 - **Who wrote it:** Micah of Moresheth, a contemporary of Isaiah (in Jerusalem) and Hosea (in the north).
-- **Where it sits:** among the Twelve. Timmer notes its heading is very similar to those of Hosea, Amos and Zephaniah. A century later, elders in Jeremiah's day remembered Micah's warning against Jerusalem (Jer 26:18).
+- **Where it sits:** among the Twelve. Timmer notes its heading is very similar to those of Hosea, Amos and Zephaniah. A century later, elders in Jeremiah's day remembered that Micah's warning against Jerusalem (3:12) had led Hezekiah to repent and the city to be spared, and the memory saved Jeremiah's life (Jer 26:17–19). Micah 4:1–3 is almost identical to Isaiah 2:2–4.
 
 ## Structure
 
-Three cycles, each moving from judgment to hope, each opening with "Hear":
+Micah arranges his oracles in three cycles, each moving from judgment to hope, each opening with "Hear" (1:2; 3:1; 6:1). He uses laments, disputes, a lawsuit, prayer and praise, and puns on town names (1:10–15). The Reformation Study Bible's titles:
 
-- 1–2: Judgment on Samaria and Jerusalem; a remnant gathered by its king
-- 3–5: Corrupt leaders condemned; Zion exalted; the ruler from Bethlehem
-- 6–7: God's lawsuit with his people; Micah's lament and confident hope
+- 1:2–2:13: Judgment and deliverance: Samaria and Jerusalem judged; a remnant gathered by its king
+- 3–5: Degradation and exaltation: corrupt leaders condemned; Zion exalted; the ruler from Bethlehem
+- 6–7: Hope in darkness: God's lawsuit with his people; Micah's lament and confident hope
 
 ## Chapter by chapter
 
@@ -58,9 +58,9 @@ Three cycles, each moving from judgment to hope, each opening with "Hear":
 
 - **Justice for the poor:** Micah attacks land-grabbing, bribery and exploitation by the powerful (2:1–2; 3:1–3, 9–11; 6:10–12).
 - **Leaders held to account:** rulers, priests and prophets who use their office for gain (3).
-- **True religion:** God wants justice, steadfast love and humble walking with him, not empty sacrifice (6:6–8).
+- **True religion:** God kept his side of the covenant (6:3–5), but the people thought ritual could replace a loyal heart. He wants justice, steadfast love and humble walking with him, not empty sacrifice (6:6–8).
 - **Judgment and hope:** each section moves from judgment to restoration. Timmer stresses how the Twelve hold both historical judgment and ultimate deliverance together.
-- **The remnant:** God preserves and gathers a remnant (2:12–13; 4:6–8; 7:18).
+- **The remnant:** God preserves and gathers a remnant, often pictured as a shepherd gathering his flock (2:12–13; 4:6–8; 7:14, 18). Restoration depends on his forgiveness and initiative, as at the exodus, not on their works (7:15–20).
 - **The nations at Zion:** peoples will come to learn God's ways (4:1–4).
 - **God's forgiving character:** a God who delights in steadfast love (7:18–20). The name Micah means "Who is like the Lord?"
 
@@ -103,8 +103,9 @@ The God who casts sins into the depths of the sea (7:19) does so through Christ'
 
 - Daniel C. Timmer, "The Twelve," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Message and Theology (sin in Israel and Judah, punishment, repentance, deliverance of the remnant, the nations), Approaching the New Testament. Print pages to verify.
 - *The Lutheran Study Bible* (Concordia, 2009), introduction to Micah: Overview. Lutheran source.
-- Reformation Study Bible, introduction to Micah, p. ___ (to verify)
+- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Micah: Title and Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of Micah, Micah in the Larger Story of the Bible, Christ in Micah, History of Interpretation, Outline. Print pages to verify.
 
 ## Changelog
 
 1. 2026-11-04: Generated initial notes with Claude Code
+2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code

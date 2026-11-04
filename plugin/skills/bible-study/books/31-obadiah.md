@@ -16,18 +16,19 @@ Obadiah, the shortest book of the Old Testament, is a single vision against Edom
 
 ## Setting
 
-- **When:** probably soon after Babylon destroyed Jerusalem in 586 BC (the Lutheran Study Bible gives about 587–553 BC), when Edom took advantage of Judah's disaster (vv. 11–14; Ps 137:7).
+- **When:** probably soon after Babylon destroyed Jerusalem in 586 BC (the Lutheran Study Bible gives about 587–553 BC), when Edom took advantage of Judah's disaster (vv. 11–14; Ps 137:7). Some link it instead to an earlier raid on Jerusalem under King Jehoram (848–841 BC; 2 Chr 21:16–17). The Reformation Study Bible favours the Babylonian setting, noting how closely vv. 1–9 match Jeremiah's word against Edom (Jer 49:7–16), and places it before Babylon's campaign against Edom in 553 BC.
 - **Where:** Edom, the rugged mountain country south-east of the Dead Sea, with cities in the rocks (around Sela, later Petra), and Jerusalem.
-- **Who wrote it:** Obadiah, whose name means "servant of the Lord". Nothing else is known about him.
-- **Where it sits:** among the Twelve. Timmer discusses how the Twelve hold the nations responsible for their sins against God's people.
+- **Who wrote it:** Obadiah, whose name means "servant" or "worshipper of the Lord", a common name shared by about a dozen people in the Old Testament. Nothing else is known about him; the book's authority rests on "the Lord has spoken" (v. 18).
+- **Where it sits:** among the Twelve. It is a "vision" (v. 1), almost all poetry. Though addressed to Edom, it was written for God's people, to reassure them that God's justice still rules when the wicked seem to win (RSB). Timmer discusses how the Twelve hold the nations responsible for their sins against God's people.
 
 ## Structure
 
-One chapter of 21 verses:
+One chapter of 21 verses. The Reformation Study Bible divides it into God's sentence on Edom (vv. 1–18) and his promise of a new order (vv. 19–21):
 
 - vv. 1–9: Edom's pride will be humbled
 - vv. 10–14: Edom's crime against his brother Jacob
-- vv. 15–21: The day of the Lord: judgment on the nations and deliverance on Mount Zion
+- vv. 15–18: The day of the Lord: judgment on all the nations, deliverance on Mount Zion
+- vv. 19–21: God's people restored to the land, and the kingdom the Lord's
 
 ## Chapter by chapter
 
@@ -54,10 +55,10 @@ Obadiah has a single chapter, summarised here by section.
 ## Themes
 
 - **Pride before a fall:** Edom trusted its high, rocky strongholds and its wisdom, but God will bring it low (vv. 3–4, 8).
-- **Betraying a brother:** the old rivalry of Jacob and Esau shows up as Edom's cruelty to Judah in its worst hour (vv. 10–14).
+- **Betraying a brother:** the old rivalry of Jacob and Esau, from the birthright and the stolen blessing onwards (Gen 25–27; 32–33), shows up as Edom's cruelty to Judah in its worst hour (vv. 10–14; compare Mal 1:2–5).
 - **Just retribution:** "as you have done, it shall be done to you" (v. 15).
 - **The day of the Lord:** a day of judgment on all the nations that oppose God and of deliverance for his people. Timmer calls it the overarching theme of the Twelve.
-- **The Lord's kingdom:** the book ends with God's reign established (v. 21).
+- **The Lord's kingdom:** the book ends with God's people restored and God's reign established (vv. 19–21). His promise to Abraham's family stands: those who curse them will be cursed (Gen 12:3).
 
 ## How it points to Christ
 
@@ -96,8 +97,9 @@ The rivalry of Esau and Jacob runs through the Bible, all the way to Herod the G
 
 - Daniel C. Timmer, "The Twelve," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Message and Theology (the sins and punishment of the nations, the day of the Lord, deliverance of the remnant). Print pages to verify.
 - *The Lutheran Study Bible* (Concordia, 2009), introduction to Obadiah: Overview. Lutheran source.
-- Reformation Study Bible, introduction to Obadiah, p. ___ (to verify)
+- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Obadiah: Title and Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of Obadiah, Obadiah in the Larger Story of the Bible, Christ in Obadiah, History of Interpretation, Outline. Print pages to verify.
 
 ## Changelog
 
 1. 2026-11-04: Generated initial notes with Claude Code
+2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code
