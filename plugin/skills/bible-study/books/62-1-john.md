@@ -16,14 +16,15 @@ status: draft
 
 ## Setting
 
-- **When:** probably about AD 85–100, late in the first century (Hill). Early writers say John lived to old age in Ephesus.
+- **When:** probably about AD 85–100, late in the first century (Hill), after John's Gospel, which it seems to assume. The Reformation Study Bible places it in the 90s: the letters of Ignatius and Polycarp (from about AD 110) fight a more developed form of the same error. Early writers say John lived to old age in Ephesus.
 - **Where:** most likely from Ephesus, to churches in the province of Asia (Hill notes the earliest uses of the letters come from Asia Minor).
 - **Who wrote it:** the letter doesn't name its author, but its style and ideas are very close to John's Gospel. Early tradition, Irenaeus and the Muratorian Fragment among it, names the apostle John. Hill defends this, and notes no one in the early church doubted that John wrote 1 John.
-- **Where it sits:** the first of three letters of John, among the General Epistles. It reads more like a sermon than a letter, with no greeting or closing.
+- **Where it sits:** the first of three letters of John, probably written before 2 and 3 John, among the General Epistles. It reads more like a sermon than a letter, with no greeting or closing, though John writes warmly to "my little children".
+- **The false teaching:** that Christ only seemed to be human, so there was no real incarnation and no real death for sin (4:2–3; 5:6). Later writers linked such ideas with Cerinthus and with Gnosticism (RSB).
 
 ## Structure
 
-Hill notes that John loves repetition, parallels and groups of three, so the letter's overall structure is hard to pin down and outlines vary widely. A simple outline:
+Hill notes that John loves repetition, parallels and groups of three, so the letter's overall structure is hard to pin down and outlines vary widely. Rather than a straight argument, it circles back, amplifying the same themes each time. The Reformation Study Bible sees a prologue, three passes over what true fellowship with God looks like, and an epilogue on assurance:
 
 - 1:1–4: The word of life we have seen and touched
 - 1:5–2:27: God is light: walking in the light, confessing sin, keeping his commands, rejecting the antichrists
@@ -60,7 +61,8 @@ Hill notes that John loves repetition, parallels and groups of three, so the let
 - **God is light and God is love:** the two great statements about God's nature (1:5; 4:8).
 - **The incarnation:** Jesus Christ has come in the flesh. Hill shows the opponents denied that Jesus is the Christ and that Jesus Christ came in the flesh (4:2; 5:6).
 - **Sin and confession:** Christians still sin and must confess it (1:8–2:2), yet those born of God don't make a practice of sinning (3:4–10). Hill explains how both are true.
-- **Antichrist:** John is the first known writer to use the word. Many antichrists have already come, so it is the last hour (2:18).
+- **Antichrist:** John is the first known writer to use the word. Many antichrists have already come, so it is the last hour (2:18): the last days began with Christ's coming. The "sin that leads to death" (5:16) is probably such apostasy, which shows a profession of faith was never real (2:19).
+- **Eternal life now:** Christ is "the eternal life" made visible (1:2), and those united to him already have it (5:11–13, 20). The Spirit God gives assures them that he lives in them (3:24; 4:13).
 - **Fellowship:** with the Father, the Son and one another (1:3).
 
 ## How it points to Christ
@@ -102,8 +104,9 @@ Hill notes that John loves repetition, parallels and groups of three, so the let
 ## Sources
 
 - Charles E. Hill, "1–3 John," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): 1 John, Background Issues (date, chronological order, place, authorship, purpose), Structure and Outline, Message and Theology (ethics, atonement, incarnation, sin, eschatology and antichrist). Print pages to verify.
-- Reformation Study Bible, introduction to 1 John, p. ___ (to verify)
+- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to 1 John: Title and Author, Date and Occasion, Genre and Literary Features, Characteristics and Primary Themes, Theology of 1 John, 1 John in the Larger Story of the Bible, Christ in 1 John, Special Issues, Outline. Print pages to verify.
 
 ## Changelog
 
 1. 2026-11-04: Generated initial notes with Claude Code
+2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code

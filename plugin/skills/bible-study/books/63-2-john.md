@@ -16,7 +16,7 @@ status: draft
 
 ## Setting
 
-- **When:** late first century, about AD 85–100, near the time of 1 John (Hill).
+- **When:** late first century, about AD 85–100, near the time of 1 John and probably soon after it (Hill; the Reformation Study Bible suggests the late 90s). It opposes the same false teaching: that Jesus Christ didn't truly come in the flesh.
 - **Where:** probably from Ephesus, to a church in the province of Asia.
 - **Who wrote it:** "the elder" (v. 1). Hill argues that the style and setting connect 1–3 John with John's Gospel, and that the apostle John is the author. Some in the early church, Eusebius among them, wondered whether the "elder" was a different John, but most held to the apostle.
 - **Where it sits:** one of the shortest books in the Bible, the length of a single sheet of papyrus. Hill suggests, as a possibility, that 2 John may have been a cover letter sent with John's Gospel.
@@ -42,7 +42,7 @@ Hill's outline:
 ## Key people
 
 - **The elder:** the apostle John, writing with authority to a church he loves.
-- **The elect lady and her children:** Hill argues this is a church and its members, not an individual woman.
+- **The elect lady and her children:** Hill argues this is a church and its members; the RSB allows that it could also be a Christian woman and her household. Calling them "elect" (vv. 1, 13) reflects God's choosing.
 - **The elect sister's children:** the members of the church where John is (v. 13).
 - **The deceivers:** false teachers who deny that Jesus Christ has come in the flesh (v. 7).
 
@@ -53,7 +53,7 @@ Hill's outline:
 
 ## Themes
 
-- **Truth:** the word appears five times in the first four verses. Walking in the truth means holding to right belief about Christ.
+- **Truth:** the word appears five times in the first four verses. Walking in the truth means holding to right belief about Christ; the truth that "abides in us" (v. 2) may even point to Christ himself, who is the truth (John 14:6) (RSB).
 - **Love:** the old command to love one another (vv. 5–6; John 13:34).
 - **Obedience:** love means walking according to God's commands (v. 6). Hill shows how truth, love and obedience are bound together.
 - **The teaching of Christ:** abiding in it means having both the Father and the Son (v. 9).
@@ -94,8 +94,9 @@ The test of true teaching is the confession of "the coming of Jesus Christ in th
 ## Sources
 
 - Charles E. Hill, "1–3 John," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): 2 John, Background Issues (authorship, audience), Structure and Outline, Message and Theology. Print pages to verify.
-- Reformation Study Bible, introduction to 2 John, p. ___ (to verify)
+- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to 2 John: Title and Author, Date and Occasion, Genre and Literary Features, Characteristics and Primary Themes, Theology of 2 John, 2 John in the Larger Story of the Bible, Christ in 2 John, History of Interpretation, Outline. Print pages to verify.
 
 ## Changelog
 
 1. 2026-11-04: Generated initial notes with Claude Code
+2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code

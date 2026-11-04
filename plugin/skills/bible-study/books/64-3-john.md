@@ -16,10 +16,10 @@ status: draft
 
 ## Setting
 
-- **When:** late first century, about AD 85–100, probably soon after 2 John (Hill).
+- **When:** late first century, about AD 85–100, probably soon after 2 John (Hill). The Reformation Study Bible notes there's no sign of the dispute about Christ's humanity, so it could be earlier, in the 80s, or as late as the 90s.
 - **Where:** probably from Ephesus, to Gaius, a member of a church in the province of Asia.
 - **Who wrote it:** "the elder" (v. 1), the same author as 2 John. Hill argues that the authority the elder assumes over more than one church fits the apostle John.
-- **Where it sits:** the shortest book in the New Testament by word count in Greek. Hill suggests the letter John wrote "to the church" (v. 9) may be 2 John, which Diotrephes rejected.
+- **Where it sits:** the shortest book in the New Testament by word count in Greek, in the form of a short ancient letter of recommendation, commending Demetrius, probably its carrier, to Gaius. Hill suggests the letter John wrote "to the church" (v. 9) may be 2 John, which Diotrephes rejected.
 
 ## Structure
 
@@ -45,7 +45,7 @@ Hill's outline:
 - **The elder:** the apostle John, who delights in his spiritual children walking in the truth.
 - **Gaius:** a beloved and faithful believer, generous to travelling missionaries (vv. 1–8). Probably not the same as the other men named Gaius in the New Testament.
 - **The brothers (missionaries):** who went out "for the sake of the name", taking nothing from unbelievers (vv. 5–8).
-- **Diotrephes:** a church leader who loves to be first, rejects John's authority, and expels those who welcome the brothers (vv. 9–10).
+- **Diotrephes:** a church leader, apparently an elder, who loves to be first, rejects John's authority, and expels those who welcome the brothers (vv. 9–10).
 - **Demetrius:** commended by everyone, probably the bearer of the letter (v. 12).
 
 ## Key events
@@ -59,7 +59,8 @@ Hill's outline:
 - **Walking in the truth:** truth believed and lived, John's greatest joy (vv. 3–4).
 - **Hospitality and mission support:** Christians should support those who go out for Christ's name (vv. 5–8). Supporting them makes us "fellow workers for the truth".
 - **Pride in leadership:** Diotrephes' love of first place, against the servant leadership Jesus, Peter and Paul taught. Hill compares Matthew 23:6 and 1 Peter 5:3.
-- **Imitating good:** "Do not imitate evil but imitate good" (v. 11).
+- **Imitating good:** "Do not imitate evil but imitate good" (v. 11). Whatever someone's office, you know them by their fruit (Matt 7:15–20).
+- **Rewarded hospitality:** caring for the Lord's messengers is caring for Christ himself, and he will reward it (Matt 25:34–40).
 - **Love for the brothers:** Hill shows 3 John is a real-life example of 1 John's teaching that hating the brothers shows you aren't of God.
 
 ## How it points to Christ
@@ -98,8 +99,9 @@ Christ isn't named in 3 John, but the missionaries went out "for the sake of the
 ## Sources
 
 - Charles E. Hill, "1–3 John," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): 3 John, Background Issues (author, audience), Structure and Outline, Message and Theology (Gaius, the missionaries, Diotrephes, Demetrius). Print pages to verify.
-- Reformation Study Bible, introduction to 3 John, p. ___ (to verify)
+- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to 3 John: Title and Author, Date and Occasion, Genre and Literary Features, Characteristics and Primary Themes, Theology of 3 John, 3 John in the Larger Story of the Bible, Christ in 3 John, History of Interpretation, Outline. Print pages to verify.
 
 ## Changelog
 
 1. 2026-11-04: Generated initial notes with Claude Code
+2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code
