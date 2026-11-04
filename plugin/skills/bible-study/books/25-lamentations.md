@@ -16,20 +16,20 @@ Lamentations is five poems of grief over the destruction of Jerusalem and the te
 
 ## Setting
 
-- **When:** just after Jerusalem fell in 586 BC (2 Kgs 25; Jer 39; 52).
+- **When:** after Jerusalem fell in 586 BC and before the exiles returned in 538 BC (2 Kgs 25; Jer 39; 52). The grief over the loss of Judah's king (2:9) fixes it to this fall rather than an earlier one (Reformation Study Bible).
 - **Where:** the ruins of Jerusalem.
-- **Who wrote it:** anonymous. Jewish and Christian tradition credits Jeremiah, who lamented and saw the fall (compare 2 Chr 35:25). Lee discusses this tradition.
-- **Where it sits:** English Bibles, following the Greek and Latin, put it after Jeremiah. In the Hebrew Bible it is among the Writings, one of the five festival scrolls, read on the fast day mourning the temple's destruction (the 9th of Av).
+- **Who wrote it:** anonymous. Jewish and Christian tradition credits Jeremiah, at least since the Greek translation added a heading saying so. He lamented and saw the fall (compare 2 Chr 35:25), and chapter 3 especially sounds like him (3:48–51; Jer 14:17). But the five poems differ in style and voice, so they may come from more than one poet (RSB). Lee discusses this tradition.
+- **Where it sits:** its Hebrew title is its first word, *ekah*, "How!", a cry of woe. English Bibles, following the Greek and Latin, put it after Jeremiah: he foretold the fall, and Lamentations voices the pain of it. In the Hebrew Bible it is among the Writings, one of the five festival scrolls, read on the fast day mourning the temple's destruction (the 9th of Av).
 
 ## Structure
 
-Five poems, one per chapter. Lee highlights the alphabetic acrostics: each stanza of chapters 1–4 begins with the next letter of the 22-letter Hebrew alphabet. Chapter 3 is a triple acrostic of 66 verses. Chapter 5 has 22 verses but isn't an acrostic, as if the order breaks down at the end. The acrostics give shape to overwhelming grief, expressing it "from A to Z".
+Five poems, one per chapter. Lee highlights the alphabetic acrostics: each stanza of chapters 1–4 begins with the next letter of the 22-letter Hebrew alphabet. Chapter 3 is a triple acrostic of 66 verses. Chapter 5 has 22 verses but isn't an acrostic, as if the order breaks down at the end. The acrostics give shape to overwhelming grief, expressing it "from A to Z". Much of the book uses the limping "lament" rhythm (*qinah*), a line of three beats answered by two. The Reformation Study Bible's titles:
 
-- 1: The city's shame and mourning: Jerusalem as a lonely widow
+- 1: Jerusalem, once great, now devastated: a lonely widow
 - 2: The Lord's anger against Zion
-- 3: One man's suffering, and hope in God's faithfulness
-- 4: Then and now: the horrors of the siege
-- 5: The community's prayer for restoration
+- 3: The community's grief, voiced by one sufferer, and hope in God's faithfulness
+- 4: Zion degraded: then and now, and the horrors of the siege
+- 5: Disaster, and a prayer for restoration
 
 ## Chapter by chapter
 
@@ -57,9 +57,9 @@ Five poems, one per chapter. Lee highlights the alphabetic acrostics: each stanz
 ## Themes
 
 - **Grief brought honestly to God:** Lamentations gives words for overwhelming sorrow and shows that lament is part of faith.
-- **God's righteous judgment:** the destruction is the Lord's doing, and it is just: "The Lord is in the right, for I have rebelled" (1:18). The covenant curses have fallen (Deut 28).
+- **God's righteous judgment:** the destruction is the Lord's doing, and it is just: "The Lord is in the right, for I have rebelled" (1:18). The covenant curses have fallen (Deut 28), and the prophets who warned of "the day of the Lord" are proved right (1:12; Amos 5:18). Yet the poet doesn't accept it passively: he asks how God could act like his people's enemy (2:4–5, 20).
 - **Sin and confession:** the poems confess sin, especially of the prophets and priests (2:14; 4:13).
-- **Hope in God's faithfulness:** in the centre of the book, hope rests on God's character, his steadfast love and mercy (3:21–33).
+- **Hope in God's faithfulness:** in the centre of the book, hope rests on God's covenant love (*hesed*) and mercy, and on the Lord as the poet's only portion (3:21–33). God rules over all nations and all mysteries (3:37–39).
 - **Waiting on God:** "It is good that one should wait quietly for the salvation of the Lord" (3:26).
 - **An unfinished prayer:** the book ends with a plea, not a resolution (5:21–22), leaving God's people waiting for restoration.
 
@@ -101,8 +101,9 @@ Because of him, the mercies of 3:22–23 are secured for good: in Christ, God's 
 ## Sources
 
 - Peter Y. Lee, "Lamentations," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues (title, authorship and setting, canonical position, poetic features, imagery, genre), Structure and Outline (the acrostics, summary outline). Print pages to verify.
-- Reformation Study Bible, introduction to Lamentations, p. ___ (to verify)
+- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Lamentations: Title, Author, Date and Occasion, Genre and Literary Features, Characteristics and Primary Themes, Theology of Lamentations, Lamentations in the Larger Story of the Bible, Christ in Lamentations, History of Interpretation, Outline. Print pages to verify.
 
 ## Changelog
 
 1. 2026-11-04: Generated initial notes with Claude Code
+2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code

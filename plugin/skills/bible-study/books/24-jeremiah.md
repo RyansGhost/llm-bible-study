@@ -16,22 +16,24 @@ Jeremiah prophesied through Judah's last forty years, warning a stubborn people 
 
 ## Setting
 
-- **When:** from Josiah's thirteenth year (627/626 BC) through the fall of Jerusalem (586 BC) and beyond, into the flight to Egypt (1:2–3; 43–44). Lee shows how this spans the collapse of Assyria and the rise of Babylon.
-- **Where:** Jerusalem and Judah; Anathoth, his priestly hometown; finally Egypt.
-- **Who wrote it:** Jeremiah son of Hilkiah, a priest, with his scribe Baruch, who wrote down his words (36). Lee calls it an anthology of oracles in many forms, gathered over time.
-- **Where it sits:** the second Major Prophet. Its history overlaps 2 Kings 22–25. Lee notes the Greek Old Testament has a shorter version (about an eighth shorter) and a different order, which makes Jeremiah's text unusually complex.
+- **When:** from his call in 626 BC, Josiah's thirteenth year, through the reigns of Jehoahaz, Jehoiakim, Jehoiachin and Zedekiah, to the fall of Jerusalem (586 BC) and the flight to Egypt (1:2–3; 43–44). Josiah's reforms (from 628 BC, renewed when the Book of the Law was found in 621 BC) didn't change the people's hearts, and Manasseh's idolatry returned under his successors (Reformation Study Bible). Lee shows how this spans the collapse of Assyria (Nineveh fell in 612 BC) and the rise of Babylon, which took captives in 605, 597 and 586 BC.
+- **Where:** Jerusalem and Judah; Anathoth, his priestly hometown in Benjamin; finally Egypt, where he probably died.
+- **Who wrote it:** Jeremiah son of Hilkiah, a priest, whose name means "the Lord exalts". His scribe Baruch wrote the first edition in 605 BC; King Jehoiakim burned it, and it was rewritten and later expanded (36). Chapter 52 is a later postscript, since 51:64 marks "the end of the words of Jeremiah"; its last event is Jehoiachin's release (about 561 BC). Lee calls it an anthology of oracles in many forms, gathered over time.
+- **Where it sits:** the second Major Prophet. Its history overlaps 2 Kings 22–25. The Greek Old Testament has a shorter version (about an eighth shorter) in a different order, perhaps reflecting the book's growth in stages (Lee; RSB).
 
 ## Structure
 
-Lee notes Jeremiah has no simple structure: even John Bright called it a seeming "hodgepodge". It falls roughly into:
+The prophecies aren't in date order, and the same event can appear far apart (7 and 26). Lee notes that even John Bright called it a seeming "hodgepodge". The Reformation Study Bible's outline:
 
 - 1: Jeremiah's call
-- 2–25: Oracles of judgment against Judah: the covenant lawsuit, the temple sermon, Jeremiah's laments, the seventy years
-- 26–29: Conflict with false prophets, and a letter to the exiles
-- 30–33: The Book of Consolation: restoration and the new covenant
-- 34–45: Narratives of Jerusalem's last days and its aftermath
+- 2–20: Oracles mainly of judgment on Judah: the covenant lawsuit, the temple sermon, sign-acts, and Jeremiah's "confessions"
+- 21–24: The end of David's dynasty; salvation only through exile
+- 25–29: Babylon must rule the nations: the seventy years, the clash with false prophets, the letter to the exiles
+- 30–33: Promises of restoration (the "Book of Consolation"): the new covenant
+- 34–39: Jerusalem's last days: the burned scroll, Jeremiah imprisoned, the city falls
+- 40–45: After the fall: Gedaliah's murder and the flight to Egypt
 - 46–51: Oracles against the nations, ending with Babylon
-- 52: Historical appendix: the fall of Jerusalem
+- 52: Appendix: the fall of Jerusalem
 
 ## Chapter by chapter
 
@@ -90,7 +92,7 @@ Lee notes Jeremiah has no simple structure: even John Bright called it a seeming
 
 ## Key people
 
-- **Jeremiah:** a priest's son from Anathoth, called as a youth; "the weeping prophet".
+- **Jeremiah:** a priest's son from Anathoth, called as a youth; "the weeping prophet". God forbade him to marry, as a sign that normal life was about to end (16:2).
 - **Baruch:** Jeremiah's scribe and companion.
 - **Josiah:** the reforming king in whose reign Jeremiah was called.
 - **Jehoiakim:** the king who burned Jeremiah's scroll.
@@ -122,12 +124,13 @@ Lee notes Jeremiah has no simple structure: even John Bright called it a seeming
 ## Themes
 
 - **Covenant lawsuit:** Lee shows Jeremiah prosecuting God's case against Judah for breaking the Mosaic covenant: "I still contend with you" (2:9).
-- **Repent or face judgment:** Lee traces a shift. From 626 to 597 BC Jeremiah calls for repentance; after 597 he announces judgment as certain, while pointing to future redemption.
+- **Repent or face judgment:** Lee traces a shift. From 626 to 597 BC Jeremiah calls for repentance; after 597 he announces judgment as certain, the covenant's final curse of losing the land (Deut 28). Then God would save a remnant through exile, and Babylon itself would fall after seventy years (25:11–12), as it did to Cyrus in 539 BC (RSB).
 - **The deceitful heart:** sin goes deeper than outward acts; the heart itself is sick (17:9). That is why reform fails and a new covenant is needed.
 - **False security:** trusting in the temple, alliances or prophets who say "peace" when there is none (6:14; 7:4).
-- **The cost of faithfulness:** Jeremiah's "confessions" (11–20) show a prophet suffering, lonely and wrestling with God.
+- **The cost of faithfulness:** Jeremiah's "confessions" (11:18–20:18) show a prophet suffering, lonely and wrestling with God, even accusing him (20:7). He feels both the people's coming agony and God's grief over their sin.
+- **True and false prophets:** popular prophets promised peace and a quick return; Jeremiah, sent from the Lord's council, told the hard truth (23:16–22; 28).
 - **God's sovereignty over nations:** the potter and the clay (18). Babylon serves God's purposes, then is judged.
-- **Hope beyond judgment:** a new covenant, a righteous Branch from David, and a return after seventy years (23; 29–33).
+- **Hope beyond judgment:** a righteous Branch from David, called "The Lord is our righteousness" (23:5–6), a return after seventy years (29:10), and a new covenant in which God enables his people to know and obey him (31:31–34; 32:40). Hebrews shows it fulfilled in Christ (Heb 8).
 
 ## How it points to Christ
 
@@ -170,8 +173,9 @@ Jesus quoted Jeremiah's temple sermon when he cleared the temple: "a den of robb
 ## Sources
 
 - Peter Y. Lee, "Jeremiah," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues (historical setting, text of Jeremiah), Structure and Outline, Message and Theology (prosecutor of the Mosaic covenant, herald of the new covenant, "from repentance to redemption", the prophetic call). Print pages to verify.
-- Reformation Study Bible, introduction to Jeremiah, p. ___ (to verify)
+- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Jeremiah: Title, Author, Date and Occasion, Genre and Literary Features, Characteristics and Primary Themes, Theology of Jeremiah, Jeremiah in the Larger Story of the Bible, Christ in Jeremiah, History of Interpretation, Outline. Print pages to verify.
 
 ## Changelog
 
 1. 2026-11-04: Generated initial notes with Claude Code
+2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code
