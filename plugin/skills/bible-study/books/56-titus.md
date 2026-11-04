@@ -87,16 +87,45 @@ Titus has two of the New Testament's richest short summaries of the gospel. In 2
 
 ## Q&A
 
-1. Why did Paul leave Titus in Crete? To put what remained into order and appoint elders in every town (1:5).
-2. What must an elder be able to do with sound doctrine? Give instruction in it and rebuke those who contradict it (1:9).
-3. What did a Cretan prophet say about Cretans? "Cretans are always liars, evil beasts, lazy gluttons" (1:12).
-4. How do the false teachers deny God? By their works, though they profess to know him (1:16).
-5. Whom should older women train? The younger women (2:3–4).
-6. What does the grace of God train us to do? Renounce ungodliness and worldly passions and live self-controlled, upright and godly lives (2:11–12).
-7. What does 2:13 call Jesus Christ? Our great God and Saviour.
-8. Why did Christ give himself for us, according to 2:14? To redeem us from all lawlessness and purify a people for his own possession, zealous for good works.
-9. How did God save us, according to 3:5? Not because of works done by us, but according to his mercy, by the washing of regeneration and renewal of the Holy Spirit.
-10. How should Titus treat a divisive person? Warn him once and then twice, then have nothing more to do with him (3:10).
+1. **Q:** Why did Paul leave Titus in Crete?
+
+   **A:** To put what remained into order and appoint elders in every town (1:5).
+
+2. **Q:** What must an elder be able to do with sound doctrine?
+
+   **A:** Give instruction in it and rebuke those who contradict it (1:9).
+
+3. **Q:** What did a Cretan prophet say about Cretans?
+
+   **A:** "Cretans are always liars, evil beasts, lazy gluttons" (1:12).
+
+4. **Q:** How do the false teachers deny God?
+
+   **A:** By their works, though they profess to know him (1:16).
+
+5. **Q:** Whom should older women train?
+
+   **A:** The younger women (2:3–4).
+
+6. **Q:** What does the grace of God train us to do?
+
+   **A:** Renounce ungodliness and worldly passions and live self-controlled, upright and godly lives (2:11–12).
+
+7. **Q:** What does 2:13 call Jesus Christ?
+
+   **A:** Our great God and Saviour.
+
+8. **Q:** Why did Christ give himself for us, according to 2:14?
+
+   **A:** To redeem us from all lawlessness and purify a people for his own possession, zealous for good works.
+
+9. **Q:** How did God save us, according to 3:5?
+
+   **A:** Not because of works done by us, but according to his mercy, by the washing of regeneration and renewal of the Holy Spirit.
+
+10. **Q:** How should Titus treat a divisive person?
+
+    **A:** Warn him once and then twice, then have nothing more to do with him (3:10).
 
 ## Sources
 
@@ -108,3 +137,4 @@ Titus has two of the New Testament's richest short summaries of the gospel. In 2
 
 1. 2026-11-04: Generated initial notes with Claude Code
 2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code
+3. 2026-11-04: Q&A reformatted as question-and-answer pairs and reviewed; verse references added with Claude Code

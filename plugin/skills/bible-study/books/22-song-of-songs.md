@@ -105,16 +105,45 @@ Much of the church's history, including many Puritans, read the Song directly as
 
 ## Q&A
 
-1. What are the other names for this book? Song of Songs and Canticles.
-2. What does "Song of Songs" mean? The greatest or most excellent song.
-3. To whom does the woman address her repeated charge? The daughters of Jerusalem (2:7; 3:5; 8:4).
-4. What is the charge? Not to stir up or awaken love until it pleases.
-5. Who says "I am a rose of Sharon"? The woman (2:1).
-6. What phrase expresses the lovers' mutual belonging? "My beloved is mine, and I am his" (2:16).
-7. What happens when the woman delays opening the door to her beloved? He has gone, and she searches for him (5:2–8).
-8. What does 8:6 say love is as strong as? Death.
-9. What can't quench love, according to 8:7? Many waters, or floods.
-10. How does the New Testament connect marriage with Christ? Paul says marriage refers to Christ and the church (Eph 5:31–32).
+1. **Q:** What are the other names for this book?
+
+   **A:** Song of Songs (1:1) and Canticles.
+
+2. **Q:** What does "Song of Songs" mean?
+
+   **A:** The greatest or most excellent song, as "holy of holies" means the most holy place (1:1).
+
+3. **Q:** To whom does the woman address her repeated charge?
+
+   **A:** The daughters of Jerusalem (2:7; 3:5; 8:4).
+
+4. **Q:** What is the charge?
+
+   **A:** Not to stir up or awaken love until it pleases (2:7).
+
+5. **Q:** Who says "I am a rose of Sharon"?
+
+   **A:** The woman (2:1).
+
+6. **Q:** What phrase expresses the lovers' mutual belonging?
+
+   **A:** "My beloved is mine, and I am his" (2:16).
+
+7. **Q:** What happens when the woman delays opening the door to her beloved?
+
+   **A:** He has gone, and she searches for him (5:2–8).
+
+8. **Q:** What does 8:6 say love is as strong as?
+
+   **A:** Death.
+
+9. **Q:** What can't quench love, according to 8:7?
+
+   **A:** Many waters, or floods.
+
+10. **Q:** How does the New Testament connect marriage with Christ?
+
+    **A:** Paul says marriage refers to Christ and the church (Eph 5:31–32).
 
 ## Sources
 
@@ -125,3 +154,4 @@ Much of the church's history, including many Puritans, read the Song directly as
 
 1. 2026-11-04: Generated initial notes with Claude Code
 2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code
+3. 2026-11-04: Q&A reformatted as question-and-answer pairs and reviewed; verse references added with Claude Code

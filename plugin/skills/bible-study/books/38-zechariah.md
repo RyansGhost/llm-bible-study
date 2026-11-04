@@ -115,16 +115,45 @@ Joshua's filthy garments replaced with clean ones (3:3–5) pictures justificati
 
 ## Q&A
 
-1. What did God say in Zechariah 1:3? "Return to me … and I will return to you."
-2. How many night visions did Zechariah see? Eight (1:7–6:8).
-3. What happened to Joshua the high priest in the vision? Satan accused him, but the Lord rebuked Satan and gave Joshua clean garments (3).
-4. How would the temple be completed, according to 4:6? "Not by might, nor by power, but by my Spirit."
-5. What is the coming one called in 3:8 and 6:12? The Branch.
-6. How does Zechariah 9:9 describe the coming king? Righteous, having salvation, humble, and riding on a donkey.
-7. How much was the shepherd valued at? Thirty pieces of silver (11:12).
-8. What will people do when they look on the one they pierced? Mourn for him as for an only child (12:10).
-9. What will be opened to cleanse from sin? A fountain (13:1).
-10. How does the book end? With the Lord king over all the earth, and everything "Holy to the Lord" (14:9, 20–21).
+1. **Q:** What did God say in Zechariah 1:3?
+
+   **A:** "Return to me … and I will return to you."
+
+2. **Q:** How many night visions did Zechariah see?
+
+   **A:** Eight (1:7–6:8).
+
+3. **Q:** What happened to Joshua the high priest in the vision?
+
+   **A:** Satan accused him, but the Lord rebuked Satan and gave Joshua clean garments (3:1–5).
+
+4. **Q:** How would the temple be completed, according to 4:6?
+
+   **A:** "Not by might, nor by power, but by my Spirit."
+
+5. **Q:** What is the coming one called in 3:8 and 6:12?
+
+   **A:** The Branch.
+
+6. **Q:** How does Zechariah 9:9 describe the coming king?
+
+   **A:** Righteous, having salvation, humble, and riding on a donkey.
+
+7. **Q:** How much was the shepherd valued at?
+
+   **A:** Thirty pieces of silver (11:12).
+
+8. **Q:** What will people do when they look on the one they pierced?
+
+   **A:** Mourn for him as for an only child (12:10).
+
+9. **Q:** What will be opened to cleanse from sin?
+
+   **A:** A fountain (13:1).
+
+10. **Q:** How does the book end?
+
+    **A:** With the Lord king over all the earth, and everything "Holy to the Lord" (14:9, 20–21).
 
 ## Sources
 
@@ -136,3 +165,4 @@ Joshua's filthy garments replaced with clean ones (3:3–5) pictures justificati
 
 1. 2026-11-04: Generated initial notes with Claude Code
 2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code
+3. 2026-11-04: Q&A reformatted as question-and-answer pairs and reviewed; verse references added with Claude Code

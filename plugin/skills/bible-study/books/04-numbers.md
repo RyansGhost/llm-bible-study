@@ -136,16 +136,45 @@ The ashes of the red heifer cleansed the body; Christ's blood cleanses the consc
 
 ## Q&A
 
-1. Why is the book called Numbers? Because of its two censuses of Israel's fighting men (1; 26).
-2. What does the priestly blessing say? "The Lord bless you and keep you; the Lord make his face to shine upon you … and give you peace" (6:24–26).
-3. Which two spies trusted God? Caleb and Joshua (14:6–9).
-4. Why did Israel wander forty years? Because they refused to enter the land after the spies' report (14:33–34).
-5. What happened to Korah and his companions? The earth swallowed them, and fire consumed 250 of their followers (16:31–35).
-6. How did God confirm Aaron's priesthood? His staff budded, blossomed and produced almonds (17:8).
-7. Why could Moses not enter the promised land? He struck the rock in unbelief instead of speaking to it as God commanded (20:7–12).
-8. What healed those bitten by snakes? Looking at the bronze serpent Moses lifted up (21:8–9).
-9. Who spoke to Balaam besides God? His donkey (22:28).
-10. Who succeeded Moses as leader? Joshua (27:18–23).
+1. **Q:** Why is the book called Numbers, and what is its Hebrew title?
+
+   **A:** It is named for its two censuses of Israel's fighting men (1; 26); its Hebrew title means "In the wilderness" (1:1).
+
+2. **Q:** What does the priestly blessing say?
+
+   **A:** "The Lord bless you and keep you; the Lord make his face to shine upon you … and give you peace" (6:24–26).
+
+3. **Q:** Which two spies trusted God?
+
+   **A:** Caleb and Joshua (14:6–9).
+
+4. **Q:** Why did Israel wander forty years?
+
+   **A:** Because they refused to enter the land after the spies' report (14:33–34).
+
+5. **Q:** What happened to Korah and his companions?
+
+   **A:** The earth swallowed them, and fire consumed 250 of their followers (16:31–35).
+
+6. **Q:** How did God confirm Aaron's priesthood?
+
+   **A:** His staff budded, blossomed and produced almonds (17:8).
+
+7. **Q:** Why could Moses not enter the promised land?
+
+   **A:** He struck the rock in unbelief instead of speaking to it as God commanded (20:7–12).
+
+8. **Q:** What healed those bitten by snakes?
+
+   **A:** Looking at the bronze serpent Moses lifted up (21:8–9).
+
+9. **Q:** Who spoke to Balaam besides God?
+
+   **A:** His donkey (22:28).
+
+10. **Q:** Who succeeded Moses as leader?
+
+    **A:** Joshua (27:18–23).
 
 ## Sources
 
@@ -158,3 +187,4 @@ The ashes of the red heifer cleansed the body; Christ's blood cleanses the consc
 1. 2026-11-04: Generated initial notes with Claude Code
 2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code
 3. 2026-11-04: Structure regrouped into nested sections, combining the earlier outline with the Reformation Study Bible's divisions
+4. 2026-11-04: Q&A reformatted as question-and-answer pairs and reviewed; verse references added with Claude Code

@@ -95,16 +95,45 @@ The letter centres on the "trustworthy saying" that Christ Jesus came into the w
 
 ## Q&A
 
-1. Why did Paul leave Timothy in Ephesus? To stop certain people from teaching different doctrine (1:3).
-2. What trustworthy saying does Paul give in 1:15? Christ Jesus came into the world to save sinners, of whom Paul is the foremost.
-3. For whom should Christians pray, according to 2:1–2? All people, including kings and all in high positions.
-4. Who is the one mediator between God and men? The man Christ Jesus (2:5).
-5. Which two church offices does chapter 3 describe? Overseers (elders) and deacons.
-6. What does Paul call the church in 3:15? The household of God, a pillar and buttress of the truth.
-7. What did Paul tell Timothy about his youth? Let no one despise you for your youth, but set the believers an example (4:12).
-8. Which elders are worthy of double honour? Those who rule well, especially those who labour in preaching and teaching (5:17).
-9. What is great gain? Godliness with contentment (6:6).
-10. What is a root of all kinds of evils? The love of money (6:10).
+1. **Q:** Why did Paul leave Timothy in Ephesus?
+
+   **A:** To stop certain people from teaching different doctrine (1:3).
+
+2. **Q:** What trustworthy saying does Paul give in 1:15?
+
+   **A:** Christ Jesus came into the world to save sinners, of whom Paul is the foremost.
+
+3. **Q:** For whom should Christians pray, according to 2:1–2?
+
+   **A:** All people, including kings and all in high positions.
+
+4. **Q:** Who is the one mediator between God and men?
+
+   **A:** The man Christ Jesus (2:5).
+
+5. **Q:** Which two church offices does chapter 3 describe?
+
+   **A:** Overseers (elders) and deacons (3:1–13).
+
+6. **Q:** What does Paul call the church in 3:15?
+
+   **A:** The household of God, a pillar and buttress of the truth.
+
+7. **Q:** What did Paul tell Timothy about his youth?
+
+   **A:** Let no one despise you for your youth, but set the believers an example (4:12).
+
+8. **Q:** Which elders are worthy of double honour?
+
+   **A:** Those who rule well, especially those who labour in preaching and teaching (5:17).
+
+9. **Q:** What is great gain?
+
+   **A:** Godliness with contentment (6:6).
+
+10. **Q:** What is a root of all kinds of evils?
+
+    **A:** The love of money (6:10).
 
 ## Sources
 
@@ -115,3 +144,4 @@ The letter centres on the "trustworthy saying" that Christ Jesus came into the w
 
 1. 2026-11-04: Generated initial notes with Claude Code
 2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code
+3. 2026-11-04: Q&A reformatted as question-and-answer pairs and reviewed; verse references added with Claude Code

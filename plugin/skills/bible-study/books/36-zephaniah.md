@@ -85,16 +85,45 @@ The day of the Lord finds its fullest meaning in Christ. In his first coming he 
 
 ## Q&A
 
-1. During which king's reign did Zephaniah prophesy? Josiah's (1:1).
-2. What is the main theme of Zephaniah? The day of the Lord.
-3. How does Zephaniah describe the day of the Lord? A day of wrath, distress, ruin, darkness and trumpet blast (1:15–16).
-4. Which false gods does Zephaniah condemn? Baal, the host of heaven (star worship), and Milcom (1:4–5).
-5. What does Zephaniah tell the humble to seek? The Lord, righteousness and humility (2:3).
-6. Which proud city does Zephaniah say will become a desolation? Nineveh (2:13–15).
-7. What will God do to the peoples' speech? Purify it, so they all call on his name (3:9).
-8. What kind of remnant will God leave? A humble and lowly people who take refuge in his name (3:12).
-9. What will God do over his people, according to 3:17? Rejoice over them with gladness and exult over them with loud singing.
-10. Which medieval hymn was inspired by Zephaniah 1? "Dies Irae" ("Day of Wrath").
+1. **Q:** During which king's reign did Zephaniah prophesy?
+
+   **A:** Josiah's (1:1).
+
+2. **Q:** What is the main theme of Zephaniah?
+
+   **A:** The day of the Lord (1:7, 14).
+
+3. **Q:** How does Zephaniah describe the day of the Lord?
+
+   **A:** A day of wrath, distress, ruin, darkness and trumpet blast (1:15–16).
+
+4. **Q:** Which false gods does Zephaniah condemn?
+
+   **A:** Baal, the host of heaven (star worship), and Milcom (1:4–5).
+
+5. **Q:** What does Zephaniah tell the humble to seek?
+
+   **A:** The Lord, righteousness and humility (2:3).
+
+6. **Q:** Which proud city does Zephaniah say will become a desolation?
+
+   **A:** Nineveh (2:13–15).
+
+7. **Q:** What will God do to the peoples' speech?
+
+   **A:** Purify it, so they all call on his name (3:9).
+
+8. **Q:** What kind of remnant will God leave?
+
+   **A:** A humble and lowly people who take refuge in his name (3:12).
+
+9. **Q:** What will God do over his people, according to 3:17?
+
+   **A:** Rejoice over them with gladness and exult over them with loud singing.
+
+10. **Q:** Which medieval hymn was inspired by Zephaniah 1?
+
+    **A:** "Dies Irae" ("Day of Wrath").
 
 ## Sources
 
@@ -106,3 +135,4 @@ The day of the Lord finds its fullest meaning in Christ. In his first coming he 
 
 1. 2026-11-04: Generated initial notes with Claude Code
 2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code
+3. 2026-11-04: Q&A reformatted as question-and-answer pairs and reviewed; verse references added with Claude Code

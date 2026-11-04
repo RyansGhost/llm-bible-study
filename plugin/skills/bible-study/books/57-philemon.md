@@ -88,16 +88,45 @@ Philemon is a living picture of the gospel. Luther wrote that "we are all his On
 
 ## Q&A
 
-1. Who was Philemon? A Christian in Colossae who hosted a church in his house and owned the slave Onesimus.
-2. Who was Onesimus? Philemon's runaway slave, who became a Christian through Paul in prison (v. 10).
-3. Where was Paul when he wrote Philemon? In prison (vv. 1, 9).
-4. What does the name Onesimus mean? "Useful" (compare v. 11).
-5. Why did Paul appeal rather than command? For love's sake, so Philemon's goodness would be freely given (vv. 8–9, 14).
-6. How did Paul want Philemon to receive Onesimus? No longer as a slave, but as a beloved brother, as he would receive Paul himself (vv. 16–17).
-7. What did Paul offer to do about anything Onesimus owed? Charge it to Paul's account, and he would repay it (vv. 18–19).
-8. What did Paul ask Philemon to prepare? A guest room (v. 22).
-9. Which other letter mentions Onesimus? Colossians (4:9).
-10. Who sends greetings at the end? Epaphras, Mark, Aristarchus, Demas and Luke (vv. 23–24).
+1. **Q:** Who was Philemon?
+
+   **A:** A Christian, probably in Colossae, who hosted a church in his house and owned the slave Onesimus (vv. 1–2, 15–16; Col 4:9).
+
+2. **Q:** Who was Onesimus?
+
+   **A:** Philemon's runaway slave, who became a Christian through Paul in prison (v. 10).
+
+3. **Q:** Where was Paul when he wrote Philemon?
+
+   **A:** In prison (vv. 1, 9).
+
+4. **Q:** What does the name Onesimus mean?
+
+   **A:** "Useful" (compare v. 11).
+
+5. **Q:** Why did Paul appeal rather than command?
+
+   **A:** For love's sake, so Philemon's goodness would be freely given (vv. 8–9, 14).
+
+6. **Q:** How did Paul want Philemon to receive Onesimus?
+
+   **A:** No longer as a slave, but as a beloved brother, as he would receive Paul himself (vv. 16–17).
+
+7. **Q:** What did Paul offer to do about anything Onesimus owed?
+
+   **A:** Charge it to Paul's account, and he would repay it (vv. 18–19).
+
+8. **Q:** What did Paul ask Philemon to prepare?
+
+   **A:** A guest room (v. 22).
+
+9. **Q:** Which other letter mentions Onesimus?
+
+   **A:** Colossians (4:9).
+
+10. **Q:** Who sends greetings at the end?
+
+    **A:** Epaphras, Mark, Aristarchus, Demas and Luke (vv. 23–24).
 
 ## Sources
 
@@ -109,3 +138,4 @@ Philemon is a living picture of the gospel. Luther wrote that "we are all his On
 
 1. 2026-11-04: Generated initial notes with Claude Code
 2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code
+3. 2026-11-04: Q&A reformatted as question-and-answer pairs and reviewed; verse references added with Claude Code

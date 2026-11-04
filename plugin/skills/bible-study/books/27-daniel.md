@@ -114,16 +114,45 @@ Many interpreters see Christ's death in the "anointed one" who is "cut off" in t
 
 ## Q&A
 
-1. When was Daniel taken to Babylon? In 605 BC, under Nebuchadnezzar (1:1).
-2. What did Daniel and his friends refuse? The king's food and wine (1:8).
-3. What did Nebuchadnezzar's statue dream show? Four kingdoms, and a stone that becomes God's everlasting kingdom (2).
-4. Who was thrown into the fiery furnace? Shadrach, Meshach and Abednego (3).
-5. Why was Nebuchadnezzar made to live like an animal? Because of his pride, until he acknowledged that the Most High rules (4).
-6. What did the writing on the wall mean? Belshazzar had been weighed and found wanting, and his kingdom given to the Medes and Persians (5).
-7. Why was Daniel thrown into the lions' den? He kept praying to God despite the king's decree (6).
-8. Who receives the everlasting kingdom in Daniel 7? One like a son of man, coming with the clouds (7:13–14).
-9. Which angel explained Daniel's visions? Gabriel (8:16; 9:21).
-10. What does Daniel 12:2 teach? The resurrection of the dead: some to everlasting life, some to everlasting contempt.
+1. **Q:** When was Daniel taken to Babylon?
+
+   **A:** In 605 BC, under Nebuchadnezzar (1:1).
+
+2. **Q:** What did Daniel and his friends refuse?
+
+   **A:** The king's food and wine (1:8).
+
+3. **Q:** What did Nebuchadnezzar's statue dream show?
+
+   **A:** Four kingdoms, and a stone that becomes God's everlasting kingdom (2:31–45).
+
+4. **Q:** Who was thrown into the fiery furnace?
+
+   **A:** Shadrach, Meshach and Abednego, and a fourth figure was seen walking with them (3:19–25).
+
+5. **Q:** Why was Nebuchadnezzar made to live like an animal?
+
+   **A:** Because of his pride, until he acknowledged that the Most High rules (4:30–37).
+
+6. **Q:** What did the writing on the wall mean?
+
+   **A:** Belshazzar had been weighed and found wanting, and his kingdom given to the Medes and Persians (5:25–28).
+
+7. **Q:** Why was Daniel thrown into the lions' den?
+
+   **A:** He kept praying to God despite the king's decree (6:10–16).
+
+8. **Q:** Who receives the everlasting kingdom in Daniel 7?
+
+   **A:** One like a son of man, coming with the clouds (7:13–14).
+
+9. **Q:** Which angel explained Daniel's visions?
+
+   **A:** Gabriel (8:16; 9:21).
+
+10. **Q:** What does Daniel 12:2 teach?
+
+    **A:** The resurrection of the dead: some to everlasting life, some to everlasting contempt.
 
 ## Sources
 
@@ -134,3 +163,4 @@ Many interpreters see Christ's death in the "anointed one" who is "cut off" in t
 
 1. 2026-11-04: Generated initial notes with Claude Code
 2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code
+3. 2026-11-04: Q&A reformatted as question-and-answer pairs and reviewed; verse references added with Claude Code

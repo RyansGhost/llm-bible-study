@@ -82,16 +82,45 @@ The rivalry of Esau and Jacob runs through the Bible, all the way to Herod the G
 
 ## Q&A
 
-1. How long is Obadiah? One chapter of 21 verses, the shortest book in the Old Testament.
-2. Against which nation does Obadiah prophesy? Edom.
-3. From whom were the Edomites descended? Esau, Jacob's brother.
-4. What had deceived Edom? The pride of its heart (v. 3).
-5. Where did Edom think it was safe? High in the rocks, like an eagle's nest (vv. 3–4).
-6. What did Edom do when Jerusalem fell? Stood aloof, gloated, looted, and handed over survivors (vv. 11–14).
-7. What principle of judgment does verse 15 state? "As you have done, it shall be done to you."
-8. Where will there be deliverance? On Mount Zion (v. 17).
-9. What does Obadiah's name mean? "Servant of the Lord".
-10. How does the book end? "The kingdom shall be the Lord's" (v. 21).
+1. **Q:** How long is Obadiah?
+
+   **A:** One chapter of 21 verses, the shortest book in the Old Testament.
+
+2. **Q:** Against which nation does Obadiah prophesy?
+
+   **A:** Edom (v. 1).
+
+3. **Q:** From whom were the Edomites descended?
+
+   **A:** Esau, Jacob's brother (vv. 6, 10; Gen 36:1).
+
+4. **Q:** What had deceived Edom?
+
+   **A:** The pride of its heart (v. 3).
+
+5. **Q:** Where did Edom think it was safe?
+
+   **A:** High in the rocks, like an eagle's nest (vv. 3–4).
+
+6. **Q:** What did Edom do when Jerusalem fell?
+
+   **A:** Stood aloof, gloated, looted, and handed over survivors (vv. 11–14).
+
+7. **Q:** What principle of judgment does verse 15 state?
+
+   **A:** "As you have done, it shall be done to you."
+
+8. **Q:** Where will there be deliverance?
+
+   **A:** On Mount Zion (v. 17).
+
+9. **Q:** What does Obadiah's name mean?
+
+   **A:** "Servant of the Lord".
+
+10. **Q:** How does the book end?
+
+    **A:** "The kingdom shall be the Lord's" (v. 21).
 
 ## Sources
 
@@ -103,3 +132,4 @@ The rivalry of Esau and Jacob runs through the Bible, all the way to Herod the G
 
 1. 2026-11-04: Generated initial notes with Claude Code
 2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code
+3. 2026-11-04: Q&A reformatted as question-and-answer pairs and reviewed; verse references added with Claude Code

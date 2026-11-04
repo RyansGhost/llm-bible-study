@@ -1,0 +1,70 @@
+# Q&A review checklist
+
+Each book's Q&A reformatted as **Q:** / **A:** pairs and reviewed: every question a clear, standalone question that works read aloud; every answer short, accurate to the current notes, and with a chapter-and-verse reference where one exists; and together covering the book's key people, events, themes and how it points to Christ. Each reviewed book gets a Changelog entry.
+
+- [x] 01 Genesis
+- [x] 02 Exodus
+- [x] 03 Leviticus
+- [x] 04 Numbers
+- [x] 05 Deuteronomy
+- [x] 06 Joshua
+- [x] 07 Judges
+- [x] 08 Ruth
+- [x] 09 1 Samuel
+- [x] 10 2 Samuel
+- [x] 11 1 Kings
+- [x] 12 2 Kings
+- [x] 13 1 Chronicles
+- [x] 14 2 Chronicles
+- [x] 15 Ezra
+- [x] 16 Nehemiah
+- [x] 17 Esther
+- [x] 18 Job
+- [x] 19 Psalms
+- [x] 20 Proverbs
+- [x] 21 Ecclesiastes
+- [x] 22 Song of Solomon
+- [x] 23 Isaiah
+- [x] 24 Jeremiah
+- [x] 25 Lamentations
+- [x] 26 Ezekiel
+- [x] 27 Daniel
+- [x] 28 Hosea
+- [x] 29 Joel
+- [x] 30 Amos
+- [x] 31 Obadiah
+- [x] 32 Jonah
+- [x] 33 Micah
+- [x] 34 Nahum
+- [x] 35 Habakkuk
+- [x] 36 Zephaniah
+- [x] 37 Haggai
+- [x] 38 Zechariah
+- [x] 39 Malachi
+- [x] 40 Matthew
+- [x] 41 Mark
+- [x] 42 Luke
+- [x] 43 John
+- [x] 44 Acts
+- [x] 45 Romans
+- [x] 46 1 Corinthians
+- [x] 47 2 Corinthians
+- [x] 48 Galatians
+- [x] 49 Ephesians
+- [x] 50 Philippians
+- [x] 51 Colossians
+- [x] 52 1 Thessalonians
+- [x] 53 2 Thessalonians
+- [x] 54 1 Timothy
+- [x] 55 2 Timothy
+- [x] 56 Titus
+- [x] 57 Philemon
+- [x] 58 Hebrews
+- [x] 59 James
+- [x] 60 1 Peter
+- [x] 61 2 Peter
+- [x] 62 1 John
+- [x] 63 2 John
+- [x] 64 3 John
+- [x] 65 Jude
+- [x] 66 Revelation

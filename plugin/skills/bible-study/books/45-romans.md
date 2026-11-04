@@ -117,16 +117,45 @@ Romans is centred on Christ:
 
 ## Q&A
 
-1. To whom did Paul write Romans? To all the believers in Rome, "loved by God and called to be saints" (1:7).
-2. What is Paul not ashamed of? The gospel, the power of God for salvation (1:16).
-3. What is revealed in the gospel, according to 1:17? The righteousness of God, from faith for faith.
-4. What does 3:23 say about everyone? All have sinned and fall short of the glory of God.
-5. How are sinners justified, according to 3:24? Freely by God's grace, through the redemption in Christ Jesus.
-6. Whom does Paul use as the example of justification by faith? Abraham (4).
-7. How did God show his love, according to 5:8? Christ died for us while we were still sinners.
-8. What are the wages of sin? Death; but the free gift of God is eternal life in Christ (6:23).
-9. What is there "now" for those in Christ Jesus? No condemnation (8:1).
-10. What can separate us from the love of God in Christ? Nothing in all creation (8:38–39).
+1. **Q:** To whom did Paul write Romans?
+
+   **A:** To all the believers in Rome, "loved by God and called to be saints" (1:7).
+
+2. **Q:** What is Paul not ashamed of?
+
+   **A:** The gospel, the power of God for salvation (1:16).
+
+3. **Q:** What is revealed in the gospel, according to 1:17?
+
+   **A:** The righteousness of God, from faith for faith.
+
+4. **Q:** What does 3:23 say about everyone?
+
+   **A:** All have sinned and fall short of the glory of God.
+
+5. **Q:** How are sinners justified, according to 3:24?
+
+   **A:** Freely by God's grace, through the redemption in Christ Jesus.
+
+6. **Q:** Whom does Paul use as the example of justification by faith?
+
+   **A:** Abraham, who believed God and it was counted to him as righteousness (4:1–5).
+
+7. **Q:** How did God show his love, according to 5:8?
+
+   **A:** Christ died for us while we were still sinners.
+
+8. **Q:** What are the wages of sin?
+
+   **A:** Death; but the free gift of God is eternal life in Christ (6:23).
+
+9. **Q:** What is there "now" for those in Christ Jesus?
+
+   **A:** No condemnation (8:1).
+
+10. **Q:** What can separate us from the love of God in Christ?
+
+    **A:** Nothing in all creation (8:38–39).
 
 ## Sources
 
@@ -139,3 +168,4 @@ Romans is centred on Christ:
 
 1. 2026-11-04: Generated initial notes with Claude Code
 2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code
+3. 2026-11-04: Q&A reformatted as question-and-answer pairs and reviewed; verse references added with Claude Code

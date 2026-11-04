@@ -105,16 +105,45 @@ Zerubbabel, a descendant of David leading the return, appears in Jesus' genealog
 
 ## Q&A
 
-1. Which king decreed that the exiles could return? Cyrus of Persia (1:1–4).
-2. Who led the first group back? Zerubbabel the governor and Jeshua the high priest (2:2; 3:2).
-3. How did the older people react when the temple foundation was laid? They wept, remembering the first temple, while others shouted for joy (3:12–13).
-4. Which prophets urged the people to finish the temple? Haggai and Zechariah (5:1).
-5. Which king found Cyrus' decree and supported the work? Darius (6).
-6. What three things did Ezra set his heart to do with God's law? Study it, do it, and teach it (7:10).
-7. Why did Ezra not ask the king for soldiers? He had told the king that God's hand protects those who seek him, so he fasted and prayed instead (8:21–23).
-8. What sin made Ezra tear his clothes? Israelites, including leaders, had married pagan women (9:1–3).
-9. What language are parts of Ezra written in? Aramaic, the diplomatic language of the Persian empire (4:8–6:18; 7:12–26).
-10. How does Ezra connect with the end of 2 Chronicles? Both record Cyrus' decree (2 Chr 36:22–23; Ezra 1:1–3).
+1. **Q:** Which king decreed that the exiles could return?
+
+   **A:** Cyrus of Persia (1:1–4).
+
+2. **Q:** Who led the first group back?
+
+   **A:** Zerubbabel the governor and Jeshua the high priest (2:2; 3:2).
+
+3. **Q:** How did the older people react when the temple foundation was laid?
+
+   **A:** They wept, remembering the first temple, while others shouted for joy (3:12–13).
+
+4. **Q:** Which prophets urged the people to finish the temple?
+
+   **A:** Haggai and Zechariah (5:1).
+
+5. **Q:** Which king found Cyrus' decree and supported the work?
+
+   **A:** Darius (6:1–12).
+
+6. **Q:** What three things did Ezra set his heart to do with God's law?
+
+   **A:** Study it, do it, and teach it (7:10).
+
+7. **Q:** Why did Ezra not ask the king for soldiers?
+
+   **A:** He had told the king that God's hand protects those who seek him, so he fasted and prayed instead (8:21–23).
+
+8. **Q:** What sin made Ezra tear his clothes?
+
+   **A:** Israelites, including leaders, had married pagan women (9:1–3).
+
+9. **Q:** What language are parts of Ezra written in?
+
+   **A:** Aramaic, the diplomatic language of the Persian empire (4:8–6:18; 7:12–26).
+
+10. **Q:** How does Ezra connect with the end of 2 Chronicles?
+
+    **A:** Both record Cyrus' decree (2 Chr 36:22–23; Ezra 1:1–3).
 
 ## Sources
 
@@ -126,3 +155,4 @@ Zerubbabel, a descendant of David leading the return, appears in Jesus' genealog
 
 1. 2026-11-04: Generated initial notes with Claude Code
 2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code
+3. 2026-11-04: Q&A reformatted as question-and-answer pairs and reviewed; verse references added with Claude Code

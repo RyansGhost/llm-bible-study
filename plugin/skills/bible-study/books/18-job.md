@@ -140,16 +140,45 @@ Job is a righteous sufferer, though not sinless. Christ is the truly innocent su
 
 ## Q&A
 
-1. How does God describe Job at the start? Blameless and upright, fearing God and turning away from evil (1:1, 8).
-2. What did Satan claim about Job? That Job feared God only because God had blessed him (1:9–11).
-3. What did Job say after losing everything? "The Lord gave, and the Lord has taken away; blessed be the name of the Lord" (1:21).
-4. Who were Job's three friends? Eliphaz, Bildad and Zophar (2:11).
-5. What did the friends believe about Job's suffering? That it must be punishment for his sin.
-6. What famous hope does Job express in chapter 19? "I know that my Redeemer lives", and that he would see God (19:25–27).
-7. Who speaks after the three friends fall silent? Elihu (32).
-8. How did God answer Job? From the whirlwind, with questions about creation and his power (38–41).
-9. What did God say about the friends? They had not spoken rightly about him, as Job had (42:7).
-10. How did the book end for Job? He prayed for his friends, and God restored him with twice as much as before (42:10).
+1. **Q:** How does God describe Job at the start?
+
+   **A:** Blameless and upright, fearing God and turning away from evil (1:1, 8).
+
+2. **Q:** What did Satan claim about Job?
+
+   **A:** That Job feared God only because God had blessed him (1:9–11).
+
+3. **Q:** What did Job say after losing everything?
+
+   **A:** "The Lord gave, and the Lord has taken away; blessed be the name of the Lord" (1:21).
+
+4. **Q:** Who were Job's three friends?
+
+   **A:** Eliphaz, Bildad and Zophar (2:11).
+
+5. **Q:** What did the friends believe about Job's suffering?
+
+   **A:** That it must be punishment for his sin (4:7–8; 8:4–6; 22:4–5).
+
+6. **Q:** What famous hope does Job express in chapter 19?
+
+   **A:** "I know that my Redeemer lives", and that he would see God (19:25–27).
+
+7. **Q:** Who speaks after the three friends fall silent?
+
+   **A:** Elihu, a younger man (32:1–6).
+
+8. **Q:** How did God answer Job?
+
+   **A:** From the whirlwind, with questions about creation and his power (38–41).
+
+9. **Q:** What did God say about the friends?
+
+   **A:** They had not spoken rightly about him, as Job had (42:7).
+
+10. **Q:** How did the book end for Job?
+
+    **A:** He prayed for his friends, and God restored him with twice as much as before (42:10).
 
 ## Sources
 
@@ -161,3 +190,4 @@ Job is a righteous sufferer, though not sinless. Christ is the truly innocent su
 
 1. 2026-11-04: Generated initial notes with Claude Code
 2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code
+3. 2026-11-04: Q&A reformatted as question-and-answer pairs and reviewed; verse references added with Claude Code

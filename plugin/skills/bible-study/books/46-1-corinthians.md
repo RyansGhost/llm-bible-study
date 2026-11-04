@@ -107,16 +107,45 @@ Christ crucified is the centre of the letter (2:2). He is the power and wisdom o
 
 ## Q&A
 
-1. What problem does Paul address first? Divisions and factions in the church (1:10–4:21).
-2. What did Paul resolve to know among the Corinthians? Jesus Christ and him crucified (2:2).
-3. Who planted and who watered, according to 3:6? Paul planted and Apollos watered, but God gave the growth.
-4. What does Paul call Christ in 5:7? Our Passover lamb.
-5. Why should believers flee sexual immorality? Because the body is a temple of the Holy Spirit and they were bought with a price (6:18–20).
-6. What does God provide with every temptation? A way of escape (10:13).
-7. What does Paul say we should do in everything? Do it all to the glory of God (10:31).
-8. What is the greatest of faith, hope and love? Love (13:13).
-9. What is "of first importance" in the gospel? That Christ died for our sins, was buried, was raised on the third day, and appeared (15:3–5).
-10. What does Paul say about death in 15:54–55? Death is swallowed up in victory; "O death, where is your sting?"
+1. **Q:** What problem does Paul address first?
+
+   **A:** Divisions and factions in the church (1:10–4:21).
+
+2. **Q:** What did Paul resolve to know among the Corinthians?
+
+   **A:** Jesus Christ and him crucified (2:2).
+
+3. **Q:** Who planted and who watered, according to 3:6?
+
+   **A:** Paul planted and Apollos watered, but God gave the growth.
+
+4. **Q:** What does Paul call Christ in 5:7?
+
+   **A:** Our Passover lamb.
+
+5. **Q:** Why should believers flee sexual immorality?
+
+   **A:** Because the body is a temple of the Holy Spirit and they were bought with a price (6:18–20).
+
+6. **Q:** What does God provide with every temptation?
+
+   **A:** A way of escape (10:13).
+
+7. **Q:** What does Paul say we should do in everything?
+
+   **A:** Do it all to the glory of God (10:31).
+
+8. **Q:** What is the greatest of faith, hope and love?
+
+   **A:** Love (13:13).
+
+9. **Q:** What is "of first importance" in the gospel?
+
+   **A:** That Christ died for our sins, was buried, was raised on the third day, and appeared (15:3–5).
+
+10. **Q:** What does Paul say about death in 15:54–55?
+
+    **A:** Death is swallowed up in victory; "O death, where is your sting?"
 
 ## Sources
 
@@ -128,3 +157,4 @@ Christ crucified is the centre of the letter (2:2). He is the power and wisdom o
 
 1. 2026-11-04: Generated initial notes with Claude Code
 2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code
+3. 2026-11-04: Q&A reformatted as question-and-answer pairs and reviewed; verse references added with Claude Code

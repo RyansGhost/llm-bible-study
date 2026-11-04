@@ -127,16 +127,45 @@ Above all, Kings ends with a question about God's promise to David. Jehoiachin's
 
 ## Q&A
 
-1. How did Elijah leave the earth? Taken up to heaven by a whirlwind, with a chariot and horses of fire (2:11).
-2. What did Elisha ask from Elijah? A double portion of his spirit (2:9).
-3. How was Naaman healed? By washing seven times in the Jordan, as Elisha told him (5:14).
-4. Who killed Jezebel? Jehu ordered her thrown from a window (9:30–37).
-5. When and to whom did the northern kingdom fall? To Assyria, in 722 BC (17:6).
-6. Which king of Judah prayed when Assyria besieged Jerusalem? Hezekiah (19:14–19).
-7. What happened to Sennacherib's army? The angel of the Lord struck down 185,000 men (19:35).
-8. What did Josiah's workers find in the temple? The Book of the Law (22:8).
-9. When was Jerusalem destroyed, and by whom? In 586 BC, by Nebuchadnezzar of Babylon (25:8–10).
-10. How does 2 Kings end? With King Jehoiachin released from prison in Babylon and eating at the king's table (25:27–30).
+1. **Q:** How did Elijah leave the earth?
+
+   **A:** Taken up to heaven by a whirlwind, with a chariot and horses of fire (2:11).
+
+2. **Q:** What did Elisha ask from Elijah?
+
+   **A:** A double portion of his spirit (2:9).
+
+3. **Q:** How was Naaman healed?
+
+   **A:** By washing seven times in the Jordan, as Elisha told him (5:14).
+
+4. **Q:** Who killed Jezebel?
+
+   **A:** Jehu ordered her thrown from a window (9:30–37).
+
+5. **Q:** When and to whom did the northern kingdom fall?
+
+   **A:** To Assyria, in 722 BC (17:6).
+
+6. **Q:** Which king of Judah prayed when Assyria besieged Jerusalem?
+
+   **A:** Hezekiah (19:14–19).
+
+7. **Q:** What happened to Sennacherib's army?
+
+   **A:** The angel of the Lord struck down 185,000 men (19:35).
+
+8. **Q:** What did Josiah's workers find in the temple?
+
+   **A:** The Book of the Law (22:8).
+
+9. **Q:** When was Jerusalem destroyed, and by whom?
+
+   **A:** In 586 BC, by Nebuchadnezzar of Babylon (25:8–10).
+
+10. **Q:** How does 2 Kings end?
+
+    **A:** With King Jehoiachin released from prison in Babylon and eating at the king's table (25:27–30).
 
 ## Sources
 
@@ -148,3 +177,4 @@ Above all, Kings ends with a question about God's promise to David. Jehoiachin's
 
 1. 2026-11-04: Generated initial notes with Claude Code
 2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code
+3. 2026-11-04: Q&A reformatted as question-and-answer pairs and reviewed; verse references added with Claude Code

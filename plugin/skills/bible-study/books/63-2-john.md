@@ -80,16 +80,45 @@ The test of true teaching is the confession of "the coming of Jesus Christ in th
 
 ## Q&A
 
-1. Who wrote 2 John? "The elder", traditionally the apostle John (v. 1).
-2. To whom is 2 John addressed? The elect lady and her children, most likely a church and its members.
-3. What made John rejoice? Finding some of her children walking in the truth (v. 4).
-4. What command does John repeat? That we love one another (v. 5).
-5. What is love, according to v. 6? Walking according to God's commands.
-6. What do the deceivers fail to confess? The coming of Jesus Christ in the flesh (v. 7).
-7. Who has both the Father and the Son? Whoever abides in the teaching of Christ (v. 9).
-8. What should they not do for a false teacher? Receive him into the house or give him any greeting (v. 10).
-9. Why does John not write more? He hopes to come and talk face to face (v. 12).
-10. Who sends greetings at the end? The children of your elect sister (v. 13).
+1. **Q:** Who wrote 2 John?
+
+   **A:** "The elder", traditionally the apostle John (v. 1).
+
+2. **Q:** To whom is 2 John addressed?
+
+   **A:** The elect lady and her children (v. 1), most likely a church and its members.
+
+3. **Q:** What made John rejoice?
+
+   **A:** Finding some of her children walking in the truth (v. 4).
+
+4. **Q:** What command does John repeat?
+
+   **A:** That we love one another (v. 5).
+
+5. **Q:** What is love, according to v. 6?
+
+   **A:** Walking according to God's commands.
+
+6. **Q:** What do the deceivers fail to confess?
+
+   **A:** The coming of Jesus Christ in the flesh (v. 7).
+
+7. **Q:** Who has both the Father and the Son?
+
+   **A:** Whoever abides in the teaching of Christ (v. 9).
+
+8. **Q:** What should they not do for a false teacher?
+
+   **A:** Receive him into the house or give him any greeting (v. 10).
+
+9. **Q:** Why does John not write more?
+
+   **A:** He hopes to come and talk face to face (v. 12).
+
+10. **Q:** Who sends greetings at the end?
+
+    **A:** The children of your elect sister (v. 13).
 
 ## Sources
 
@@ -100,3 +129,4 @@ The test of true teaching is the confession of "the coming of Jesus Christ in th
 
 1. 2026-11-04: Generated initial notes with Claude Code
 2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code
+3. 2026-11-04: Q&A reformatted as question-and-answer pairs and reviewed; verse references added with Claude Code

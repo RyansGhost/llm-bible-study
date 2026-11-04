@@ -182,16 +182,45 @@ John even says Isaiah saw Christ's glory in his temple vision (John 12:41).
 
 ## Q&A
 
-1. When did Isaiah see the Lord on his throne? In the year King Uzziah died (6:1).
-2. What did the seraphim cry? "Holy, holy, holy is the Lord of hosts; the whole earth is full of his glory" (6:3).
-3. What did Isaiah say when God asked "Whom shall I send?" "Here I am! Send me" (6:8).
-4. What sign was given to Ahaz? A virgin would conceive and bear a son named Immanuel (7:14).
-5. Name some titles of the child in Isaiah 9:6. Wonderful Counsellor, Mighty God, Everlasting Father, Prince of Peace.
-6. Who is called God's "shepherd" and "anointed" in Isaiah? Cyrus king of Persia (44:28; 45:1).
-7. How does Isaiah 40 begin? "Comfort, comfort my people, says your God."
-8. Which chapter describes the Suffering Servant wounded for our transgressions? Isaiah 53 (beginning at 52:13).
-9. Which passage did Jesus read in the Nazareth synagogue? Isaiah 61:1–2 (Luke 4:16–21).
-10. What does God promise to create at the end of Isaiah? New heavens and a new earth (65:17; 66:22).
+1. **Q:** When did Isaiah see the Lord on his throne?
+
+   **A:** In the year King Uzziah died (6:1).
+
+2. **Q:** What did the seraphim cry?
+
+   **A:** "Holy, holy, holy is the Lord of hosts; the whole earth is full of his glory" (6:3).
+
+3. **Q:** When God asked "Whom shall I send?", what did Isaiah answer?
+
+   **A:** "Here I am! Send me" (6:8).
+
+4. **Q:** What sign was given to Ahaz?
+
+   **A:** A virgin would conceive and bear a son named Immanuel (7:14).
+
+5. **Q:** What titles are given to the child in Isaiah 9:6?
+
+   **A:** Wonderful Counsellor, Mighty God, Everlasting Father, Prince of Peace.
+
+6. **Q:** Who is called God's "shepherd" and "anointed" in Isaiah?
+
+   **A:** Cyrus king of Persia (44:28; 45:1).
+
+7. **Q:** How does Isaiah 40 begin?
+
+   **A:** "Comfort, comfort my people, says your God" (40:1).
+
+8. **Q:** Which chapter describes the Suffering Servant wounded for our transgressions?
+
+   **A:** Isaiah 53 (beginning at 52:13).
+
+9. **Q:** Which passage did Jesus read in the Nazareth synagogue?
+
+   **A:** Isaiah 61:1–2 (Luke 4:16–21).
+
+10. **Q:** What does God promise to create at the end of Isaiah?
+
+    **A:** New heavens and a new earth (65:17; 66:22).
 
 ## Sources
 
@@ -203,3 +232,4 @@ John even says Isaiah saw Christ's glory in his temple vision (John 12:41).
 1. 2026-11-04: Generated initial notes with Claude Code
 2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code
 3. 2026-11-04: Structure regrouped into nested sections, combining the earlier outline with the Reformation Study Bible's divisions
+4. 2026-11-04: Q&A reformatted as question-and-answer pairs and reviewed; verse references added with Claude Code

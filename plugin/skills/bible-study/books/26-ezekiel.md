@@ -145,16 +145,45 @@ The glory that left the temple returns in Jesus, the Word who "dwelt among us" a
 
 ## Q&A
 
-1. Where was Ezekiel when he received his first vision? By the Chebar canal in Babylon, among the exiles (1:1–3).
-2. What did Ezekiel see in his first vision? Four living creatures, wheels, and the throne and glory of God (1).
-3. What did God tell Ezekiel to eat? A scroll, which tasted as sweet as honey (3:1–3).
-4. What role did God give Ezekiel? A watchman for the house of Israel (3:17; 33:7).
-5. What did Ezekiel see in the temple in chapter 8? Idolatry: images, weeping for Tammuz, and sun worship.
-6. What happened to the glory of the Lord in chapters 10–11? It left the temple and the city.
-7. What sign did God give when Ezekiel's wife died? He was not to mourn openly, as a sign of Jerusalem's fall (24:15–27).
-8. Who did God say would shepherd his people? God himself, through "my servant David" (34).
-9. What did God promise in Ezekiel 36:26? A new heart and a new spirit: a heart of flesh in place of a heart of stone.
-10. What is the city called at the end of the book? "The Lord is there" (48:35).
+1. **Q:** Where was Ezekiel when he received his first vision?
+
+   **A:** By the Chebar canal in Babylon, among the exiles (1:1–3).
+
+2. **Q:** What did Ezekiel see in his first vision?
+
+   **A:** Four living creatures, wheels, and the throne and glory of God (1:4–28).
+
+3. **Q:** What did God tell Ezekiel to eat?
+
+   **A:** A scroll, which tasted as sweet as honey (3:1–3).
+
+4. **Q:** What role did God give Ezekiel?
+
+   **A:** A watchman for the house of Israel (3:17; 33:7).
+
+5. **Q:** What did Ezekiel see in the temple in chapter 8?
+
+   **A:** Idolatry: images, weeping for Tammuz, and sun worship (8:5–16).
+
+6. **Q:** What happened to the glory of the Lord in chapters 10–11?
+
+   **A:** It left the temple and the city (10:18–19; 11:22–23).
+
+7. **Q:** What sign did God give when Ezekiel's wife died?
+
+   **A:** He was not to mourn openly, as a sign of Jerusalem's fall (24:15–27).
+
+8. **Q:** Who did God say would shepherd his people?
+
+   **A:** God himself, through "my servant David" (34:11–15, 23–24).
+
+9. **Q:** What did God promise in Ezekiel 36:26?
+
+   **A:** A new heart and a new spirit: a heart of flesh in place of a heart of stone.
+
+10. **Q:** What is the city called at the end of the book?
+
+    **A:** "The Lord is there" (48:35).
 
 ## Sources
 
@@ -165,3 +194,4 @@ The glory that left the temple returns in Jesus, the Word who "dwelt among us" a
 
 1. 2026-11-04: Generated initial notes with Claude Code
 2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code
+3. 2026-11-04: Q&A reformatted as question-and-answer pairs and reviewed; verse references added with Claude Code

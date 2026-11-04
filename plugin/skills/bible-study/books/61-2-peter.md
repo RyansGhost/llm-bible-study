@@ -91,16 +91,45 @@ From its first verse, 2 Peter calls Jesus "our God and Saviour Jesus Christ" (1:
 
 ## Q&A
 
-1. Why did Peter write 2 Peter? To remind believers of the truth before his death and to warn them against false teachers (1:12–15; 2:1).
-2. What has God's divine power granted us? All things that pertain to life and godliness (1:3).
-3. What qualities should believers add to their faith? Virtue, knowledge, self-control, steadfastness, godliness, brotherly affection and love (1:5–7).
-4. What event did Peter witness on the holy mountain? The transfiguration, when he heard the Father's voice (1:16–18).
-5. How was prophecy produced, according to 1:21? Men spoke from God as they were carried along by the Holy Spirit.
-6. Which three examples of God's judgment does chapter 2 give? The angels who sinned, the ancient world in the flood, and Sodom and Gomorrah.
-7. Which two righteous people did God rescue? Noah and Lot (2:5–8).
-8. What do the scoffers ask? "Where is the promise of his coming?" (3:4).
-9. Why hasn't the Lord come yet? He is patient, not wishing that any should perish but that all should reach repentance (3:9).
-10. What do believers wait for, according to 3:13? New heavens and a new earth in which righteousness dwells.
+1. **Q:** Why did Peter write 2 Peter?
+
+   **A:** To remind believers of the truth before his death and to warn them against false teachers (1:12–15; 2:1).
+
+2. **Q:** What has God's divine power granted us?
+
+   **A:** All things that pertain to life and godliness (1:3).
+
+3. **Q:** What qualities should believers add to their faith?
+
+   **A:** Virtue, knowledge, self-control, steadfastness, godliness, brotherly affection and love (1:5–7).
+
+4. **Q:** What event did Peter witness on the holy mountain?
+
+   **A:** The transfiguration, when he heard the Father's voice (1:16–18).
+
+5. **Q:** How was prophecy produced, according to 1:21?
+
+   **A:** Men spoke from God as they were carried along by the Holy Spirit.
+
+6. **Q:** Which three examples of God's judgment does chapter 2 give?
+
+   **A:** The angels who sinned, the ancient world in the flood, and Sodom and Gomorrah (2:4–6).
+
+7. **Q:** Which two righteous people did God rescue?
+
+   **A:** Noah and Lot (2:5–8).
+
+8. **Q:** What do the scoffers ask?
+
+   **A:** "Where is the promise of his coming?" (3:4).
+
+9. **Q:** Why hasn't the Lord come yet?
+
+   **A:** He is patient, not wishing that any should perish but that all should reach repentance (3:9).
+
+10. **Q:** What do believers wait for, according to 3:13?
+
+    **A:** New heavens and a new earth in which righteousness dwells.
 
 ## Sources
 
@@ -111,3 +140,4 @@ From its first verse, 2 Peter calls Jesus "our God and Saviour Jesus Christ" (1:
 
 1. 2026-11-04: Generated initial notes with Claude Code
 2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code
+3. 2026-11-04: Q&A reformatted as question-and-answer pairs and reviewed; verse references added with Claude Code

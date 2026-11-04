@@ -128,16 +128,45 @@ Peter identifies Jesus as the prophet like Moses (18:15; Acts 3:22–23). Paul r
 
 ## Q&A
 
-1. Where were the people when Moses gave these speeches? On the plains of Moab, east of the Jordan (1:1–5).
-2. What is the Shema? "Hear, O Israel: The Lord our God, the Lord is one. You shall love the Lord your God with all your heart and with all your soul and with all your might" (6:4–5).
-3. What lesson did the manna teach? That man does not live by bread alone, but by every word from God's mouth (8:3).
-4. Why did God choose Israel? Not because they were many or righteous, but because he loved them and kept his oath to their fathers (7:7–8; 9:5).
-5. What must Israel's king write for himself? A copy of the law, to read all his life (17:18–19).
-6. What prophet did Moses promise? A prophet like himself, from among their brothers (18:15).
-7. From which mountains were the blessings and curses spoken? Gerizim and Ebal (11:29; 27).
-8. What did Moses set before Israel in chapter 30? Life and death, blessing and curse, telling them to choose life (30:19).
-9. Where did Moses die, and who buried him? On Mount Nebo in Moab; the Lord buried him (34:1–6).
-10. Which book does Jesus quote three times in his temptation? Deuteronomy (Matt 4:1–11).
+1. **Q:** Where were the people when Moses gave these speeches?
+
+   **A:** On the plains of Moab, east of the Jordan (1:1–5).
+
+2. **Q:** What is the Shema?
+
+   **A:** "Hear, O Israel: The Lord our God, the Lord is one. You shall love the Lord your God with all your heart and with all your soul and with all your might" (6:4–5).
+
+3. **Q:** What lesson did the manna teach?
+
+   **A:** That man does not live by bread alone, but by every word from God's mouth (8:3).
+
+4. **Q:** Why did God choose Israel?
+
+   **A:** Not because they were many or righteous, but because he loved them and kept his oath to their fathers (7:7–8; 9:5).
+
+5. **Q:** What must Israel's king write for himself?
+
+   **A:** A copy of the law, to read all his life (17:18–19).
+
+6. **Q:** What prophet did Moses promise?
+
+   **A:** A prophet like himself, from among their brothers (18:15).
+
+7. **Q:** From which mountains were the blessings and curses spoken?
+
+   **A:** Mount Gerizim and Mount Ebal (11:29; 27:12–13).
+
+8. **Q:** What did Moses set before Israel in chapter 30?
+
+   **A:** Life and death, blessing and curse, telling them to choose life (30:19).
+
+9. **Q:** Where did Moses die, and who buried him?
+
+   **A:** On Mount Nebo in Moab; the Lord buried him (34:1–6).
+
+10. **Q:** Which book does Jesus quote three times in his temptation?
+
+    **A:** Deuteronomy (Matt 4:1–11).
 
 ## Sources
 
@@ -149,3 +178,4 @@ Peter identifies Jesus as the prophet like Moses (18:15; Acts 3:22–23). Paul r
 
 1. 2026-11-04: Generated initial notes with Claude Code
 2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code
+3. 2026-11-04: Q&A reformatted as question-and-answer pairs and reviewed; verse references added with Claude Code

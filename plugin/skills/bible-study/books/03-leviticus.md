@@ -123,15 +123,41 @@ Jesus, untouched by uncleanness, touched lepers and made them clean (Mark 1:40�
 
 ## Q&A
 
-1. What is the key verse of Leviticus? "You shall be holy, for I the Lord your God am holy" (19:2).
-2. Name the five main offerings. Burnt, grain, peace, sin and guilt offerings (1–6).
-3. Who were struck down for offering unauthorized fire? Nadab and Abihu, Aaron's sons (10:1–2).
-4. What happened to the two goats on the Day of Atonement? One was sacrificed; the other, the scapegoat, was sent into the wilderness carrying the people's sins (16).
-5. Why were Israelites forbidden to eat blood? Because the life is in the blood, and God gave it for atonement on the altar (17:11).
-6. Which famous command to love others comes from Leviticus? "Love your neighbour as yourself" (19:18).
-7. What happened in the Year of Jubilee? Land returned to its original families and Israelite slaves were set free (25).
-8. Why is the book called Leviticus? From the Greek and Latin title, "about the Levites", because it deals with priestly worship.
-9. How does Hebrews describe Christ's work in Leviticus' terms? As the High Priest who entered the true holy place once for all with his own blood (Heb 9:11–14).
+1. **Q:** What is the key verse of Leviticus?
+
+   **A:** "You shall be holy, for I the Lord your God am holy" (19:2).
+
+2. **Q:** What are the five main offerings?
+
+   **A:** Burnt, grain, peace, sin and guilt offerings (1–5).
+
+3. **Q:** Who were struck down for offering unauthorized fire?
+
+   **A:** Nadab and Abihu, Aaron's sons (10:1–2).
+
+4. **Q:** What happened to the two goats on the Day of Atonement?
+
+   **A:** One was sacrificed; the other, the scapegoat, was sent into the wilderness carrying the people's sins (16:7–10, 20–22).
+
+5. **Q:** Why were Israelites forbidden to eat blood?
+
+   **A:** Because the life is in the blood, and God gave it for atonement on the altar (17:11).
+
+6. **Q:** Which famous command to love others comes from Leviticus?
+
+   **A:** "Love your neighbour as yourself" (19:18).
+
+7. **Q:** What happened in the Year of Jubilee?
+
+   **A:** Land returned to its original families and Israelite slaves were set free (25).
+
+8. **Q:** Why is the book called Leviticus?
+
+   **A:** The name means "about the Levites": it is a manual for worship led by the priests from Levi's tribe, though addressed to all Israel (1:2).
+
+9. **Q:** How does Hebrews describe Christ's work in Leviticus' terms?
+
+   **A:** As the High Priest who entered the true holy place once for all with his own blood (Heb 9:11–14).
 
 ## Sources
 
@@ -145,3 +171,4 @@ Jesus, untouched by uncleanness, touched lepers and made them clean (Mark 1:40�
 1. 2026-11-04: Generated initial notes with Claude Code
 2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code
 3. 2026-11-04: Structure regrouped into nested sections, combining the earlier outline with the Reformation Study Bible's divisions
+4. 2026-11-04: Q&A reformatted as question-and-answer pairs and reviewed; verse references added with Claude Code

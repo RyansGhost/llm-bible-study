@@ -140,16 +140,45 @@ His death is the ransom for many (20:28) and the blood of the covenant poured ou
 
 ## Q&A
 
-1. With whom does Matthew's genealogy begin? Abraham (1:1–2).
-2. What does "Immanuel" mean? "God with us" (1:23).
-3. Who visited the infant Jesus from the east? The magi (wise men) (2:1).
-4. What did the Father say at Jesus' baptism? "This is my beloved Son, with whom I am well pleased" (3:17).
-5. Which chapters contain the Sermon on the Mount? Matthew 5–7.
-6. What did Peter confess at Caesarea Philippi? "You are the Christ, the Son of the living God" (16:16).
-7. Which Gospel is the only one to use the word "church"? Matthew (16:18; 18:17).
-8. Why did the Son of Man come, according to 20:28? To serve, and to give his life as a ransom for many.
-9. For how much did Judas betray Jesus? Thirty pieces of silver (26:15).
-10. What did Jesus command in the Great Commission? Make disciples of all nations, baptising and teaching them, with his promise to be with them always (28:19–20).
+1. **Q:** With whom does Matthew's genealogy begin?
+
+   **A:** Abraham (1:1–2).
+
+2. **Q:** What does "Immanuel" mean?
+
+   **A:** "God with us" (1:23).
+
+3. **Q:** Who visited the infant Jesus from the east?
+
+   **A:** The magi (wise men) (2:1).
+
+4. **Q:** What did the Father say at Jesus' baptism?
+
+   **A:** "This is my beloved Son, with whom I am well pleased" (3:17).
+
+5. **Q:** Which chapters contain the Sermon on the Mount?
+
+   **A:** Matthew 5–7.
+
+6. **Q:** What did Peter confess at Caesarea Philippi?
+
+   **A:** "You are the Christ, the Son of the living God" (16:16).
+
+7. **Q:** Which Gospel is the only one to use the word "church"?
+
+   **A:** Matthew (16:18; 18:17).
+
+8. **Q:** Why did the Son of Man come, according to 20:28?
+
+   **A:** To serve, and to give his life as a ransom for many.
+
+9. **Q:** For how much did Judas betray Jesus?
+
+   **A:** Thirty pieces of silver (26:15).
+
+10. **Q:** What did Jesus command in the Great Commission?
+
+    **A:** Make disciples of all nations, baptising and teaching them, with his promise to be with them always (28:19–20).
 
 ## Sources
 
@@ -160,3 +189,4 @@ His death is the ransom for many (20:28) and the blood of the covenant poured ou
 
 1. 2026-11-04: Generated initial notes with Claude Code
 2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code
+3. 2026-11-04: Q&A reformatted as question-and-answer pairs and reviewed; verse references added with Claude Code

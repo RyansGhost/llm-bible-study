@@ -107,16 +107,45 @@ Hebrews is perhaps the most thoroughly Christ-centred interpretation of the Old 
 
 ## Q&A
 
-1. How has God spoken in these last days? By his Son (1:2).
-2. What does 1:3 call the Son? The radiance of God's glory and the exact imprint of his nature.
-3. To whom is Jesus shown superior in chapters 1–4? The angels, Moses and Joshua.
-4. What does 4:15 say about our high priest? He sympathises with our weaknesses and was tempted in every way as we are, yet without sin.
-5. After whose order is Jesus a priest? Melchizedek's (5:6; Ps 110:4).
-6. Which Old Testament prophecy of the new covenant does Hebrews quote? Jeremiah 31:31–34 (Heb 8:8–12).
-7. How many times did Christ offer himself for sins? Once for all (9:26–28; 10:10–12).
-8. How does Hebrews 11:1 define faith? The assurance of things hoped for, the conviction of things not seen.
-9. Who is the founder and perfecter of our faith? Jesus (12:2).
-10. What does 13:8 say about Jesus Christ? He is the same yesterday and today and forever.
+1. **Q:** How has God spoken in these last days?
+
+   **A:** By his Son (1:2).
+
+2. **Q:** What does 1:3 call the Son?
+
+   **A:** The radiance of God's glory and the exact imprint of his nature.
+
+3. **Q:** To whom is Jesus shown superior in chapters 1–4?
+
+   **A:** The angels, Moses and Joshua (1:4; 3:3; 4:8).
+
+4. **Q:** What does 4:15 say about our high priest?
+
+   **A:** He sympathises with our weaknesses and was tempted in every way as we are, yet without sin.
+
+5. **Q:** After whose order is Jesus a priest?
+
+   **A:** Melchizedek's (5:6; Ps 110:4).
+
+6. **Q:** Which Old Testament prophecy of the new covenant does Hebrews quote?
+
+   **A:** Jeremiah 31:31–34 (Heb 8:8–12).
+
+7. **Q:** How many times did Christ offer himself for sins?
+
+   **A:** Once for all (9:26–28; 10:10–12).
+
+8. **Q:** How does Hebrews 11:1 define faith?
+
+   **A:** The assurance of things hoped for, the conviction of things not seen.
+
+9. **Q:** Who is the founder and perfecter of our faith?
+
+   **A:** Jesus (12:2).
+
+10. **Q:** What does 13:8 say about Jesus Christ?
+
+    **A:** He is the same yesterday and today and forever.
 
 ## Sources
 
@@ -127,3 +156,4 @@ Hebrews is perhaps the most thoroughly Christ-centred interpretation of the Old 
 
 1. 2026-11-04: Generated initial notes with Claude Code
 2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code
+3. 2026-11-04: Q&A reformatted as question-and-answer pairs and reviewed; verse references added with Claude Code

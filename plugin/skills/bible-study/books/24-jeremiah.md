@@ -159,16 +159,45 @@ Jesus quoted Jeremiah's temple sermon when he cleared the temple: "a den of robb
 
 ## Q&A
 
-1. When did God say he knew Jeremiah? Before he formed him in the womb (1:5).
-2. What two images did God show Jeremiah at his call? An almond branch and a boiling pot facing from the north (1:11–14).
-3. What did the people trade the fountain of living waters for? Broken cisterns that hold no water (2:13).
-4. What did false prophets say when there was no peace? "Peace, peace" (6:14; 8:11).
-5. What lesson did Jeremiah learn at the potter's house? God can reshape nations as the potter reshapes clay (18).
-6. How long would Babylon rule, according to Jeremiah? Seventy years (25:11; 29:10).
-7. What did God promise in the new covenant? To put his law in their hearts, to be their God, and to forgive their sin (31:31–34).
-8. Who wrote down Jeremiah's words, and which king burned the scroll? Baruch wrote them; King Jehoiakim burned the scroll (36).
-9. Who rescued Jeremiah from the cistern? Ebed-melech the Cushite (38:7–13).
-10. Where did Jeremiah end up after Jerusalem fell? In Egypt, taken by the fleeing Jews (43).
+1. **Q:** When did God say he knew Jeremiah?
+
+   **A:** Before he formed him in the womb (1:5).
+
+2. **Q:** What two images did God show Jeremiah at his call?
+
+   **A:** An almond branch and a boiling pot facing from the north (1:11–14).
+
+3. **Q:** What did the people trade the fountain of living waters for?
+
+   **A:** Broken cisterns that hold no water (2:13).
+
+4. **Q:** What did false prophets say when there was no peace?
+
+   **A:** "Peace, peace" (6:14; 8:11).
+
+5. **Q:** What lesson did Jeremiah learn at the potter's house?
+
+   **A:** God can reshape nations as the potter reshapes clay (18:1–10).
+
+6. **Q:** How long would Babylon rule, according to Jeremiah?
+
+   **A:** Seventy years (25:11; 29:10).
+
+7. **Q:** What did God promise in the new covenant?
+
+   **A:** To put his law in their hearts, to be their God, and to forgive their sin (31:31–34).
+
+8. **Q:** Who wrote down Jeremiah's words, and which king burned the scroll?
+
+   **A:** Baruch wrote them; King Jehoiakim burned the scroll (36:4, 23).
+
+9. **Q:** Who rescued Jeremiah from the cistern?
+
+   **A:** Ebed-melech the Cushite (38:7–13).
+
+10. **Q:** Where did Jeremiah end up after Jerusalem fell?
+
+    **A:** In Egypt, taken by the fleeing Jews (43:4–7).
 
 ## Sources
 
@@ -179,3 +208,4 @@ Jesus quoted Jeremiah's temple sermon when he cleared the temple: "a den of robb
 
 1. 2026-11-04: Generated initial notes with Claude Code
 2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code
+3. 2026-11-04: Q&A reformatted as question-and-answer pairs and reviewed; verse references added with Claude Code

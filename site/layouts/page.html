@@ -10,7 +10,7 @@
     {{- if ne .Params.status "complete" }}
     <p class="status-note status-{{ .Params.status }}">{{ partial "status-label.html" . }}</p>
     {{- end }}
-    {{ .Content }}
+    {{ partial "qa-content.html" . }}
   </article>
   <aside class="page-aside">
     {{- with .TableOfContents }}

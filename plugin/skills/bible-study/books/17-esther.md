@@ -105,16 +105,45 @@ The great reversal, the enemy defeated by the very weapon he prepared, finds its
 
 ## Q&A
 
-1. Who was the king in Esther, and what is his better-known name? Ahasuerus, also known as Xerxes I.
-2. Why was Queen Vashti removed? She refused to come when the king summoned her to display her beauty (1:12).
-3. How was Esther related to Mordecai? She was his cousin, whom he raised as his daughter (2:7).
-4. Why did Haman hate Mordecai? Mordecai refused to bow down to him (3:2–6).
-5. What does "Purim" mean? "Lots", from the lot (pur) Haman cast to choose the day of destruction (3:7; 9:24–26).
-6. What did Mordecai say to persuade Esther? "Who knows whether you have not come to the kingdom for such a time as this?" (4:14).
-7. What did Esther say before going to the king? "If I perish, I perish" (4:16).
-8. What happened during the king's sleepless night? He learned Mordecai had saved his life and had never been rewarded (6:1–3).
-9. How did Haman die? Hanged on the gallows he had built for Mordecai (7:10).
-10. What is unusual about God in Esther? He is never mentioned by name, yet his providence runs through the whole story.
+1. **Q:** Who was the king in Esther, and what is his better-known name?
+
+   **A:** Ahasuerus (1:1), better known as Xerxes I.
+
+2. **Q:** Why was Queen Vashti removed?
+
+   **A:** She refused to come when the king summoned her to display her beauty (1:12).
+
+3. **Q:** How was Esther related to Mordecai?
+
+   **A:** She was his cousin, whom he raised as his daughter (2:7).
+
+4. **Q:** Why did Haman hate Mordecai?
+
+   **A:** Mordecai refused to bow down to him (3:2–6).
+
+5. **Q:** What does "Purim" mean?
+
+   **A:** "Lots", from the lot (pur) Haman cast to choose the day of destruction (3:7; 9:24–26).
+
+6. **Q:** What did Mordecai say to persuade Esther?
+
+   **A:** "Who knows whether you have not come to the kingdom for such a time as this?" (4:14).
+
+7. **Q:** What did Esther say before going to the king?
+
+   **A:** "If I perish, I perish" (4:16).
+
+8. **Q:** What happened during the king's sleepless night?
+
+   **A:** He learned Mordecai had saved his life and had never been rewarded (6:1–3).
+
+9. **Q:** How did Haman die?
+
+   **A:** Hanged on the gallows he had built for Mordecai (7:10).
+
+10. **Q:** What is unusual about God in Esther?
+
+    **A:** He is never mentioned by name, yet his providence runs through the whole story.
 
 ## Sources
 
@@ -126,3 +155,4 @@ The great reversal, the enemy defeated by the very weapon he prepared, finds its
 
 1. 2026-11-04: Generated initial notes with Claude Code
 2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code
+3. 2026-11-04: Q&A reformatted as question-and-answer pairs and reviewed; verse references added with Claude Code

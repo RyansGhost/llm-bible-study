@@ -90,16 +90,45 @@ Hill notes that John loves repetition, parallels and groups of three, so the let
 
 ## Q&A
 
-1. What did John and the apostles hear, see and touch? The word of life (1:1).
-2. What does John say God is, in 1:5? Light, and in him is no darkness at all.
-3. What happens if we confess our sins? God is faithful and just to forgive us and cleanse us from all unrighteousness (1:9).
-4. Who is our advocate with the Father? Jesus Christ the righteous (2:1).
-5. Who is the antichrist, according to 2:22? Whoever denies that Jesus is the Christ, denying the Father and the Son.
-6. What will happen when Christ appears? We shall be like him, because we shall see him as he is (3:2).
-7. How do we test the spirits? Every spirit that confesses that Jesus Christ has come in the flesh is from God (4:2).
-8. How does John define love in 4:10? Not that we loved God, but that he loved us and sent his Son to be the propitiation for our sins.
-9. Why do we love? Because he first loved us (4:19).
-10. Why did John write, according to 5:13? So that those who believe in the name of the Son of God may know that they have eternal life.
+1. **Q:** What did John and the apostles hear, see and touch?
+
+   **A:** The word of life (1:1).
+
+2. **Q:** What does John say God is, in 1:5?
+
+   **A:** Light, and in him is no darkness at all.
+
+3. **Q:** What happens if we confess our sins?
+
+   **A:** God is faithful and just to forgive us and cleanse us from all unrighteousness (1:9).
+
+4. **Q:** Who is our advocate with the Father?
+
+   **A:** Jesus Christ the righteous (2:1).
+
+5. **Q:** Who is the antichrist, according to 2:22?
+
+   **A:** Whoever denies that Jesus is the Christ, denying the Father and the Son.
+
+6. **Q:** What will happen when Christ appears?
+
+   **A:** We shall be like him, because we shall see him as he is (3:2).
+
+7. **Q:** How do we test the spirits?
+
+   **A:** Every spirit that confesses that Jesus Christ has come in the flesh is from God (4:2).
+
+8. **Q:** How does John define love in 4:10?
+
+   **A:** Not that we loved God, but that he loved us and sent his Son to be the propitiation for our sins.
+
+9. **Q:** Why do we love?
+
+   **A:** Because he first loved us (4:19).
+
+10. **Q:** Why did John write, according to 5:13?
+
+    **A:** So that those who believe in the name of the Son of God may know that they have eternal life.
 
 ## Sources
 
@@ -110,3 +139,4 @@ Hill notes that John loves repetition, parallels and groups of three, so the let
 
 1. 2026-11-04: Generated initial notes with Claude Code
 2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code
+3. 2026-11-04: Q&A reformatted as question-and-answer pairs and reviewed; verse references added with Claude Code

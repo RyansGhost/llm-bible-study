@@ -87,16 +87,45 @@ Because of him, the mercies of 3:22–23 are secured for good: in Christ, God's 
 
 ## Q&A
 
-1. What event does Lamentations mourn? The destruction of Jerusalem and the temple by Babylon in 586 BC.
-2. What does the Hebrew title mean? "How!", from the opening word of chapters 1, 2 and 4.
-3. Who is traditionally believed to have written it? Jeremiah.
-4. How is Jerusalem pictured in chapter 1? As a lonely widow with no one to comfort her.
-5. What is special about the structure of chapters 1–4? They are acrostics, following the Hebrew alphabet.
-6. How many verses does chapter 3 have, and why? 66: a triple acrostic, three verses for each of the 22 letters.
-7. What famous words of hope are in chapter 3? "The steadfast love of the Lord never ceases … his mercies are new every morning; great is your faithfulness" (3:22–23).
-8. Whom does the book blame for Jerusalem's fall? The people's sin, especially of the prophets and priests; God's judgment was just (1:18; 4:13).
-9. Which neighbour is singled out for gloating? Edom (4:21–22).
-10. How does the book end? With a prayer for God to restore his people (5:21–22).
+1. **Q:** What event does Lamentations mourn?
+
+   **A:** The destruction of Jerusalem and the temple by Babylon in 586 BC (1:1–5; 2:6–9).
+
+2. **Q:** What does the Hebrew title mean?
+
+   **A:** "How!", from the opening word of chapters 1, 2 and 4 (1:1; 2:1; 4:1).
+
+3. **Q:** Who is traditionally believed to have written it?
+
+   **A:** Jeremiah.
+
+4. **Q:** How is Jerusalem pictured in chapter 1?
+
+   **A:** As a lonely widow with no one to comfort her (1:1–2).
+
+5. **Q:** What is special about the structure of chapters 1–4?
+
+   **A:** They are acrostics, following the Hebrew alphabet.
+
+6. **Q:** How many verses does chapter 3 have, and why?
+
+   **A:** 66: a triple acrostic, three verses for each of the 22 letters.
+
+7. **Q:** What famous words of hope are in chapter 3?
+
+   **A:** "The steadfast love of the Lord never ceases … his mercies are new every morning; great is your faithfulness" (3:22–23).
+
+8. **Q:** Whom does the book blame for Jerusalem's fall?
+
+   **A:** The people's sin, especially of the prophets and priests; God's judgment was just (1:18; 4:13).
+
+9. **Q:** Which neighbour is singled out for gloating?
+
+   **A:** Edom (4:21–22).
+
+10. **Q:** How does the book end?
+
+    **A:** With a prayer for God to restore his people (5:21–22).
 
 ## Sources
 
@@ -107,3 +136,4 @@ Because of him, the mercies of 3:22–23 are secured for good: in Christ, God's 
 
 1. 2026-11-04: Generated initial notes with Claude Code
 2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code
+3. 2026-11-04: Q&A reformatted as question-and-answer pairs and reviewed; verse references added with Claude Code

@@ -132,16 +132,49 @@ Rahab, saved by faith and marked by a scarlet cord, appears in Jesus' genealogy 
 
 ## Q&A
 
-1. What did God tell Joshua to be, again and again? Strong and courageous (1:6–9).
-2. Who hid the spies in Jericho? Rahab (2).
-3. What sign marked Rahab's house for rescue? A scarlet cord in the window (2:18–21).
-4. What happened when the priests stepped into the Jordan? The water stopped and stood in a heap, and Israel crossed on dry ground (3:15–17).
-5. Why did Israel lose at Ai? Achan kept devoted things from Jericho (7).
-6. How did the Gibeonites trick Israel? Worn-out clothes and mouldy bread, posing as people from a distant land (9).
-7. What happened at Gibeon? The sun stood still until the battle was won (10:12–14).
-8. How old was Caleb when he claimed Hebron? 85 (14:10).
-9. Where was the tabernacle set up in the land? Shiloh (18:1).
-10. What did Joshua say in his farewell? "As for me and my house, we will serve the Lord" (24:15).
+1. **Q:** What did God tell Joshua to be, again and again?
+
+   **A:** Strong and courageous (1:6–9).
+
+2. **Q:** Who hid the spies in Jericho?
+
+   **A:** Rahab, a prostitute of Jericho, who hid them on her roof (2:1–6).
+
+3. **Q:** What sign marked Rahab's house for rescue?
+
+   **A:** A scarlet cord in the window (2:18–21).
+
+4. **Q:** What happened when the priests stepped into the Jordan?
+
+   **A:** The water stopped and stood in a heap, and Israel crossed on dry ground (3:15–17).
+
+5. **Q:** Why did Israel lose at Ai?
+
+   **A:** Achan kept some of the things devoted to destruction at Jericho (7:1, 11, 20–21).
+
+6. **Q:** How did the Gibeonites trick Israel?
+
+   **A:** With worn-out clothes and mouldy bread, posing as people from a distant land (9:3–15).
+
+7. **Q:** What happened at Gibeon?
+
+   **A:** The sun stood still until the battle was won (10:12–14).
+
+8. **Q:** How old was Caleb when he claimed Hebron?
+
+   **A:** 85 (14:10).
+
+9. **Q:** Where was the tabernacle set up in the land?
+
+   **A:** Shiloh (18:1).
+
+10. **Q:** What did Joshua say in his farewell?
+
+    **A:** "As for me and my house, we will serve the Lord" (24:15).
+
+11. **Q:** Who is Joshua's name a form of in the New Testament?
+
+    **A:** Jesus; both mean "the Lord saves", and Hebrews 4:8 contrasts Joshua's rest with the rest Christ gives.
 
 ## Sources
 
@@ -155,3 +188,4 @@ Rahab, saved by faith and marked by a scarlet cord, appears in Jesus' genealogy 
 
 1. 2026-11-04: Generated initial notes with Claude Code
 2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code
+3. 2026-11-04: Q&A reformatted as question-and-answer pairs and reviewed; verse references added with Claude Code

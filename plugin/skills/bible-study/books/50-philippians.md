@@ -92,16 +92,45 @@ For Paul, knowing Christ, sharing his sufferings, and attaining the resurrection
 
 ## Q&A
 
-1. Where was Paul when he wrote Philippians? In prison (1:7, 13).
-2. What is Paul sure God will do with the good work he began? Bring it to completion at the day of Jesus Christ (1:6).
-3. What did Paul say about living and dying? "To live is Christ, and to die is gain" (1:21).
-4. What did Christ do, according to 2:7–8? Emptied himself, took the form of a servant, and humbled himself to death on a cross.
-5. What will every tongue confess? That Jesus Christ is Lord, to the glory of God the Father (2:11).
-6. Who nearly died serving Paul? Epaphroditus (2:25–30).
-7. How did Paul regard his former credentials? As loss, even rubbish, compared with knowing Christ (3:7–8).
-8. Where is the believer's citizenship? In heaven (3:20).
-9. What should we do instead of being anxious? Pray with thanksgiving, and God's peace will guard our hearts (4:6–7).
-10. What does "I can do all things through him who strengthens me" refer to? Being content in every circumstance, in plenty and in need (4:11–13).
+1. **Q:** Where was Paul when he wrote Philippians?
+
+   **A:** In prison (1:7, 13).
+
+2. **Q:** What is Paul sure God will do with the good work he began?
+
+   **A:** Bring it to completion at the day of Jesus Christ (1:6).
+
+3. **Q:** What did Paul say about living and dying?
+
+   **A:** "To live is Christ, and to die is gain" (1:21).
+
+4. **Q:** What did Christ do, according to 2:7–8?
+
+   **A:** Emptied himself, took the form of a servant, and humbled himself to death on a cross.
+
+5. **Q:** What will every tongue confess?
+
+   **A:** That Jesus Christ is Lord, to the glory of God the Father (2:11).
+
+6. **Q:** Who nearly died serving Paul?
+
+   **A:** Epaphroditus (2:25–30).
+
+7. **Q:** How did Paul regard his former credentials?
+
+   **A:** As loss, even rubbish, compared with knowing Christ (3:7–8).
+
+8. **Q:** Where is the believer's citizenship?
+
+   **A:** In heaven (3:20).
+
+9. **Q:** What should we do instead of being anxious?
+
+   **A:** Pray with thanksgiving, and God's peace will guard our hearts (4:6–7).
+
+10. **Q:** What does "I can do all things through him who strengthens me" refer to?
+
+    **A:** Being content in every circumstance, in plenty and in need (4:11–13).
 
 ## Sources
 
@@ -112,3 +141,4 @@ For Paul, knowing Christ, sharing his sufferings, and attaining the resurrection
 
 1. 2026-11-04: Generated initial notes with Claude Code
 2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code
+3. 2026-11-04: Q&A reformatted as question-and-answer pairs and reviewed; verse references added with Claude Code

@@ -84,16 +84,45 @@ Habakkuk's prayer, "in wrath remember mercy" (3:2), is answered at the cross, wh
 
 ## Q&A
 
-1. What was Habakkuk's first complaint? Why God allowed violence and injustice in Judah to go unpunished (1:2–4).
-2. How did God answer? He was raising up the Chaldeans (Babylonians) to bring judgment (1:5–6).
-3. What troubled Habakkuk about that answer? How a holy God could use a more wicked nation to punish Judah (1:13).
-4. What did God tell Habakkuk to do with the vision? Write it down plainly and wait for it (2:2–3).
-5. What does 2:4 say? "The righteous shall live by his faith."
-6. Where is 2:4 quoted in the New Testament? Romans 1:17, Galatians 3:11 and Hebrews 10:38.
-7. With what will the earth be filled, according to 2:14? The knowledge of the glory of the Lord.
-8. What did Habakkuk ask God to remember in wrath? Mercy (3:2).
-9. What will Habakkuk do even if the crops fail? Rejoice in the Lord and take joy in the God of his salvation (3:17–18).
-10. Who made Habakkuk 2:4 central to the Reformation? Martin Luther, through Romans 1:17.
+1. **Q:** What was Habakkuk's first complaint?
+
+   **A:** Why God allowed violence and injustice in Judah to go unpunished (1:2–4).
+
+2. **Q:** How did God answer?
+
+   **A:** He was raising up the Chaldeans (Babylonians) to bring judgment (1:5–6).
+
+3. **Q:** What troubled Habakkuk about that answer?
+
+   **A:** How a holy God could use a more wicked nation to punish Judah (1:13).
+
+4. **Q:** What did God tell Habakkuk to do with the vision?
+
+   **A:** Write it down plainly and wait for it (2:2–3).
+
+5. **Q:** What does 2:4 say?
+
+   **A:** "The righteous shall live by his faith."
+
+6. **Q:** Where is 2:4 quoted in the New Testament?
+
+   **A:** Romans 1:17, Galatians 3:11 and Hebrews 10:38.
+
+7. **Q:** With what will the earth be filled, according to 2:14?
+
+   **A:** The knowledge of the glory of the Lord.
+
+8. **Q:** What did Habakkuk ask God to remember in wrath?
+
+   **A:** Mercy (3:2).
+
+9. **Q:** What will Habakkuk do even if the crops fail?
+
+   **A:** Rejoice in the Lord and take joy in the God of his salvation (3:17–18).
+
+10. **Q:** Who made Habakkuk 2:4 central to the Reformation?
+
+    **A:** Martin Luther, through Romans 1:17.
 
 ## Sources
 
@@ -105,3 +134,4 @@ Habakkuk's prayer, "in wrath remember mercy" (3:2), is answered at the cross, wh
 
 1. 2026-11-04: Generated initial notes with Claude Code
 2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code
+3. 2026-11-04: Q&A reformatted as question-and-answer pairs and reviewed; verse references added with Claude Code

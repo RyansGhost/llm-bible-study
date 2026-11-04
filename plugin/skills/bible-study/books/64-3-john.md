@@ -85,16 +85,45 @@ Christ isn't named in 3 John, but the missionaries went out "for the sake of the
 
 ## Q&A
 
-1. To whom is 3 John written? Gaius, the elder's beloved friend (v. 1).
-2. What does John pray for Gaius in v. 2? That all may go well with him and he may be in good health, as it goes well with his soul.
-3. What is the elder's greatest joy? To hear that his children are walking in the truth (v. 4).
-4. Whom had Gaius been welcoming? Travelling brothers (missionaries), even though they were strangers (v. 5).
-5. Why should Christians support such workers? So that we may be fellow workers for the truth (v. 8).
-6. How does John describe Diotrephes? As one who likes to put himself first (v. 9).
-7. What did Diotrephes do to those who welcomed the brothers? Stopped them and put them out of the church (v. 10).
-8. What does John say about imitation? Don't imitate evil but imitate good (v. 11).
-9. Who received a good testimony from everyone? Demetrius (v. 12).
-10. How does John hope to finish the conversation? By seeing Gaius soon and talking face to face (vv. 13–14).
+1. **Q:** To whom is 3 John written?
+
+   **A:** Gaius, the elder's beloved friend (v. 1).
+
+2. **Q:** What does John pray for Gaius in v. 2?
+
+   **A:** That all may go well with him and he may be in good health, as it goes well with his soul.
+
+3. **Q:** What is the elder's greatest joy?
+
+   **A:** To hear that his children are walking in the truth (v. 4).
+
+4. **Q:** Whom had Gaius been welcoming?
+
+   **A:** Travelling brothers (missionaries), even though they were strangers (v. 5).
+
+5. **Q:** Why should Christians support such workers?
+
+   **A:** So that we may be fellow workers for the truth (v. 8).
+
+6. **Q:** How does John describe Diotrephes?
+
+   **A:** As one who likes to put himself first (v. 9).
+
+7. **Q:** What did Diotrephes do to those who welcomed the brothers?
+
+   **A:** Stopped them and put them out of the church (v. 10).
+
+8. **Q:** What does John say about imitation?
+
+   **A:** Don't imitate evil but imitate good (v. 11).
+
+9. **Q:** Who received a good testimony from everyone?
+
+   **A:** Demetrius (v. 12).
+
+10. **Q:** How does John hope to finish the conversation?
+
+    **A:** By seeing Gaius soon and talking face to face (vv. 13–14).
 
 ## Sources
 
@@ -105,3 +134,4 @@ Christ isn't named in 3 John, but the missionaries went out "for the sake of the
 
 1. 2026-11-04: Generated initial notes with Claude Code
 2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code
+3. 2026-11-04: Q&A reformatted as question-and-answer pairs and reviewed; verse references added with Claude Code

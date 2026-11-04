@@ -85,16 +85,45 @@ Zerubbabel, God's chosen signet, appears in Jesus' genealogy (Matt 1:12–13; Lu
 
 ## Q&A
 
-1. When did Haggai prophesy? In 520 BC, the second year of King Darius of Persia (1:1).
-2. What had the people stopped building? The temple, the house of the Lord.
-3. What were the people busy with instead? Their own panelled houses (1:4).
-4. What phrase does Haggai repeat to make the people think? "Consider your ways" (1:5, 7).
-5. Why were their harvests poor? Because they had neglected God's house (1:9–11).
-6. Who led the people in obeying? Zerubbabel the governor and Joshua the high priest (1:12–14).
-7. What did God promise about the new temple's glory? The latter glory would be greater than the former (2:9).
-8. What did God say he would shake? The heavens, the earth, the sea, the dry land and all nations (2:6–7).
-9. What did God call Zerubbabel? His signet ring, chosen (2:23).
-10. Which prophet ministered alongside Haggai? Zechariah (Ezra 5:1).
+1. **Q:** When did Haggai prophesy?
+
+   **A:** In 520 BC, the second year of King Darius of Persia (1:1).
+
+2. **Q:** What had the people stopped building?
+
+   **A:** The temple, the house of the Lord (1:2–4).
+
+3. **Q:** What were the people busy with instead?
+
+   **A:** Their own panelled houses (1:4).
+
+4. **Q:** What phrase does Haggai repeat to make the people think?
+
+   **A:** "Consider your ways" (1:5, 7).
+
+5. **Q:** Why were their harvests poor?
+
+   **A:** Because they had neglected God's house (1:9–11).
+
+6. **Q:** Who led the people in obeying?
+
+   **A:** Zerubbabel the governor and Joshua the high priest (1:12–14).
+
+7. **Q:** What did God promise about the new temple's glory?
+
+   **A:** The latter glory would be greater than the former (2:9).
+
+8. **Q:** What did God say he would shake?
+
+   **A:** The heavens, the earth, the sea, the dry land and all nations (2:6–7).
+
+9. **Q:** What did God call Zerubbabel?
+
+   **A:** His signet ring, chosen (2:23).
+
+10. **Q:** Which prophet ministered alongside Haggai?
+
+    **A:** Zechariah (Ezra 5:1).
 
 ## Sources
 
@@ -106,3 +135,4 @@ Zerubbabel, God's chosen signet, appears in Jesus' genealogy (Matt 1:12–13; Lu
 
 1. 2026-11-04: Generated initial notes with Claude Code
 2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code
+3. 2026-11-04: Q&A reformatted as question-and-answer pairs and reviewed; verse references added with Claude Code

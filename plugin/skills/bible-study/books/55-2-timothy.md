@@ -92,16 +92,45 @@ Paul begins with the grace given to us in Christ Jesus before the ages began, no
 
 ## Q&A
 
-1. Where was Paul when he wrote 2 Timothy? In prison in Rome, expecting to die (1:8; 4:6).
-2. Who were Timothy's grandmother and mother? Lois and Eunice (1:5).
-3. What kind of spirit did God give us? Not of fear but of power, love and self-control (1:7).
-4. To whom should Timothy entrust what he heard from Paul? Faithful men who will be able to teach others also (2:2).
-5. What three pictures of endurance does Paul use in chapter 2? A soldier, an athlete and a farmer.
-6. What did Hymenaeus and Philetus teach? That the resurrection had already happened (2:17–18).
-7. What does 3:16 say about Scripture? All Scripture is breathed out by God and profitable for teaching, reproof, correction and training in righteousness.
-8. What does Paul charge Timothy to do in 4:2? Preach the word, in season and out of season.
-9. What did Paul say about his life in 4:7? "I have fought the good fight, I have finished the race, I have kept the faith."
-10. Who deserted Paul, and who alone was with him? Demas deserted him; only Luke was with him (4:10–11).
+1. **Q:** Where was Paul when he wrote 2 Timothy?
+
+   **A:** In prison in Rome, expecting to die (1:8; 4:6).
+
+2. **Q:** Who were Timothy's grandmother and mother?
+
+   **A:** Lois and Eunice (1:5).
+
+3. **Q:** What kind of spirit did God give us?
+
+   **A:** Not of fear but of power, love and self-control (1:7).
+
+4. **Q:** To whom should Timothy entrust what he heard from Paul?
+
+   **A:** Faithful men who will be able to teach others also (2:2).
+
+5. **Q:** What three pictures of endurance does Paul use in chapter 2?
+
+   **A:** A soldier, an athlete and a farmer (2:3–6).
+
+6. **Q:** What did Hymenaeus and Philetus teach?
+
+   **A:** That the resurrection had already happened (2:17–18).
+
+7. **Q:** What does 3:16 say about Scripture?
+
+   **A:** All Scripture is breathed out by God and profitable for teaching, reproof, correction and training in righteousness.
+
+8. **Q:** What does Paul charge Timothy to do in 4:2?
+
+   **A:** Preach the word, in season and out of season.
+
+9. **Q:** What did Paul say about his life in 4:7?
+
+   **A:** "I have fought the good fight, I have finished the race, I have kept the faith."
+
+10. **Q:** Who deserted Paul, and who alone was with him?
+
+    **A:** Demas deserted him; only Luke was with him (4:10–11).
 
 ## Sources
 
@@ -113,3 +142,4 @@ Paul begins with the grace given to us in Christ Jesus before the ages began, no
 
 1. 2026-11-04: Generated initial notes with Claude Code
 2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code
+3. 2026-11-04: Q&A reformatted as question-and-answer pairs and reviewed; verse references added with Claude Code

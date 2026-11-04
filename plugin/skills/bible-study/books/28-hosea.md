@@ -97,16 +97,45 @@ Hosea buying back his faithless wife pictures Christ, who redeems an unfaithful 
 
 ## Q&A
 
-1. Whom did God tell Hosea to marry? Gomer, an unfaithful woman (1:2–3).
-2. What were the names of Hosea's children? Jezreel, Lo-ruhamah ("No Mercy") and Lo-ammi ("Not My People") (1:4–9).
-3. What did Hosea do when Gomer left him? Bought her back and loved her again (3:1–2).
-4. Why were God's people destroyed, according to 4:6? For lack of knowledge of God.
-5. What does God desire more than sacrifice? Steadfast love, and the knowledge of God (6:6).
-6. Which verse does Matthew apply to Jesus' return from Egypt? Hosea 11:1, "Out of Egypt I called my son" (Matt 2:15).
-7. What does Israel reap after sowing the wind? The whirlwind (8:7).
-8. What does God say he cannot do in 11:8? Give up Ephraim.
-9. What does Paul quote from Hosea 13:14? "O death, where is your sting?" (1 Cor 15:55).
-10. How does Hosea end? With a call to return to the Lord, and God's promise to heal and love Israel freely (14).
+1. **Q:** Whom did God tell Hosea to marry?
+
+   **A:** Gomer, an unfaithful woman (1:2–3).
+
+2. **Q:** What were the names of Hosea's children?
+
+   **A:** Jezreel, Lo-ruhamah ("No Mercy") and Lo-ammi ("Not My People") (1:4–9).
+
+3. **Q:** What did Hosea do when Gomer left him?
+
+   **A:** Bought her back and loved her again (3:1–2).
+
+4. **Q:** Why were God's people destroyed, according to 4:6?
+
+   **A:** For lack of knowledge of God.
+
+5. **Q:** What does God desire more than sacrifice?
+
+   **A:** Steadfast love, and the knowledge of God (6:6).
+
+6. **Q:** Which verse does Matthew apply to Jesus' return from Egypt?
+
+   **A:** Hosea 11:1, "Out of Egypt I called my son" (Matt 2:15).
+
+7. **Q:** What does Israel reap after sowing the wind?
+
+   **A:** The whirlwind (8:7).
+
+8. **Q:** What does God say he cannot do in 11:8?
+
+   **A:** Give up Ephraim.
+
+9. **Q:** What does Paul quote from Hosea 13:14?
+
+   **A:** "O death, where is your sting?" (1 Cor 15:55).
+
+10. **Q:** How does Hosea end?
+
+    **A:** With a call to return to the Lord, and God's promise to heal and love Israel freely (14:1–4).
 
 ## Sources
 
@@ -118,3 +147,4 @@ Hosea buying back his faithless wife pictures Christ, who redeems an unfaithful 
 
 1. 2026-11-04: Generated initial notes with Claude Code
 2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code
+3. 2026-11-04: Q&A reformatted as question-and-answer pairs and reviewed; verse references added with Claude Code

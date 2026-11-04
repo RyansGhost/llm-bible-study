@@ -96,16 +96,45 @@ Galatians is a letter about Christ's sufficiency. He "gave himself for our sins 
 
 ## Q&A
 
-1. Why was Paul astonished at the Galatians? They were quickly turning to a different gospel (1:6).
-2. What did Paul say about anyone preaching another gospel? Let him be accursed (1:8–9).
-3. How did Paul receive his gospel? Through a revelation of Jesus Christ, not from any man (1:12).
-4. Whom did Paul confront at Antioch, and why? Peter, for withdrawing from eating with Gentile believers (2:11–14).
-5. How is a person justified, according to 2:16? Through faith in Jesus Christ, not by works of the law.
-6. What does Paul say in 2:20? "I have been crucified with Christ. It is no longer I who live, but Christ who lives in me."
-7. How did Christ redeem us from the curse of the law? By becoming a curse for us (3:13).
-8. What did God send in the fullness of time? His Son, born of a woman, born under the law (4:4).
-9. What is the fruit of the Spirit? Love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, self-control (5:22–23).
-10. In what alone will Paul boast? The cross of our Lord Jesus Christ (6:14).
+1. **Q:** Why was Paul astonished at the Galatians?
+
+   **A:** They were quickly turning to a different gospel (1:6).
+
+2. **Q:** What did Paul say about anyone preaching another gospel?
+
+   **A:** Let him be accursed (1:8–9).
+
+3. **Q:** How did Paul receive his gospel?
+
+   **A:** Through a revelation of Jesus Christ, not from any man (1:12).
+
+4. **Q:** Whom did Paul confront at Antioch, and why?
+
+   **A:** Peter, for withdrawing from eating with Gentile believers (2:11–14).
+
+5. **Q:** How is a person justified, according to 2:16?
+
+   **A:** Through faith in Jesus Christ, not by works of the law.
+
+6. **Q:** What does Paul say in 2:20?
+
+   **A:** "I have been crucified with Christ. It is no longer I who live, but Christ who lives in me."
+
+7. **Q:** How did Christ redeem us from the curse of the law?
+
+   **A:** By becoming a curse for us (3:13).
+
+8. **Q:** What did God send in the fullness of time?
+
+   **A:** His Son, born of a woman, born under the law (4:4).
+
+9. **Q:** What is the fruit of the Spirit?
+
+   **A:** Love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, self-control (5:22–23).
+
+10. **Q:** In what alone will Paul boast?
+
+    **A:** The cross of our Lord Jesus Christ (6:14).
 
 ## Sources
 
@@ -117,3 +146,4 @@ Galatians is a letter about Christ's sufficiency. He "gave himself for our sins 
 
 1. 2026-11-04: Generated initial notes with Claude Code
 2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code
+3. 2026-11-04: Q&A reformatted as question-and-answer pairs and reviewed; verse references added with Claude Code

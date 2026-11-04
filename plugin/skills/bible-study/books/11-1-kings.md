@@ -127,16 +127,45 @@ Elijah's ministry anticipates the gospel. Jesus points to the widow of Zarephath
 
 ## Q&A
 
-1. What did Solomon ask God for at Gibeon? An understanding mind to govern well: wisdom (3:9).
-2. How did Solomon solve the dispute between two mothers? He ordered the baby cut in two, and gave him to the woman who begged to spare him (3:16–28).
-3. What filled the temple at its dedication? The cloud of the Lord's glory (8:10–11).
-4. Why did Solomon's heart turn from the Lord? His many foreign wives turned him to their gods (11:1–8).
-5. Who were the first kings of the divided kingdoms? Rehoboam in Judah; Jeroboam in Israel (12).
-6. What did Jeroboam set up at Bethel and Dan? Golden calves (12:28–29).
-7. Who fed Elijah during the drought? Ravens, and then a widow of Zarephath (17).
-8. What happened on Mount Carmel? Fire from the Lord consumed Elijah's sacrifice after Baal's prophets failed (18).
-9. How did God speak to Elijah at Horeb? In a low whisper, not in the wind, earthquake or fire (19:11–12).
-10. Why did Ahab and Jezebel kill Naboth? To take his vineyard (21).
+1. **Q:** What did Solomon ask God for at Gibeon?
+
+   **A:** An understanding mind to govern well: wisdom (3:9).
+
+2. **Q:** How did Solomon solve the dispute between two mothers?
+
+   **A:** He ordered the baby cut in two, and gave him to the woman who begged to spare him (3:16–28).
+
+3. **Q:** What filled the temple at its dedication?
+
+   **A:** The cloud of the Lord's glory (8:10–11).
+
+4. **Q:** Why did Solomon's heart turn from the Lord?
+
+   **A:** His many foreign wives turned him to their gods (11:1–8).
+
+5. **Q:** Who were the first kings of the divided kingdoms?
+
+   **A:** Rehoboam in Judah; Jeroboam in Israel (12:16–20).
+
+6. **Q:** What did Jeroboam set up at Bethel and Dan?
+
+   **A:** Golden calves (12:28–29).
+
+7. **Q:** Who fed Elijah during the drought?
+
+   **A:** Ravens, and then a widow of Zarephath (17:6, 9–16).
+
+8. **Q:** What happened on Mount Carmel?
+
+   **A:** Fire from the Lord consumed Elijah's sacrifice after Baal's prophets failed (18:24–39).
+
+9. **Q:** How did God speak to Elijah at Horeb?
+
+   **A:** In a low whisper, not in the wind, earthquake or fire (19:11–12).
+
+10. **Q:** Why did Ahab and Jezebel kill Naboth?
+
+    **A:** To take his vineyard (21:1–16).
 
 ## Sources
 
@@ -148,3 +177,4 @@ Elijah's ministry anticipates the gospel. Jesus points to the widow of Zarephath
 
 1. 2026-11-04: Generated initial notes with Claude Code
 2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code
+3. 2026-11-04: Q&A reformatted as question-and-answer pairs and reviewed; verse references added with Claude Code

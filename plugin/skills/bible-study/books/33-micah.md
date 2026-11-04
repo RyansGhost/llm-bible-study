@@ -88,16 +88,45 @@ The God who casts sins into the depths of the sea (7:19) does so through Christ'
 
 ## Q&A
 
-1. Where was Micah from? Moresheth, a village in Judah (1:1).
-2. Which kings reigned in Micah's time? Jotham, Ahaz and Hezekiah of Judah (1:1).
-3. What would happen to Zion because of its corrupt leaders? It would be ploughed like a field, and Jerusalem become a heap of ruins (3:12).
-4. What will the nations do with their swords in the latter days? Beat them into ploughshares (4:3).
-5. Where will the coming ruler come from? Bethlehem Ephrathah (5:2).
-6. What does the Lord require, according to 6:8? To do justice, love kindness, and walk humbly with your God.
-7. What does Micah's name mean? "Who is like the Lord?"
-8. Where will God cast his people's sins? Into the depths of the sea (7:19).
-9. Which prophet shared Micah's vision of the mountain of the Lord? Isaiah (Isa 2:2–4).
-10. Who quoted Micah 5:2 to Herod? The chief priests and scribes (Matt 2:4–6).
+1. **Q:** Where was Micah from?
+
+   **A:** Moresheth, a village in Judah (1:1).
+
+2. **Q:** Which kings reigned in Micah's time?
+
+   **A:** Jotham, Ahaz and Hezekiah of Judah (1:1).
+
+3. **Q:** What would happen to Zion because of its corrupt leaders?
+
+   **A:** It would be ploughed like a field, and Jerusalem become a heap of ruins (3:12).
+
+4. **Q:** What will the nations do with their swords in the latter days?
+
+   **A:** Beat them into ploughshares (4:3).
+
+5. **Q:** Where will the coming ruler come from?
+
+   **A:** Bethlehem Ephrathah (5:2).
+
+6. **Q:** What does the Lord require, according to 6:8?
+
+   **A:** To do justice, love kindness, and walk humbly with your God.
+
+7. **Q:** What does Micah's name mean?
+
+   **A:** "Who is like the Lord?"
+
+8. **Q:** Where will God cast his people's sins?
+
+   **A:** Into the depths of the sea (7:19).
+
+9. **Q:** Which prophet shared Micah's vision of the mountain of the Lord?
+
+   **A:** Isaiah (Isa 2:2–4).
+
+10. **Q:** Who quoted Micah 5:2 to Herod?
+
+    **A:** The chief priests and scribes (Matt 2:4–6).
 
 ## Sources
 
@@ -109,3 +138,4 @@ The God who casts sins into the depths of the sea (7:19) does so through Christ'
 
 1. 2026-11-04: Generated initial notes with Claude Code
 2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code
+3. 2026-11-04: Q&A reformatted as question-and-answer pairs and reviewed; verse references added with Claude Code

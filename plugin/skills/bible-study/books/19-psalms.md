@@ -153,16 +153,45 @@ Christians have long prayed the Psalms with Christ: he is both the one the Psalm
 
 ## Q&A
 
-1. How many psalms are there, and how are they divided? 150, in five books (1–41, 42–72, 73–89, 90–106, 107–150).
-2. What does the Hebrew title of Psalms mean? "Praises", the Book of Praises.
-3. Which psalm may be the oldest, and who wrote it? Psalm 90, "a prayer of Moses".
-4. What is the most common type of psalm? The lament.
-5. Which psalm did Jesus quote on the cross? Psalm 22: "My God, my God, why have you forsaken me?"
-6. Which psalm did David write after his sin with Bathsheba? Psalm 51.
-7. What is the longest psalm, and what is it about? Psalm 119, celebrating God's word.
-8. Which psalms are the Songs of Ascents? Psalms 120–134, sung by pilgrims going up to Jerusalem.
-9. Which psalm is quoted most in the New Testament? Psalm 110: "The Lord says to my Lord: sit at my right hand".
-10. How does the book of Psalms end? With Psalms 146–150, each beginning and ending "Praise the Lord!"
+1. **Q:** How many psalms are there, and how are they divided?
+
+   **A:** 150, in five books (1–41, 42–72, 73–89, 90–106, 107–150).
+
+2. **Q:** What does the Hebrew title of Psalms mean?
+
+   **A:** "Praises", the Book of Praises.
+
+3. **Q:** Which psalm may be the oldest, and who wrote it?
+
+   **A:** Psalm 90, "a prayer of Moses, the man of God" (its title).
+
+4. **Q:** What is the most common type of psalm?
+
+   **A:** The lament, such as Psalms 3, 13 and 22.
+
+5. **Q:** Which psalm did Jesus quote on the cross?
+
+   **A:** Psalm 22: "My God, my God, why have you forsaken me?" (22:1; Matt 27:46).
+
+6. **Q:** Which psalm did David write after his sin with Bathsheba?
+
+   **A:** Psalm 51 (its title; 2 Sam 12:1–13).
+
+7. **Q:** What is the longest psalm, and what is it about?
+
+   **A:** Psalm 119, celebrating God's word.
+
+8. **Q:** Which psalms are the Songs of Ascents?
+
+   **A:** Psalms 120–134, sung by pilgrims going up to Jerusalem.
+
+9. **Q:** Which psalm is quoted most in the New Testament?
+
+   **A:** Psalm 110: "The Lord says to my Lord: sit at my right hand" (110:1; Matt 22:44; Heb 1:13).
+
+10. **Q:** How does the book of Psalms end?
+
+    **A:** With Psalms 146–150, each beginning and ending "Praise the Lord!"
 
 ## Sources
 
@@ -174,3 +203,4 @@ Christians have long prayed the Psalms with Christ: he is both the one the Psalm
 
 1. 2026-11-04: Generated initial notes with Claude Code
 2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code
+3. 2026-11-04: Q&A reformatted as question-and-answer pairs and reviewed; verse references added with Claude Code

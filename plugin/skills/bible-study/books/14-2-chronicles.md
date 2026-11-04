@@ -141,16 +141,45 @@ Jesus refers to the martyrdom of Zechariah son of Jehoiada (24:20–22) when he 
 
 ## Q&A
 
-1. Where was Solomon's temple built? On Mount Moriah, at the threshing floor David bought (3:1).
-2. What happened when the Levites praised God at the temple dedication? The cloud of the Lord's glory filled the house (5:13–14).
-3. What does 2 Chronicles 7:14 promise? If God's people humble themselves, pray, seek his face and turn from wickedness, he will hear, forgive and heal their land.
-4. How did Jehoshaphat's army go out against the invaders? With singers leading, praising God (20:21–22).
-5. Why was Uzziah struck with leprosy? In pride he burned incense in the temple, which only priests could do (26:16–21).
-6. Who invited the northern tribes to Passover? Hezekiah (30).
-7. What happened to Manasseh in captivity? He humbled himself, prayed, and God restored him to Jerusalem (33:11–13).
-8. Which king found the Book of the Law? Josiah (34:14–15).
-9. How long did the land rest during the exile? Seventy years, as Jeremiah prophesied (36:21).
-10. How does 2 Chronicles end? With Cyrus' decree allowing God's people to go up and rebuild the temple (36:22–23).
+1. **Q:** Where was Solomon's temple built?
+
+   **A:** On Mount Moriah, at the threshing floor David bought (3:1).
+
+2. **Q:** What happened when the Levites praised God at the temple dedication?
+
+   **A:** The cloud of the Lord's glory filled the house (5:13–14).
+
+3. **Q:** What does 2 Chronicles 7:14 promise?
+
+   **A:** If God's people humble themselves, pray, seek his face and turn from wickedness, he will hear, forgive and heal their land.
+
+4. **Q:** How did Jehoshaphat's army go out against the invaders?
+
+   **A:** With singers leading, praising God (20:21–22).
+
+5. **Q:** Why was Uzziah struck with leprosy?
+
+   **A:** In pride he burned incense in the temple, which only priests could do (26:16–21).
+
+6. **Q:** Who invited the northern tribes to Passover?
+
+   **A:** Hezekiah, sending letters from Beersheba to Dan (30:1–10).
+
+7. **Q:** What happened to Manasseh in captivity?
+
+   **A:** He humbled himself, prayed, and God restored him to Jerusalem (33:11–13).
+
+8. **Q:** Which king found the Book of the Law?
+
+   **A:** Josiah (34:14–15).
+
+9. **Q:** How long did the land rest during the exile?
+
+   **A:** Seventy years, as Jeremiah prophesied (36:21).
+
+10. **Q:** How does 2 Chronicles end?
+
+    **A:** With Cyrus' decree allowing God's people to go up and rebuild the temple (36:22–23).
 
 ## Sources
 
@@ -163,3 +192,4 @@ Jesus refers to the martyrdom of Zechariah son of Jehoiada (24:20–22) when he 
 1. 2026-11-04: Generated initial notes with Claude Code
 2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code
 3. 2026-11-04: Structure regrouped into nested sections, combining the earlier outline with the Reformation Study Bible's divisions
+4. 2026-11-04: Q&A reformatted as question-and-answer pairs and reviewed; verse references added with Claude Code

@@ -120,16 +120,45 @@ Hebrews names Gideon, Barak, Samson and Jephthah among those who "through faith 
 
 ## Q&A
 
-1. What refrain sums up the book? "In those days there was no king in Israel. Everyone did what was right in his own eyes" (21:25).
-2. Describe the cycle of Judges. Israel sins, God hands them over to oppressors, they cry out, God raises a judge, there is rest, then they sin again (2:11–19).
-3. Who was the first judge? Othniel (3:9).
-4. How did Ehud kill Eglon? With a hidden double-edged dagger, using his left hand (3:15–22).
-5. Who killed Sisera, and how? Jael, with a tent peg (4:21).
-6. How many men did Gideon finally fight with? Three hundred (7:7).
-7. What was Jephthah's rash vow? To sacrifice whatever came out of his house first to meet him; it was his daughter (11:30–35).
-8. What was the secret of Samson's strength? His uncut hair, the sign of his Nazirite vow (16:17).
-9. How did Samson die? By pulling down the temple of Dagon on himself and the Philistines (16:30).
-10. Which tribe was nearly wiped out in a civil war? Benjamin (20).
+1. **Q:** What refrain sums up the book?
+
+   **A:** "In those days there was no king in Israel. Everyone did what was right in his own eyes" (21:25).
+
+2. **Q:** What is the cycle of Judges?
+
+   **A:** Israel sins, God hands them over to oppressors, they cry out, God raises a judge, there is rest, then they sin again (2:11–19).
+
+3. **Q:** Who was the first judge?
+
+   **A:** Othniel (3:9).
+
+4. **Q:** How did Ehud kill Eglon?
+
+   **A:** With a hidden double-edged dagger, using his left hand (3:15–22).
+
+5. **Q:** Who killed Sisera, and how?
+
+   **A:** Jael, with a tent peg (4:21).
+
+6. **Q:** How many men did Gideon finally fight with?
+
+   **A:** Three hundred (7:7).
+
+7. **Q:** What was Jephthah's rash vow?
+
+   **A:** To sacrifice whatever came out of his house first to meet him; it was his daughter (11:30–35).
+
+8. **Q:** What was the secret of Samson's strength?
+
+   **A:** His uncut hair, the sign of his Nazirite vow (16:17).
+
+9. **Q:** How did Samson die?
+
+   **A:** By pulling down the temple of Dagon on himself and the Philistines (16:30).
+
+10. **Q:** Which tribe was nearly wiped out in a civil war?
+
+    **A:** Benjamin, after the outrage at Gibeah (20:46–48; 21:3).
 
 ## Sources
 
@@ -141,3 +170,4 @@ Hebrews names Gideon, Barak, Samson and Jephthah among those who "through faith 
 
 1. 2026-11-04: Generated initial notes with Claude Code
 2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code
+3. 2026-11-04: Q&A reformatted as question-and-answer pairs and reviewed; verse references added with Claude Code

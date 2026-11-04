@@ -111,16 +111,45 @@ Mark is the gospel of Jesus Christ, the Son of God (1:1). It shows Jesus as both
 
 ## Q&A
 
-1. How does Mark's Gospel begin? "The beginning of the gospel of Jesus Christ, the Son of God" (1:1).
-2. Who was Mark? John Mark, a companion of Paul, Barnabas and Peter, not one of the Twelve.
-3. Whose preaching does early tradition say Mark recorded? Peter's.
-4. What word does Mark use often to keep the story moving? "Immediately".
-5. What did the father of the demon-possessed boy cry out? "I believe; help my unbelief!" (9:24).
-6. Why did the Son of Man come, according to 10:45? Not to be served but to serve, and to give his life as a ransom for many.
-7. Which blind man followed Jesus on the road? Bartimaeus (10:46–52).
-8. What did the centurion say at the cross? "Truly this man was the Son of God!" (15:39).
-9. What happened to the temple curtain when Jesus died? It was torn in two from top to bottom (15:38).
-10. Why do many Bibles mark Mark 16:9–20? It isn't found in the earliest manuscripts.
+1. **Q:** How does Mark's Gospel begin?
+
+   **A:** "The beginning of the gospel of Jesus Christ, the Son of God" (1:1).
+
+2. **Q:** Who was Mark?
+
+   **A:** John Mark, a companion of Paul, Barnabas and Peter, not one of the Twelve (Acts 12:12, 25; 1 Pet 5:13).
+
+3. **Q:** Whose preaching does early tradition say Mark recorded?
+
+   **A:** Peter's.
+
+4. **Q:** What word does Mark use often to keep the story moving?
+
+   **A:** "Immediately", again and again (e.g. 1:10, 12, 18).
+
+5. **Q:** What did the father of the demon-possessed boy cry out?
+
+   **A:** "I believe; help my unbelief!" (9:24).
+
+6. **Q:** Why did the Son of Man come, according to 10:45?
+
+   **A:** Not to be served but to serve, and to give his life as a ransom for many.
+
+7. **Q:** Which blind man followed Jesus on the road?
+
+   **A:** Bartimaeus (10:46–52).
+
+8. **Q:** What did the centurion say at the cross?
+
+   **A:** "Truly this man was the Son of God!" (15:39).
+
+9. **Q:** What happened to the temple curtain when Jesus died?
+
+   **A:** It was torn in two from top to bottom (15:38).
+
+10. **Q:** Why do many Bibles mark Mark 16:9–20?
+
+    **A:** It isn't found in the earliest manuscripts.
 
 ## Sources
 
@@ -131,3 +160,4 @@ Mark is the gospel of Jesus Christ, the Son of God (1:1). It shows Jesus as both
 
 1. 2026-11-04: Generated initial notes with Claude Code
 2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code
+3. 2026-11-04: Q&A reformatted as question-and-answer pairs and reviewed; verse references added with Claude Code

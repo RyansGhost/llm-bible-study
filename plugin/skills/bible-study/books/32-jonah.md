@@ -86,16 +86,45 @@ Unlike Jonah, who fled from God's mission to the nations, Jesus willingly went t
 
 ## Q&A
 
-1. Where did God send Jonah? To Nineveh, the capital of Assyria (1:2).
-2. Where did Jonah try to go instead? Tarshish, by ship from Joppa (1:3).
-3. What did the sailors do to find out who caused the storm? They cast lots, and the lot fell on Jonah (1:7).
-4. How long was Jonah inside the great fish? Three days and three nights (1:17).
-5. What did Jonah declare at the end of his prayer? "Salvation belongs to the Lord!" (2:9).
-6. What message did Jonah preach in Nineveh? "Yet forty days, and Nineveh shall be overthrown" (3:4).
-7. How did Nineveh respond? The people believed God, fasted and put on sackcloth, from the king down (3:5–9).
-8. Why was Jonah angry? Because God was gracious and spared Nineveh (4:1–2).
-9. What did God use to teach Jonah a lesson? A plant, a worm and a scorching east wind (4:6–8).
-10. What did Jesus call "the sign of Jonah"? His three days in the grave before his resurrection (Matt 12:39–40).
+1. **Q:** Where did God send Jonah?
+
+   **A:** To Nineveh, the capital of Assyria (1:2).
+
+2. **Q:** Where did Jonah try to go instead?
+
+   **A:** Tarshish, by ship from Joppa (1:3).
+
+3. **Q:** What did the sailors do to find out who caused the storm?
+
+   **A:** They cast lots, and the lot fell on Jonah (1:7).
+
+4. **Q:** How long was Jonah inside the great fish?
+
+   **A:** Three days and three nights (1:17).
+
+5. **Q:** What did Jonah declare at the end of his prayer?
+
+   **A:** "Salvation belongs to the Lord!" (2:9).
+
+6. **Q:** What message did Jonah preach in Nineveh?
+
+   **A:** "Yet forty days, and Nineveh shall be overthrown" (3:4).
+
+7. **Q:** How did Nineveh respond?
+
+   **A:** The people believed God, fasted and put on sackcloth, from the king down (3:5–9).
+
+8. **Q:** Why was Jonah angry?
+
+   **A:** Because God was gracious and spared Nineveh (4:1–2).
+
+9. **Q:** What did God use to teach Jonah a lesson?
+
+   **A:** A plant, a worm and a scorching east wind (4:6–8).
+
+10. **Q:** What did Jesus call "the sign of Jonah"?
+
+    **A:** His three days in the grave before his resurrection (Matt 12:39–40).
 
 ## Sources
 
@@ -107,3 +136,4 @@ Unlike Jonah, who fled from God's mission to the nations, Jesus willingly went t
 
 1. 2026-11-04: Generated initial notes with Claude Code
 2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code
+3. 2026-11-04: Q&A reformatted as question-and-answer pairs and reviewed; verse references added with Claude Code

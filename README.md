@@ -85,6 +85,7 @@ Every book file uses the same headings: Summary, Setting, Structure, Chapter by 
 - Cite every source: Reformation Study Bible page numbers, Ligonier URLs, chapter and verse.
 - Flag any non-Reformed source by name.
 - Mark your own applications as yours.
+- Write each Q&A item as a numbered `**Q:**` line with its `**A:**` indented under it, and give the answer a chapter and verse. The site styles these as question cards; the markdown stays plain.
 - Set `status` in the front matter as the notes progress: `draft` (written, awaiting human review; shown as "Human review pending") or `complete`. The site and the skill both use it.
 - Add a line to the book's Changelog whenever the notes change, e.g. `2. 2026-11-20: Human review; checked Reformation Study Bible page numbers`.
 

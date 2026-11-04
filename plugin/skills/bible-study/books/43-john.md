@@ -123,16 +123,45 @@ On the cross he declares, "It is finished" (19:30). After rising he breathes the
 
 ## Q&A
 
-1. How does John's Gospel begin? "In the beginning was the Word, and the Word was with God, and the Word was God" (1:1).
-2. What did John the Baptist call Jesus? "The Lamb of God, who takes away the sin of the world" (1:29).
-3. What was Jesus' first sign? Turning water into wine at Cana (2:1–11).
-4. What did Jesus tell Nicodemus? That he must be born again, of water and the Spirit (3:3–5).
-5. Name three "I am" sayings. For example: the bread of life, the light of the world, the good shepherd, the resurrection and the life, the way, the truth and the life, the true vine, the door.
-6. Whom did Jesus raise after four days in the tomb? Lazarus (11).
-7. What did Jesus do for his disciples at the Last Supper? Washed their feet (13).
-8. What were Jesus' last words on the cross in John? "It is finished" (19:30).
-9. What did Thomas say when he saw the risen Jesus? "My Lord and my God!" (20:28).
-10. Why did John write his Gospel? So that readers may believe Jesus is the Christ, the Son of God, and have life in his name (20:31).
+1. **Q:** How does John's Gospel begin?
+
+   **A:** "In the beginning was the Word, and the Word was with God, and the Word was God" (1:1).
+
+2. **Q:** What did John the Baptist call Jesus?
+
+   **A:** "The Lamb of God, who takes away the sin of the world" (1:29).
+
+3. **Q:** What was Jesus' first sign?
+
+   **A:** Turning water into wine at Cana (2:1–11).
+
+4. **Q:** What did Jesus tell Nicodemus?
+
+   **A:** That he must be born again, of water and the Spirit (3:3–5).
+
+5. **Q:** What are Jesus' seven "I am" sayings?
+
+   **A:** The bread of life (6:35), the light of the world (8:12), the door (10:9), the good shepherd (10:11), the resurrection and the life (11:25), the way, the truth and the life (14:6), and the true vine (15:1).
+
+6. **Q:** Whom did Jesus raise after four days in the tomb?
+
+   **A:** Lazarus (11:38–44).
+
+7. **Q:** What did Jesus do for his disciples at the Last Supper?
+
+   **A:** Washed their feet, as an example of humble love (13:1–15).
+
+8. **Q:** What were Jesus' last words on the cross in John?
+
+   **A:** "It is finished" (19:30).
+
+9. **Q:** What did Thomas say when he saw the risen Jesus?
+
+   **A:** "My Lord and my God!" (20:28).
+
+10. **Q:** Why did John write his Gospel?
+
+    **A:** So that readers may believe Jesus is the Christ, the Son of God, and have life in his name (20:31).
 
 ## Sources
 
@@ -143,3 +172,4 @@ On the cross he declares, "It is finished" (19:30). After rising he breathes the
 
 1. 2026-11-04: Generated initial notes with Claude Code
 2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code
+3. 2026-11-04: Q&A reformatted as question-and-answer pairs and reviewed; verse references added with Claude Code

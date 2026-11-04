@@ -106,16 +106,45 @@ The "one Shepherd" who gives true wisdom (12:11) points to Christ, the Good Shep
 
 ## Q&A
 
-1. What is the motto of Ecclesiastes? "Vanity of vanities! All is vanity" (1:2; 12:8).
-2. What does the Hebrew word translated "vanity" literally mean? Breath, or vapour (*hebel*).
-3. What does "Qohelet" mean? One who gathers an assembly: "the Preacher" or "the Teacher".
-4. What did Qohelet test in chapter 2? Pleasure, wine, great works, wealth and music.
-5. Which chapter says there is a time for everything? Chapter 3.
-6. What has God put into human hearts? Eternity (3:11).
-7. Why are two better than one? If one falls, the other can lift him up; a threefold cord isn't quickly broken (4:9–12).
-8. What does Qohelet repeatedly commend as God's gift? Eating, drinking and enjoying one's work and life (2:24; 3:13; 5:18; 9:7).
-9. What should we remember in our youth? Our Creator (12:1).
-10. What is the conclusion of the book? Fear God and keep his commandments, for God will bring every deed into judgment (12:13–14).
+1. **Q:** What is the motto of Ecclesiastes?
+
+   **A:** "Vanity of vanities! All is vanity" (1:2; 12:8).
+
+2. **Q:** What does the Hebrew word translated "vanity" literally mean?
+
+   **A:** Breath, or vapour (*hebel*).
+
+3. **Q:** What does "Qohelet" mean?
+
+   **A:** One who gathers an assembly: "the Preacher" or "the Teacher" (1:1).
+
+4. **Q:** What did Qohelet test in chapter 2?
+
+   **A:** Pleasure, wine, great works, wealth and music (2:1–11).
+
+5. **Q:** Which chapter says there is a time for everything?
+
+   **A:** Chapter 3 (3:1–8).
+
+6. **Q:** What has God put into human hearts?
+
+   **A:** Eternity (3:11).
+
+7. **Q:** Why are two better than one?
+
+   **A:** If one falls, the other can lift him up; a threefold cord isn't quickly broken (4:9–12).
+
+8. **Q:** What does Qohelet repeatedly commend as God's gift?
+
+   **A:** Eating, drinking and enjoying one's work and life (2:24; 3:13; 5:18; 9:7).
+
+9. **Q:** What should we remember in our youth?
+
+   **A:** Our Creator (12:1).
+
+10. **Q:** What is the conclusion of the book?
+
+    **A:** Fear God and keep his commandments, for God will bring every deed into judgment (12:13–14).
 
 ## Sources
 
@@ -126,3 +155,4 @@ The "one Shepherd" who gives true wisdom (12:11) points to Christ, the Good Shep
 
 1. 2026-11-04: Generated initial notes with Claude Code
 2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code
+3. 2026-11-04: Q&A reformatted as question-and-answer pairs and reviewed; verse references added with Claude Code

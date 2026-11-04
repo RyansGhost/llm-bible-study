@@ -100,16 +100,45 @@ At the heart of the letter is the great exchange: God made Christ, who knew no s
 
 ## Q&A
 
-1. How does Paul describe God in 1:3? The Father of mercies and the God of all comfort.
-2. What does Paul say about God's promises in Christ? All of them find their "Yes" in him (1:20).
-3. Which covenant does Paul minister? The new covenant, of the Spirit, not the letter (3:6).
-4. Where do we have the treasure of the gospel? In jars of clay (4:7).
-5. What is anyone in Christ? A new creation (5:17).
-6. What did God do with Christ, according to 5:21? Made him to be sin for us, so that in him we might become the righteousness of God.
-7. What kind of giver does God love? A cheerful giver (9:7).
-8. What does Paul call the false teachers? "Super-apostles" and false apostles (11:5, 13).
-9. What did God say about Paul's thorn in the flesh? "My grace is sufficient for you, for my power is made perfect in weakness" (12:9).
-10. How does 2 Corinthians end? With a Trinitarian blessing: the grace of Christ, the love of God, and the fellowship of the Holy Spirit (13:14).
+1. **Q:** How does Paul describe God in 1:3?
+
+   **A:** The Father of mercies and the God of all comfort.
+
+2. **Q:** What does Paul say about God's promises in Christ?
+
+   **A:** All of them find their "Yes" in him (1:20).
+
+3. **Q:** Which covenant does Paul minister?
+
+   **A:** The new covenant, of the Spirit, not the letter (3:6).
+
+4. **Q:** Where do we have the treasure of the gospel?
+
+   **A:** In jars of clay (4:7).
+
+5. **Q:** What is anyone in Christ?
+
+   **A:** A new creation (5:17).
+
+6. **Q:** What did God do with Christ, according to 5:21?
+
+   **A:** Made him to be sin for us, so that in him we might become the righteousness of God.
+
+7. **Q:** What kind of giver does God love?
+
+   **A:** A cheerful giver (9:7).
+
+8. **Q:** What does Paul call the false teachers?
+
+   **A:** "Super-apostles" and false apostles (11:5, 13).
+
+9. **Q:** What did God say about Paul's thorn in the flesh?
+
+   **A:** "My grace is sufficient for you, for my power is made perfect in weakness" (12:9).
+
+10. **Q:** How does 2 Corinthians end?
+
+    **A:** With a Trinitarian blessing: the grace of Christ, the love of God, and the fellowship of the Holy Spirit (13:14).
 
 ## Sources
 
@@ -120,3 +149,4 @@ At the heart of the letter is the great exchange: God made Christ, who knew no s
 
 1. 2026-11-04: Generated initial notes with Claude Code
 2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code
+3. 2026-11-04: Q&A reformatted as question-and-answer pairs and reviewed; verse references added with Claude Code

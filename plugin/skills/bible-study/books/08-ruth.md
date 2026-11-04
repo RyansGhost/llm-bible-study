@@ -97,15 +97,45 @@ Ruth and Boaz are named in Jesus' genealogy (Matt 1:5). Their great-grandson's t
 
 ## Q&A
 
-1. Why did Naomi's family go to Moab? A famine in Bethlehem (1:1).
-2. What did Naomi ask to be called when she came home? Mara, meaning "bitter" (1:20).
-3. Which daughter-in-law went back to Moab? Orpah.
-4. Whose field did Ruth glean in? Boaz's, a relative of Elimelech (2:3).
-5. What did Ruth ask Boaz at the threshing floor? To spread his garment over her as her redeemer, that is, to marry her (3:9).
-6. Why did the nearer relative refuse to redeem? Buying the land meant marrying Ruth, and her son would inherit the land instead of his own family (4:5–6).
-7. How was the agreement sealed? He took off his sandal and gave it to Boaz before witnesses (4:7–8).
-8. Who was Ruth's son, and why does he matter? Obed, the grandfather of King David (4:17).
-9. Where does Ruth appear in the New Testament? In Jesus' genealogy, Matthew 1:5.
+1. **Q:** Why did Naomi's family go to Moab?
+
+   **A:** A famine in Bethlehem (1:1).
+
+2. **Q:** What did Naomi ask to be called when she came home?
+
+   **A:** Mara, meaning "bitter" (1:20).
+
+3. **Q:** Which daughter-in-law went back to Moab?
+
+   **A:** Orpah (1:14).
+
+4. **Q:** Whose field did Ruth glean in?
+
+   **A:** Boaz's, a relative of Elimelech (2:3).
+
+5. **Q:** What did Ruth ask Boaz at the threshing floor?
+
+   **A:** To spread his garment over her as her redeemer, that is, to marry her (3:9).
+
+6. **Q:** Why did the nearer relative refuse to redeem?
+
+   **A:** Buying the land meant marrying Ruth, and her son would inherit the land instead of his own family (4:5–6).
+
+7. **Q:** How was the agreement sealed?
+
+   **A:** He took off his sandal and gave it to Boaz before witnesses (4:7–8).
+
+8. **Q:** Who was Ruth's son, and why does he matter?
+
+   **A:** Obed, the grandfather of King David (4:17).
+
+9. **Q:** Where does Ruth appear in the New Testament?
+
+   **A:** In Jesus' genealogy, Matthew 1:5.
+
+10. **Q:** What did Ruth promise Naomi on the road?
+
+    **A:** "Where you go I will go… your people shall be my people, and your God my God" (1:16).
 
 ## Sources
 
@@ -117,3 +147,4 @@ Ruth and Boaz are named in Jesus' genealogy (Matt 1:5). Their great-grandson's t
 
 1. 2026-11-04: Generated initial notes with Claude Code
 2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code
+3. 2026-11-04: Q&A reformatted as question-and-answer pairs and reviewed; verse references added with Claude Code

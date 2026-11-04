@@ -128,16 +128,45 @@ Luke's genealogy traces him back to Adam (3:38), presenting him as the Saviour f
 
 ## Q&A
 
-1. To whom did Luke write his Gospel? Theophilus (1:3).
-2. Why did Luke write? So that Theophilus might have certainty about what he had been taught (1:4).
-3. Who announced John's birth to Zechariah? The angel Gabriel (1:19).
-4. To whom did the angels announce Jesus' birth? Shepherds near Bethlehem (2:8–14).
-5. Who recognised Jesus as the Christ when he was presented in the temple? Simeon and Anna (2:25–38).
-6. Which passage did Jesus read in the Nazareth synagogue? Isaiah 61:1–2 (4:16–21).
-7. Which parable answers "Who is my neighbour?" The good Samaritan (10:25–37).
-8. Which three parables of lost things are in Luke 15? The lost sheep, the lost coin and the lost (prodigal) son.
-9. Who climbed a tree to see Jesus? Zacchaeus, the chief tax collector (19:1–10).
-10. Where did the risen Jesus walk with two disciples? On the road to Emmaus (24:13–35).
+1. **Q:** To whom did Luke write his Gospel?
+
+   **A:** Theophilus (1:3).
+
+2. **Q:** Why did Luke write?
+
+   **A:** So that Theophilus might have certainty about what he had been taught (1:4).
+
+3. **Q:** Who announced John's birth to Zechariah?
+
+   **A:** The angel Gabriel (1:19).
+
+4. **Q:** To whom did the angels announce Jesus' birth?
+
+   **A:** Shepherds near Bethlehem (2:8–14).
+
+5. **Q:** Who recognised Jesus as the Christ when he was presented in the temple?
+
+   **A:** Simeon and Anna (2:25–38).
+
+6. **Q:** Which passage did Jesus read in the Nazareth synagogue?
+
+   **A:** Isaiah 61:1–2 (4:16–21).
+
+7. **Q:** Which parable answers the question "Who is my neighbour?"
+
+   **A:** The good Samaritan (10:25–37).
+
+8. **Q:** Which three parables of lost things are in Luke 15?
+
+   **A:** The lost sheep, the lost coin and the lost (prodigal) son (15:3–32).
+
+9. **Q:** Who climbed a tree to see Jesus?
+
+   **A:** Zacchaeus, the chief tax collector (19:1–10).
+
+10. **Q:** Where did the risen Jesus walk with two disciples?
+
+    **A:** On the road to Emmaus (24:13–35).
 
 ## Sources
 
@@ -148,3 +177,4 @@ Luke's genealogy traces him back to Adam (3:38), presenting him as the Saviour f
 
 1. 2026-11-04: Generated initial notes with Claude Code
 2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code
+3. 2026-11-04: Q&A reformatted as question-and-answer pairs and reviewed; verse references added with Claude Code

@@ -127,16 +127,45 @@ The book's title is its theme: "the revelation of Jesus Christ" (1:1). He is "th
 
 ## Q&A
 
-1. What is the book called in its first verse? The revelation of Jesus Christ (1:1).
-2. Where was John when he received the visions? On the island of Patmos (1:9).
-3. To how many churches does Christ send letters? Seven, in the province of Asia (1:11; 2–3).
-4. Which church had abandoned its first love? Ephesus (2:4).
-5. Which church was lukewarm? Laodicea (3:15–16).
-6. Who alone was worthy to open the scroll? The Lion of the tribe of Judah, the Lamb who was slain (5:5–9).
-7. What three series of seven judgments are there? Seals, trumpets and bowls.
-8. How did the saints conquer the dragon? By the blood of the Lamb and the word of their testimony (12:11).
-9. What happens to Satan at the end of the thousand years? He is released, then defeated and thrown into the lake of fire forever (20:7–10).
-10. What does God say from the throne in 21:5? "Behold, I am making all things new."
+1. **Q:** What is the book called in its first verse?
+
+   **A:** The revelation of Jesus Christ (1:1).
+
+2. **Q:** Where was John when he received the visions?
+
+   **A:** On the island of Patmos (1:9).
+
+3. **Q:** To how many churches does Christ send letters?
+
+   **A:** Seven, in the province of Asia (1:11; 2–3).
+
+4. **Q:** Which church had abandoned its first love?
+
+   **A:** Ephesus (2:4).
+
+5. **Q:** Which church was lukewarm?
+
+   **A:** Laodicea (3:15–16).
+
+6. **Q:** Who alone was worthy to open the scroll?
+
+   **A:** The Lion of the tribe of Judah, the Lamb who was slain (5:5–9).
+
+7. **Q:** What three series of seven judgments are there?
+
+   **A:** Seals, trumpets and bowls (6:1–8:1; 8:6–11:19; 16:1–21).
+
+8. **Q:** How did the saints conquer the dragon?
+
+   **A:** By the blood of the Lamb and the word of their testimony (12:11).
+
+9. **Q:** What happens to Satan at the end of the thousand years?
+
+   **A:** He is released, then defeated and thrown into the lake of fire forever (20:7–10).
+
+10. **Q:** What does God say from the throne in 21:5?
+
+    **A:** "Behold, I am making all things new."
 
 ## Sources
 
@@ -148,3 +177,4 @@ The book's title is its theme: "the revelation of Jesus Christ" (1:1). He is "th
 
 1. 2026-11-04: Generated initial notes with Claude Code
 2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code
+3. 2026-11-04: Q&A reformatted as question-and-answer pairs and reviewed; verse references added with Claude Code

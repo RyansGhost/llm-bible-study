@@ -145,16 +145,49 @@ The tabernacle, God living among his people, is fulfilled when the Word "dwelt" 
 
 ## Q&A
 
-1. What did God call himself at the burning bush? "I AM WHO I AM": the Lord, Yahweh (3:14–15).
-2. Who were the midwives who refused Pharaoh's order? Shiphrah and Puah (1:15–17).
-3. What was the tenth plague? The death of the firstborn (11–12).
-4. What protected Israel's homes at the Passover? The blood of a lamb on the doorposts (12:13).
-5. What did God feed Israel with in the wilderness? Manna, and quail (16).
-6. Where did Israel receive the Ten Commandments? Mount Sinai (19–20).
-7. What did God call Israel at Sinai? A kingdom of priests and a holy nation (19:6).
-8. Who made the golden calf? Aaron (32:2–4).
-9. What happened to Moses' face after he spoke with God? It shone (34:29).
-10. How does Exodus end? The glory of the Lord fills the finished tabernacle (40:34).
+1. **Q:** What did God call himself at the burning bush?
+
+   **A:** "I AM WHO I AM": the Lord, Yahweh (3:14–15).
+
+2. **Q:** Who were the midwives who refused Pharaoh's order?
+
+   **A:** Shiphrah and Puah (1:15–17).
+
+3. **Q:** What was the tenth plague?
+
+   **A:** The death of the firstborn (11:4–7; 12:29–30).
+
+4. **Q:** What protected Israel's homes at the Passover?
+
+   **A:** The blood of a lamb on the doorposts (12:13).
+
+5. **Q:** What did God feed Israel with in the wilderness?
+
+   **A:** Manna, and quail (16:13–15).
+
+6. **Q:** Where did Israel receive the Ten Commandments?
+
+   **A:** Mount Sinai (19–20).
+
+7. **Q:** What did God call Israel at Sinai?
+
+   **A:** A kingdom of priests and a holy nation (19:6).
+
+8. **Q:** Who made the golden calf?
+
+   **A:** Aaron (32:2–4).
+
+9. **Q:** What happened to Moses' face after he spoke with God?
+
+   **A:** It shone (34:29).
+
+10. **Q:** How does Exodus end?
+
+    **A:** The glory of the Lord fills the finished tabernacle (40:34).
+
+11. **Q:** How did God describe himself to Moses after the golden calf?
+
+    **A:** Merciful and gracious, slow to anger, abounding in steadfast love and faithfulness, yet by no means clearing the guilty (34:6–7).
 
 ## Sources
 
@@ -168,3 +201,4 @@ The tabernacle, God living among his people, is fulfilled when the Word "dwelt" 
 1. 2026-11-04: Generated initial notes with Claude Code
 2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code
 3. 2026-11-04: Structure regrouped into nested sections, combining the earlier outline with the Reformation Study Bible's divisions
+4. 2026-11-04: Q&A reformatted as question-and-answer pairs and reviewed; verse references added with Claude Code

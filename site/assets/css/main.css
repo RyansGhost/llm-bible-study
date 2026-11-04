@@ -335,3 +335,25 @@ a:hover { color: var(--olive); }
 @media (prefers-reduced-motion: reduce) {
   .flip-flap { display: none; }
 }
+
+/* Q&A: each question a card with Q and A badges (layouts/_partials/qa-content.html).
+   Badge colours reuse the contrast-checked button tokens. */
+.qa-list { list-style: none; counter-reset: qa; padding: 0; margin: 1.25rem 0; }
+.qa-list > li {
+  counter-increment: qa; margin: 0.9rem 0; padding: 0.85rem 1.1rem 0.9rem;
+  background: var(--bg); border: 1px solid var(--line); border-left: 3px solid var(--olive);
+}
+.qa-list > li::before {
+  content: "Question " counter(qa); display: block; margin-bottom: 0.35rem;
+  font-size: 0.7rem; font-weight: 800; letter-spacing: 0.12em; text-transform: uppercase; color: var(--muted);
+}
+.qa-list > li > p { position: relative; margin: 0; padding-left: 2.3rem; }
+.qa-list > li > p + p { margin-top: 0.55rem; }
+.qa-list > li > p:first-of-type { font-weight: 700; color: var(--ink); }
+.qa-tag {
+  position: absolute; left: 0; top: 0.12em;
+  display: inline-grid; place-items: center; width: 1.55rem; height: 1.55rem; border-radius: 50%;
+  font-family: var(--font-sans); font-size: 0.75rem; font-weight: 800; line-height: 1;
+}
+.qa-q { background: var(--btn-bg); color: var(--btn-fg); border: 1px solid var(--btn-bg); }
+.qa-a { background: transparent; color: var(--btn-ghost); border: 1.5px solid var(--btn-ghost); }

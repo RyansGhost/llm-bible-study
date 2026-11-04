@@ -88,16 +88,45 @@ The letter shows the returning Christ in his power and glory. He will be "reveal
 
 ## Q&A
 
-1. Why did Paul write 2 Thessalonians so soon after 1 Thessalonians? Some were shaken by a claim that the day of the Lord had already come, and some were refusing to work.
-2. What will happen when the Lord Jesus is revealed from heaven? He will come with mighty angels in flaming fire, bringing justice on those who don't know God or obey the gospel (1:7–8).
-3. What punishment does 1:9 describe? Eternal destruction, away from the presence of the Lord.
-4. What must come before the day of the Lord? The rebellion and the revealing of the man of lawlessness (2:3).
-5. How will the Lord Jesus destroy the lawless one? With the breath of his mouth, by the appearance of his coming (2:8).
-6. What did God choose the Thessalonians for? To be saved, through sanctification by the Spirit and belief in the truth (2:13).
-7. What should they hold to? The traditions (teaching) they were taught by Paul, by word or by letter (2:15).
-8. What rule did Paul give about work? If anyone isn't willing to work, let him not eat (3:10).
-9. How should they treat a disobedient brother? Have nothing to do with him so he may be ashamed, but warn him as a brother, not an enemy (3:14–15).
-10. How did Paul show his letters were genuine? By writing the greeting in his own hand (3:17).
+1. **Q:** Why did Paul write 2 Thessalonians so soon after 1 Thessalonians?
+
+   **A:** Some were shaken by a claim that the day of the Lord had already come, and some were refusing to work (2:1–2; 3:11).
+
+2. **Q:** What will happen when the Lord Jesus is revealed from heaven?
+
+   **A:** He will come with mighty angels in flaming fire, bringing justice on those who don't know God or obey the gospel (1:7–8).
+
+3. **Q:** What punishment does 1:9 describe?
+
+   **A:** Eternal destruction, away from the presence of the Lord.
+
+4. **Q:** What must come before the day of the Lord?
+
+   **A:** The rebellion and the revealing of the man of lawlessness (2:3).
+
+5. **Q:** How will the Lord Jesus destroy the lawless one?
+
+   **A:** With the breath of his mouth, by the appearance of his coming (2:8).
+
+6. **Q:** What did God choose the Thessalonians for?
+
+   **A:** To be saved, through sanctification by the Spirit and belief in the truth (2:13).
+
+7. **Q:** What should they hold to?
+
+   **A:** The traditions (teaching) they were taught by Paul, by word or by letter (2:15).
+
+8. **Q:** What rule did Paul give about work?
+
+   **A:** If anyone isn't willing to work, let him not eat (3:10).
+
+9. **Q:** How should they treat a disobedient brother?
+
+   **A:** Have nothing to do with him so he may be ashamed, but warn him as a brother, not an enemy (3:14–15).
+
+10. **Q:** How did Paul show his letters were genuine?
+
+    **A:** By writing the greeting in his own hand (3:17).
 
 ## Sources
 
@@ -109,3 +138,4 @@ The letter shows the returning Christ in his power and glory. He will be "reveal
 
 1. 2026-11-04: Generated initial notes with Claude Code
 2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code
+3. 2026-11-04: Q&A reformatted as question-and-answer pairs and reviewed; verse references added with Claude Code

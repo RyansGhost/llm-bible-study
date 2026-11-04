@@ -138,16 +138,45 @@ Acts begins by calling the Gospel of Luke an account of "all that Jesus began to
 
 ## Q&A
 
-1. Who wrote Acts, and to whom? Luke, to Theophilus (1:1).
-2. Where did Jesus say the apostles would be his witnesses? In Jerusalem, all Judea and Samaria, and to the end of the earth (1:8).
-3. What happened at Pentecost? The Holy Spirit came on the believers, they spoke in other languages, and about three thousand were saved (2).
-4. Who was the first Christian martyr? Stephen (7).
-5. Where was Saul when Jesus appeared to him? On the road to Damascus (9).
-6. Which Gentile's household received the Spirit while Peter preached? Cornelius' (10).
-7. Where were believers first called Christians? Antioch (11:26).
-8. What did the Jerusalem council decide? Gentile believers did not need to be circumcised to be saved (15).
-9. Who was converted in Philippi besides Lydia? The jailer and his household (16:25–34).
-10. How does Acts end? With Paul in Rome under house arrest, preaching the kingdom of God without hindrance (28:30–31).
+1. **Q:** Who wrote Acts, and to whom?
+
+   **A:** Luke, to Theophilus (1:1).
+
+2. **Q:** Where did Jesus say the apostles would be his witnesses?
+
+   **A:** In Jerusalem, all Judea and Samaria, and to the end of the earth (1:8).
+
+3. **Q:** What happened at Pentecost?
+
+   **A:** The Holy Spirit came on the believers, they spoke in other languages, and about three thousand were saved (2:1–4, 41).
+
+4. **Q:** Who was the first Christian martyr?
+
+   **A:** Stephen, stoned as Saul looked on (7:54–60).
+
+5. **Q:** Where was Saul when Jesus appeared to him?
+
+   **A:** On the road to Damascus (9:1–6).
+
+6. **Q:** Which Gentile's household received the Spirit while Peter preached?
+
+   **A:** Cornelius' (10:44–48).
+
+7. **Q:** Where were believers first called Christians?
+
+   **A:** Antioch (11:26).
+
+8. **Q:** What did the Jerusalem council decide?
+
+   **A:** Gentile believers did not need to be circumcised to be saved, but were asked to avoid some things that offended Jewish believers (15:10–11, 19–20, 28–29).
+
+9. **Q:** Who was converted in Philippi besides Lydia?
+
+   **A:** The jailer and his household (16:25–34).
+
+10. **Q:** How does Acts end?
+
+    **A:** With Paul in Rome under house arrest, preaching the kingdom of God without hindrance (28:30–31).
 
 ## Sources
 
@@ -158,3 +187,4 @@ Acts begins by calling the Gospel of Luke an account of "all that Jesus began to
 
 1. 2026-11-04: Generated initial notes with Claude Code
 2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code
+3. 2026-11-04: Q&A reformatted as question-and-answer pairs and reviewed; verse references added with Claude Code

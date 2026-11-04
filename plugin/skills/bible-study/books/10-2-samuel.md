@@ -121,16 +121,45 @@ David fleeing Jerusalem across the Kidron, rejected by his own people (15:23), a
 
 ## Q&A
 
-1. Where was David first made king, and over whom? At Hebron, over Judah (2:4).
-2. Which city did David capture and make his capital? Jerusalem, from the Jebusites (5:6–9).
-3. What did God promise David in chapter 7? To build him a "house", a dynasty whose throne will be established forever (7:11–16).
-4. Why was Uzzah struck down? For touching the ark (6:6–7).
-5. To whom did David show kindness for Jonathan's sake? Mephibosheth (9).
-6. What sin did David commit with Bathsheba, and how did he cover it up? Adultery; he arranged for her husband Uriah to die in battle (11).
-7. What did Nathan say to David after his parable? "You are the man!" (12:7).
-8. Which of David's sons rebelled against him? Absalom (15).
-9. How did Absalom die? Caught by his hair in an oak tree, then killed by Joab (18:9–15).
-10. What did David buy from Araunah? His threshing floor, to build an altar where the plague stopped (24:18–25).
+1. **Q:** Where was David first made king, and over whom?
+
+   **A:** At Hebron, over Judah (2:4).
+
+2. **Q:** Which city did David capture and make his capital?
+
+   **A:** Jerusalem, from the Jebusites (5:6–9).
+
+3. **Q:** What did God promise David in chapter 7?
+
+   **A:** To build him a "house", a dynasty whose throne will be established forever (7:11–16).
+
+4. **Q:** Why was Uzzah struck down?
+
+   **A:** For touching the ark (6:6–7).
+
+5. **Q:** To whom did David show kindness for Jonathan's sake?
+
+   **A:** Mephibosheth, Jonathan's lame son (9:6–7).
+
+6. **Q:** What sin did David commit with Bathsheba, and how did he cover it up?
+
+   **A:** Adultery; he arranged for her husband Uriah to die in battle (11:2–17).
+
+7. **Q:** What did Nathan say to David after his parable?
+
+   **A:** "You are the man!" (12:7).
+
+8. **Q:** Which of David's sons rebelled against him?
+
+   **A:** Absalom, who stole the hearts of the men of Israel (15:6, 10–12).
+
+9. **Q:** How did Absalom die?
+
+   **A:** Caught by his hair in an oak tree, then killed by Joab (18:9–15).
+
+10. **Q:** What did David buy from Araunah?
+
+    **A:** His threshing floor, to build an altar where the plague stopped (24:18–25).
 
 ## Sources
 
@@ -142,3 +171,4 @@ David fleeing Jerusalem across the Kidron, rejected by his own people (15:23), a
 
 1. 2026-11-04: Generated initial notes with Claude Code
 2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code
+3. 2026-11-04: Q&A reformatted as question-and-answer pairs and reviewed; verse references added with Claude Code

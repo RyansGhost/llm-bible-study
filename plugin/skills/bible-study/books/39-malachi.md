@@ -90,16 +90,45 @@ The Lord who suddenly comes to his temple (3:1) is Jesus, presented there as a b
 
 ## Q&A
 
-1. What does "Malachi" mean? "My messenger".
-2. What is God's first statement to the people? "I have loved you" (1:2).
-3. What were the priests offering to God? Blind, lame and sick animals (1:8).
-4. What does God say he hates in 2:16? Divorce: the treacherous breaking of the marriage covenant.
-5. Who will God send to prepare his way? His messenger (3:1), fulfilled in John the Baptist.
-6. Like what will the Lord be when he comes to purify his people? A refiner's fire and fullers' soap (3:2).
-7. How were the people robbing God? In tithes and offerings (3:8).
-8. What was written for those who feared the Lord? A book of remembrance (3:16).
-9. What will rise with healing in its wings? The sun of righteousness (4:2).
-10. Whom will God send before the great day of the Lord? Elijah the prophet (4:5), whom Jesus identified as John the Baptist.
+1. **Q:** What does "Malachi" mean?
+
+   **A:** "My messenger" (1:1; compare 3:1).
+
+2. **Q:** What is God's first statement to the people?
+
+   **A:** "I have loved you" (1:2).
+
+3. **Q:** What were the priests offering to God?
+
+   **A:** Blind, lame and sick animals (1:8).
+
+4. **Q:** What does God say he hates in 2:16?
+
+   **A:** Divorce: the treacherous breaking of the marriage covenant.
+
+5. **Q:** Who will God send to prepare his way?
+
+   **A:** His messenger (3:1), fulfilled in John the Baptist.
+
+6. **Q:** Like what will the Lord be when he comes to purify his people?
+
+   **A:** A refiner's fire and fullers' soap (3:2).
+
+7. **Q:** How were the people robbing God?
+
+   **A:** In tithes and offerings (3:8).
+
+8. **Q:** What was written for those who feared the Lord?
+
+   **A:** A book of remembrance (3:16).
+
+9. **Q:** What will rise with healing in its wings?
+
+   **A:** The sun of righteousness (4:2).
+
+10. **Q:** Whom will God send before the great day of the Lord?
+
+    **A:** Elijah the prophet (4:5), whom Jesus identified as John the Baptist.
 
 ## Sources
 
@@ -111,3 +140,4 @@ The Lord who suddenly comes to his temple (3:1) is Jesus, presented there as a b
 
 1. 2026-11-04: Generated initial notes with Claude Code
 2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code
+3. 2026-11-04: Q&A reformatted as question-and-answer pairs and reviewed; verse references added with Claude Code

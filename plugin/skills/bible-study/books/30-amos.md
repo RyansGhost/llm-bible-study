@@ -93,16 +93,45 @@ Jesus, like Amos, confronted religious leaders who neglected "justice and mercy 
 
 ## Q&A
 
-1. What was Amos' job before God called him? A herdsman and dresser of sycamore figs (7:14).
-2. Where was Amos from, and where did he preach? From Tekoa in Judah; he preached in the northern kingdom of Israel.
-3. How does Amos introduce his oracles against the nations? "For three transgressions … and for four" (1:3).
-4. Why does God punish Israel more because it was chosen? "You only have I known … therefore I will punish you" (3:2).
-5. What did Amos call the wealthy women of Samaria? "Cows of Bashan" (4:1).
-6. What should roll down like waters? Justice, with righteousness like an ever-flowing stream (5:24).
-7. What did the plumb line vision mean? That God had measured Israel and found it crooked, so judgment was set (7:7–9).
-8. Who told Amos to go back to Judah? Amaziah, the priest of Bethel (7:10–13).
-9. What kind of famine did Amos predict? A famine of hearing the words of the Lord (8:11).
-10. Which promise from Amos did James quote at the Jerusalem council? The rebuilding of David's fallen booth (9:11–12; Acts 15:16–17).
+1. **Q:** What was Amos' job before God called him?
+
+   **A:** A herdsman and dresser of sycamore figs (7:14).
+
+2. **Q:** Where was Amos from, and where did he preach?
+
+   **A:** From Tekoa in Judah; he preached in the northern kingdom of Israel (1:1; 7:12–13).
+
+3. **Q:** How does Amos introduce his oracles against the nations?
+
+   **A:** "For three transgressions … and for four" (1:3).
+
+4. **Q:** Why does God punish Israel more because it was chosen?
+
+   **A:** "You only have I known … therefore I will punish you" (3:2).
+
+5. **Q:** What did Amos call the wealthy women of Samaria?
+
+   **A:** "Cows of Bashan" (4:1).
+
+6. **Q:** What should roll down like waters?
+
+   **A:** Justice, with righteousness like an ever-flowing stream (5:24).
+
+7. **Q:** What did the plumb line vision mean?
+
+   **A:** That God had measured Israel and found it crooked, so judgment was set (7:7–9).
+
+8. **Q:** Who told Amos to go back to Judah?
+
+   **A:** Amaziah, the priest of Bethel (7:10–13).
+
+9. **Q:** What kind of famine did Amos predict?
+
+   **A:** A famine of hearing the words of the Lord (8:11).
+
+10. **Q:** Which promise from Amos did James quote at the Jerusalem council?
+
+    **A:** The rebuilding of David's fallen booth (9:11–12; Acts 15:16–17).
 
 ## Sources
 
@@ -114,3 +143,4 @@ Jesus, like Amos, confronted religious leaders who neglected "justice and mercy 
 
 1. 2026-11-04: Generated initial notes with Claude Code
 2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code
+3. 2026-11-04: Q&A reformatted as question-and-answer pairs and reviewed; verse references added with Claude Code

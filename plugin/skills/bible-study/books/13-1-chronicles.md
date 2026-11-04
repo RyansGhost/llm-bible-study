@@ -126,16 +126,45 @@ David buys the temple site at the place where judgment was stopped by sacrifice 
 
 ## Q&A
 
-1. Where do the genealogies in 1 Chronicles begin? With Adam (1:1).
-2. Why, according to the Chronicler, did Saul die? For his unfaithfulness: he didn't keep God's word, consulted a medium, and didn't seek the Lord (10:13–14).
-3. Who carried the ark properly the second time? The Levites (15:2, 15).
-4. What did God promise David in chapter 17? A house: a son whose throne God would establish forever (17:11–14).
-5. Who incited David's census in Chronicles? Satan (21:1).
-6. Why didn't David build the temple? He had shed much blood as a warrior; his son Solomon, a man of peace, would build it (22:8–10).
-7. Where did the plans for the temple come from? David received them from the Spirit and gave them to Solomon (28:11–12, 19).
-8. What did David confess about the people's offerings? That all things come from God, and they had only given back what was his (29:14).
-9. When was Chronicles written? After the return from exile in Babylon, after 539 BC.
-10. Where does Chronicles come in the Hebrew Bible? Last.
+1. **Q:** Where do the genealogies in 1 Chronicles begin?
+
+   **A:** With Adam (1:1).
+
+2. **Q:** Why, according to the Chronicler, did Saul die?
+
+   **A:** For his unfaithfulness: he didn't keep God's word, consulted a medium, and didn't seek the Lord (10:13–14).
+
+3. **Q:** Who carried the ark properly the second time?
+
+   **A:** The Levites (15:2, 15).
+
+4. **Q:** What did God promise David in chapter 17?
+
+   **A:** A house: a son whose throne God would establish forever (17:11–14).
+
+5. **Q:** Who incited David's census in Chronicles?
+
+   **A:** Satan (21:1).
+
+6. **Q:** Why didn't David build the temple?
+
+   **A:** He had shed much blood as a warrior; his son Solomon, a man of peace, would build it (22:8–10).
+
+7. **Q:** Where did the plans for the temple come from?
+
+   **A:** David received them from the Spirit and gave them to Solomon (28:11–12, 19).
+
+8. **Q:** What did David confess about the people's offerings?
+
+   **A:** That all things come from God, and they had only given back what was his (29:14).
+
+9. **Q:** When was Chronicles written?
+
+   **A:** After the return from exile in Babylon (after 539 BC); its genealogies run on past the exile (3:17–24; 9:1–2).
+
+10. **Q:** Where does Chronicles come in the Hebrew Bible?
+
+    **A:** Last, so the Hebrew Bible closes with Cyrus' decree to go up and rebuild (2 Chr 36:22–23).
 
 ## Sources
 
@@ -147,3 +176,4 @@ David buys the temple site at the place where judgment was stopped by sacrifice 
 
 1. 2026-11-04: Generated initial notes with Claude Code
 2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code
+3. 2026-11-04: Q&A reformatted as question-and-answer pairs and reviewed; verse references added with Claude Code

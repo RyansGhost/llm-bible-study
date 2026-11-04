@@ -113,16 +113,45 @@ Jesus builds God's true house, his church, against which the gates of hell will 
 
 ## Q&A
 
-1. What was Nehemiah's job in Persia? Cupbearer to King Artaxerxes (1:11).
-2. What news made Nehemiah weep? That Jerusalem's wall was broken down and its gates burned (1:3–4).
-3. What did Nehemiah do before answering the king? He prayed silently to God (2:4–5).
-4. Who were Nehemiah's main opponents? Sanballat, Tobiah and Geshem (2:19).
-5. How did the builders protect themselves? Working with a tool in one hand and a weapon in the other, with guards posted (4:16–18).
-6. How long did the wall take to finish? Fifty-two days (6:15).
-7. Who read the law to the people? Ezra (8:1–3).
-8. What did Nehemiah tell the weeping people? "Do not be grieved, for the joy of the Lord is your strength" (8:10).
-9. What did the people promise in the covenant of chapter 10? Not to marry pagans, to keep the Sabbath, and to support the temple.
-10. What problems did Nehemiah find on his return? Tobiah in the temple, unpaid Levites, Sabbath-breaking and mixed marriages (13).
+1. **Q:** What was Nehemiah's job in Persia?
+
+   **A:** Cupbearer to King Artaxerxes (1:11).
+
+2. **Q:** What news made Nehemiah weep?
+
+   **A:** That Jerusalem's wall was broken down and its gates burned (1:3–4).
+
+3. **Q:** What did Nehemiah do before answering the king?
+
+   **A:** He prayed silently to God (2:4–5).
+
+4. **Q:** Who were Nehemiah's main opponents?
+
+   **A:** Sanballat, Tobiah and Geshem (2:19).
+
+5. **Q:** How did the builders protect themselves?
+
+   **A:** Working with a tool in one hand and a weapon in the other, with guards posted (4:16–18).
+
+6. **Q:** How long did the wall take to finish?
+
+   **A:** Fifty-two days (6:15).
+
+7. **Q:** Who read the law to the people?
+
+   **A:** Ezra (8:1–3).
+
+8. **Q:** What did Nehemiah tell the weeping people?
+
+   **A:** "Do not be grieved, for the joy of the Lord is your strength" (8:10).
+
+9. **Q:** What did the people promise in the covenant of chapter 10?
+
+   **A:** Not to marry pagans, to keep the Sabbath, and to support the temple (10:30–39).
+
+10. **Q:** What problems did Nehemiah find on his return?
+
+    **A:** Tobiah in the temple, unpaid Levites, Sabbath-breaking and mixed marriages (13).
 
 ## Sources
 
@@ -134,3 +163,4 @@ Jesus builds God's true house, his church, against which the gates of hell will 
 
 1. 2026-11-04: Generated initial notes with Claude Code
 2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code
+3. 2026-11-04: Q&A reformatted as question-and-answer pairs and reviewed; verse references added with Claude Code

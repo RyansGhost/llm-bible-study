@@ -98,16 +98,45 @@ Christ is at the centre of God's plan: "to unite all things in him, things in he
 
 ## Q&A
 
-1. Where was Paul when he wrote Ephesians? In prison (3:1; 4:1; 6:20).
-2. With what has God blessed us in Christ? Every spiritual blessing in the heavenly places (1:3).
-3. When did God choose us in Christ? Before the foundation of the world (1:4).
-4. With what were believers sealed? The promised Holy Spirit (1:13).
-5. How are we saved, according to 2:8–9? By grace through faith, not by works.
-6. What did Christ break down between Jew and Gentile? The dividing wall of hostility (2:14).
-7. Name the "ones" of 4:4–6. One body, one Spirit, one hope, one Lord, one faith, one baptism, one God and Father of all.
-8. Why does Christ give apostles, prophets, evangelists, and shepherds and teachers? To equip the saints for ministry and build up the body (4:11–12).
-9. How should husbands love their wives? As Christ loved the church and gave himself up for her (5:25).
-10. What is the sword of the Spirit? The word of God (6:17).
+1. **Q:** Where was Paul when he wrote Ephesians?
+
+   **A:** In prison (3:1; 4:1; 6:20).
+
+2. **Q:** With what has God blessed us in Christ?
+
+   **A:** Every spiritual blessing in the heavenly places (1:3).
+
+3. **Q:** When did God choose us in Christ?
+
+   **A:** Before the foundation of the world (1:4).
+
+4. **Q:** With what were believers sealed?
+
+   **A:** The promised Holy Spirit (1:13).
+
+5. **Q:** How are we saved, according to 2:8–9?
+
+   **A:** By grace through faith, not by works.
+
+6. **Q:** What did Christ break down between Jew and Gentile?
+
+   **A:** The dividing wall of hostility (2:14).
+
+7. **Q:** What are the "ones" of 4:4–6?
+
+   **A:** One body, one Spirit, one hope, one Lord, one faith, one baptism, one God and Father of all.
+
+8. **Q:** Why does Christ give apostles, prophets, evangelists, and shepherds and teachers?
+
+   **A:** To equip the saints for ministry and build up the body (4:11–12).
+
+9. **Q:** How should husbands love their wives?
+
+   **A:** As Christ loved the church and gave himself up for her (5:25).
+
+10. **Q:** What is the sword of the Spirit?
+
+    **A:** The word of God (6:17).
 
 ## Sources
 
@@ -120,3 +149,4 @@ Christ is at the centre of God's plan: "to unite all things in him, things in he
 1. 2026-11-04: Generated initial notes with Claude Code
 2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code
 3. 2026-11-04: Structure regrouped into nested sections, combining the earlier outline with the Reformation Study Bible's divisions
+4. 2026-11-04: Q&A reformatted as question-and-answer pairs and reviewed; verse references added with Claude Code

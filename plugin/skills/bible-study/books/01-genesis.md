@@ -170,17 +170,49 @@ Joseph, rejected by his brothers and raised to save many lives, is a pattern of 
 
 ## Q&A
 
-1. What does "Genesis" mean, and why does it fit? "Beginning": the book tells of the beginning of the world, humanity, sin, redemption and Israel.
-2. What is the first gospel promise in the Bible? Genesis 3:15: the woman's offspring will crush the serpent's head.
-3. What was the sign of God's covenant with Noah? The rainbow (9:13).
-4. What three things did God promise Abram in Genesis 12? Land, offspring (a great nation), and blessing for all families of the earth.
-5. Which verse says Abraham was counted righteous by faith? Genesis 15:6.
-6. What did God provide in place of Isaac? A ram caught in a thicket (22:13).
-7. Who bought Esau's birthright, and for what? Jacob, for a bowl of stew (25:29–34).
-8. Where did Jacob dream of the stairway to heaven? Bethel (28:19).
-9. What was Jacob renamed, and when? Israel, after wrestling with God at Peniel (32:28).
-10. How did Joseph explain his brothers' betrayal? "You meant evil against me, but God meant it for good" (50:20).
-11. Which son received the promise of the sceptre? Judah (49:10).
+1. **Q:** What do the book's Greek and Hebrew titles mean?
+
+   **A:** The Greek title, Genesis, means "origin"; the Hebrew title is its first words, "In the beginning" (1:1).
+
+2. **Q:** What is the first gospel promise in the Bible?
+
+   **A:** Genesis 3:15: the woman's offspring will crush the serpent's head.
+
+3. **Q:** What was the sign of God's covenant with Noah?
+
+   **A:** The rainbow (9:13).
+
+4. **Q:** What three things did God promise Abram in Genesis 12?
+
+   **A:** Land, offspring (a great nation), and blessing for all the families of the earth (12:1–3).
+
+5. **Q:** Which verse says Abraham was counted righteous by faith?
+
+   **A:** Genesis 15:6.
+
+6. **Q:** What did God provide in place of Isaac?
+
+   **A:** A ram caught in a thicket (22:13).
+
+7. **Q:** Who bought Esau's birthright, and for what?
+
+   **A:** Jacob, for a bowl of stew (25:29–34).
+
+8. **Q:** Where did Jacob dream of the stairway to heaven?
+
+   **A:** Bethel (28:19).
+
+9. **Q:** What was Jacob renamed, and when?
+
+   **A:** Israel, after wrestling with God at Peniel (32:28).
+
+10. **Q:** Which son received the promise of the sceptre?
+
+    **A:** Judah (49:10).
+
+11. **Q:** How did Joseph explain his brothers' betrayal?
+
+    **A:** "You meant evil against me, but God meant it for good" (50:20).
 
 ## Sources
 
@@ -194,3 +226,4 @@ Joseph, rejected by his brothers and raised to save many lives, is a pattern of 
 1. 2026-11-04: Generated initial notes with Claude Code
 2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code
 3. 2026-11-04: Structure regrouped into nested sections, combining the earlier outline with the Reformation Study Bible's divisions
+4. 2026-11-04: Q&A reformatted as question-and-answer pairs and reviewed; verse references added with Claude Code

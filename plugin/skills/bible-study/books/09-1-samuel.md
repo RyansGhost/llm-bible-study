@@ -133,16 +133,45 @@ Jesus himself cites David eating the holy bread at Nob (21; Mark 2:25–26). Lik
 
 ## Q&A
 
-1. Who was Samuel's mother, and what did she vow? Hannah; to give her son to the Lord all his life (1:11).
-2. What did Samuel say when God called him? "Speak, for your servant hears" (3:10).
-3. What does Ichabod mean? "The glory has departed", because the ark was captured (4:21).
-4. Why did Israel ask for a king? To be like all the nations and have someone to fight their battles (8:5, 20).
-5. Who was Israel's first king? Saul, from the tribe of Benjamin (9–10).
-6. What did Samuel tell Saul after he spared Agag? "To obey is better than sacrifice" (15:22).
-7. Why was David chosen over his older brothers? "The Lord looks on the heart" (16:7).
-8. How did David defeat Goliath? With a sling and a stone, in the name of the Lord (17:45–50).
-9. How did Jonathan warn David? With a signal of arrows shot in the field (20).
-10. How did Saul die? Wounded in battle against the Philistines on Mount Gilboa, he fell on his own sword (31:4).
+1. **Q:** Who was Samuel's mother, and what did she vow?
+
+   **A:** Hannah; to give her son to the Lord all his life (1:11).
+
+2. **Q:** What did Samuel say when God called him?
+
+   **A:** "Speak, for your servant hears" (3:10).
+
+3. **Q:** What does Ichabod mean?
+
+   **A:** "The glory has departed", because the ark was captured (4:21).
+
+4. **Q:** Why did Israel ask for a king?
+
+   **A:** To be like all the nations and have someone to fight their battles (8:5, 20).
+
+5. **Q:** Who was Israel's first king?
+
+   **A:** Saul, from the tribe of Benjamin (9:1–2; 10:1).
+
+6. **Q:** What did Samuel tell Saul after he spared Agag?
+
+   **A:** "To obey is better than sacrifice" (15:22).
+
+7. **Q:** Why was David chosen over his older brothers?
+
+   **A:** "The Lord looks on the heart" (16:7).
+
+8. **Q:** How did David defeat Goliath?
+
+   **A:** With a sling and a stone, in the name of the Lord (17:45–50).
+
+9. **Q:** How did Jonathan warn David?
+
+   **A:** With a signal of arrows shot in the field (20:35–42).
+
+10. **Q:** How did Saul die?
+
+    **A:** Wounded in battle against the Philistines on Mount Gilboa, he fell on his own sword (31:4).
 
 ## Sources
 
@@ -154,3 +183,4 @@ Jesus himself cites David eating the holy bread at Nob (21; Mark 2:25–26). Lik
 
 1. 2026-11-04: Generated initial notes with Claude Code
 2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code
+3. 2026-11-04: Q&A reformatted as question-and-answer pairs and reviewed; verse references added with Claude Code

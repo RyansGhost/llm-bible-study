@@ -1,0 +1,17 @@
+{{- /* Renders a book's content, turning the Q&A section's plain-markdown
+     "**Q:**" and "**A:**" labels into styled badges. The markdown source and
+     the page's index.md copy keep the plain labels; only this HTML changes.
+     Screen readers hear "Question:" / "Answer:" instead of the letters. */ -}}
+{{- $c := string .Content -}}
+{{- with findRE `(?s)<h2 id="qa">.*?(?:<h2|$)` $c 1 -}}
+  {{- $old := index . 0 -}}
+  {{- $q := `<span class="qa-tag qa-q"><span aria-hidden="true">Q</span><span class="visually-hidden">Question: </span></span>` -}}
+  {{- $a := `<span class="qa-tag qa-a"><span aria-hidden="true">A</span><span class="visually-hidden">Answer: </span></span>` -}}
+  {{- $new := replaceRE `<strong>Q:</strong>\s*` $q $old -}}
+  {{- $new = replaceRE `<strong>A:</strong>\s*` $a $new -}}
+  {{- $new = replace $new "<ol>" `<ol class="qa-list">` 1 -}}
+  {{- /* keep "(v. 4)" and "(vv. 3–5)" from breaking after the abbreviation */ -}}
+  {{- $new = replaceRE `\b(vv?)\. (\d)` "$1.&nbsp;$2" $new -}}
+  {{- $c = replace $c $old $new -}}
+{{- end -}}
+{{- $c | safeHTML -}}

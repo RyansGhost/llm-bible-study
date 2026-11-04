@@ -78,16 +78,45 @@ The God who is both slow to anger and just shows both perfectly at the cross, wh
 
 ## Q&A
 
-1. Which city's fall does Nahum announce? Nineveh, the capital of Assyria.
-2. When did Nineveh fall? In 612 BC.
-3. What does the name Nahum mean? "Comfort".
-4. How is God described in 1:3? Slow to anger and great in power, who will by no means clear the guilty.
-5. What does Nahum 1:7 say about the Lord? He is good, a stronghold in the day of trouble, and knows those who take refuge in him.
-6. What good news does 1:15 announce? Peace for Judah: the oppressor is cut off.
-7. Which city's fall does Nahum use as a warning to Nineveh? Thebes in Egypt (3:8).
-8. What does Nahum call Nineveh in chapter 3? "The bloody city, all full of lies and plunder" (3:1).
-9. Which earlier prophet also went to Nineveh? Jonah.
-10. How does the book end? With everyone clapping at Nineveh's fall, because all had suffered its cruelty (3:19).
+1. **Q:** Which city's fall does Nahum announce?
+
+   **A:** Nineveh, the capital of Assyria (1:1; 2:8).
+
+2. **Q:** When did Nineveh fall?
+
+   **A:** In 612 BC.
+
+3. **Q:** What does the name Nahum mean?
+
+   **A:** "Comfort".
+
+4. **Q:** How is God described in 1:3?
+
+   **A:** Slow to anger and great in power, who will by no means clear the guilty.
+
+5. **Q:** What does Nahum 1:7 say about the Lord?
+
+   **A:** He is good, a stronghold in the day of trouble, and knows those who take refuge in him.
+
+6. **Q:** What good news does 1:15 announce?
+
+   **A:** Peace for Judah: the oppressor is cut off.
+
+7. **Q:** Which city's fall does Nahum use as a warning to Nineveh?
+
+   **A:** Thebes in Egypt (3:8).
+
+8. **Q:** What does Nahum call Nineveh in chapter 3?
+
+   **A:** "The bloody city, all full of lies and plunder" (3:1).
+
+9. **Q:** Which earlier prophet also went to Nineveh?
+
+   **A:** Jonah, a century or more earlier, when Nineveh repented (Jonah 3:3–10).
+
+10. **Q:** How does the book end?
+
+    **A:** With everyone clapping at Nineveh's fall, because all had suffered its cruelty (3:19).
 
 ## Sources
 
@@ -99,3 +128,4 @@ The God who is both slow to anger and just shows both perfectly at the cross, wh
 
 1. 2026-11-04: Generated initial notes with Claude Code
 2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code
+3. 2026-11-04: Q&A reformatted as question-and-answer pairs and reviewed; verse references added with Claude Code

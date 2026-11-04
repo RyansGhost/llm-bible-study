@@ -92,16 +92,45 @@ Peter, an eyewitness of Christ's sufferings (5:1), shows Jesus as the fulfilment
 
 ## Q&A
 
-1. How does Peter address his readers in 1:1? As elect exiles of the dispersion.
-2. To what has God caused us to be born again? A living hope, through the resurrection of Jesus Christ (1:3).
-3. With what were believers ransomed? The precious blood of Christ, like a lamb without blemish (1:18–19).
-4. What command from Leviticus does Peter quote? "You shall be holy, for I am holy" (1:16).
-5. What four titles does 2:9 give the church? A chosen race, a royal priesthood, a holy nation, a people for his own possession.
-6. What did Christ do with our sins, according to 2:24? He bore them in his body on the tree.
-7. What should Christians always be prepared to do? Give a defence for the hope that is in them, with gentleness and respect (3:15).
-8. How does Peter describe Christ's death in 3:18? He suffered once for sins, the righteous for the unrighteous, to bring us to God.
-9. What should we not be surprised at? The fiery trial (4:12).
-10. To what does Peter compare the devil? A roaring lion, seeking someone to devour (5:8).
+1. **Q:** How does Peter address his readers in 1:1?
+
+   **A:** As elect exiles of the dispersion.
+
+2. **Q:** To what has God caused us to be born again?
+
+   **A:** A living hope, through the resurrection of Jesus Christ (1:3).
+
+3. **Q:** With what were believers ransomed?
+
+   **A:** The precious blood of Christ, like a lamb without blemish (1:18–19).
+
+4. **Q:** What command from Leviticus does Peter quote?
+
+   **A:** "You shall be holy, for I am holy" (1:16; Lev 11:44).
+
+5. **Q:** What four titles does 2:9 give the church?
+
+   **A:** A chosen race, a royal priesthood, a holy nation, a people for his own possession.
+
+6. **Q:** What did Christ do with our sins, according to 2:24?
+
+   **A:** He bore them in his body on the tree.
+
+7. **Q:** What should Christians always be prepared to do?
+
+   **A:** Give a defence for the hope that is in them, with gentleness and respect (3:15).
+
+8. **Q:** How does Peter describe Christ's death in 3:18?
+
+   **A:** He suffered once for sins, the righteous for the unrighteous, to bring us to God.
+
+9. **Q:** What should we not be surprised at?
+
+   **A:** The fiery trial (4:12).
+
+10. **Q:** To what does Peter compare the devil?
+
+    **A:** A roaring lion, seeking someone to devour (5:8).
 
 ## Sources
 
@@ -113,3 +142,4 @@ Peter, an eyewitness of Christ's sufferings (5:1), shows Jesus as the fulfilment
 
 1. 2026-11-04: Generated initial notes with Claude Code
 2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code
+3. 2026-11-04: Q&A reformatted as question-and-answer pairs and reviewed; verse references added with Claude Code

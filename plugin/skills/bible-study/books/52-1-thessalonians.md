@@ -91,16 +91,45 @@ The believers wait for God's Son from heaven, "whom he raised from the dead, Jes
 
 ## Q&A
 
-1. Where was Paul when he wrote 1 Thessalonians? In Corinth, on his second missionary journey.
-2. Who are named as co-senders? Silvanus (Silas) and Timothy (1:1).
-3. What three qualities does Paul thank God for in 1:3? Work of faith, labour of love and steadfastness of hope.
-4. From what had the Thessalonians turned to God? Idols (1:9).
-5. How did the Thessalonians receive Paul's message? Not as the word of men but as the word of God (2:13).
-6. Whom did Paul send to strengthen them, and what did he report? Timothy, with good news of their faith and love (3:2, 6).
-7. What does Paul say is God's will for them in 4:3? Their sanctification, abstaining from sexual immorality.
-8. When the Lord descends from heaven, who will rise first? The dead in Christ (4:16).
-9. How will the day of the Lord come? Like a thief in the night (5:2).
-10. What three commands come in 5:16–18? Rejoice always, pray without ceasing, give thanks in all circumstances.
+1. **Q:** Where was Paul when he wrote 1 Thessalonians?
+
+   **A:** In Corinth, on his second missionary journey, soon after Timothy's report (3:6; Acts 18:1–5).
+
+2. **Q:** Who are named as co-senders?
+
+   **A:** Silvanus (Silas) and Timothy (1:1).
+
+3. **Q:** What three qualities does Paul thank God for in 1:3?
+
+   **A:** Work of faith, labour of love and steadfastness of hope.
+
+4. **Q:** From what had the Thessalonians turned to God?
+
+   **A:** Idols (1:9).
+
+5. **Q:** How did the Thessalonians receive Paul's message?
+
+   **A:** Not as the word of men but as the word of God (2:13).
+
+6. **Q:** Whom did Paul send to strengthen them, and what did he report?
+
+   **A:** Timothy, with good news of their faith and love (3:2, 6).
+
+7. **Q:** What does Paul say is God's will for them in 4:3?
+
+   **A:** Their sanctification, abstaining from sexual immorality.
+
+8. **Q:** When the Lord descends from heaven, who will rise first?
+
+   **A:** The dead in Christ (4:16).
+
+9. **Q:** How will the day of the Lord come?
+
+   **A:** Like a thief in the night (5:2).
+
+10. **Q:** What three commands come in 5:16–18?
+
+    **A:** Rejoice always, pray without ceasing, give thanks in all circumstances.
 
 ## Sources
 
@@ -111,3 +140,4 @@ The believers wait for God's Son from heaven, "whom he raised from the dead, Jes
 
 1. 2026-11-04: Generated initial notes with Claude Code
 2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code
+3. 2026-11-04: Q&A reformatted as question-and-answer pairs and reviewed; verse references added with Claude Code

@@ -96,16 +96,45 @@ James names Jesus only twice: "the Lord Jesus Christ" (1:1) and "our glorious Lo
 
 ## Q&A
 
-1. To whom is James written? "To the twelve tribes in the Dispersion" (1:1): Jewish Christians scattered abroad.
-2. How should we respond to trials? Count it all joy, because testing produces steadfastness (1:2–3).
-3. What should anyone lacking wisdom do? Ask God, who gives generously, in faith without doubting (1:5).
-4. From whom does every good and perfect gift come? The Father of lights (1:17).
-5. What should we be, besides hearers of the word? Doers of the word (1:22).
-6. What is pure religion, according to 1:27? Visiting orphans and widows in their affliction, and keeping oneself unstained from the world.
-7. What sin does James 2:1–7 warn against? Showing favouritism to the rich.
-8. What does James say about faith without works? It is dead (2:17, 26).
-9. What small part of the body does James compare to a fire? The tongue (3:5–6).
-10. What does James say about the prayer of a righteous person? It has great power as it is working (5:16).
+1. **Q:** To whom is James written?
+
+   **A:** "To the twelve tribes in the Dispersion" (1:1): Jewish Christians scattered abroad.
+
+2. **Q:** How should we respond to trials?
+
+   **A:** Count it all joy, because testing produces steadfastness (1:2–3).
+
+3. **Q:** What should anyone lacking wisdom do?
+
+   **A:** Ask God, who gives generously, in faith without doubting (1:5).
+
+4. **Q:** From whom does every good and perfect gift come?
+
+   **A:** The Father of lights (1:17).
+
+5. **Q:** What should we be, besides hearers of the word?
+
+   **A:** Doers of the word (1:22).
+
+6. **Q:** What is pure religion, according to 1:27?
+
+   **A:** Visiting orphans and widows in their affliction, and keeping oneself unstained from the world.
+
+7. **Q:** What sin does James 2:1–7 warn against?
+
+   **A:** Showing favouritism to the rich.
+
+8. **Q:** What does James say about faith without works?
+
+   **A:** It is dead (2:17, 26).
+
+9. **Q:** What small part of the body does James compare to a fire?
+
+   **A:** The tongue (3:5–6).
+
+10. **Q:** What does James say about the prayer of a righteous person?
+
+    **A:** It has great power as it is working (5:16).
 
 ## Sources
 
@@ -117,3 +146,4 @@ James names Jesus only twice: "the Lord Jesus Christ" (1:1) and "our glorious Lo
 
 1. 2026-11-04: Generated initial notes with Claude Code
 2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code
+3. 2026-11-04: Q&A reformatted as question-and-answer pairs and reviewed; verse references added with Claude Code

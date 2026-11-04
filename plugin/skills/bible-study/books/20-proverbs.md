@@ -132,16 +132,45 @@ Proverbs describes the perfectly wise, righteous person who fears the Lord. Only
 
 ## Q&A
 
-1. What is the motto of Proverbs? "The fear of the Lord is the beginning of knowledge" (1:7).
-2. Who wrote most of Proverbs? Solomon (1:1; 10:1; 25:1).
-3. Who else contributed? The wise men, Agur, and King Lemuel's mother (22:17; 30:1; 31:1).
-4. What does Proverbs 3:5–6 say? "Trust in the Lord with all your heart, and do not lean on your own understanding …"
-5. Which insect does Proverbs hold up to the sluggard? The ant (6:6).
-6. What turns away wrath? A soft answer (15:1).
-7. What goes before destruction? Pride (16:18).
-8. Who copied out more of Solomon's proverbs? The men of Hezekiah, king of Judah (25:1).
-9. What sharpens a person, according to 27:17? Another person, as iron sharpens iron.
-10. How does Proverbs end? With the poem of the excellent wife who fears the Lord (31:10–31).
+1. **Q:** What is the motto of Proverbs?
+
+   **A:** "The fear of the Lord is the beginning of knowledge" (1:7).
+
+2. **Q:** Who wrote most of Proverbs?
+
+   **A:** Solomon (1:1; 10:1; 25:1).
+
+3. **Q:** Who else contributed?
+
+   **A:** The wise men, Agur, and King Lemuel's mother (22:17; 30:1; 31:1).
+
+4. **Q:** What does Proverbs 3:5–6 say?
+
+   **A:** "Trust in the Lord with all your heart, and do not lean on your own understanding …"
+
+5. **Q:** Which insect does Proverbs hold up to the sluggard?
+
+   **A:** The ant (6:6).
+
+6. **Q:** What turns away wrath?
+
+   **A:** A soft answer (15:1).
+
+7. **Q:** What goes before destruction?
+
+   **A:** Pride (16:18).
+
+8. **Q:** Who copied out more of Solomon's proverbs?
+
+   **A:** The men of Hezekiah, king of Judah (25:1).
+
+9. **Q:** What sharpens a person, according to 27:17?
+
+   **A:** Another person, as iron sharpens iron.
+
+10. **Q:** How does Proverbs end?
+
+    **A:** With the poem of the excellent wife who fears the Lord (31:10–31).
 
 ## Sources
 
@@ -153,3 +182,4 @@ Proverbs describes the perfectly wise, righteous person who fears the Lord. Only
 
 1. 2026-11-04: Generated initial notes with Claude Code
 2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code
+3. 2026-11-04: Q&A reformatted as question-and-answer pairs and reviewed; verse references added with Claude Code

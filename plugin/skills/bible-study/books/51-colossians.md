@@ -101,16 +101,45 @@ The Old Testament food laws, festivals and Sabbaths were "a shadow of the things
 
 ## Q&A
 
-1. Who founded the church at Colossae? Epaphras (1:7).
-2. What does Colossians 1:15 call Christ? The image of the invisible God, the firstborn of all creation.
-3. Through whom and for whom were all things created? Christ (1:16).
-4. What is the mystery Paul proclaims? "Christ in you, the hope of glory" (1:27).
-5. What dwells bodily in Christ? The whole fullness of deity (2:9).
-6. What did God do with the record of debt against us? Cancelled it, nailing it to the cross (2:14).
-7. What are food laws, festivals and Sabbaths, compared with Christ? A shadow; the substance belongs to Christ (2:17).
-8. Since we have been raised with Christ, what should we seek? The things above, where Christ is seated (3:1).
-9. What should we put on above all? Love, which binds everything together in harmony (3:14).
-10. Which runaway slave is mentioned in Colossians? Onesimus (4:9).
+1. **Q:** Who founded the church at Colossae?
+
+   **A:** Epaphras (1:7).
+
+2. **Q:** What does Colossians 1:15 call Christ?
+
+   **A:** The image of the invisible God, the firstborn of all creation.
+
+3. **Q:** Through whom and for whom were all things created?
+
+   **A:** Christ (1:16).
+
+4. **Q:** What is the mystery Paul proclaims?
+
+   **A:** "Christ in you, the hope of glory" (1:27).
+
+5. **Q:** What dwells bodily in Christ?
+
+   **A:** The whole fullness of deity (2:9).
+
+6. **Q:** What did God do with the record of debt against us?
+
+   **A:** Cancelled it, nailing it to the cross (2:14).
+
+7. **Q:** What are food laws, festivals and Sabbaths, compared with Christ?
+
+   **A:** A shadow; the substance belongs to Christ (2:17).
+
+8. **Q:** Since we have been raised with Christ, what should we seek?
+
+   **A:** The things above, where Christ is seated (3:1).
+
+9. **Q:** What should we put on above all?
+
+   **A:** Love, which binds everything together in harmony (3:14).
+
+10. **Q:** Which runaway slave is mentioned in Colossians?
+
+    **A:** Onesimus (4:9).
 
 ## Sources
 
@@ -121,3 +150,4 @@ The Old Testament food laws, festivals and Sabbaths were "a shadow of the things
 
 1. 2026-11-04: Generated initial notes with Claude Code
 2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code
+3. 2026-11-04: Q&A reformatted as question-and-answer pairs and reviewed; verse references added with Claude Code

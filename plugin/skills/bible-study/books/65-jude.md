@@ -96,16 +96,45 @@ Jesus Christ is "our only Master and Lord" (v. 4), whom the false teachers deny.
 
 ## Q&A
 
-1. Who wrote Jude? Jude, a servant of Jesus Christ and brother of James (v. 1).
-2. What did Jude urge his readers to do? Contend for the faith that was once for all delivered to the saints (v. 3).
-3. What were the intruders doing with God's grace? Perverting it into sensuality (v. 4).
-4. Which three examples of judgment does Jude give in vv. 5–7? Israel's unbelievers in the wilderness, the angels who sinned, and Sodom and Gomorrah.
-5. What did Michael say when disputing with the devil? "The Lord rebuke you" (v. 9).
-6. Which three Old Testament figures does v. 11 name? Cain, Balaam and Korah.
-7. Name two pictures Jude uses for the false teachers. Any of: hidden reefs, waterless clouds, fruitless trees, wild waves, wandering stars (vv. 12–13).
-8. Whose prophecy does Jude quote? Enoch's, the seventh from Adam (vv. 14–15).
-9. How should believers keep themselves? Building themselves up in the faith, praying in the Holy Spirit, keeping themselves in God's love, and waiting for Christ's mercy (vv. 20–21).
-10. What is God able to do, according to v. 24? Keep you from stumbling and present you blameless before his glory with great joy.
+1. **Q:** Who wrote Jude?
+
+   **A:** Jude, a servant of Jesus Christ and brother of James (v. 1).
+
+2. **Q:** What did Jude urge his readers to do?
+
+   **A:** Contend for the faith that was once for all delivered to the saints (v. 3).
+
+3. **Q:** What were the intruders doing with God's grace?
+
+   **A:** Perverting it into sensuality (v. 4).
+
+4. **Q:** Which three examples of judgment does Jude give in vv. 5–7?
+
+   **A:** Israel's unbelievers in the wilderness, the angels who sinned, and Sodom and Gomorrah.
+
+5. **Q:** What did Michael say when disputing with the devil?
+
+   **A:** "The Lord rebuke you" (v. 9).
+
+6. **Q:** Which three Old Testament figures does v. 11 name?
+
+   **A:** Cain, Balaam and Korah.
+
+7. **Q:** What are two pictures Jude uses for the false teachers?
+
+   **A:** Any of: hidden reefs, waterless clouds, fruitless trees, wild waves, wandering stars (vv. 12–13).
+
+8. **Q:** Whose prophecy does Jude quote?
+
+   **A:** Enoch's, the seventh from Adam (vv. 14–15).
+
+9. **Q:** How should believers keep themselves?
+
+   **A:** Building themselves up in the faith, praying in the Holy Spirit, keeping themselves in God's love, and waiting for Christ's mercy (vv. 20–21).
+
+10. **Q:** What is God able to do, according to v. 24?
+
+    **A:** Keep you from stumbling and present you blameless before his glory with great joy.
 
 ## Sources
 
@@ -116,3 +145,4 @@ Jesus Christ is "our only Master and Lord" (v. 4), whom the false teachers deny.
 
 1. 2026-11-04: Generated initial notes with Claude Code
 2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code
+3. 2026-11-04: Q&A reformatted as question-and-answer pairs and reviewed; verse references added with Claude Code

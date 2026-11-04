@@ -84,16 +84,45 @@ On the day of Pentecost, Peter declared that Joel's promise of the Spirit poured
 
 ## Q&A
 
-1. What disaster struck Judah in Joel? A plague of locusts (1:4).
-2. What did Joel call the people to do? Fast, weep, and return to the Lord with all their heart (1:14; 2:12).
-3. What should be torn, according to 2:13? Their hearts, not their garments.
-4. How is God described in 2:13? Gracious and merciful, slow to anger, abounding in steadfast love.
-5. What did God promise to restore? The years the locusts had eaten (2:25).
-6. On whom will God pour out his Spirit? On all flesh: sons and daughters, old and young, male and female servants (2:28–29).
-7. Who will be saved on the day of the Lord? Everyone who calls on the name of the Lord (2:32).
-8. Where are the nations judged? In the Valley of Jehoshaphat (3:2, 12).
-9. Who quoted Joel on the day of Pentecost? Peter (Acts 2:16–21).
-10. How does Joel end? With the promise that the Lord dwells in Zion (3:21).
+1. **Q:** What disaster struck Judah in Joel?
+
+   **A:** A plague of locusts (1:4).
+
+2. **Q:** What did Joel call the people to do?
+
+   **A:** Fast, weep, and return to the Lord with all their heart (1:14; 2:12).
+
+3. **Q:** What should be torn, according to 2:13?
+
+   **A:** Their hearts, not their garments.
+
+4. **Q:** How is God described in 2:13?
+
+   **A:** Gracious and merciful, slow to anger, abounding in steadfast love.
+
+5. **Q:** What did God promise to restore?
+
+   **A:** The years the locusts had eaten (2:25).
+
+6. **Q:** On whom will God pour out his Spirit?
+
+   **A:** On all flesh: sons and daughters, old and young, male and female servants (2:28–29).
+
+7. **Q:** Who will be saved on the day of the Lord?
+
+   **A:** Everyone who calls on the name of the Lord (2:32).
+
+8. **Q:** Where are the nations judged?
+
+   **A:** In the Valley of Jehoshaphat (3:2, 12).
+
+9. **Q:** Who quoted Joel on the day of Pentecost?
+
+   **A:** Peter (Acts 2:16–21).
+
+10. **Q:** How does Joel end?
+
+    **A:** With the promise that the Lord dwells in Zion (3:21).
 
 ## Sources
 
@@ -105,3 +134,4 @@ On the day of Pentecost, Peter declared that Joel's promise of the Spirit poured
 
 1. 2026-11-04: Generated initial notes with Claude Code
 2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code
+3. 2026-11-04: Q&A reformatted as question-and-answer pairs and reviewed; verse references added with Claude Code
