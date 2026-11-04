@@ -114,3 +114,7 @@ The Old Testament food laws, festivals and Sabbaths were "a shadow of the things
 
 - Benjamin Gladd, "Colossians," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (occasion, authorship, date), Structure and Outline, Message and Theology. Print pages to verify.
 - Reformation Study Bible, introduction to Colossians, p. ___ (to verify)
+
+## Changelog
+
+1. 2026-11-04: Generated initial notes with Claude Code

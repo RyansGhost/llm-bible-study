@@ -95,3 +95,7 @@ The test of true teaching is the confession of "the coming of Jesus Christ in th
 
 - Charles E. Hill, "1–3 John," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): 2 John, Background Issues (authorship, audience), Structure and Outline, Message and Theology. Print pages to verify.
 - Reformation Study Bible, introduction to 2 John, p. ___ (to verify)
+
+## Changelog
+
+1. 2026-11-04: Generated initial notes with Claude Code

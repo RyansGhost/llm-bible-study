@@ -126,3 +126,7 @@ Joshua's filthy garments replaced with clean ones (3:3–5) pictures justificati
 - Daniel C. Timmer, "The Twelve," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Message and Theology (chronology, repentance, deliverance of the remnant, the nations' repentance and deliverance), Approaching the New Testament. Print pages to verify.
 - *The Lutheran Study Bible* (Concordia, 2009), introduction to Zechariah: Overview. Lutheran source.
 - Reformation Study Bible, introduction to Zechariah, p. ___ (to verify)
+
+## Changelog
+
+1. 2026-11-04: Generated initial notes with Claude Code

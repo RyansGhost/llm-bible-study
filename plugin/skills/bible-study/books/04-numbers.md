@@ -152,3 +152,7 @@ The ashes of the red heifer cleansed the body; Christ's blood cleanses the consc
 - Michael J. Glodo, "Numbers," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues, Authorship, Date and Audience, Structure and Outline, Message and Theology. Print pages to verify.
 - *The Lutheran Study Bible* (Concordia, 2009), introduction to Numbers: Overview, Luther on Numbers, Challenges for Readers. Lutheran source.
 - Reformation Study Bible, introduction to Numbers, p. ___ (to verify)
+
+## Changelog
+
+1. 2026-11-04: Generated initial notes with Claude Code

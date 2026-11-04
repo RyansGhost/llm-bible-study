@@ -138,3 +138,7 @@ David buys the temple site at the place where judgment was stopped by sacrifice 
 - Richard L. Pratt Jr., "1–2 Chronicles," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues (authorship, audience, date, history and theology), Structure and Outline, Message and Theology (the people of God, king and temple). Print pages to verify.
 - *The Lutheran Study Bible* (Concordia, 2009), introduction to 1 and 2 Chronicles. Lutheran source.
 - Reformation Study Bible, introduction to 1 Chronicles, p. ___ (to verify)
+
+## Changelog
+
+1. 2026-11-04: Generated initial notes with Claude Code

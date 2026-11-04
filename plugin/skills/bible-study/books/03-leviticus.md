@@ -137,3 +137,7 @@ Jesus, untouched by uncleanness, touched lepers and made them clean (Mark 1:40â€
 - *The Lutheran Study Bible* (Concordia, 2009), introduction to Leviticus: Overview, Luther on Leviticus, Challenges for Readers. Lutheran source.
 - Westminster Confession of Faith 19.3â€“5 (ceremonial, civil and moral law).
 - Reformation Study Bible, introduction to Leviticus, p. ___ (to verify)
+
+## Changelog
+
+1. 2026-11-04: Generated initial notes with Claude Code

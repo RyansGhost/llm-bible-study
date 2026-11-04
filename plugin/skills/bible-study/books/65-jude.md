@@ -110,3 +110,7 @@ Jesus Christ is "our only Master and Lord" (v. 4), whom the false teachers deny.
 
 - Simon J. Kistemaker, "Jude," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (relationship to 2 Peter, authorship, date, canonicity), Structure and Outline, Message and Theology (antinomianism, judgment on sin, the glory of Christ). Print pages to verify.
 - Reformation Study Bible, introduction to Jude, p. ___ (to verify)
+
+## Changelog
+
+1. 2026-11-04: Generated initial notes with Claude Code

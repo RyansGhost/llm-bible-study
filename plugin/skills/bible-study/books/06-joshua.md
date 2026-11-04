@@ -145,3 +145,7 @@ Rahab, saved by faith and marked by a scarlet cord, appears in Jesus' genealogy 
 - Ligonier devotional on Joshua's courage: <https://learn.ligonier.org/devotionals/joshua-18>
 - Matthew Henry, *Commentary on the Whole Bible*, on Joshua 9 (the oath to the Gibeonites).
 - Reformation Study Bible, introduction to Joshua, p. ___ (to verify)
+
+## Changelog
+
+1. 2026-11-04: Generated initial notes with Claude Code

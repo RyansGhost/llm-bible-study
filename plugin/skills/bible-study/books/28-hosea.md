@@ -109,3 +109,7 @@ Hosea buying back his faithless wife pictures Christ, who redeems an unfaithful 
 - Daniel C. Timmer, "The Twelve," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues (the Twelve as a collection), Message and Theology (sin, punishment, repentance and deliverance; the day of the Lord), Approaching the New Testament. Print pages to verify.
 - *The Lutheran Study Bible* (Concordia, 2009), introduction to Hosea: Overview. Lutheran source.
 - Reformation Study Bible, introduction to Hosea, p. ___ (to verify)
+
+## Changelog
+
+1. 2026-11-04: Generated initial notes with Claude Code

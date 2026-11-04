@@ -138,3 +138,7 @@ Elijah's ministry anticipates the gospel. Jesus points to the widow of Zarephath
 - William B. Fullilove, "1–2 Kings," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues (author and date, genre, chronology, historical accuracy), Structure and Outline, Message and Theology (the Mosaic covenant, the Davidic covenant, the prophetic word). Print pages to verify.
 - *The Lutheran Study Bible* (Concordia, 2009), introduction to 1 and 2 Kings. Lutheran source.
 - Reformation Study Bible, introduction to 1 Kings, p. ___ (to verify)
+
+## Changelog
+
+1. 2026-11-04: Generated initial notes with Claude Code

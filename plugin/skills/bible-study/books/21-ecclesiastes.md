@@ -116,3 +116,7 @@ The "one Shepherd" who gives true wisdom (12:11) points to Christ, the Good Shep
 
 - Richard P. Belcher Jr., "Ecclesiastes," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues (authorship, the Hebrew of Ecclesiastes), Structure and Outline (literary analysis, the term Qohelet, different approaches), Message and Theology (the meaning of *hebel*, the main question, how Qohelet knows, the calls to enjoyment, Qohelet's view of God, the epilogue). Print pages to verify.
 - Reformation Study Bible, introduction to Ecclesiastes, p. ___ (to verify)
+
+## Changelog
+
+1. 2026-11-04: Generated initial notes with Claude Code

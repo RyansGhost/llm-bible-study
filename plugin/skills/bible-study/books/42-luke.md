@@ -138,3 +138,7 @@ Luke's genealogy traces him back to Adam (3:38), presenting him as the Saviour f
 
 - Robert J. Cara, "Luke," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (authorship and date, addressee, occasion and purpose, Luke and Acts), Structure and Outline, Message and Theology. Print pages to verify.
 - Reformation Study Bible, introduction to Luke, p. ___ (to verify)
+
+## Changelog
+
+1. 2026-11-04: Generated initial notes with Claude Code

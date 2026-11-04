@@ -109,3 +109,7 @@ James names Jesus only twice: "the Lord Jesus Christ" (1:1) and "our glorious Lo
 - Bruce A. Lowe, "James," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (authorship and date, occasion and purpose), Structure and Outline (genre, outline), Message and Theology (God, wisdom and change, Paul, faith and works, rich and poor). Print pages to verify.
 - *The Lutheran Study Bible* (Concordia, 2009), introduction to James: Overview, Luther on James, Challenges for Readers. Lutheran source.
 - Reformation Study Bible, introduction to James, p. ___ (to verify)
+
+## Changelog
+
+1. 2026-11-04: Generated initial notes with Claude Code

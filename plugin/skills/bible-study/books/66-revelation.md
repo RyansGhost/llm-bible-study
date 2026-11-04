@@ -141,3 +141,7 @@ The book's title is its theme: "the revelation of Jesus Christ" (1:1). He is "th
 - Charles E. Hill, "Revelation," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Introduction and Purpose, Background Issues (authorship, date, form and genre, approaches to Revelation, hermeneutical factors), Structure and Outline (four visions), Message and Theology. Print pages to verify.
 - *The Lutheran Study Bible* (Concordia, 2009), introduction to Revelation: Overview, Luther on Revelation (from his 1530 preface), Challenges for Readers. Lutheran source.
 - Reformation Study Bible, introduction to Revelation, p. ___ (to verify)
+
+## Changelog
+
+1. 2026-11-04: Generated initial notes with Claude Code

@@ -97,3 +97,7 @@ The rivalry of Esau and Jacob runs through the Bible, all the way to Herod the G
 - Daniel C. Timmer, "The Twelve," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Message and Theology (the sins and punishment of the nations, the day of the Lord, deliverance of the remnant). Print pages to verify.
 - *The Lutheran Study Bible* (Concordia, 2009), introduction to Obadiah: Overview. Lutheran source.
 - Reformation Study Bible, introduction to Obadiah, p. ___ (to verify)
+
+## Changelog
+
+1. 2026-11-04: Generated initial notes with Claude Code

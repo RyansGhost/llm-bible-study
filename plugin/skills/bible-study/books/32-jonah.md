@@ -100,3 +100,7 @@ Unlike Jonah, who fled from God's mission to the nations, Jesus willingly went t
 - Daniel C. Timmer, "The Twelve," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues (the orders of the Twelve), Message and Theology (repentance of the nations, deliverance of some among the nations), Approaching the New Testament. Print pages to verify.
 - *The Lutheran Study Bible* (Concordia, 2009), introduction to Jonah: Overview. Lutheran source.
 - Reformation Study Bible, introduction to Jonah, p. ___ (to verify)
+
+## Changelog
+
+1. 2026-11-04: Generated initial notes with Claude Code

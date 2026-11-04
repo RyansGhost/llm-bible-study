@@ -110,3 +110,7 @@ Galatians is a letter about Christ's sufficiency. He "gave himself for our sins 
 - Guy Prentiss Waters, "Galatians," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (location and date, Paul's opponents), Structure and Outline, Message and Theology (the issue, Paul's defence of his apostleship, the thesis, the argument). Print pages to verify.
 - Martin Luther, *Commentary on Galatians* (1535). Free at [Project Wittenberg](https://www.projectwittenberg.org/pub/resources/text/wittenberg/wittenberg-luther.html). Lutheran source.
 - Reformation Study Bible, introduction to Galatians, p. ___ (to verify)
+
+## Changelog
+
+1. 2026-11-04: Generated initial notes with Claude Code

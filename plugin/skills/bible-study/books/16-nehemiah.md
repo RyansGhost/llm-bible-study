@@ -122,3 +122,7 @@ Jesus builds God's true house, his church, against which the gates of hell will 
 - Mark D. Futato, "Ezra–Nehemiah," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues, Structure and Outline, Message and Theology (rebuilding the house of God, ordinary people, the written Word, sovereignty and responsibility). Print pages to verify.
 - *The Lutheran Study Bible* (Concordia, 2009), introduction to Nehemiah: Overview. Lutheran source.
 - Reformation Study Bible, introduction to Nehemiah, p. ___ (to verify)
+
+## Changelog
+
+1. 2026-11-04: Generated initial notes with Claude Code

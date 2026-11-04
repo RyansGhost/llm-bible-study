@@ -111,3 +111,7 @@ At the heart of the letter is the great exchange: God made Christ, who knew no s
 
 - Guy Prentiss Waters, "1–2 Corinthians," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues, Structure and Outline (outline of 2 Corinthians), Message and Theology (the redemptive-historical framework, the death and resurrection of Christ, the Spirit). Print pages to verify.
 - Reformation Study Bible, introduction to 2 Corinthians, p. ___ (to verify)
+
+## Changelog
+
+1. 2026-11-04: Generated initial notes with Claude Code

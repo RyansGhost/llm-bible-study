@@ -137,3 +137,7 @@ On the cross he declares, "It is finished" (19:30). After rising he breathes the
 
 - Michael J. Kruger, "John," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (authorship, occasion and purpose, date, historicity), Structure and Outline, Message and Theology (Christ as the one true God, as the bringer of new life, as the fulfilment of the Old Testament). Print pages to verify.
 - Reformation Study Bible, introduction to John, p. ___ (to verify)
+
+## Changelog
+
+1. 2026-11-04: Generated initial notes with Claude Code

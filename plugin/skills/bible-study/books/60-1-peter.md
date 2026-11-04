@@ -107,3 +107,7 @@ Peter, an eyewitness of Christ's sufferings (5:1), shows Jesus as the fulfilment
 - William B. Barcley, "1 Peter," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (authorship, occasion and date, audience), Structure and Outline, Message and Theology (living in a world that isn't our home, suffering after Christ's example, holiness, witness). Print pages to verify.
 - *The Lutheran Study Bible* (Concordia, 2009), introduction to 1 Peter: Overview, Luther on 1 Peter, Challenges for Readers. Lutheran source.
 - Reformation Study Bible, introduction to 1 Peter, p. ___ (to verify)
+
+## Changelog
+
+1. 2026-11-04: Generated initial notes with Claude Code

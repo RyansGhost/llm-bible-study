@@ -91,3 +91,7 @@ The God who is both slow to anger and just shows both perfectly at the cross, wh
 - Daniel C. Timmer, "The Twelve," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Message and Theology (chronology, the sins and punishment of the non-Israelite nations, the day of the Lord). Print pages to verify.
 - *The Lutheran Study Bible* (Concordia, 2009), introduction to Nahum: Overview. Lutheran source.
 - Reformation Study Bible, introduction to Nahum, p. ___ (to verify)
+
+## Changelog
+
+1. 2026-11-04: Generated initial notes with Claude Code

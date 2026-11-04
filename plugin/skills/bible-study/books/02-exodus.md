@@ -161,3 +161,7 @@ The tabernacle, God living among his people, is fulfilled when the Word "dwelt" 
 - *The Lutheran Study Bible* (Concordia, 2009), introduction to Exodus: Overview, Luther on Exodus, Challenges for Readers, Outline. Lutheran source.
 - Westminster Confession of Faith 19 (the law of God) and Westminster Shorter Catechism Q41–81 (the Ten Commandments).
 - Reformation Study Bible, introduction to Exodus, p. ___ (to verify)
+
+## Changelog
+
+1. 2026-11-04: Generated initial notes with Claude Code

@@ -145,3 +145,7 @@ Jesus himself cites David eating the holy bread at Nob (21; Mark 2:25–26). Lik
 - Michael G. McKelvey, "1–2 Samuel," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues, Structure and Outline, Message and Theology (Samuel, kingship, Saul, David, the heart). Print pages to verify.
 - *The Lutheran Study Bible* (Concordia, 2009), introduction to 1 and 2 Samuel: Overview, Reading 1 and 2 Samuel, Luther on 1 and 2 Samuel. Lutheran source.
 - Reformation Study Bible, introduction to 1 Samuel, p. ___ (to verify)
+
+## Changelog
+
+1. 2026-11-04: Generated initial notes with Claude Code

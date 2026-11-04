@@ -104,3 +104,7 @@ For Paul, knowing Christ, sharing his sufferings, and attaining the resurrection
 
 - Bruce A. Lowe, "Philippians," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (exile, prison and death; ancient farewells), Structure and Outline, Message and Theology. Print pages to verify.
 - Reformation Study Bible, introduction to Philippians, p. ___ (to verify)
+
+## Changelog
+
+1. 2026-11-04: Generated initial notes with Claude Code

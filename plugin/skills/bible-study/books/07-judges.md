@@ -132,3 +132,7 @@ Hebrews names Gideon, Barak, Samson and Jephthah among those who "through faith 
 - Michael J. Glodo, "Judges," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues, Structure and Outline, Message and Theology (the prologues, the cycles, each judge). Print pages to verify.
 - *The Lutheran Study Bible* (Concordia, 2009), introduction to Judges: Overview, Challenges for Readers. Lutheran source.
 - Reformation Study Bible, introduction to Judges, p. ___ (to verify)
+
+## Changelog
+
+1. 2026-11-04: Generated initial notes with Claude Code

@@ -143,3 +143,7 @@ Acts begins by calling the Gospel of Luke an account of "all that Jesus began to
 
 - Robert J. Cara, "Acts," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (historical background, historical accuracy, authorship and date, addressee and purposes, the Greek text), Structure and Outline (the Peter-and-Paul outline, the Holy Spirit-events outline). Print pages to verify.
 - Reformation Study Bible, introduction to Acts, p. ___ (to verify)
+
+## Changelog
+
+1. 2026-11-04: Generated initial notes with Claude Code

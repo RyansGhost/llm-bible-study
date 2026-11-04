@@ -103,3 +103,7 @@ Hill notes that John loves repetition, parallels and groups of three, so the let
 
 - Charles E. Hill, "1–3 John," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): 1 John, Background Issues (date, chronological order, place, authorship, purpose), Structure and Outline, Message and Theology (ethics, atonement, incarnation, sin, eschatology and antichrist). Print pages to verify.
 - Reformation Study Bible, introduction to 1 John, p. ___ (to verify)
+
+## Changelog
+
+1. 2026-11-04: Generated initial notes with Claude Code

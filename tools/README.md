@@ -57,13 +57,14 @@ python3 tools/epub_index.py search "scarlet cord"
 
 ## 3. Write the note
 
-Fill in the book file's template headings: Summary, Setting, Structure, Chapter by chapter, Key people, Key events, Themes, How it points to Christ, Common mix-ups, Going deeper, Q&A, and Sources. Follow `plugin/skills/bible-study/sources.md`:
+Fill in the book file's template headings: Summary, Setting, Structure, Chapter by chapter, Key people, Key events, Themes, How it points to Christ, Common mix-ups, Going deeper, Q&A, Sources, and Changelog. Follow `plugin/skills/bible-study/sources.md`:
 
 - **Own words.** Summarise; never copy study Bible introductions or notes. Quote only short phrases, in quotation marks, with the author named.
 - **Source order.** Scripture first, then the confessions, study Bibles, and commentaries. Every key event and theme gets chapter and verse.
 - **Cite what you used** in the book's Sources section, by author, work and chapter or section heading, e.g. *Calvin, Commentary on Joshua, on chapter 2*. EPUBs rarely carry print page numbers, so mark page numbers needed for print editions as "p. ___ (to verify)".
 - **Flag differences.** Where Luther or Spurgeon differ from the Reformed confessions, say so as `sources.md` describes.
-- **Set `status: draft`** in the front matter. Change it to `complete` only after the citations have been checked against the books.
+- **Set `status: draft`** in the front matter (shown on the site as "Human review pending"). Change it to `complete` only after a person has reviewed the notes and checked the citations against the books.
+- **Log it.** Add a dated line to the Changelog at the bottom of the file, e.g. `1. 2026-11-04: Generated initial notes with Claude Code`. Human reviews are added there by hand.
 
 ## Tests
 

@@ -171,3 +171,7 @@ Jesus quoted Jeremiah's temple sermon when he cleared the temple: "a den of robb
 
 - Peter Y. Lee, "Jeremiah," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues (historical setting, text of Jeremiah), Structure and Outline, Message and Theology (prosecutor of the Mosaic covenant, herald of the new covenant, "from repentance to redemption", the prophetic call). Print pages to verify.
 - Reformation Study Bible, introduction to Jeremiah, p. ___ (to verify)
+
+## Changelog
+
+1. 2026-11-04: Generated initial notes with Claude Code

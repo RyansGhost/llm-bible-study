@@ -95,3 +95,7 @@ On the day of Pentecost, Peter declared that Joel's promise of the Spirit poured
 - Daniel C. Timmer, "The Twelve," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Message and Theology (the day of the Lord, repentance, deliverance of the remnant, the nations), Approaching the New Testament. Print pages to verify.
 - *The Lutheran Study Bible* (Concordia, 2009), introduction to Joel: Overview. Lutheran source.
 - Reformation Study Bible, introduction to Joel, p. ___ (to verify)
+
+## Changelog
+
+1. 2026-11-04: Generated initial notes with Claude Code

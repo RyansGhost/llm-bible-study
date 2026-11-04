@@ -123,3 +123,7 @@ Hebrews is perhaps the most thoroughly Christ-centred interpretation of the Old 
 
 - Simon J. Kistemaker, "Hebrews," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (occasion, genre, authorship, date, provenance, purpose), Structure and Outline, Message and Theology. Print pages to verify.
 - Reformation Study Bible, introduction to Hebrews, p. ___ (to verify)
+
+## Changelog
+
+1. 2026-11-04: Generated initial notes with Claude Code

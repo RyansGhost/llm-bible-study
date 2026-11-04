@@ -104,3 +104,7 @@ The believers wait for God's Son from heaven, "whom he raised from the dead, Jes
 
 - Robert J. Cara, "1 Thessalonians," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (Thessalonica, authorship and date, occasion and purpose, 2:1–12), Structure and Outline, Message and Theology (be imitators, "consistent" eschatology, election and calling). Print pages to verify.
 - Reformation Study Bible, introduction to 1 Thessalonians, p. ___ (to verify)
+
+## Changelog
+
+1. 2026-11-04: Generated initial notes with Claude Code

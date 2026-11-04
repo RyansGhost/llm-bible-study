@@ -136,3 +136,7 @@ David fleeing Jerusalem across the Kidron, rejected by his own people (15:23), a
 - Michael G. McKelvey, "1–2 Samuel," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Structure and Outline, Message and Theology (David, the Davidic covenant, the heart, David and the Psalms), Approaching the New Testament. Print pages to verify.
 - *The Lutheran Study Bible* (Concordia, 2009), introduction to 1 and 2 Samuel. Lutheran source.
 - Reformation Study Bible, introduction to 2 Samuel, p. ___ (to verify)
+
+## Changelog
+
+1. 2026-11-04: Generated initial notes with Claude Code

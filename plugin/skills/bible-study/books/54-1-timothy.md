@@ -105,3 +105,7 @@ The letter centres on the "trustworthy saying" that Christ Jesus came into the w
 
 - William B. Barcley, "Introduction to the Pastoral Epistles" and "1 Timothy," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (authorship, date and occasion, false teaching, recipients), Structure and Outline, Message and Theology. Print pages to verify.
 - Reformation Study Bible, introduction to 1 Timothy, p. ___ (to verify)
+
+## Changelog
+
+1. 2026-11-04: Generated initial notes with Claude Code

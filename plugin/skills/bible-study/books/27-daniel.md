@@ -129,3 +129,7 @@ Many interpreters see Christ's death in the "anointed one" who is "cut off" in t
 
 - Richard P. Belcher Jr., "Daniel," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues, Structure and Outline, Message and Theology (living faithfully in exile; Daniel 2 and 7; the seventy weeks; Daniel 8 and 10–12), Approaching the New Testament. Print pages to verify.
 - Reformation Study Bible, introduction to Daniel, p. ___ (to verify)
+
+## Changelog
+
+1. 2026-11-04: Generated initial notes with Claude Code

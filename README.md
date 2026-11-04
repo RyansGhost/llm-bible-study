@@ -76,13 +76,14 @@ site/                                Hugo site; mounts the books folder above as
 
 ## Writing a book's notes
 
-Every book file uses the same headings: Summary, Setting, Structure, Chapter by chapter, Key people, Key events, Themes, How it points to Christ, Common mix-ups, Going deeper, Q&A, and Sources. That way the AI can find the same thing in any book. `06-joshua.md` is the worked example.
+Every book file uses the same headings: Summary, Setting, Structure, Chapter by chapter, Key people, Key events, Themes, How it points to Christ, Common mix-ups, Going deeper, Q&A, Sources, and Changelog. That way the AI can find the same thing in any book. `06-joshua.md` is the worked example.
 
 - Write in your own words. Don't copy study Bible introductions or notes: that text is copyrighted.
 - Cite every source: Reformation Study Bible page numbers, Ligonier URLs, chapter and verse.
 - Flag any non-Reformed source by name.
 - Mark your own applications as yours.
-- Set `status` in the front matter as the notes progress: `placeholder` (empty template), `draft` (written, sources still to check), or `complete`. The site and the skill both use it.
+- Set `status` in the front matter as the notes progress: `placeholder` (empty template), `draft` (written, awaiting human review; shown as "Human review pending"), or `complete`. The site and the skill both use it.
+- Add a line to the book's Changelog whenever the notes change, e.g. `2. 2026-11-20: Human review; checked Reformation Study Bible page numbers`.
 
 To draft notes from commentaries or study Bibles you own as DRM-free EPUBs, use the indexer in [`tools/`](tools/README.md). It finds each book's material across your sources. The EPUBs themselves are never committed.
 

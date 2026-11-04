@@ -107,3 +107,7 @@ Christ is at the centre of God's plan: "to unite all things in him, things in he
 - Guy Prentiss Waters, "Ephesians," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (authorship, "to the Ephesians?", purpose), Structure and Outline, Message and Theology. Print pages to verify.
 - John Chrysostom, *Homilies on Ephesians*, "The Argument" (quoted in Waters).
 - Reformation Study Bible, introduction to Ephesians, p. ___ (to verify)
+
+## Changelog
+
+1. 2026-11-04: Generated initial notes with Claude Code

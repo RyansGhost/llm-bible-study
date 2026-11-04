@@ -124,3 +124,7 @@ Mark is the gospel of Jesus Christ, the Son of God (1:1). It shows Jesus as both
 
 - Benjamin Gladd, "Mark," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (genre, eyewitness testimony, audience, authorship, date, text, purpose), Structure and Outline, Message and Theology (the messianic secret, Jesus and Isaiah's second exodus). Print pages to verify.
 - Reformation Study Bible, introduction to Mark, p. ___ (to verify)
+
+## Changelog
+
+1. 2026-11-04: Generated initial notes with Claude Code

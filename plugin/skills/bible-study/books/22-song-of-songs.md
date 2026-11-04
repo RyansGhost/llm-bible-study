@@ -114,3 +114,7 @@ Much of the church's history, including many Puritans, read the Song directly as
 
 - Miles V. Van Pelt, "Song of Songs," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues (authorship and date, genre, proposed setting), Structure and Outline, Message and Theology (interpretation, message, a summary of the Song's content). Print pages to verify.
 - Reformation Study Bible, introduction to Song of Solomon, p. ___ (to verify)
+
+## Changelog
+
+1. 2026-11-04: Generated initial notes with Claude Code

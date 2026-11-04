@@ -99,3 +99,7 @@ Christ isn't named in 3 John, but the missionaries went out "for the sake of the
 
 - Charles E. Hill, "1–3 John," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): 3 John, Background Issues (author, audience), Structure and Outline, Message and Theology (Gaius, the missionaries, Diotrephes, Demetrius). Print pages to verify.
 - Reformation Study Bible, introduction to 3 John, p. ___ (to verify)
+
+## Changelog
+
+1. 2026-11-04: Generated initial notes with Claude Code

@@ -198,3 +198,7 @@ John even says Isaiah saw Christ's glory in his temple vision (John 12:41).
 
 - Willem A. VanGemeren, "Isaiah," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues (unity of the book), Structure and Outline (theological, historical and literary factors, figuration), Message and Theology (Isaiah 1–39 and 40–66). Print pages to verify.
 - Reformation Study Bible, introduction to Isaiah, p. ___ (to verify)
+
+## Changelog
+
+1. 2026-11-04: Generated initial notes with Claude Code

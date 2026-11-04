@@ -22,7 +22,10 @@
             <span class="book-number">{{ .Params.book }}</span>
             <span class="book-name">{{ .Title }}</span>
             <span class="rule" aria-hidden="true"></span>
+            {{- /* Drafts awaiting human review show no label on the book cards; the book page itself says so. */}}
+            {{- if ne .Params.status "draft" }}
             <span class="book-status">{{ partial "status-label.html" . }}</span>
+            {{- end }}
           </a>
         </li>
 {{- end }}

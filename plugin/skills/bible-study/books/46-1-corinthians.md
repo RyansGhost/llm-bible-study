@@ -122,3 +122,7 @@ Christ crucified is the centre of the letter (2:2). He is the power and wisdom o
 - Guy Prentiss Waters, "1–2 Corinthians," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (Paul and the church in Corinth, the problems in Corinth), Structure and Outline, Message and Theology (Paul's redemptive-historical framework, the gospel, the death and resurrection of Christ, the Spirit and the body). Print pages to verify.
 - John Calvin, *Commentary on 1 Corinthians*, dedicatory epistle (quoted in Waters).
 - Reformation Study Bible, introduction to 1 Corinthians, p. ___ (to verify)
+
+## Changelog
+
+1. 2026-11-04: Generated initial notes with Claude Code

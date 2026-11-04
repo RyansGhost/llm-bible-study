@@ -128,3 +128,7 @@ Romans is centred on Christ:
 - Martin Luther, *Preface to the Epistle to the Romans* (1522), quoted by Waters. Free at [Project Wittenberg](https://www.projectwittenberg.org/pub/resources/text/wittenberg/wittenberg-luther.html).
 - Westminster Confession of Faith 3 (God's eternal decree) and 11 (justification).
 - Reformation Study Bible, introduction to Romans, p. ___ (to verify)
+
+## Changelog
+
+1. 2026-11-04: Generated initial notes with Claude Code

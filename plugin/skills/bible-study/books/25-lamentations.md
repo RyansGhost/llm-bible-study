@@ -102,3 +102,7 @@ Because of him, the mercies of 3:22–23 are secured for good: in Christ, God's 
 
 - Peter Y. Lee, "Lamentations," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues (title, authorship and setting, canonical position, poetic features, imagery, genre), Structure and Outline (the acrostics, summary outline). Print pages to verify.
 - Reformation Study Bible, introduction to Lamentations, p. ___ (to verify)
+
+## Changelog
+
+1. 2026-11-04: Generated initial notes with Claude Code

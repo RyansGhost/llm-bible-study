@@ -153,3 +153,7 @@ His death is the ransom for many (20:28) and the blood of the covenant poured ou
 
 - Reggie M. Kidd, "Matthew," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (authorship, audience, date, purpose, historicity), Structure and Outline, Message and Theology (Immanuel, Jesus as the new Torah, greater than the temple, Jonah and Solomon). Print pages to verify.
 - Reformation Study Bible, introduction to Matthew, p. ___ (to verify)
+
+## Changelog
+
+1. 2026-11-04: Generated initial notes with Claude Code

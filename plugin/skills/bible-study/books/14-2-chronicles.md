@@ -155,3 +155,7 @@ Jesus refers to the martyrdom of Zechariah son of Jehoiada (24:20–22) when he 
 - Richard L. Pratt Jr., "1–2 Chronicles," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Structure and Outline, Message and Theology (the people of God, king and temple, blessing and judgment). Print pages to verify.
 - *The Lutheran Study Bible* (Concordia, 2009), introduction to 1 and 2 Chronicles. Lutheran source.
 - Reformation Study Bible, introduction to 2 Chronicles, p. ___ (to verify)
+
+## Changelog
+
+1. 2026-11-04: Generated initial notes with Claude Code

@@ -99,3 +99,7 @@ Zerubbabel, God's chosen signet, appears in Jesus' genealogy (Matt 1:12–13; Lu
 - Daniel C. Timmer, "The Twelve," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Message and Theology (chronology, repentance, deliverance of the remnant). Print pages to verify.
 - *The Lutheran Study Bible* (Concordia, 2009), introduction to Haggai: Overview. Lutheran source.
 - Reformation Study Bible, introduction to Haggai, p. ___ (to verify)
+
+## Changelog
+
+1. 2026-11-04: Generated initial notes with Claude Code

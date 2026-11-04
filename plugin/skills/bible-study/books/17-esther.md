@@ -123,3 +123,7 @@ The great reversal, the enemy defeated by the very weapon he prepared, finds its
 - Peter Y. Lee, "Esther," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues (canonical matters, place in the canon, ancient versions, historicity), Structure and Outline (banquets, plot, reversals). Print pages to verify.
 - *The Lutheran Study Bible* (Concordia, 2009), introduction to Esther: Overview. Lutheran source.
 - Reformation Study Bible, introduction to Esther, p. ___ (to verify)
+
+## Changelog
+
+1. 2026-11-04: Generated initial notes with Claude Code

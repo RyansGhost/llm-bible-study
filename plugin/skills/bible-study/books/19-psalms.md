@@ -165,3 +165,7 @@ Christians have long prayed the Psalms with Christ: he is both the one the Psalm
 - Mark D. Futato, "Psalms," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues (composition, authorship, genre), Structure and Outline (lament to praise, the five books), Message and Theology (Psalm 1 as instruction, the kingship of God, our King is coming). Print pages to verify.
 - John Calvin, *Commentary on the Book of Psalms*, preface (cited in Futato).
 - Reformation Study Bible, introduction to Psalms, p. ___ (to verify)
+
+## Changelog
+
+1. 2026-11-04: Generated initial notes with Claude Code

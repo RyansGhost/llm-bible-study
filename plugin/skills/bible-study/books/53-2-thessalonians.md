@@ -102,3 +102,7 @@ The letter shows the returning Christ in his power and glory. He will be "reveal
 - Robert J. Cara, "2 Thessalonians," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (authorship and date, occasion and purpose), Structure and Outline, Message and Theology (divine warrior, idleness). Print pages to verify.
 - *The Lutheran Study Bible* (Concordia, 2009), introduction to 2 Thessalonians: Overview. Lutheran source.
 - Reformation Study Bible, introduction to 2 Thessalonians, p. ___ (to verify)
+
+## Changelog
+
+1. 2026-11-04: Generated initial notes with Claude Code

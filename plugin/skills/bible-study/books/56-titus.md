@@ -98,3 +98,7 @@ Titus has two of the New Testament's richest short summaries of the gospel. In 2
 - William B. Barcley, "Introduction to the Pastoral Epistles" and "Titus," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues, Structure and Outline, Message and Theology. Print pages to verify.
 - *The Lutheran Study Bible* (Concordia, 2009), introduction to Titus: Overview, Luther on Titus, Challenges for Readers. Lutheran source.
 - Reformation Study Bible, introduction to Titus, p. ___ (to verify)
+
+## Changelog
+
+1. 2026-11-04: Generated initial notes with Claude Code

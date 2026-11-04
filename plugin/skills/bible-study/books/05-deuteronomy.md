@@ -143,3 +143,7 @@ Peter identifies Jesus as the prophet like Moses (18:15; Acts 3:22–23). Paul r
 - John Scott Redd, "Deuteronomy," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues (title, authorship, date and setting, audience), Structure and Outline, Message and Theology. Print pages to verify.
 - *The Lutheran Study Bible* (Concordia, 2009), introduction to Deuteronomy. Lutheran source.
 - Reformation Study Bible, introduction to Deuteronomy, p. ___ (to verify)
+
+## Changelog
+
+1. 2026-11-04: Generated initial notes with Claude Code

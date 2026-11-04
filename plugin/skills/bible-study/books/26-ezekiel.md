@@ -157,3 +157,7 @@ The glory that left the temple returns in Jesus, the Word who "dwelt among us" a
 
 - Michael G. McKelvey, "Ezekiel," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues (authorship, historical background and audience), Structure and Outline, Message and Theology (creation, de-creation and re-creation; God's holiness, sovereignty, mercy; man's sinfulness and responsibility), Approaching the New Testament. Print pages to verify.
 - Reformation Study Bible, introduction to Ezekiel, p. ___ (to verify)
+
+## Changelog
+
+1. 2026-11-04: Generated initial notes with Claude Code
