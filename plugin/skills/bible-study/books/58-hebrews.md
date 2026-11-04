@@ -16,24 +16,21 @@ Hebrews is a sermon in letter form (the author calls it a "word of exhortation",
 
 ## Setting
 
-- **When:** probably shortly before AD 70. Kistemaker notes that Clement of Rome quotes it about AD 96, and the author speaks of temple sacrifices in the present tense (9:6–7; 10:11), suggesting the temple still stands.
-- **Where:** unknown. "Those who come from Italy send you greetings" (13:24) probably means Italians abroad greeting friends at home, so the readers may have been in or near Rome (Kistemaker).
-- **Who wrote it:** unknown. It was long regarded as Paul's, but Kistemaker gives strong reasons against that: Hebrews is anonymous, lacks Paul's usual greetings and phrases, and its author heard the gospel from those who heard the Lord (2:3), unlike Paul. Suggestions include Barnabas, Apollos, Luke and others. Origen's verdict, "only God knows", still stands.
-- **Where it sits:** the first of the General Epistles. The readers were second-generation believers who had endured persecution earlier (10:32–34), but some were now neglecting to meet together (10:25) and growing weak (12:12).
+- **When:** probably AD 60–70. Kistemaker notes that Clement of Rome quotes it about AD 96, and the author speaks of temple sacrifices in the present tense (9:6–7; 10:11). The Reformation Study Bible adds that he would surely have mentioned the temple's destruction, which proved his point, if it had already happened.
+- **Where:** unknown. "Those who come from Italy send you greetings" (13:24) probably means Italians abroad greeting friends at home, so the readers may have been in or near Rome (Kistemaker; RSB). They were Greek-speaking Jewish Christians who knew the Greek Old Testament, had heard the gospel from the apostles, and had suffered before (10:32–34). Now, facing shame and pressure, cut off from the visible worship of Judaism, and unable to see Jesus' glory, they were tempted to turn back (10:38–39).
+- **Who wrote it:** unknown. It was long regarded as Paul's, but Kistemaker gives strong reasons against that: Hebrews is anonymous, lacks Paul's usual greetings and phrases, and its author heard the gospel from those who heard the Lord (2:3), unlike Paul. He was skilled in Greek, steeped in the Old Testament, and knew Timothy (13:23). Eastern fathers such as Clement of Alexandria and Origen linked it with Paul while noting the different style; Tertullian suggested Barnabas; others Apollos, Luke or Clement of Rome. Origen's verdict, "only God knows", still stands.
+- **Where it sits:** the first of the General Epistles. It opens like a theological treatise, reads like a sermon ("word of exhortation", 13:22, the phrase for a synagogue sermon in Acts 13:15), and ends like a letter. The readers were second-generation believers who had endured persecution earlier (10:32–34), but some were now neglecting to meet together (10:25) and growing weak (12:12).
 
 ## Structure
 
-Kistemaker structures Hebrews around the superiority of Christ:
+Kistemaker structures Hebrews around the superiority of Christ, and the Reformation Study Bible's outline runs the same way. Teaching alternates with exhortation, often arguing from lesser to greater: if the old word brought judgment, how much more the Son's (2:2–3; 10:28–29; 12:25).
 
-- 1:1–2:18: Jesus' superiority to the angels; Saviour and High Priest
-- 3:1–4:13: Jesus' superiority to Moses; the warning against unbelief; God's rest
-- 4:14–5:10: Jesus' high priesthood
-- 5:11–6:20: Exhortations: don't fall away; hold on to God's promise
-- 7:1–28: Jesus, a priest like Melchizedek
-- 8:1–10:18: Jesus, High Priest and sacrifice: the heavenly sanctuary, the new covenant, his once-for-all sacrifice
-- 10:19–39: More exhortations: persevere, take warning, keep going
-- 11:1–40: The heroes of faith
-- 12:1–13:25: Discipline, warning, community life, and closing blessing
+- 1–2: Christ superior to the angels: God's final word, Saviour and High Priest
+- 3:1–4:13: Christ superior to Moses: the warning against unbelief; God's rest
+- 4:14–7:28: Christ a superior priest: sympathetic, appointed by God, a priest like Melchizedek; with a warning against falling away (5:11–6:20)
+- 8:1–10:18: Christ's superior priestly work: the heavenly sanctuary, the new covenant, his once-for-all sacrifice
+- 10:19–12:29: A call to persevere in faith: draw near, take warning, the heroes of faith, run the race, God's fatherly discipline, Zion not Sinai
+- 13: Conclusion: community life, leaders, the sacrifice of praise, blessing and greetings
 
 ## Chapter by chapter
 
@@ -78,8 +75,10 @@ Kistemaker structures Hebrews around the superiority of Christ:
 - **Christ's high priesthood:** Kistemaker shows Hebrews is the only New Testament book to develop it fully: a priest after the order of Melchizedek, sympathetic, sinless, eternal (4:14–5:10; 7).
 - **The once-for-all sacrifice:** Christ's single offering completes what the repeated sacrifices couldn't (9:11–10:18).
 - **The new covenant:** promised in Jeremiah 31 and inaugurated by Christ's blood (8:6–13; 10:15–18).
+- **Already and not yet:** Christ came "at the end of the ages" to put away sin, and will appear a second time to save those who wait for him (9:26–28).
+- **Prophet, priest and king:** God's final word (1:2), the High Priest who offered himself, and the Son enthroned at God's right hand (1:3, 13). Hebrews insists on both his full deity (1:8) and his full humanity (2:14–18).
 - **Shadow and reality:** the tabernacle and its rituals were copies and shadows of heavenly realities (8:5; 10:1).
-- **Warning and perseverance:** five warning passages urge the readers not to drift, harden their hearts or fall away (2:1–4; 3:7–4:13; 5:11–6:12; 10:26–31; 12:25–29).
+- **Warning and perseverance:** five warning passages urge the readers not to drift, harden their hearts or fall away (2:1–4; 3:7–4:13; 5:11–6:12; 10:26–31; 12:25–29). Arminians later used them to argue that true Christians can be lost, and the Reformed churches rejected this at the Synod of Dort. The RSB points out that Hebrews also says those who truly share in Christ hold firm to the end (3:14; 6:9), and that Christ always lives to intercede for them (7:25). The warnings are one of the means God uses to keep his people persevering.
 - **Faith:** trusting God's promises for what is unseen and future (11).
 - **God's word:** God has spoken finally in his Son (1:1–2), and his word is living and active (4:12).
 
@@ -122,8 +121,9 @@ Hebrews is perhaps the most thoroughly Christ-centred interpretation of the Old 
 ## Sources
 
 - Simon J. Kistemaker, "Hebrews," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (occasion, genre, authorship, date, provenance, purpose), Structure and Outline, Message and Theology. Print pages to verify.
-- Reformation Study Bible, introduction to Hebrews, p. ___ (to verify)
+- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Hebrews: Title and Author, Date and Occasion, Genre and Literary Features, Characteristics and Primary Themes, Theology of Hebrews, Hebrews in the Larger Story of the Bible, Christ in Hebrews, History of Interpretation, Special Issues, Perseverance of the Saints, Outline. Print pages to verify.
 
 ## Changelog
 
 1. 2026-11-04: Generated initial notes with Claude Code
+2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code

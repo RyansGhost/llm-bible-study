@@ -60,8 +60,8 @@ The EPUB is indexed with `tools/epub_index.py` (work `bible-reformation-study-bi
 - [x] 54 1 Timothy
 - [x] 55 2 Timothy
 - [x] 56 Titus
-- [ ] 57 Philemon
-- [ ] 58 Hebrews
+- [x] 57 Philemon
+- [x] 58 Hebrews
 - [ ] 59 James
 - [ ] 60 1 Peter
 - [ ] 61 2 Peter

@@ -16,14 +16,14 @@ Philemon is Paul's shortest letter: a personal appeal to a Christian slave-owner
 
 ## Setting
 
-- **When:** about AD 60–62, during Paul's imprisonment, at the same time as Colossians (Gladd). The two letters name the same companions, and Onesimus travels with Tychicus (Col 4:7–9).
+- **When:** about AD 60–62, during Paul's imprisonment in Rome, at the same time as Colossians (Gladd; Reformation Study Bible). The two letters name the same companions, and Onesimus travels with Tychicus (Col 4:7–9).
 - **Where:** to Philemon, Apphia, Archippus and the church that meets in Philemon's house (v. 2), in Colossae.
 - **Who wrote it:** Paul, with Timothy (v. 1). Gladd notes nothing seriously challenges Paul's authorship.
-- **Where it sits:** one of the Prison Epistles, and a companion to Colossians. It is the only one of Paul's letters addressed mainly to an individual about a private matter, though it is read in front of the house church.
+- **Where it sits:** one of the Prison Epistles, and a companion to Colossians. It is Paul's shortest letter, about 335 words in Greek. A runaway slave could face severe punishment, so Paul is pleading for mercy as well as welcome, and hints that he would gladly have Onesimus back to help him (vv. 13, 20–21) (RSB). It is the only one of Paul's letters addressed mainly to an individual about a private matter, though it is read in front of the house church.
 
 ## Structure
 
-Gladd's outline:
+Gladd's outline (the Reformation Study Bible's is the same, adding Paul's planned visit, vv. 21–22):
 
 - vv. 1–3: Letter opening
 - vv. 4–7: Thanksgiving for Philemon's love and faith
@@ -59,7 +59,7 @@ Philemon has only one chapter, so here it is by section:
 
 - **Reconciliation:** Gladd stresses that the cross restores broken relationships, here between a master and his slave.
 - **A new family:** master and slave are now brothers in Christ, "both in the flesh and in the Lord" (v. 16). Gladd calls this the restructuring of God's people.
-- **Love rather than command:** Paul appeals instead of ordering, so Philemon's goodness will be freely given (vv. 8–9, 14).
+- **Love rather than command:** Paul appeals instead of ordering, so Philemon's goodness will be freely given (vv. 8–9, 14). It is a model of gentle, careful persuasion, written in his own hand (v. 19), with wordplays on "sharing" and "partner" (vv. 6, 17) and on Onesimus's name.
 - **Substitution:** Paul offers to take Onesimus' debt on himself (vv. 18–19).
 - **Providence:** perhaps Onesimus was parted for a while so Philemon could have him back forever (v. 15).
 - **Fellowship and refreshment:** Philemon's faith is shown in refreshing the hearts of the saints (vv. 6–7, 20).
@@ -73,7 +73,7 @@ Philemon is a living picture of the gospel. Luther wrote that "we are all his On
 - Philemon is a man, the slave-owner. Onesimus is the slave.
 - Onesimus's name means "useful", which is the point of Paul's wordplay in v. 11.
 - Paul doesn't directly command Philemon to free Onesimus. Gladd discusses how the New Testament leaves the social structure in place on the surface, while the gospel transforms it from within: master and slave are brothers before the same Lord. Many think "even more than I say" (v. 21) hints at freedom.
-- Ancient slavery wasn't the same as race-based chattel slavery in the Americas. Gladd stresses the need to understand Greco-Roman slavery before applying the text. Scripture condemns kidnapping people to sell them (Exod 21:16; 1 Tim 1:10).
+- Ancient slavery wasn't the same as race-based chattel slavery in the Americas. Slavery was no part of God's good creation and will have no place in the new creation; the RSB notes that sudden abolition in an economy built on it would have brought famine and chaos, while the gospel worked from within. Gladd stresses the need to understand Greco-Roman slavery before applying the text. Scripture condemns kidnapping people to sell them (Exod 21:16; 1 Tim 1:10).
 - Philemon has only 25 verses, so it is cited by verse, not chapter and verse.
 - The Onesimus of Colossians 4:9 is the same man.
 
@@ -103,8 +103,9 @@ Philemon is a living picture of the gospel. Luther wrote that "we are all his On
 
 - Benjamin Gladd, "Philemon," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (occasion, authorship, date, purpose), Structure and Outline, Message and Theology (slavery in the ancient world, the restructuring of God's people). Print pages to verify.
 - *The Lutheran Study Bible* (Concordia, 2009), introduction to Philemon: Luther on Philemon (from Luther's 1522 preface, AE 35:390). Lutheran source.
-- Reformation Study Bible, introduction to Philemon, p. ___ (to verify)
+- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Philemon: Title and Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of Philemon, Philemon in the Larger Story of the Bible, Christ in Philemon, History of Interpretation, Special Issues, Outline. Print pages to verify.
 
 ## Changelog
 
 1. 2026-11-04: Generated initial notes with Claude Code
+2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code
