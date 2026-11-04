@@ -16,19 +16,22 @@ Luke writes an "orderly account" of Jesus' life so that Theophilus may be certai
 
 ## Setting
 
-- **When:** from the announcement of John the Baptist's birth (about 7–6 BC) to Jesus' ascension (about AD 30–33). Written before Acts, which ends around AD 62; many date Luke to the early 60s.
+- **When:** from the announcement of John the Baptist's birth (about 7–6 BC) to Jesus' ascension (about AD 30–33). Written before Acts, which ends around AD 62; many date Luke to the early 60s. The Reformation Study Bible agrees: Acts ends with Paul still under house arrest, says nothing of Jerusalem's fall in AD 70 or of Paul's letters, and the later dates (AD 75–85) mostly assume Jesus couldn't have predicted Jerusalem's destruction.
 - **Where:** the temple in Jerusalem (where the book begins and ends), Nazareth, Bethlehem, Galilee, a long journey toward Jerusalem, and Jerusalem itself.
-- **Who wrote it:** Luke, "the beloved physician" (Col 4:14), Paul's travelling companion, implied in the "we" passages of Acts, and probably a Gentile. Cara holds this traditional view.
-- **Where it sits:** the third Gospel and the first volume of a two-part work with Acts. Both are addressed to Theophilus, "most excellent", perhaps a Roman official (Cara).
+- **Who wrote it:** Luke, "the beloved physician" (Col 4:14), Paul's travelling companion, implied in the "we" passages of Acts, and probably a Gentile (Paul lists him after his Jewish co-workers, Col 4:10–14). Tradition says he came from Syrian Antioch. He wasn't an eyewitness, but researched carefully and consulted those who were (1:1–4). Cara holds this traditional view, as did the church from the 2nd century; even the heretic Marcion chose Luke's Gospel to edit.
+- **Where it sits:** the third Gospel and the first volume of a two-part work with Acts. Both are addressed to Theophilus, "most excellent", a title for Roman officials of high rank (Cara; compare Acts 23:26), who stands for instructed Gentile believers. Only Luke carries the story on past the resurrection, into the church's growth. His polished opening gives way to the style of the Greek Old Testament, presenting Jesus as the climax of Israel's history (RSB).
 
 ## Structure
 
-Cara's widely agreed outline. After the opening section it is geographical:
+After the prologue the outline is mainly geographical (Cara; Reformation Study Bible):
 
-- 1:1–4:13: John the Baptist and Jesus in parallel: births, childhood, John's ministry, Jesus' baptism and temptation
-- 4:14–9:50: The Galilean ministry: Jesus as preacher, healer and prophet
-- 9:51–19:27: The journey to Jerusalem: much teaching, and many parables found only in Luke
-- 19:28–24:53: From the triumphal entry to the ascension
+- 1:1–4: Prologue: a researched, orderly account, based on eyewitnesses, so that readers may be certain
+- 1:5–2:52: The births of John and Jesus in parallel, and Jesus' childhood
+- 3:1–9:50: The Lord's ministry in Galilee: John's preaching, Jesus' baptism and temptation, the Nazareth sermon, teaching and miracles
+- 9:51–19:27: The journey to Jerusalem: Jesus "set his face" to go there (9:51), and Luke keeps reminding readers where he is heading. Much teaching, and many parables found only in Luke
+- 19:28–21:38: The Lord's ministry in Jerusalem: the entry, the temple, debates, and the end-times discourse
+- 22–23: The Lord's suffering in Jerusalem
+- 24: The resurrection, the road to Emmaus, and the ascension
 
 ## Chapter by chapter
 
@@ -91,10 +94,12 @@ Cara's widely agreed outline. After the opening section it is geographical:
 
 - **Salvation:** Cara highlights "salvation" as a key Lukan theme. Jesus is "a Saviour, who is Christ the Lord" (2:11), and "today salvation has come to this house" (19:9).
 - **The rejected, suffering Prophet and Messiah:** Jesus is rejected like the prophets before him, and must suffer, die and rise (4:24; 13:33; 24:26) (Cara).
-- **God's plan in continuity with the Old Testament:** everything happens according to Scripture, and the plan includes the Gentiles (2:32; 24:44–47) (Cara).
+- **God's plan in continuity with the Old Testament:** everything happens according to Scripture, and the plan includes the Gentiles (2:32; 24:44–47) (Cara). Words like "it is necessary" mark God's sovereign plan, worked out even through sinful acts (9:22; 24:26; Acts 2:23).
+- **Christ the Lord:** Jesus is David's heir and God's Son, conceived by the Spirit (1:32–35), so Luke often simply calls him "the Lord". He is also the suffering Servant of Isaiah (22:37) and the prophet like Moses (9:35).
 - **Good news for outsiders:** the poor, the sick, women, tax collectors, Samaritans and sinners are welcomed (4:18; 7:36–50; 15; 19:1–10).
-- **The Holy Spirit and prayer:** the Spirit is active from Jesus' conception onward, and Jesus prays at key moments (3:21; 6:12; 9:28; 22:41).
-- **Joy:** angels, shepherds, the lost found, and disciples returning to Jerusalem "with great joy" (2:10; 15:7; 24:52).
+- **The Holy Spirit and prayer:** the Spirit is active from Jesus' conception onward and is the Father's good gift (11:13), preparing for Pentecost (24:49). Jesus prays at key moments, and Luke records nine of his prayers, seven found only here (3:21; 6:12; 9:28; 22:41).
+- **The coming kingdom:** Luke stresses salvation now, but also the coming judgment and Christ's return (12:35–48; 21:25–36).
+- **Joy:** angels, shepherds, the lost found, and disciples returning to Jerusalem "with great joy" (2:10; 15:7; 24:52). Only Luke records the songs around Jesus' birth: Mary's, Zechariah's and Simeon's (1:46–55, 68–79; 2:29–32).
 - **Certainty:** Luke writes so that readers may know the truth of what they've been taught (1:4).
 
 ## How it points to Christ
@@ -137,8 +142,9 @@ Luke's genealogy traces him back to Adam (3:38), presenting him as the Saviour f
 ## Sources
 
 - Robert J. Cara, "Luke," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (authorship and date, addressee, occasion and purpose, Luke and Acts), Structure and Outline, Message and Theology. Print pages to verify.
-- Reformation Study Bible, introduction to Luke, p. ___ (to verify)
+- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Luke: Title, Author, Date and Occasion, Genre, Literary Features, Theology of Luke, Luke in the Larger Story of the Bible, Christ in Luke, History of Interpretation, Outline. Print pages to verify.
 
 ## Changelog
 
 1. 2026-11-04: Generated initial notes with Claude Code
+2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code

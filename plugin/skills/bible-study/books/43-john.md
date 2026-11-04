@@ -16,14 +16,14 @@ John tells the story of Jesus from a distinctive angle. It begins before creatio
 
 ## Setting
 
-- **When:** Jesus' ministry, which John shows spanning at least three Passovers (2:13; 6:4; 11:55). Kruger dates the writing late in the first century, after the temple's destruction in AD 70, consistent with early church tradition that John lived to old age.
+- **When:** Jesus' ministry, which John shows spanning at least three Passovers (2:13; 6:4; 11:55). Kruger dates the writing late in the first century, after the temple's destruction in AD 70, consistent with early church tradition that John wrote near the end of his long life, about AD 90 (Reformation Study Bible). A papyrus fragment of John 18 from about AD 125 (the Rylands papyrus) has ended theories of a second-century date; some date it before AD 80 or even 70.
 - **Where:** Judea and Jerusalem (especially at the feasts), Galilee (Cana, Capernaum, the Sea of Tiberias), Samaria, and Bethany.
-- **Who wrote it:** "the disciple whom Jesus loved", who bears witness and wrote these things (21:20–24). Kruger defends the traditional view that this is John the son of Zebedee.
-- **Where it sits:** the fourth Gospel. It tells the same basic story as the first three, with a different style, many unique events (the man born blind, the raising of Lazarus) and long discourses (Kruger). Kruger argues its differences don't make it less historical.
+- **Who wrote it:** "the disciple whom Jesus loved", who bears witness and wrote these things (21:20–24): a Jew who knew Palestine and its customs, and an eyewitness (19:35). He was at the Last Supper, so one of the Twelve, yet he isn't Peter or any disciple the Gospel names, and John son of Zebedee, one of Jesus' closest three, is never named in it. Irenaeus, who learned from Polycarp, says John wrote it (RSB). Kruger defends this traditional view.
+- **Where it sits:** the fourth Gospel. It tells the same basic story as the first three, with a different style, many unique events (the man born blind, the raising of Lazarus) and long discourses (Kruger). Kruger argues its differences don't make it less historical. Clement of Alexandria called it a "spiritual Gospel", written knowing the others. About 40% of it covers Jesus' last week, mostly his private teaching of the disciples (13–17). It was written to bring readers to faith (20:31) and answers both Jewish objections to Jesus' deity and early ideas that God couldn't truly take on flesh (1:14).
 
 ## Structure
 
-The widely accepted four-part outline (Kruger):
+The widely accepted four-part outline (Kruger; the Reformation Study Bible calls the second half the book of the great sign, Jesus "lifted up"):
 
 - 1:1–18: Prologue: the Word who was God becomes flesh
 - 1:19–12:50: The Book of Signs: seven signs and Jesus' public teaching
@@ -90,10 +90,11 @@ The widely accepted four-part outline (Kruger):
 - **Jesus is God:** John identifies Jesus with the one God of Israel as Creator (1:1–3), as "I am" (8:58), and as "my Lord and my God" (20:28). Kruger places this at the heart of John's Christology.
 - **Life through believing:** Jesus brings new life (1:4; 3:16; 10:10), and "believe" is one of John's key words (20:31).
 - **Contrasts:** light and darkness, life and death, truth and lies, above and below. Kruger shows John presenting salvation through these contrasts.
-- **Signs:** seven miracles reveal Jesus' glory and call for faith (2:11; 20:30–31).
+- **Signs:** seven miracles reveal Jesus' glory and call for faith (2:11; 20:30–31). Signs and teaching interpret each other: the feeding of the five thousand leads to "I am the bread of life" (6), the healing of the blind man to "the light of the world" (9). Faith must grasp who the signs show Jesus to be, and the written record is enough for those who haven't seen (20:29) (RSB).
 - **"I am" sayings:** bread of life (6:35), light of the world (8:12), door (10:9), good shepherd (10:11), resurrection and life (11:25), way, truth and life (14:6), true vine (15:1).
 - **Fulfilment of the Old Testament:** Jesus is the true temple, tabernacle, manna, Passover Lamb and bronze serpent, and the substance behind Israel's feasts (Kruger).
-- **The Holy Spirit:** the Helper who teaches, testifies and convicts (14–16).
+- **God's sovereign grace:** no one can come unless the Father draws him (6:44). Those the Father gives the Son are kept by him, and none will be lost (6:37–39; 10:27–29). New birth is God's work by his Spirit, not ours (1:12–13; 3:5–8).
+- **The Holy Spirit:** the Helper who teaches, testifies and convicts, sent by the Father and the Son (14–16; 20:22).
 - **Love and unity:** "love one another as I have loved you" (13:34–35; 17:21).
 
 ## How it points to Christ
@@ -136,8 +137,9 @@ On the cross he declares, "It is finished" (19:30). After rising he breathes the
 ## Sources
 
 - Michael J. Kruger, "John," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (authorship, occasion and purpose, date, historicity), Structure and Outline, Message and Theology (Christ as the one true God, as the bringer of new life, as the fulfilment of the Old Testament). Print pages to verify.
-- Reformation Study Bible, introduction to John, p. ___ (to verify)
+- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to John: Title, Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of John, John in the Larger Story of the Bible, Christ in John, History of Interpretation, Outline. Print pages to verify.
 
 ## Changelog
 
 1. 2026-11-04: Generated initial notes with Claude Code
+2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code

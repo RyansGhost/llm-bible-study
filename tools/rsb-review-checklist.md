@@ -45,8 +45,8 @@ The EPUB is indexed with `tools/epub_index.py` (work `bible-reformation-study-bi
 - [x] 39 Malachi
 - [x] 40 Matthew
 - [x] 41 Mark
-- [ ] 42 Luke
-- [ ] 43 John
+- [x] 42 Luke
+- [x] 43 John
 - [ ] 44 Acts
 - [ ] 45 Romans
 - [ ] 46 1 Corinthians
