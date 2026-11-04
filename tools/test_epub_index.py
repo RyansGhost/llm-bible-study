@@ -147,7 +147,7 @@ class EpubTests(unittest.TestCase):
 
     def test_class_marked_headings(self):
         ch = """<html xmlns="http://www.w3.org/1999/xhtml"><body>
-        <p class="chtit">Genesis</p><p class="head2">The <i>Fall</i></p><p class="indent">Text about Gen. 3:15.</p>
+        <p class="chtit">Genesis<sup>1</sup></p><p class="head2">The <i>Fall</i>12</p><p class="indent">Text about Gen. 3:15.</p>
         <div class="ct">Genesis Study Notes</div><p class="cn">Genesis 3</p><p class="fn">3:15 First gospel.</p>
         </body></html>"""
         meta = ei.index_epub(make_epub(self.tmp / "cls.epub", {"OEBPS/text/ch2.xhtml": ch}), self.index)

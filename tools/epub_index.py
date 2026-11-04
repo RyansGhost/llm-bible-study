@@ -408,6 +408,8 @@ class _Extractor(HTMLParser):
 
     def _end_heading(self):
         title = " ".join("".join(self.buf).split())
+        # Drop a footnote number glued to the end: "Proverbs1", "Genre16", "(Prov. 1:1-9:18)53"
+        title = re.sub(r"(?<=[A-Za-z)\]\u201d\u2019])\d{1,3}$", "", title)
         self.buf = []
         if title:
             self.blocks.append([self.heading, title, []])
