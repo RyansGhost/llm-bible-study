@@ -16,20 +16,25 @@ Nehemiah, a Jewish official in the Persian court, hears that Jerusalem's walls a
 
 ## Setting
 
-- **When:** Nehemiah arrives in 445 BC, in Artaxerxes I's twentieth year. The last events happen after 433 BC, when Nehemiah returns for a second term (13:6) (Futato).
+- **When:** Nehemiah arrives in 445 BC, in Artaxerxes I's twentieth year. The last events happen after 433 BC, when Nehemiah returns for a second term (13:6) (Futato). The book covers about thirteen years.
 - **Where:** Susa, the Persian royal city, and Jerusalem with its broken walls and gates, surrounded by hostile neighbours: Samaria, Ammon, and the Arabs.
-- **Who wrote it:** much of it is Nehemiah's own memoir, written in the first person (1–7; parts of 11–13). It was originally one book with Ezra. The Lutheran Study Bible names Nehemiah, governor of Judah, as author.
+- **Who wrote it:** much of it is Nehemiah's own memoir, written in the first person (1–7; 12:27–13:31), with his asides and short prayers ("Remember me, O my God"). It was originally one book with Ezra, probably compiled by Ezra or a younger contemporary about 430–400 BC (Reformation Study Bible); the repeated list of returnees (Ezra 2; Neh 7) suggests Nehemiah may once have stood alone. The Lutheran Study Bible names Nehemiah, governor of Judah, as author.
 - **Where it sits:** the last historical events of the Old Testament. Malachi probably preaches around the same time, against the same sins.
 
 ## Structure
 
-- 1–7: Rebuilding the walls
+The Reformation Study Bible has two parts, matching Ezra's pattern of a return followed by rebuilding:
+
+- 1:1–7:3: Nehemiah returns and the wall is rebuilt
     - 1–2: Nehemiah's prayer, the king's permission, and his night inspection
     - 3: the builders and their sections
     - 4–6: opposition from outside and inside; the wall finished in 52 days
-    - 7: guards set, and the list of returnees
-- 8–10: Renewing the people: the law read, confession, and covenant renewal
-- 11–13: Repopulating and dedicating the city, and Nehemiah's final reforms
+    - 7:1–3: gatekeepers and guards set
+- 7:4–13:31: The community is rebuilt
+    - 7:4–73: the list of returnees (repeating Ezra 2)
+    - 8–10: the law read, confession, and covenant renewal
+    - 11–12: Jerusalem repopulated; priests and Levites listed; the wall dedicated
+    - 13: Nehemiah's second term and final reforms
 
 ## Chapter by chapter
 
@@ -79,7 +84,9 @@ Nehemiah, a Jewish official in the Persian court, hears that Jerusalem's walls a
 - **Ordinary people:** chapter 3 names families, guilds and even daughters who each rebuild their section.
 - **The Word read and understood:** the Levites explain the law "so that the people understood the reading" (8:8). Futato highlights how important the written Word was for the years ahead, when no prophets would speak.
 - **Justice in the community:** Nehemiah confronts the rich who exploit their poor brothers (5).
-- **Repeated failure:** the book ends with the covenant of chapter 10 broken point by point (13), showing the need for changed hearts.
+- **Practical leadership:** where Ezra rebuilt the people spiritually through the law, Nehemiah's work is practical: walls, justice, and enough people to make Jerusalem viable (RSB).
+- **Covenant renewal:** the people don't set the terms; in gratitude they recommit to the Lord's commands (9–10).
+- **Repeated failure:** the book ends with the covenant of chapter 10 broken point by point (13). Neither Ezra nor Nehemiah could change hearts for good; that waited for the Messiah.
 
 ## How it points to Christ
 
@@ -121,8 +128,9 @@ Jesus builds God's true house, his church, against which the gates of hell will 
 
 - Mark D. Futato, "Ezra–Nehemiah," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues, Structure and Outline, Message and Theology (rebuilding the house of God, ordinary people, the written Word, sovereignty and responsibility). Print pages to verify.
 - *The Lutheran Study Bible* (Concordia, 2009), introduction to Nehemiah: Overview. Lutheran source.
-- Reformation Study Bible, introduction to Nehemiah, p. ___ (to verify)
+- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Nehemiah: Title, Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of Nehemiah, Nehemiah in the Larger Story of the Bible, Christ in Nehemiah, History of Interpretation, Outline. Print pages to verify.
 
 ## Changelog
 
 1. 2026-11-04: Generated initial notes with Claude Code
+2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code

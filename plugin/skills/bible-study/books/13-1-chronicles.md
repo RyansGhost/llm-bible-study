@@ -16,15 +16,18 @@ status: draft
 
 ## Setting
 
-- **When:** written after the exile, after Cyrus' decree of 539/538 BC and probably before Alexander the Great, about 330 BC (Pratt). It covers from Adam to David's death (about 970 BC), with genealogies reaching into the return.
+- **When:** written after the exiles returned (538 BC) and before Greek influence arrived with Alexander (331 BC). The Reformation Study Bible places it between about 515 and 400 BC, probably after 460 BC, since David's line is traced at least two generations past Zerubbabel (3:17–24). It covers from Adam to David's death (about 970 BC).
 - **Where:** Jerusalem is the centre: David's city and the site of the future temple.
-- **Who wrote it:** "the Chronicler", unnamed. Jewish tradition names Ezra. Pratt notes that scholars once saw one author behind Chronicles and Ezra–Nehemiah, but that consensus has largely gone.
-- **Where it sits:** 1 and 2 Chronicles were one book, and they are the last book of the Hebrew Bible. In English Bibles they follow Kings, retelling much of Samuel and Kings from a post-exile point of view. Pratt stresses that the Chronicler is both a careful historian and a theologian.
+- **Who wrote it:** "the Chronicler", unnamed, perhaps from a priestly or Levitical family, given his interest in the temple. Jewish tradition names Ezra, but most scholars now doubt that one author wrote Chronicles and Ezra–Nehemiah (RSB; Pratt).
+- **Why:** to encourage the returned exiles, who faced poverty, opposition and division, and asked: Are we still God's people? Which institutions matter now? Is there hope for David's line?
+- **Where it sits:** 1 and 2 Chronicles were one book, called in Hebrew "the events of the days", and they are the last book of the Hebrew Bible. In English Bibles they follow Kings. The Chronicler draws on Samuel and Kings, other Scripture, and royal and prophetic records he names; where his numbers differ from Samuel and Kings, copying errors or textual differences are the likely cause (RSB). Pratt stresses that he is both a careful historian and a theologian.
 
 ## Structure
 
+The Reformation Study Bible divides Chronicles into the genealogies (1 Chr 1:1–9:34), the united monarchy (1 Chr 9:35 – 2 Chr 9:31), and the kings of Judah (2 Chr 10–36). In 1 Chronicles:
+
 - 1–9: Genealogies: from Adam to Israel's tribes, with Judah (David's line) and Levi (the priests) given the most space, ending with those who returned to Jerusalem
-- 10: Saul's death, and why he died
+- 10: Saul's death, and why he died (Saul's reign is otherwise left out)
 - 11–29: David's reign
     - 11–12: David king over all Israel; his mighty men
     - 13–16: the ark brought to Jerusalem; worship arranged
@@ -93,7 +96,8 @@ status: draft
 - **All Israel:** the Chronicler loves the phrase "all Israel". Pratt shows him longing for every tribe, north and south, to be united again around God's king and temple.
 - **David's line:** God's covenant with David (17) gave the returned exiles hope that God had not abandoned his promise.
 - **The temple and worship:** much of the book concerns the ark, the Levites, music and temple service. Worship done God's way is at the heart of Israel's life.
-- **Seeking the Lord:** Saul died because he didn't seek the Lord (10:13–14). Seeking God brings blessing, and forsaking him brings loss, a lesson the Chronicler presses on his readers.
+- **Seeking the Lord:** Saul died because he didn't seek the Lord (10:13–14). Faithfulness brings blessing and unfaithfulness brings judgment, often quickly; yet repentance and prayer restore (21; 2 Chr 7:14). The Chronicler presses this on his readers.
+- **God's purpose through history:** starting from Adam reminds a small community on the edge of the Persian Empire that they stand at the centre of God's plan (RSB).
 - **Generous, joyful giving:** David and the people give freely for God's house, confessing that everything already belongs to God (29:10–19).
 - **Who belongs to God's people:** the genealogies answer it. The returned remnant is the continuation of the Israel God chose, from Adam down.
 
@@ -137,8 +141,9 @@ David buys the temple site at the place where judgment was stopped by sacrifice 
 
 - Richard L. Pratt Jr., "1–2 Chronicles," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues (authorship, audience, date, history and theology), Structure and Outline, Message and Theology (the people of God, king and temple). Print pages to verify.
 - *The Lutheran Study Bible* (Concordia, 2009), introduction to 1 and 2 Chronicles. Lutheran source.
-- Reformation Study Bible, introduction to 1 Chronicles, p. ___ (to verify)
+- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to 1 Chronicles: Title, Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of 1 Chronicles, 1 Chronicles in the Larger Story of the Bible, Christ in 1 Chronicles, History of Interpretation, Special Issues, Outline. Print pages to verify.
 
 ## Changelog
 
 1. 2026-11-04: Generated initial notes with Claude Code
+2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code

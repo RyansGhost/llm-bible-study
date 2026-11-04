@@ -18,20 +18,19 @@ status: draft
 
 - **When:** from Solomon's accession (about 970 BC) to the fall of Jerusalem (586 BC) and Cyrus' decree (539/538 BC). Written after the return from exile.
 - **Where:** Jerusalem and Judah. The northern kingdom appears mainly when it touches Judah.
-- **Who wrote it:** the same Chronicler as 1 Chronicles; Jewish tradition says Ezra (Pratt).
-- **Where it sits:** the end of Chronicles, and the end of the Hebrew Bible. Its last verses (36:22–23) are nearly the same as the opening of Ezra (Ezra 1:1–3).
+- **Who wrote it:** the same Chronicler as 1 Chronicles, probably between about 515 and 400 BC; Jewish tradition says Ezra (Pratt; Reformation Study Bible). The split into two books was only a later convenience for handling the scrolls.
+- **Where it sits:** the end of Chronicles, and the end of the Hebrew Bible. It assumes readers know Kings, and focuses on Judah's spiritual health rather than its wars and wealth. Its last verses (36:22–23) are nearly the same as the opening of Ezra (Ezra 1:1–3).
 
 ## Structure
 
-- 1–9: Solomon: wisdom, the temple built and dedicated, God's answer, Solomon's glory
-- 10–36: The kings of Judah
+The Reformation Study Bible's outline has three parts:
+
+- 1–9: The united kingdom under Solomon. His reign is arranged symmetrically, with wisdom and wealth at either end and the temple's dedication and God's answer at the centre (5:2–7:22). Solomon's power struggle and later fall are left out.
+- 10–28: The divided kingdom, told from Judah's side, from Rehoboam to Ahaz. Each king is measured by the ideal of David and Solomon: faithful to the law, supporting the temple, listening to prophets and priests.
     - 10–12: the kingdom divides; Rehoboam
     - 13–20: Abijah, Asa and Jehoshaphat: reform and reliance on God
-    - 21–28: Jehoram to Ahaz: apostasy and decline, with Joash and Uzziah rising and falling
-    - 29–32: Hezekiah: the temple cleansed, a great Passover, deliverance from Assyria
-    - 33: Manasseh's sin and repentance
-    - 34–35: Josiah's reforms and Passover
-    - 36: The last kings, the exile, and Cyrus' decree
+    - 21–28: Jehoram to Ahaz: apostasy and decline, with Joash, Amaziah and Uzziah rising and falling
+- 29–36: The reunited kingdom. Hezekiah gathers the faithful of north and south around the temple again. Failures follow (Manasseh, Amon, the last kings), but each is answered by God's renewal: Manasseh's repentance (33), Josiah's reforms (34–35), and, after the exile, Cyrus' decree (36:22–23).
 
 ## Chapter by chapter
 
@@ -109,7 +108,9 @@ status: draft
 
 - **Seek the Lord:** the book's refrain. Kings who seek God prosper; those who forsake him fall (15:2; 26:5).
 - **Humble yourselves and pray:** 7:14 is the key. Rehoboam, Hezekiah and even Manasseh humble themselves and find mercy (12:6–7; 32:26; 33:12–13).
-- **Immediate blessing and judgment:** the Chronicler often connects a king's faithfulness or unfaithfulness directly with the outcome, as a pointed lesson to his readers (Pratt).
+- **Blessing and judgment:** the Chronicler often connects a king's faithfulness or unfaithfulness directly with the outcome, as a pointed lesson to his readers (Pratt). But he isn't simplistic: Asa is attacked after his reforms (16), and Sennacherib invades right after Hezekiah's faithfulness (32:1). His aim is to call people to repentance, since the way back to blessing is always open (7:13–14) (RSB).
+- **The heart, not just ritual:** the Chronicler keeps saying that God wants wholehearted devotion, not mere performance (15:12, 15; 16:9; 31:21).
+- **Kings as hopeful pictures:** he presents some kings, such as Abijah, Jotham and Hezekiah, at their best, to stir hope for the ideal king still to come (RSB).
 - **The temple at the centre:** the kings are judged largely by how they treat God's house and its worship.
 - **All Israel:** Hezekiah invites the north to Passover (30), and the Chronicler welcomes northerners who return to the Lord.
 - **Hope after exile:** the book ends not with destruction but with Cyrus' decree to go up and rebuild (36:22–23).
@@ -154,8 +155,9 @@ Jesus refers to the martyrdom of Zechariah son of Jehoiada (24:20–22) when he 
 
 - Richard L. Pratt Jr., "1–2 Chronicles," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Structure and Outline, Message and Theology (the people of God, king and temple, blessing and judgment). Print pages to verify.
 - *The Lutheran Study Bible* (Concordia, 2009), introduction to 1 and 2 Chronicles. Lutheran source.
-- Reformation Study Bible, introduction to 2 Chronicles, p. ___ (to verify)
+- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to 2 Chronicles: Title and Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of 2 Chronicles, 2 Chronicles in the Larger Story of the Bible, Christ in 2 Chronicles, History of Interpretation, Special Issues, Outline. Print pages to verify.
 
 ## Changelog
 
 1. 2026-11-04: Generated initial notes with Claude Code
+2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code
