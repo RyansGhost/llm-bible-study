@@ -37,9 +37,9 @@ The EPUB is indexed with `tools/epub_index.py` (work `bible-reformation-study-bi
 - [x] 31 Obadiah
 - [x] 32 Jonah
 - [x] 33 Micah
-- [ ] 34 Nahum
-- [ ] 35 Habakkuk
-- [ ] 36 Zephaniah
+- [x] 34 Nahum
+- [x] 35 Habakkuk
+- [x] 36 Zephaniah
 - [ ] 37 Haggai
 - [ ] 38 Zechariah
 - [ ] 39 Malachi

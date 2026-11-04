@@ -16,18 +16,21 @@ Habakkuk is a conversation between a troubled prophet and God. Habakkuk asks why
 
 ## Setting
 
-- **When:** about 605 BC (Lutheran Study Bible), as Babylon (the Chaldeans) rose to power, before it invaded Judah.
+- **When:** most likely the reign of Jehoiakim (609–598 BC), when Judah slid back into wickedness after good King Josiah (Jer 22:13–19). Chapter 1 seems to come before 605 BC, while the Babylonians (Chaldeans) were rising but not yet dominant; chapters 2–3 after their victory at Carchemish that year (Reformation Study Bible). The Lutheran Study Bible gives about 605 BC.
 - **Where:** Judah and Jerusalem, near the temple (2:20; 3:19).
-- **Who wrote it:** Habakkuk the prophet (1:1). Nothing else is known about him. Chapter 3 has musical notes like a psalm.
-- **Where it sits:** among the Twelve, a contemporary of Jeremiah, Zephaniah and Nahum.
+- **Who wrote it:** Habakkuk "the prophet" (1:1), perhaps well known in his day. Nothing else is known about him, and the meaning of his name is uncertain.
+- **Where it sits:** among the Twelve, a contemporary of Jeremiah, Zephaniah and Nahum. Unusually, it isn't addressed to the people: it records the prophet's own struggle with God, in the pattern of lament psalms, and chapter 3 is a psalm with musical directions.
 
 ## Structure
 
-- 1:1–4: Habakkuk's first complaint: why does injustice in Judah go unpunished?
-- 1:5–11: God's answer: he is raising up the Babylonians
-- 1:12–2:1: Habakkuk's second complaint: how can God use the wicked to punish the more righteous?
-- 2:2–20: God's answer: wait for the vision; the righteous live by faith; five woes on Babylon
-- 3: Habakkuk's prayer and song of trust
+The Reformation Study Bible's outline:
+
+- 1:1: Heading
+- 1:2–4: First complaint: why do the wicked in Judah prevail over the righteous?
+- 1:5–11: First answer: the Lord will send the Babylonians
+- 1:12–17: Second complaint: how can a holy God use the even more wicked Babylonians?
+- 2: Second answer: wait for the vision; life for the faithful, and five woes on the proud
+- 3: Habakkuk's prayer: a vision of God coming as at the exodus and Sinai, and a song of trust
 
 ## Chapter by chapter
 
@@ -48,11 +51,13 @@ Habakkuk is a conversation between a troubled prophet and God. Habakkuk asks why
 
 ## Themes
 
-- **Wrestling honestly with God:** Habakkuk brings his questions about evil and injustice directly to God.
+- **Wrestling honestly with God:** Habakkuk brings his questions about evil and injustice directly to God, then waits for his answer (2:1). He still holds on to God as his Rock and the Holy One (1:12–13).
+- **When God seems silent:** Nahum shows God acting in judgment; Habakkuk faces the times when God's control isn't visible (RSB).
 - **God's sovereignty over the nations:** God raises Babylon for judgment and will judge Babylon for its own sins (1:6; 2:6–17). Timmer shows how the Twelve treat both Israel's punishment through the nations and the punishment of the nations themselves.
-- **Living by faith:** the righteous person trusts God and waits, even when God's ways are hard to understand (2:3–4).
+- **Living by faith:** the righteous person trusts God and waits, even when God's ways are hard to understand (2:3–4). Paul builds on 2:4 for justification by faith (Rom 1:17; Gal 3:11; compare Heb 10:38), so the RSB calls Habakkuk a forefather of the Reformation.
 - **The certainty of God's word:** the vision has an appointed time; it won't fail (2:3).
 - **God's glory filling the earth:** history moves toward God's glory being known everywhere (2:14).
+- **Prayer that submits to God's will:** complaint turns to a prayer that God would act as in the past (3:2), echoing "your will be done".
 - **Joy in God alone:** faith that rejoices even when every earthly support is gone (3:17–19).
 
 ## How it points to Christ
@@ -94,8 +99,9 @@ Habakkuk's prayer, "in wrath remember mercy" (3:2), is answered at the cross, wh
 
 - Daniel C. Timmer, "The Twelve," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Message and Theology (sin in Judah, punishment through the nations, the punishment of the nations, deliverance of the remnant). Print pages to verify.
 - *The Lutheran Study Bible* (Concordia, 2009), introduction to Habakkuk: Overview. Lutheran source.
-- Reformation Study Bible, introduction to Habakkuk, p. ___ (to verify)
+- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Habakkuk: Title and Author, Date and Occasion, Genre and Literary Features, Characteristics and Primary Themes, Theology of Habakkuk, Habakkuk in the Larger Story of the Bible, Christ in Habakkuk, History of Interpretation, Outline. Print pages to verify.
 
 ## Changelog
 
 1. 2026-11-04: Generated initial notes with Claude Code
+2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code

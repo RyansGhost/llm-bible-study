@@ -16,17 +16,23 @@ Zephaniah announces the great and terrible day of the Lord, which will sweep awa
 
 ## Setting
 
-- **When:** in the days of King Josiah of Judah (640–609 BC; 1:1), probably before or early in Josiah's reforms (622 BC), while idolatry was still widespread.
+- **When:** in the days of King Josiah of Judah (640–609 BC; 1:1), before Nineveh fell in 612 BC (2:13–15). The Reformation Study Bible suggests he began after Josiah's first reforms of 628 BC, since only "the remnant of Baal" is left (1:4), but before the great reform of 622 BC; the sins he attacks are the ones Josiah removed (2 Kgs 23:4–14), so his preaching may have helped spur it. He was a contemporary of Jeremiah.
 - **Where:** Judah and Jerusalem, with oracles against Philistia, Moab, Ammon, Cush and Assyria.
-- **Who wrote it:** Zephaniah, whose family line is traced back four generations to Hezekiah (1:1), perhaps King Hezekiah. That would make him a distant relative of Josiah.
-- **Where it sits:** among the Twelve. Timmer notes its heading is similar to those of Hosea, Amos and Micah, and that Zephaniah presses repentance strongly (2:1–3).
+- **Who wrote it:** Zephaniah, whose name means "the Lord has hidden" or "treasured". Uniquely among the prophets, his family line is traced back four generations, to Hezekiah (1:1), probably the king, which would make him a man of standing in Jerusalem and a distant relative of Josiah. He uses priestly language, but there's no clear sign he served at the temple.
+- **Where it sits:** among the Twelve, the last of them written before the exile; Haggai, Zechariah and Malachi come after the return (RSB). Timmer notes its heading is similar to those of Hosea, Amos and Micah, and that Zephaniah presses repentance strongly (2:1–3).
 
 ## Structure
 
-- 1:1–2:3: The day of the Lord against Judah, and a call to seek the Lord
+Like many prophets, Zephaniah moves from universal judgment to salvation for the nations and a remnant of Israel. The Reformation Study Bible's outline:
+
+- 1:1: Heading
+- 1:2–6: Judgment on all the earth, and on Judah's idolatry
+- 1:7–18: The day of the Lord: charges and judgment
+- 2:1–3: A call to repent and seek the Lord
 - 2:4–15: Judgment on the nations, west, east, south and north
-- 3:1–8: Woe to Jerusalem
-- 3:9–20: Restoration: purified nations, a humble remnant, God rejoicing over his people
+- 3:1–5: Charges against Jerusalem
+- 3:6–8: Jerusalem should have learned from God's judgment of the nations
+- 3:9–20: Judah's remnant purified and restored: the nations call on the Lord, and God rejoices over his people
 
 ## Chapter by chapter
 
@@ -50,13 +56,13 @@ Zephaniah announces the great and terrible day of the Lord, which will sweep awa
 
 ## Themes
 
-- **The day of the Lord:** the dominant theme, a day of universal judgment. Timmer calls it the "metatheme" of the Twelve. Zephaniah's description inspired the medieval hymn "Dies Irae" ("Day of Wrath").
-- **Complacency and idolatry:** God judges those who mix worship of the Lord with other gods (1:4–6), and those who think he does nothing (1:12).
+- **The day of the Lord:** the dominant theme, mentioned about eighteen times, thirteen in chapter 1 alone: a near day of darkness and wrath through a foreign army, and beyond it the final, universal judgment (1:7, 14–18). Timmer calls it the "metatheme" of the Twelve. Zephaniah's description inspired the medieval hymn "Dies Irae" ("Day of Wrath").
+- **Complacency and idolatry:** God judges those who mix worship of the Lord with other gods (1:4–6), and those who think he does nothing, neither good nor bad (1:12). He searches Jerusalem with lamps to find them.
 - **Seek the Lord in humility:** repentance is the only refuge (2:1–3). Timmer notes that this "perhaps" means repentance doesn't presume on God's mercy.
 - **God's judgment on proud nations:** Nineveh's pride is singled out (2:15).
 - **A purified, humble remnant:** a lowly people who trust the Lord (3:12–13).
 - **Salvation for the nations:** peoples whose speech God purifies will call on his name (3:9).
-- **God's joy over his people:** the climax is God himself rejoicing over his redeemed (3:14–17).
+- **God's joy over his people:** the climax is God himself rejoicing over his redeemed (3:14–17). The book that opens with sweeping everything away ends with restoration: his wrath serves his purpose to purify and renew (RSB).
 
 ## How it points to Christ
 
@@ -94,8 +100,9 @@ The day of the Lord finds its fullest meaning in Christ. In his first coming he 
 
 - Daniel C. Timmer, "The Twelve," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Message and Theology (the day of the Lord, sin and punishment, repentance, the remnant, the nations). Print pages to verify.
 - *The Lutheran Study Bible* (Concordia, 2009), introduction to Zephaniah: Overview. Lutheran source.
-- Reformation Study Bible, introduction to Zephaniah, p. ___ (to verify)
+- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Zephaniah: Title and Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of Zephaniah, Zephaniah in the Larger Story of the Bible, Christ in Zephaniah, History of Interpretation, Outline. Print pages to verify.
 
 ## Changelog
 
 1. 2026-11-04: Generated initial notes with Claude Code
+2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code
