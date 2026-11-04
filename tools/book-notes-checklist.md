@@ -14,7 +14,7 @@ Shared source chapters (read once, used for several books): Van Pelt's "1–2 Sa
 ### The Law
 - [x] 1 Genesis
 - [x] 2 Exodus
-- [ ] 3 Leviticus
+- [x] 3 Leviticus
 - [ ] 4 Numbers
 - [ ] 5 Deuteronomy
 
