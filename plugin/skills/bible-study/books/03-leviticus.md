@@ -12,11 +12,11 @@ status: draft
 
 ## Summary
 
-Leviticus ("about the Levites"; in Hebrew *vayikra*, "and he called") answers the question left at the end of Exodus: how can a holy God live among sinful people? It is a manual for worship at the tabernacle, addressed to all Israel, not just the priests. God provides sacrifices to atone for sin, priests to serve, laws to separate clean from unclean, and a calendar of holy days. All of it calls Israel to "be holy, for I am holy" (11:45; 19:2).
+Leviticus ("about the Levites"; in Hebrew *vayikra*, "and he called") answers the question left at the end of Exodus: how can a holy God live among sinful people? It is a manual for worship at the tabernacle, addressed to all Israel, not just the priests. God provides sacrifices to atone for sin, priests to serve, laws to separate clean from unclean, and a calendar of holy days. All of it calls Israel to "be holy, for I am holy" (11:45; 19:2). Exodus shows God redeeming a people; Leviticus shows him making them holy, so that the God no one could approach at Sinai can live among them (Reformation Heritage KJV Study Bible, RH).
 
 ## Setting
 
-- **When:** about a year after the exodus, during Israel's stay at Mount Sinai (about 1445 BC in the Lutheran Study Bible's dating). It was probably written down during the wilderness years, before Moses died (Reformation Study Bible).
+- **When:** about a year after the exodus, during Israel's stay at Mount Sinai (about 1445 BC in both the Lutheran Study Bible's and RH's dating). It was probably written down during the wilderness years, before Moses died (Reformation Study Bible).
 - **Where:** the tabernacle in Israel's camp at the foot of Sinai.
 - **Who wrote it:** Moses. McKelvey points out that no book claims more often to be God's own words: "The Lord spoke to Moses" opens chapter after chapter. Many critical scholars date it after the exile, but the RSB answers that its worship doesn't match the second temple's, and earlier books (Deuteronomy, Amos, Ezekiel) already assume or quote it.
 - **Where it sits:** the third book of Moses, the middle of the five. It is almost all speeches, with only two short stories: the priests' ordination with the deaths of Nadab and Abihu (8–10), and the blasphemer (24). It picks up straight from the end of Exodus, when God's glory fills the tabernacle (Ex 40:34; Lev 1:1), and Numbers carries on from it.
@@ -90,7 +90,7 @@ McKelvey's outline has two parts: how to worship the holy God, and how to live w
 
 - **God's presence:** God now lives among his people in the tabernacle (26:11–12), but sin restricts access: only the high priest enters the Most Holy Place, once a year (16).
 - **God's holiness:** the book's thesis is 11:45 and 19:2, "You shall be holy, for I the Lord your God am holy". McKelvey notes the Hebrew root for "holy" appears about 143 times, more than in any other Old Testament book.
-- **Atonement by blood:** sin defiles, and blood shed on the altar cleanses and reconciles (17:11; Heb 9:22).
+- **Atonement by blood:** sin defiles, and blood shed on the altar cleanses and reconciles (17:11; Heb 9:22). RH pairs this with holiness as the book's two inseparable themes: atonement covers guilt, and holiness sets the forgiven apart to God.
 - **Clean and unclean:** daily life is marked off into holy and common, clean and unclean (10:10). God is the source of whole, perfect life, so blemishes, disease and anything linked with death picture what can't come near him (RSB).
 - **Mediation:** priests stand between a holy God and sinful people. Luther observed that the priesthood exists only because of sin (Lutheran Study Bible).
 - **Holy time:** even Israel's week and year belong to the Lord: Sabbaths, feasts, the Day of Atonement, and the Jubilee (23; 25).
@@ -99,7 +99,7 @@ McKelvey's outline has two parts: how to worship the holy God, and how to live w
 
 ## How it points to Christ
 
-Every offering foreshadows Christ's one sacrifice. He is the Lamb of God (John 1:29), offered once for all (Heb 10:10–14). On the Day of Atonement the high priest entered an earthly holy place with animal blood each year. Christ, the greater High Priest, entered heaven itself with his own blood, once (Heb 9:11–14, 24–28). The scapegoat carrying sins away pictures the one on whom the Lord laid "the iniquity of us all" (Isa 53:6), and Jesus suffered "outside the gate" like the sin offering burned outside the camp (Heb 13:11–12).
+Every offering foreshadows Christ's one sacrifice. The rituals are "a shadow of the good things to come" (Heb 10:1), and RH notes that Israelites who looked through them to the promised Redeemer were saved on the same ground as we are, Christ's finished work. He is the Lamb of God (John 1:29), offered once for all (Heb 10:10–14). On the Day of Atonement the high priest entered an earthly holy place with animal blood each year. Christ, the greater High Priest, entered heaven itself with his own blood, once (Heb 9:11–14, 24–28). The scapegoat carrying sins away pictures the one on whom the Lord laid "the iniquity of us all" (Isa 53:6), and Jesus suffered "outside the gate" like the sin offering burned outside the camp (Heb 13:11–12).
 
 Jesus, untouched by uncleanness, touched lepers and made them clean (Mark 1:40–42), and declared all foods clean (Mark 7:19). He began his ministry by announcing "the year of the Lord's favour", Jubilee language (Luke 4:18–19). And he named "love your neighbour as yourself" (19:18) as the second great commandment (Matt 22:39).
 
@@ -165,6 +165,7 @@ Jesus, untouched by uncleanness, touched lepers and made them clean (Mark 1:40�
 - *The Lutheran Study Bible* (Concordia, 2009), introduction to Leviticus: Overview, Luther on Leviticus, Challenges for Readers. Lutheran source.
 - Westminster Confession of Faith 19.3–5 (ceremonial, civil and moral law).
 - *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Leviticus: Title, Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of Leviticus, Leviticus in the Larger Story of the Bible, Christ in Leviticus, History of Interpretation, Special Issues, Outline.
+- *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to Leviticus: Authorship, Date, Theme, Purpose, Synopsis, Outline; chapter summaries.
 
 ## Changelog
 

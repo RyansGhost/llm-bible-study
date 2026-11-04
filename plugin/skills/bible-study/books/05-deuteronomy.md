@@ -12,13 +12,13 @@ status: draft
 
 ## Summary
 
-Deuteronomy is Moses' farewell: sermons to the new generation on the plains of Moab, renewing God's covenant before they enter the land. Its name comes from the Greek for "second law", because Moses repeats and explains the law given at Sinai. He retells their history, sets before them life and death, blessing and curse, and urges them to love the Lord with all their heart, while warning that they will fail. Then he dies within sight of the promised land. The New Testament quotes it more than fifty times; only Psalms and Isaiah are quoted more.
+Deuteronomy is Moses' farewell: sermons to the new generation on the plains of Moab, renewing God's covenant before they enter the land. Its name comes from the Greek for "second law", because Moses repeats and explains the law given at Sinai. He retells their history, sets before them life and death, blessing and curse, and urges them to love the Lord with all their heart, while warning that they will fail. Then he dies within sight of the promised land. The New Testament quotes it often (more than fifty times by one count, more than eighty by the Reformation Heritage KJV Study Bible's, RH); only Psalms and Isaiah are used more.
 
 ## Setting
 
 - **When:** the last weeks of Moses' life, in the fortieth year after the exodus (1:3), about 1406 BC (Reformation Study Bible).
 - **Where:** the plains of Moab, east of the Jordan opposite Jericho. The book ends on Mount Nebo.
-- **Who wrote it:** Moses (1:1, 5; 31:9, 22, 24), apart from the account of his death (34), which another hand, perhaps Joshua, added. Critical scholars often date it to King Josiah's reform (about 620 BC). The RSB answers that the book knows nothing of later times: no king or Jerusalem, Israel still one nation of twelve tribes, only the cities of refuge east of the Jordan named, and no Babylonian or Persian words. Redd likewise speaks of "essential Mosaic authorship".
+- **Who wrote it:** Moses (1:1, 5; 31:9, 22, 24), apart from the account of his death (34), which another hand, perhaps Joshua, added. Critical scholars often date it to King Josiah's reform (about 620 BC). The RSB answers that the book knows nothing of later times: no king or Jerusalem, Israel still one nation of twelve tribes, only the cities of refuge east of the Jordan named, and no Babylonian or Persian words. Redd likewise speaks of "essential Mosaic authorship". RH adds that it follows the pattern of second-millennium treaties, not those of Josiah's day; that its details suit the desert (animals of Sinai, 14:5; acacia wood, 10:3; camp hygiene, 23:12–14); and that later Scripture and Jesus call it Moses' (2 Chr 25:4; Neh 13:1; Matt 19:7–8).
 - **Where it sits:** the last book of Moses, between Numbers and Joshua. Redd calls it the theological core of the Old Testament: it sums up Genesis to Numbers, and its covenant standards are the measure by which Joshua to Kings and the prophets judge Israel.
 
 ## Structure
@@ -42,7 +42,7 @@ Most of the book is two long speeches by Moses, followed by shorter speeches and
 - **Deuteronomy 5:** The Ten Commandments repeated, with the Sabbath grounded in Israel's rescue from slavery (5:15). The people ask Moses to speak to them for God.
 - **Deuteronomy 6:** The Shema: "Hear, O Israel: The Lord our God, the Lord is one. You shall love the Lord your God with all your heart …" (6:4–5). Teach it to your children, and don't forget God when prosperity comes.
 - **Deuteronomy 7:** Destroy the Canaanite nations and their idols, and don't intermarry. God chose Israel not because they were many, but because he loved them (7:7–8).
-- **Deuteronomy 8:** Remember the wilderness. God fed you manna to teach that "man does not live by bread alone" (8:3). Don't credit yourselves for your wealth.
+- **Deuteronomy 8:** Remember the wilderness, where God tested Israel to show what was in their hearts (8:2). He fed them manna to teach that "man does not live by bread alone" (8:3). Don't credit yourselves for your wealth.
 - **Deuteronomy 9:** The land is not a reward for righteousness; Israel has been stubborn from the start. Moses recalls the golden calf and his intercession.
 - **Deuteronomy 10:** The new tablets placed in the ark. What the Lord requires: fear him, walk in his ways, love and serve him (10:12). Circumcise your hearts, and love the foreigner.
 - **Deuteronomy 11:** Love and obey, and the land will be blessed with rain. Blessing and curse are to be proclaimed from Mounts Gerizim and Ebal.
@@ -93,7 +93,7 @@ Most of the book is two long speeches by Moses, followed by shorter speeches and
 
 ## Themes
 
-- **Love and loyalty to the one Lord:** the Shema makes wholehearted love the heart of the law (6:4–5).
+- **Love and loyalty to the one Lord:** the Shema makes wholehearted love the heart of the law (6:4–5). RH names the book's theme as covenant love: God loved first, choosing Israel's fathers, preserving them in Egypt and saving them at the sea (7:7–8), and Israel answers that love by obeying him.
 - **Covenant renewal:** each generation must take the covenant as its own: "not with our fathers … but with us" (5:3).
 - **Remember and don't forget:** past grace drives present obedience. Israel's greatest danger is forgetting God in prosperity (6:12; 8:11–18).
 - **Grace before law:** God chose Israel out of love, not merit (7:7–8; 9:4–6). Obedience is the response.
@@ -173,6 +173,7 @@ Peter identifies Jesus as the prophet like Moses (18:15; Acts 3:22–23). Paul r
 - John Scott Redd, "Deuteronomy," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues (title, authorship, date and setting, audience), Structure and Outline, Message and Theology.
 - *The Lutheran Study Bible* (Concordia, 2009), introduction to Deuteronomy. Lutheran source.
 - *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Deuteronomy: Title, Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of Deuteronomy, Deuteronomy in the Larger Story of the Bible, Christ in Deuteronomy, History of Interpretation, Outline.
+- *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to Deuteronomy: Authorship, Date, Theme, Purpose, Synopsis, Outline; chapter summaries.
 
 ## Changelog
 

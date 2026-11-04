@@ -12,11 +12,11 @@ status: draft
 
 ## Summary
 
-Numbers follows Israel from Mount Sinai to the edge of the promised land. The generation God rescued from Egypt refuses to trust him and dies in the wilderness over forty years; even Moses sins and may not enter. God stays faithful, though, and brings their children to the plains of Moab ready to enter Canaan. The book was likely written to warn that new generation to trust and obey where their parents had failed, and Paul uses it the same way for Christians (1 Cor 10:1–13).
+Numbers follows Israel from Mount Sinai to the edge of the promised land. The generation God rescued from Egypt refuses to trust him and dies in the wilderness over forty years; even Moses sins and may not enter. God stays faithful, though, and brings their children to the plains of Moab ready to enter Canaan. The book was likely written to warn that new generation to trust and obey where their parents had failed, and Paul uses it the same way for Christians (1 Cor 10:1–13). The Reformation Heritage KJV Study Bible (RH) sums up its theme as God's discipline, direction and provision for his people.
 
 ## Setting
 
-- **When:** from the second year after the exodus to the fortieth (about 1445–1406 BC in the Lutheran Study Bible's dating). Moses probably wrote it near the end of the wilderness years, before his death (Reformation Study Bible).
+- **When:** from the second year after the exodus to the fortieth (about 1445–1406 BC in the Lutheran Study Bible's dating; RH, 1445–1405 BC). Moses probably wrote it near the end of the wilderness years, before his death (Reformation Study Bible).
 - **Where:** the wilderness of Sinai, Kadesh in the wilderness of Zin and Paran, the journey around Edom, and finally the plains of Moab across the Jordan from Jericho.
 - **Who wrote it:** Moses, who is said to have recorded the journey (33:2). "The Lord spoke to Moses" appears more than forty times. A few notes may have been added after his death, such as the remark that Moses was the meekest man on earth (12:3) (RSB). Glodo argues it was written for the second generation on the plains of Moab, before Deuteronomy.
 - **Where it sits:** the fourth book of Moses. Its Hebrew title, *Bemidbar*, "in the wilderness", names its setting; the English title comes from the Greek *Arithmoi*, "numbers", after the two censuses.
@@ -45,7 +45,7 @@ Two censuses frame the book. One counts the generation that fails; the other cou
 - **Numbers 10:** Silver trumpets signal the camp. Israel leaves Sinai in battle order, with Moses praying "Arise, O Lord" (10:35).
 - **Numbers 11:** The people complain, and fire breaks out at Taberah. They crave meat. God puts his Spirit on seventy elders, then sends quail, with a plague.
 - **Numbers 12:** Miriam and Aaron speak against Moses. God defends Moses, the humblest man on earth, and Miriam is struck with skin disease for seven days.
-- **Numbers 13:** Twelve spies explore Canaan. Ten report giants and say Israel can't win; Caleb urges them to go up.
+- **Numbers 13:** Twelve spies explore Canaan and find it as rich as God promised. But ten report giants and say Israel can't win; Caleb urges them to go up.
 - **Numbers 14:** The people want to go back to Egypt. Moses pleads for them, but God decrees forty years in the wilderness until that generation dies, all except Caleb and Joshua. A presumptuous attack fails.
 - **Numbers 15:** Laws on offerings for life in the land. A Sabbath-breaker is stoned, and tassels are given to help Israel remember the commands.
 - **Numbers 16:** Korah, Dathan and Abiram rebel against Moses and Aaron. The earth swallows them, fire consumes their followers, and Aaron's incense stops a plague.
@@ -100,7 +100,7 @@ Two censuses frame the book. One counts the generation that fails; the other cou
 
 ## Themes
 
-- **Unbelief and its cost:** the generation that saw the plagues and the sea refuses to trust God at Kadesh, and dies in the wilderness (14:11, 22–23).
+- **Unbelief and its cost:** the generation that saw the plagues and the sea refuses to trust God at Kadesh, and dies in the wilderness (14:11, 22–23). The message they heard did them no good because they did not receive it with faith (Heb 4:2); the book's purpose is to show that following the Lord takes faith (RH).
 - **God's faithfulness despite his people:** they grumble again and again, yet God keeps feeding, guiding and protecting them, and brings the next generation to the border.
 - **Judged under the covenant:** the complaints about food and water echo Exodus, but now they are punished (compare Ex 16 with Num 11). Having sworn the covenant at Sinai, Israel is held to its terms (RSB).
 - **Even the best fall short:** Moses himself is shut out of the land after Meribah (20:12), a reminder that all are saved by grace, not by their own record.
@@ -113,7 +113,7 @@ Two censuses frame the book. One counts the generation that fails; the other cou
 
 Jesus says that as Moses lifted up the bronze serpent, the Son of Man must be lifted up, so that whoever believes in him may have eternal life (21:8–9; John 3:14–15). The rock that gave water was Christ (1 Cor 10:4), and the manna points to him as the bread from heaven (John 6:31–35). The star rising from Jacob in Balaam's prophecy (24:17) points to the Messiah-King, whose star the magi followed (Matt 2:2).
 
-The ashes of the red heifer cleansed the body; Christ's blood cleanses the conscience (Heb 9:13–14). Where Israel failed forty years in the wilderness, Jesus stood firm through forty days of testing (Matt 4:1–11). Paul and Hebrews use Numbers as a warning against the unbelief that kept Israel out of God's rest (1 Cor 10:1–11; Heb 3:7–4:11).
+The ashes of the red heifer cleansed the body; Christ's blood cleanses the conscience (Heb 9:13–14). The cities of refuge picture the safety a sinner finds by fleeing to Christ (RH). Where Israel failed forty years in the wilderness, Jesus stood firm through forty days of testing (Matt 4:1–11). Paul and Hebrews use Numbers as a warning against the unbelief that kept Israel out of God's rest (1 Cor 10:1–11; Heb 3:7–4:11).
 
 ## Common mix-ups
 
@@ -181,6 +181,7 @@ The ashes of the red heifer cleansed the body; Christ's blood cleanses the consc
 - Michael J. Glodo, "Numbers," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues, Authorship, Date and Audience, Structure and Outline, Message and Theology.
 - *The Lutheran Study Bible* (Concordia, 2009), introduction to Numbers: Overview, Luther on Numbers, Challenges for Readers. Lutheran source.
 - *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Numbers: Title, Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of Numbers, Numbers in the Larger Story of the Bible, Christ in Numbers, History of Interpretation, Special Issues, Outline.
+- *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to Numbers: Authorship, Date, Theme, Purpose, Synopsis, Outline; chapter summaries.
 
 ## Changelog
 

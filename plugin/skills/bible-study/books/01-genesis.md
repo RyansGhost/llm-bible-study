@@ -18,7 +18,7 @@ Genesis ("origin"; in Hebrew *bereshit*, "in the beginning") is the book of begi
 
 - **When:** from creation to Joseph's death in Egypt. The events before Abraham can't be dated. The patriarchs were a semi-nomadic family living around 2000 BC, and names and customs in chapters 12–50 fit that era (Reformation Study Bible). Moses probably wrote in the fifteenth century BC (RSB; the Lutheran Study Bible gives about 1446–1406 BC).
 - **Where:** Eden, Mesopotamia (Ur, Haran, Babel), Canaan (Shechem, Bethel, Hebron, Beersheba), and finally Egypt.
-- **Who wrote it:** Moses gave Genesis its substance, probably using older oral and written sources. Later inspired editors updated some place names (14:14) and added a few notes, such as the list of Edom's kings "before any king reigned over Israel" (36:31). Jesus treats the Pentateuch as Moses' (John 7:22). The RSB and Currid both reject the modern theory that Genesis was stitched together from conflicting documents (J, E, D and P).
+- **Who wrote it:** Moses gave Genesis its substance, probably using older oral and written sources. Later inspired editors updated some place names (14:14) and added a few notes, such as the list of Edom's kings "before any king reigned over Israel" (36:31). Jesus treats the Pentateuch as Moses' (John 7:22). The Reformation Heritage KJV Study Bible (RH) places the writing in the wilderness years, so that a people fresh from Egypt's many gods would learn who their God is and where they came from. The RSB and Currid both reject the modern theory that Genesis was stitched together from conflicting documents (J, E, D and P).
 - **Where it sits:** the first of the five books of Moses (the Pentateuch), and the start of one continuous history running from creation to the fall of Jerusalem (Genesis–Kings). Chapters 1–11 echo, and deliberately contradict, older Near Eastern creation and flood stories such as *Enuma Elish* and *Atrahasis*.
 
 ## Structure
@@ -39,7 +39,7 @@ Currid divides Genesis into three sections: creation, the early history of the w
     - 36:1–37:1: Esau
     - 37:2–50:26: Jacob: Joseph, Judah, and the move to Egypt
 
-Currid also reads Genesis 1–3 as the whole Bible's message in miniature: creation, fall and redemption.
+Currid also reads Genesis 1–3 as the whole Bible's message in miniature: creation, fall and redemption. RH divides the book more simply into three parts: the world made and ruined (1–11), God's covenant with the three patriarchs (12–36), and the crisis over Joseph and Judah (37–50).
 
 ## Chapter by chapter
 
@@ -78,7 +78,7 @@ Currid also reads Genesis 1–3 as the whole Bible's message in miniature: creat
 - **Genesis 33:** Esau welcomes Jacob, and they are reconciled; Jacob presses gifts on him, as if handing back the blessing. Jacob settles near Shechem.
 - **Genesis 34:** Dinah is violated by Shechem, and her brothers Simeon and Levi take bloody revenge on the city.
 - **Genesis 35:** Jacob returns to Bethel and God renews the covenant. Rachel dies giving birth to Benjamin, and Isaac dies.
-- **Genesis 36:** The descendants of Esau, the Edomites.
+- **Genesis 36:** Esau leaves the promised land, yet is blessed with children, wealth and land: the line of the Edomites.
 - **Genesis 37:** Joseph, Jacob's favourite son, dreams of ruling his brothers. They sell him to traders bound for Egypt.
 - **Genesis 38:** Judah wrongs his daughter-in-law Tamar, who bears twins by him, Perez and Zerah. God uses even this to carry on the promised line: Perez is an ancestor of David and of Jesus, and Judah begins to change.
 - **Genesis 39:** Joseph serves Potiphar faithfully, refuses his wife, and is falsely accused and jailed. In every place "the Lord was with Joseph".
@@ -89,7 +89,7 @@ Currid also reads Genesis 1–3 as the whole Bible's message in miniature: creat
 - **Genesis 44:** Joseph's silver cup is planted in Benjamin's sack, and Judah offers himself as a slave in Benjamin's place.
 - **Genesis 45:** Joseph reveals himself: God sent him ahead to save lives (45:5–8). He sends for his father.
 - **Genesis 46:** God tells Jacob not to fear going down to Egypt, and the family of seventy goes.
-- **Genesis 47:** Jacob's family settles in Goshen, and Jacob blesses Pharaoh. Joseph manages the famine.
+- **Genesis 47:** Jacob's family settles in Goshen, and Jacob blesses Pharaoh. Joseph's handling of the famine feeds the hungry and strengthens Pharaoh's hold on Egypt.
 - **Genesis 48:** Jacob adopts and blesses Joseph's sons Ephraim and Manasseh, putting the younger first.
 - **Genesis 49:** Jacob blesses his twelve sons. The sceptre will not depart from Judah (49:10). Jacob dies.
 - **Genesis 50:** Jacob is buried in Canaan. Joseph reassures his brothers: "you meant evil against me, but God meant it for good" (50:20). Joseph dies, making Israel promise to carry his bones to the land.
@@ -111,7 +111,7 @@ Currid also reads Genesis 1–3 as the whole Bible's message in miniature: creat
 - **Rachel and Leah:** Jacob's wives, sisters and rivals.
 - **Judah:** Jacob's son who sells Joseph, wrongs Tamar, and later offers himself as a slave in Benjamin's place; the sceptre is promised to his tribe (49:10).
 - **Tamar and Perez:** Judah's daughter-in-law and their son, through whom the royal line of David runs (38; Ruth 4:18–22).
-- **Joseph:** Jacob's favourite son, sold into slavery and raised to rule Egypt, saving his family. His son Ephraim is blessed ahead of the older Manasseh (48).
+- **Joseph:** Jacob's favourite son, sold into slavery and raised to rule Egypt, saving his family. His story fills more than a fifth of the book's chapters (RH). His son Ephraim is blessed ahead of the older Manasseh (48).
 
 ## Key events
 
@@ -138,14 +138,14 @@ Currid also reads Genesis 1–3 as the whole Bible's message in miniature: creat
 - **Sin and its spread:** one act of disobedience leads to shame, murder, revenge, violence, the flood and Babel's "anti-kingdom" (3; 4; 6:5; 11). "The intention of man's heart is evil from his youth" (8:21).
 - **Promise and offspring:** the "offspring" of 3:15 runs through the genealogies to Abraham's offspring (12:7; 22:18). By the end two royal lines stand out, Joseph's and Judah's, and Judah's wins (49:8–10), pointing to David.
 - **God's sovereign choice:** God chooses Abraham, and repeatedly the younger over the older: Isaac, Jacob, Perez, Ephraim (25:23; 48). He opens barren wombs and protects the mothers of the line (12; 20; 21).
-- **Covenant:** God binds himself to Noah, Abraham, Isaac and Jacob, initiating and guaranteeing each covenant himself (6:18; 9:9; 15; 17; 26:3–5; 28:13–15).
+- **Covenant:** God binds himself to Noah, Abraham, Isaac and Jacob, initiating and guaranteeing each covenant himself (6:18; 9:9; 15; 17; 26:3–5; 28:13–15). RH contrasts Adam, set under a law of obedience with the two trees as its signs (2:9, 15–17), with Abraham's family, who stand by grace and are counted righteous by faith, not by works (15:6).
 - **Faith and righteousness:** Abraham believes God, and it is counted to him as righteousness (15:6). Luther called Genesis an "exceedingly evangelical" book, full of examples of faith and unbelief (Lutheran Study Bible).
-- **God's providence through human sin:** barren wives, family deceit and Joseph's slavery all serve God's plan: "God meant it for good" (50:20).
+- **Faith tested by providence:** God's people must trust the promise when events seem to deny it: Abel dies for his faith, Abraham waits decades for one son and never owns the land, Jacob spends years in exile, and Joseph is enslaved. Yet barren wives, family deceit and slavery all serve God's plan: "God meant it for good" (50:20).
 - **Blessing for the nations:** God's purpose with Abraham's family is blessing for "all the families of the earth" (12:3).
 
 ## How it points to Christ
 
-The first gospel promise is the offspring of the woman who will crush the serpent's head, at the cost of a wound to his heel (3:15; Rom 16:20). Abraham's "offspring" is ultimately one person, Christ (Gal 3:16). Melchizedek, priest-king of Salem, foreshadows Christ's priesthood (Heb 7). The binding of Isaac points to the Father who did not spare his own Son (Rom 8:32; Heb 11:17–19). Jacob's stairway to heaven is fulfilled in Jesus himself (John 1:51). The sceptre promised to Judah (49:10) belongs to the Lion of the tribe of Judah (Rev 5:5).
+The first gospel promise is the offspring of the woman who will crush the serpent's head, at the cost of a wound to his heel (3:15; Rom 16:20). Abraham's "offspring" is ultimately one person, Christ (Gal 3:16). The garments of skin God makes after the fall (3:21) and Abel's offering (4:4) begin the line of sacrifices that foreshadow Christ, the one perfect sacrifice (RH). Melchizedek, priest-king of Salem, foreshadows Christ's priesthood (Heb 7). The binding of Isaac points to the Father who did not spare his own Son (Rom 8:32; Heb 11:17–19). Jacob's stairway to heaven is fulfilled in Jesus himself (John 1:51). The sceptre promised to Judah (49:10) belongs to the Lion of the tribe of Judah (Rev 5:5).
 
 Joseph, rejected by his brothers and raised to save many lives, is a pattern of Christ's suffering and exaltation. Adam himself is "a type of the one who was to come" (Rom 5:14).
 
@@ -161,7 +161,7 @@ Joseph, rejected by his brothers and raised to save many lives, is a pattern of 
 
 ## Going deeper
 
-- **How are the creation days to be read?** Luther insisted Moses spoke literally of six days (Lutheran Study Bible). The Westminster Confession says God made the world "in the space of six days" (4.1). The Lutheran Study Bible warns against dating creation by adding up the genealogies, since they may skip generations. Discuss what Genesis 1 does and doesn't claim.
+- **How are the creation days to be read?** Luther insisted Moses spoke literally of six days (Lutheran Study Bible). The Westminster Confession says God made the world "in the space of six days" (4.1). The Lutheran Study Bible warns against dating creation by adding up the genealogies, since they may skip generations. RH reads the days as ordinary days, because "day" with "evening and morning" always means that elsewhere in the Old Testament. It argues that denying a historical Adam undoes the unity of mankind, Christ as the last Adam, and death as the penalty for sin (Rom 5:12; 1 Cor 15:21–22). Discuss what Genesis 1 does and doesn't claim.
 - **Did Moses write Genesis?** Currid traces the theory that Genesis was stitched together from several source documents back to Jean Astruc and Hegel's philosophy of development. He argues that repeated key words and patterns show one artful author. Read: Currid, Background Issues and Literary Analysis.
 - **The two seeds.** Currid follows the conflict of 3:15 through Cain and Seth, the flood, and Abraham's line, all the way to Revelation 12. Who belongs to which "offspring"?
 - **Covenant in Genesis.** God's covenants follow the ancient pattern of a great king binding himself to a lesser one. In Genesis 15 only God passes between the pieces, taking the curse on himself (Currid, Centrality of the Covenant). Connect this with the covenant of grace (WCF 7.3).
@@ -220,6 +220,7 @@ Joseph, rejected by his brothers and raised to save many lives, is a pattern of 
 - *The Lutheran Study Bible* (Concordia, 2009), introduction to Genesis: Overview, Luther on Genesis, Challenges for Readers, Genesis and Theories of Evolution, Outline. Lutheran source.
 - Westminster Confession of Faith 4.1 (creation) and 7.1–3 (the covenants).
 - *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Genesis: Title, Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of Genesis, Genesis in the Larger Story of the Bible, Christ in Genesis, History of Interpretation, Special Issues, Outline.
+- *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to Genesis: Theme, Purpose, Issues of Interpretation, Synopsis, Outline; chapter summaries.
 
 ## Changelog
 
