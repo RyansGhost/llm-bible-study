@@ -16,7 +16,7 @@ Shared source chapters (read once, used for several books): Van Pelt's "1–2 Sa
 - [x] 2 Exodus
 - [x] 3 Leviticus
 - [x] 4 Numbers
-- [ ] 5 Deuteronomy
+- [x] 5 Deuteronomy
 
 ### History
 - [ ] 6 Joshua (merge with the existing session draft)

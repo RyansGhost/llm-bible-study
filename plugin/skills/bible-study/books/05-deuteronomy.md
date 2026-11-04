@@ -5,56 +5,141 @@ book: 5
 testament: old
 section: "Law"
 weight: 5
-status: placeholder
+status: draft
 ---
 
 # Deuteronomy
 
 ## Sources
 
-- Reformation Study Bible, introduction to Deuteronomy, p. ___
-- Ligonier: _article title_, _url_
+- John Scott Redd, "Deuteronomy," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues (title, authorship, date and setting, audience), Structure and Outline, Message and Theology. Print pages to verify.
+- *The Lutheran Study Bible* (Concordia, 2009), introduction to Deuteronomy. Lutheran source.
+- Reformation Study Bible, introduction to Deuteronomy, p. ___ (to verify)
 
 ## Summary
 
-_Not written yet._ One or two sentences: what Deuteronomy is about and why it matters.
+Deuteronomy is Moses' farewell: a series of sermons to the new generation on the plains of Moab, renewing God's covenant before they enter the land. Moses retells their history, restates and explains the law, and sets before them life and death, blessing and curse. He urges them to love the Lord with all their heart, and then he dies within sight of the promised land.
 
 ## Setting
 
-_Not written yet._ Where, when, who wrote it, and where it sits in the story of Scripture.
+- **When:** the last weeks of Moses' life, in the fortieth year after the exodus (1:3).
+- **Where:** the plains of Moab, east of the Jordan opposite Jericho. The book ends on Mount Nebo.
+- **Who wrote it:** Moses gave the speeches (1:1; 31:9, 24). Redd notes that many conservative scholars speak of "essential Mosaic authorship", allowing that an inspired narrator gathered the speeches and recorded Moses' death (34). Critical scholars often date it to the 7th century BC.
+- **Where it sits:** the last book of Moses. Redd calls it the theological core of the Old Testament: it sums up Genesis to Numbers, and its covenant standards are the measure by which Joshua to Kings and the prophets judge Israel.
 
 ## Structure
 
-- _Chapters_: _section_
+Deuteronomy follows the shape of an ancient treaty between a great king and his people (Redd, after Kline and others):
+
+- 1:1–4:43: Historical prologue: what the Lord has done from Horeb to Moab
+- 4:44–26:19: Stipulations
+    - 4:44–5:33: the Ten Commandments
+    - 6–26: the commandments explained and applied, in roughly the order of the Ten Commandments
+- 27–28: Blessings and curses
+- 29–30: Covenant renewal: choose life
+- 31–34: Succession and farewell: Joshua commissioned, the law stored and to be read, the Song of Moses, Moses' blessing, Moses' death
 
 ## Chapter by chapter
 
-- **Chapter 1:** _two or three sentences_
+- **Deuteronomy 1:** In the fortieth year, Moses recalls Horeb, the appointment of judges, and how the previous generation refused to enter the land at Kadesh.
+- **Deuteronomy 2:** The wilderness years. Israel passes Edom, Moab and Ammon without war, then defeats Sihon king of Heshbon.
+- **Deuteronomy 3:** The defeat of Og of Bashan, and the land east of the Jordan given to Reuben, Gad and half of Manasseh. Moses may only see the land; Joshua will lead.
+- **Deuteronomy 4:** Obey without adding or taking away. Make no images, because God spoke from the fire without any visible form. Moses warns of exile and promises return for those who seek God.
+- **Deuteronomy 5:** The Ten Commandments repeated, with the Sabbath grounded in Israel's rescue from slavery (5:15). The people ask Moses to speak to them for God.
+- **Deuteronomy 6:** The Shema: "Hear, O Israel: The Lord our God, the Lord is one. You shall love the Lord your God with all your heart …" (6:4–5). Teach it to your children, and don't forget God when prosperity comes.
+- **Deuteronomy 7:** Destroy the Canaanite nations and their idols, and don't intermarry. God chose Israel not because they were many, but because he loved them (7:7–8).
+- **Deuteronomy 8:** Remember the wilderness. God fed you manna to teach that "man does not live by bread alone" (8:3). Don't credit yourselves for your wealth.
+- **Deuteronomy 9:** The land is not a reward for righteousness; Israel has been stubborn from the start. Moses recalls the golden calf and his intercession.
+- **Deuteronomy 10:** The new tablets placed in the ark. What the Lord requires: fear him, walk in his ways, love and serve him (10:12). Circumcise your hearts, and love the foreigner.
+- **Deuteronomy 11:** Love and obey, and the land will be blessed with rain. Blessing and curse are to be proclaimed from Mounts Gerizim and Ebal.
+- **Deuteronomy 12:** Tear down the pagan shrines. Worship only at the place the Lord will choose for his name.
+- **Deuteronomy 13:** A prophet, relative or town that entices Israel to other gods must be put to death.
+- **Deuteronomy 14:** Clean and unclean foods. Tithes, with every third year's tithe for the Levite, the foreigner, the orphan and the widow.
+- **Deuteronomy 15:** Debts are cancelled every seventh year and Hebrew slaves released generously. "Open wide your hand" to the poor.
+- **Deuteronomy 16:** The three pilgrim feasts (Passover, Weeks, Booths), and justice without bribery.
+- **Deuteronomy 17:** Courts for hard cases. The law of the king: no great store of horses, wives or gold, and he must write a copy of the law and read it all his life (17:14–20).
+- **Deuteronomy 18:** Support for priests and Levites. No divination or sorcery. God will raise up a prophet like Moses (18:15–18).
+- **Deuteronomy 19:** Cities of refuge, boundary stones, and the rule of two or three witnesses.
+- **Deuteronomy 20:** Rules for war: exemptions from service, offers of peace, and the destruction of the Canaanite cities.
+- **Deuteronomy 21:** Atonement for an unsolved murder, captive wives, the firstborn's rights, and the rebellious son. Anyone hanged on a tree is cursed (21:23).
+- **Deuteronomy 22:** Returning lost property, laws against mixing kinds, and sexual purity.
+- **Deuteronomy 23:** Who may enter the assembly, cleanliness in the camp, refuge for escaped slaves, interest, and vows.
+- **Deuteronomy 24:** Divorce, newlyweds, kidnapping, fair and prompt wages, and gleanings left for the poor.
+- **Deuteronomy 25:** Limits on punishment, "do not muzzle an ox" (25:4), levirate marriage, honest weights, and remembering Amalek.
+- **Deuteronomy 26:** Firstfruits and the confession "A wandering Aramean was my father" (26:5). Israel and the Lord affirm the covenant.
+- **Deuteronomy 27:** The law is to be written on stones at Mount Ebal, and the Levites pronounce curses.
+- **Deuteronomy 28:** The blessings of obedience, and a long list of curses ending in exile.
+- **Deuteronomy 29:** The covenant renewed in Moab. "The secret things belong to the Lord … the things revealed belong to us" (29:29).
+- **Deuteronomy 30:** After exile, God will restore his people and circumcise their hearts (30:6). The word is near you (30:14). "Choose life" (30:19).
+- **Deuteronomy 31:** Joshua is commissioned. The law is written down, kept with the ark, and to be read every seven years. God foretells Israel's unfaithfulness.
+- **Deuteronomy 32:** The Song of Moses: the faithful Rock and a faithless people. God tells Moses to climb Mount Nebo.
+- **Deuteronomy 33:** Moses blesses the tribes of Israel.
+- **Deuteronomy 34:** Moses sees the land from Nebo, dies, and is buried by the Lord. No prophet like him has arisen since.
 
 ## Key people
 
-- _Name_: _one line on their role_
+- **Moses:** now 120, preaching his last sermons, mediator of the covenant and the great prophet.
+- **Joshua:** commissioned as Moses' successor to lead Israel into the land (31:7–8; 34:9).
+- **The second generation:** the children of those who died in the wilderness, now called to choose faithfulness.
+- **Sihon and Og:** Amorite kings east of the Jordan, defeated as a foretaste of conquest (2–3).
+- **Caleb:** singled out with Joshua for following the Lord fully (1:36).
 
 ## Key events
 
-- _Event (chapter)_: _one line_
+- Moses retells Israel's history from Horeb to Moab (1–3)
+- The Ten Commandments repeated (5)
+- The Shema (6:4–9)
+- The law of the king (17:14–20)
+- The promise of a prophet like Moses (18:15–18)
+- Blessings and curses (27–28)
+- The covenant renewed, and the call to choose life (29–30)
+- Joshua commissioned; the law written and stored (31)
+- The Song of Moses (32), and Moses' blessing of the tribes (33)
+- The death of Moses on Mount Nebo (34)
 
 ## Themes
 
-- _Theme_: _one line, with a key verse_
+- **Love and loyalty to the one Lord:** the Shema makes wholehearted love the heart of the law (6:4–5).
+- **Covenant renewal:** each generation must take the covenant as its own: "not with our fathers … but with us" (5:3).
+- **Remember and don't forget:** past grace drives present obedience. Israel's greatest danger is forgetting God in prosperity (6:12; 8:11–18).
+- **Grace before law:** God chose Israel out of love, not merit (7:7–8; 9:4–6). Obedience is the response.
+- **One place of worship:** God will choose a place for his name, setting up the later temple in Jerusalem (12).
+- **Blessing and curse:** obedience brings life in the land and disobedience brings exile. This framework explains the history that follows (28–30).
+- **The heart:** the law must be on the heart, and God promises to circumcise hearts himself (6:6; 10:16; 30:6).
+- **Justice and care for the weak:** widows, orphans, foreigners, the poor and the Levites are protected throughout (10:18–19; 24:17–22).
 
 ## How it points to Christ
 
-_Not written yet._ One or two lines, with New Testament references.
+When tempted in the wilderness, Jesus answered Satan three times from Deuteronomy (8:3; 6:16; 6:13; Matt 4:1–11). Where Israel failed its forty years of testing, the true Son obeyed. He named the Shema's command to love God with all your heart as the greatest commandment (6:5; Matt 22:37).
+
+Peter identifies Jesus as the prophet like Moses (18:15; Acts 3:22–23). Paul reads "cursed is everyone hanged on a tree" (21:23) as Christ becoming a curse for us (Gal 3:13), and reads Moses' "the word is near you" (30:12–14) as the word of faith in Christ (Rom 10:6–8). The promise that God would circumcise his people's hearts (30:6) is fulfilled in the new covenant (Rom 2:29; Col 2:11).
 
 ## Common mix-ups
 
-- _Things easily confused with other books_
+- "Deuteronomy" means "second law", but it isn't a new law: it is Moses re-preaching the Sinai covenant. Redd notes the name comes from the Greek translation of 17:18, which in Hebrew means a "copy of the law".
+- The Ten Commandments appear in both Exodus 20 and Deuteronomy 5. The Sabbath command is grounded in creation in Exodus and in the rescue from Egypt in Deuteronomy.
+- Moses dies on Mount Nebo in Moab and never enters Canaan; his death is the last chapter of Deuteronomy, not the start of Joshua.
+- The book's audience is the second generation; most of the first died in the wilderness (2:14–15).
+- Blessings and curses are spoken from two mountains: Gerizim (blessing) and Ebal (curse).
 
 ## Going deeper
 
-- **_Topic_:** _a question worth a longer conversation, and where the sources discuss it_
+- **Deuteronomy as a treaty.** Redd explains how ancient Hittite treaties (second millennium BC) and Assyrian ones (seventh century) bear on dating the book. Which features match which, and why does it matter for Moses' authorship? Read: Redd, Date and Setting, and Structure and Outline.
+- **The laws arranged by the Ten Commandments.** Following Kaufman and Walton, Redd reads chapters 6–26 as an exposition of the commandments in order: chapters 6–11 apply the first, chapter 12 (worship) the second, and so on. Trace it through.
+- **The law of the king (17:14–20).** It forbids exactly what Solomon later did, piling up horses, wives and gold (1 Kgs 10–11). How does it set up the history of Israel's kings?
+- **Holy war and the Canaanites.** Chapters 7 and 20 command the destruction of the Canaanite nations. How do Genesis 15:16, judgment on idolatry, and Christ's final judgment help in reading this hard theme?
+- **Can Israel keep the covenant?** Moses predicts failure (31:16–29), yet promises restoration and new hearts (30:1–10). How does this anticipate Jeremiah's new covenant (Jer 31:31–34)?
+- **"The secret things belong to the Lord" (29:29).** A key text for how Christians handle what God has and hasn't revealed.
 
 ## Q&A
 
-1. _Question?_ _Answer._
+1. Where were the people when Moses gave these speeches? On the plains of Moab, east of the Jordan (1:1–5).
+2. What is the Shema? "Hear, O Israel: The Lord our God, the Lord is one. You shall love the Lord your God with all your heart and with all your soul and with all your might" (6:4–5).
+3. What lesson did the manna teach? That man does not live by bread alone, but by every word from God's mouth (8:3).
+4. Why did God choose Israel? Not because they were many or righteous, but because he loved them and kept his oath to their fathers (7:7–8; 9:5).
+5. What must Israel's king write for himself? A copy of the law, to read all his life (17:18–19).
+6. What prophet did Moses promise? A prophet like himself, from among their brothers (18:15).
+7. From which mountains were the blessings and curses spoken? Gerizim and Ebal (11:29; 27).
+8. What did Moses set before Israel in chapter 30? Life and death, blessing and curse, telling them to choose life (30:19).
+9. Where did Moses die, and who buried him? On Mount Nebo in Moab; the Lord buried him (34:1–6).
+10. Which book does Jesus quote three times in his temptation? Deuteronomy (Matt 4:1–11).
