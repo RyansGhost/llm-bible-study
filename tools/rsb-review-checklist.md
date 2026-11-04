@@ -47,8 +47,8 @@ The EPUB is indexed with `tools/epub_index.py` (work `bible-reformation-study-bi
 - [x] 41 Mark
 - [x] 42 Luke
 - [x] 43 John
-- [ ] 44 Acts
-- [ ] 45 Romans
+- [x] 44 Acts
+- [x] 45 Romans
 - [ ] 46 1 Corinthians
 - [ ] 47 2 Corinthians
 - [ ] 48 Galatians

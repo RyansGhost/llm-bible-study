@@ -17,19 +17,24 @@ Romans is Paul's fullest explanation of the gospel. Its theme is "the righteousn
 ## Setting
 
 - **When:** about AD 57, near the end of Paul's third missionary journey, before he had ever visited Rome (Waters; Acts 20:2–3).
-- **Where:** written probably from Corinth, to the believers in Rome, a mixed community of Jewish and Gentile Christians meeting in house churches (16:5).
+- **Where:** written probably from Corinth, during Paul's three months in Greece: Phoebe came from Corinth's port, Cenchreae, and his host Gaius and the city official Erastus were Corinthians (16:1, 23; 1 Cor 1:14). It went to the believers in Rome, a mixed but mostly Gentile church meeting in several house churches (1:13; 16:5). The church had been there a long time, founded by neither Peter nor Paul; visitors from Rome were at Pentecost (Acts 2:10), and the Roman historian Suetonius says Claudius expelled the Jews in AD 49 over disturbances about "Chrestus", probably Christ (Reformation Study Bible).
 - **Who wrote it:** the apostle Paul, with Tertius as his scribe (16:22). Phoebe probably carried the letter (16:1–2).
-- **Where it sits:** the first of Paul's letters in the New Testament, placed first because it is the longest. Waters notes Paul had several purposes: introducing himself and his gospel, preparing for a mission to Spain (15:24), and encouraging unity between Jewish and Gentile believers.
+- **Where it sits:** the first of Paul's letters in the New Testament, placed first because it is the longest. Waters notes Paul had several purposes: introducing himself and his gospel ("my gospel", 2:16), preparing for a mission to Spain (15:24), and encouraging unity between Jewish and Gentile believers. Paul felt his work in the east was done (15:19–23). The RSB notes it is far longer than an ordinary letter, the nearest thing in the New Testament to a full statement of Christian doctrine.
 
 ## Structure
 
-Waters reads 1:1–7 and 1:16–17 as the keys to the letter, and divides the rest into four parts:
+Paul draws readers into his argument with questions ("What shall we say then?", 6:1; 9:14) and quotes the Old Testament heavily, especially in 9–11. The Reformation Study Bible's outline:
 
-- 1:1–17: Introduction and thesis: the gospel reveals the righteousness of God
-- 1:18–3:20: The need: all humanity, Gentile and Jew, lacks righteousness and stands under God's wrath
-- 3:21–8:39: The gift: righteousness given through faith in Christ, leading to peace, union with Christ, freedom, and life in the Spirit
-- 9–11: God's faithfulness to Israel: election, unbelief, and God's merciful plan for Jew and Gentile
-- 12–16: The life of righteousness: worship, love, the state, the weak and the strong, Paul's plans, and greetings
+- 1:1–15: Paul's greetings and introduction
+- 1:16–17: Theme: the righteousness of God, for Jew and Gentile
+- 1:18–3:20: All humanity is sinful: Gentile and Jew lack righteousness and stand under God's wrath
+- 3:21–5:21: God's righteousness given for justification: through faith in Christ, shown in Abraham, bringing peace with God; Adam and Christ
+- 6–8: Grace reigns through righteousness: union with Christ, freedom from sin and the law, life in the Spirit, assurance
+- 9–11: God's righteousness shown in Jew and Gentile: election, Israel's unbelief, the remnant, and God's merciful plan
+- 12:1–15:13: God's righteousness lived out: worship, love, the state, the weak and the strong
+- 15:14–16:27: Paul's plans and greetings
+
+Waters reads 1:1–7 and 1:16–17 as the keys, and divides the body similarly: the need (1:18–3:20), the gift (3:21–8:39), Israel (9–11), and the life of righteousness (12–16).
 
 ## Chapter by chapter
 
@@ -71,12 +76,13 @@ Romans is a letter of teaching rather than a narrative. Its "events" are redempt
 
 - **The righteousness of God:** Waters sees this as the main point of the letter (1:17). God's own righteousness, shown in judging sin and justifying sinners, and given as a gift to believers.
 - **Universal sin:** Jew and Gentile alike are guilty before God (1:18–3:20).
-- **Justification by faith:** God declares sinners righteous by grace through faith in Christ, apart from works of the law (3:21–4:25). The Reformers' rallying point; see the Westminster Confession, chapter 11.
+- **Justification by faith:** God declares sinners righteous by grace through faith in Christ, apart from works of the law (3:21–4:25). Christ is the propitiation who bears God's wrath in our place, so that God is both just and the justifier (3:25–26), and Christ's righteousness is counted to believers (4:5–6). The Reformers' rallying point; see the Westminster Confession, chapter 11. Augustine and Luther both came to assured faith through Romans, and Calvin said that understanding it opens the way to the whole of Scripture.
 - **Union with Christ:** believers died and rose with Christ and live a new life (6).
 - **Life in the Spirit:** the Spirit frees, leads, adopts, helps and intercedes (8).
 - **Assurance:** no condemnation, and no separation from God's love (8:1, 31–39).
 - **God's sovereign election:** salvation rests on God's mercy and purpose (8:29–30; 9). See the Westminster Confession, chapter 3.
-- **God's faithfulness to Israel:** God hasn't abandoned his promises (11).
+- **God's faithfulness to Israel:** God hasn't abandoned his promises: a remnant of Israel is being saved now, and Paul expects a future work of grace turning Israel to its Messiah (11:1–32).
+- **One people, Jew and Gentile:** both are under sin in Adam, both are saved the same way, by grace through faith, and both belong to one body. Paul's collection from Gentile churches for Jerusalem shows it (15:25–27).
 - **Gospel-shaped living:** grace leads to worship, humility, love, submission and unity (12–15).
 
 ## How it points to Christ
@@ -127,8 +133,9 @@ Romans is centred on Christ:
 - Guy Prentiss Waters, "Romans," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (when, to whom and why Paul wrote), Structure and Outline (Rom 1:1–7; 1:16–17; a brief outline), Message and Theology. Print pages to verify.
 - Martin Luther, *Preface to the Epistle to the Romans* (1522), quoted by Waters. Free at [Project Wittenberg](https://www.projectwittenberg.org/pub/resources/text/wittenberg/wittenberg-luther.html).
 - Westminster Confession of Faith 3 (God's eternal decree) and 11 (justification).
-- Reformation Study Bible, introduction to Romans, p. ___ (to verify)
+- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Romans: Title and Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of Romans, Romans in the Larger Story of the Bible, Christ in Romans, History of Interpretation, Outline. Print pages to verify.
 
 ## Changelog
 
 1. 2026-11-04: Generated initial notes with Claude Code
+2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code
