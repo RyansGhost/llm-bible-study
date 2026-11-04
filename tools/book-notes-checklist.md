@@ -81,9 +81,9 @@ Shared source chapters (read once, used for several books): Van Pelt's "1–2 Sa
 - [x] 51 Colossians
 - [x] 52 1 Thessalonians
 - [x] 53 2 Thessalonians
-- [ ] 54 1 Timothy
-- [ ] 55 2 Timothy
-- [ ] 56 Titus
+- [x] 54 1 Timothy
+- [x] 55 2 Timothy
+- [x] 56 Titus
 - [ ] 57 Philemon
 
 ### General Letters

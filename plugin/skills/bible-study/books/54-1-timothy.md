@@ -5,56 +5,103 @@ book: 54
 testament: new
 section: "Pauline Epistles"
 weight: 54
-status: placeholder
+status: draft
 ---
 
 # 1 Timothy
 
 ## Sources
 
-- Reformation Study Bible, introduction to 1 Timothy, p. ___
-- Ligonier: _article title_, _url_
+- William B. Barcley, "Introduction to the Pastoral Epistles" and "1 Timothy," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (authorship, date and occasion, false teaching, recipients), Structure and Outline, Message and Theology. Print pages to verify.
+- Reformation Study Bible, introduction to 1 Timothy, p. ___ (to verify)
 
 ## Summary
 
-_Not written yet._ One or two sentences: what 1 Timothy is about and why it matters.
+1 Timothy is Paul's instruction to his trusted co-worker Timothy, whom he left in Ephesus to stop false teachers. Barcley shows the letter alternates between two themes: dealing with the false teachers, and "how one ought to behave in the household of God, which is the church" (3:15). Paul tells Timothy to hold to sound doctrine and a good conscience, to make prayer a priority, and to appoint qualified elders and deacons. He gives guidance on worship, caring for widows, honouring elders, and money: "godliness with contentment is great gain" (6:6). Through it all runs the gospel: "Christ Jesus came into the world to save sinners" (1:15).
 
 ## Setting
 
-_Not written yet._ Where, when, who wrote it, and where it sits in the story of Scripture.
+- **When:** probably the early to mid-60s AD, after Paul's release from his first Roman imprisonment (Barcley). Paul had urged Timothy to stay in Ephesus while he went on to Macedonia (1:3).
+- **Where:** to Timothy at Ephesus, the church whose elders Paul had warned about "fierce wolves" (Acts 20:29–30).
+- **Who wrote it:** Paul (1:1). Barcley notes that Paul's authorship of the Pastoral Epistles is denied more often than for any of his other letters, mainly on grounds of vocabulary, style, theology and church order. He answers these arguments and defends Paul's authorship.
+- **Where it sits:** the first of the three "Pastoral Epistles" (1 and 2 Timothy, Titus), letters to individuals about ordering the life of local churches.
 
 ## Structure
 
-- _Chapters_: _section_
+Barcley's outline:
+
+- 1:1–20: Timothy and the false teachers (1)
+- 2:1–3:16: Proper conduct in the household of God (1): prayer, worship, elders and deacons
+- 4:1–16: Timothy and the false teachers (2)
+- 5:1–6:2: Proper conduct in the household of God (2): widows, elders, slaves
+- 6:3–21: Timothy and the false teachers (3): godliness, contentment and the good fight
 
 ## Chapter by chapter
 
-- **Chapter 1:** _two or three sentences_
+- **1 Timothy 1:** Paul urges Timothy to stay in Ephesus and stop those teaching different doctrine, myths and endless genealogies. The aim is love from a pure heart, a good conscience and sincere faith. The law is good if used lawfully. Paul, once a blasphemer and persecutor, received mercy: "Christ Jesus came into the world to save sinners, of whom I am the foremost" (1:15). Fight the good fight, holding faith and a good conscience. Hymenaeus and Alexander have shipwrecked their faith.
+- **1 Timothy 2:** Pray for all people, including kings and those in authority. God desires all people to be saved. "There is one God, and there is one mediator between God and men, the man Christ Jesus, who gave himself as a ransom for all" (2:5–6). Men should pray without anger. Women should adorn themselves with good works. Paul doesn't permit a woman to teach or exercise authority over a man in the church, grounding this in creation and the fall.
+- **1 Timothy 3:** The qualifications for an overseer (elder): above reproach, husband of one wife, sober-minded, hospitable, able to teach, not a drunkard or lover of money, managing his household well, not a recent convert. Deacons also must be dignified and tested. The church is "a pillar and buttress of the truth". Great is the mystery of godliness: Christ "was manifested in the flesh … taken up in glory" (3:16).
+- **1 Timothy 4:** In later times some will depart from the faith, forbidding marriage and foods that God created to be received with thanksgiving. Train yourself for godliness. Let no one despise your youth, but set an example. Devote yourself to the public reading of Scripture, exhortation and teaching. Watch your life and doctrine closely.
+- **1 Timothy 5:** Treat older men as fathers, younger men as brothers, older women as mothers, younger women as sisters. Honour widows who are truly in need. Families must care for their own relatives first. Elders who rule well are worthy of double honour, especially those who preach and teach. Don't accept a charge against an elder without two or three witnesses.
+- **1 Timothy 6:** Slaves should honour their masters. False teachers think godliness is a means of gain, but "godliness with contentment is great gain" (6:6). "The love of money is a root of all kinds of evils" (6:10). Fight the good fight of faith. Charge the rich to be generous and hope in God. Guard the deposit entrusted to you.
 
 ## Key people
 
-- _Name_: _one line on their role_
+- **Paul:** the apostle, writing to his "true child in the faith" (1:2).
+- **Timothy:** Paul's closest co-worker. Barcley notes he appears in ten of Paul's thirteen letters. He was young, apparently timid, and often unwell (4:12; 5:23).
+- **Hymenaeus and Alexander:** who rejected faith and a good conscience (1:19–20).
+- **The false teachers:** who taught myths, genealogies and harsh self-denial, and were motivated by gain (1:3–7; 4:1–3; 6:3–5).
+- **Elders (overseers) and deacons:** the church officers whose qualifications Paul sets out (3:1–13).
+- **Widows:** whom the church must honour and support (5:3–16).
 
 ## Key events
 
-- _Event (chapter)_: _one line_
+- Paul leaves Timothy in Ephesus and travels to Macedonia (1:3)
+- Hymenaeus and Alexander handed over to Satan (1:20)
+- Timothy's ordination, with the laying on of hands by the elders (4:14)
 
 ## Themes
 
-- _Theme_: _one line, with a key verse_
+- **Sound doctrine:** "sound" (healthy) teaching against false teaching that leads to quarrels and away from the faith (1:10; 6:3).
+- **The gospel of grace:** Paul himself is the example of mercy to the worst of sinners (1:12–16).
+- **The household of God:** the church as God's family, ordered by his word (3:15).
+- **Prayer and worship:** prayer for all people comes "first of all" (2:1).
+- **Church leadership:** qualified elders and deacons, marked by godly character and, for elders, the ability to teach (3:1–13; 5:17–22).
+- **Mercy ministry:** care for widows and the needy. Barcley reads the "women" of 3:11 as women who assist the deacons in this work.
+- **Money and contentment:** godliness with contentment, generosity, and warning against the love of money (6:6–19).
+- **Guarding the faith:** "guard the deposit entrusted to you" (6:20).
 
 ## How it points to Christ
 
-_Not written yet._ One or two lines, with New Testament references.
+The letter centres on the "trustworthy saying" that Christ Jesus came into the world to save sinners (1:15). He is the one mediator between God and men, the man Christ Jesus, who gave himself as a ransom (2:5–6). The "mystery of godliness" (3:16) is a short hymn summarising his whole work: manifested in the flesh, vindicated by the Spirit, seen by angels, proclaimed among the nations, believed on in the world, taken up in glory. Christ made the good confession before Pontius Pilate (6:13), and he will appear at the proper time, "the blessed and only Sovereign, the King of kings and Lord of lords" (6:15).
 
 ## Common mix-ups
 
-- _Things easily confused with other books_
+- "The love of money is a root of all kinds of evils" (6:10). It's the love of money, not money itself.
+- "Let no one despise you for your youth" is 1 Timothy 4:12.
+- "Husband of one wife" (3:2) is usually read as faithfulness in marriage (a "one-woman man"). Interpreters differ on how it applies to the divorced or remarried.
+- Overseers (bishops) and elders are the same office in the Pastoral Epistles (compare Titus 1:5–7). Presbyterian churches draw on this for their form of government.
+- "Saved through childbearing" (2:15) is a hard verse. It doesn't mean women earn salvation by having children. Common readings link it to the birth of Christ or to women persevering in their God-given calling.
+- "God desires all people to be saved" (2:4). Reformed interpreters often read "all" as all kinds of people, in the context of praying for kings and rulers (2:1–2). Others read it as God's genuine desire. Either way, it doesn't teach that everyone will be saved.
 
 ## Going deeper
 
-- **_Topic_:** _a question worth a longer conversation, and where the sources discuss it_
+- **Did Paul write the Pastoral Epistles?** Barcley explains the arguments from vocabulary, style, theology and church order, and his answers. What would be lost if they weren't Paul's?
+- **What was the false teaching?** Barcley sees a Jewish-flavoured speculation using the law as a springboard for myths and genealogies. Why does Paul treat it so seriously?
+- **Women in worship (2:8–15).** What does Paul ground his teaching in? How do Reformed churches apply 2:12 today, and how have others read it?
+- **Elders and deacons (3:1–13).** Compare these qualifications with Titus 1. How do they shape the Presbyterian and Reformed offices of elder and deacon?
+- **The women of 3:11.** Wives of deacons, or women who assist the deacons? Barcley favours the second. What is at stake?
+- **Contentment and riches (6:6–19).** How does Paul's teaching challenge both the prosperity gospel and the love of comfort?
 
 ## Q&A
 
-1. _Question?_ _Answer._
+1. Why did Paul leave Timothy in Ephesus? To stop certain people from teaching different doctrine (1:3).
+2. What trustworthy saying does Paul give in 1:15? Christ Jesus came into the world to save sinners, of whom Paul is the foremost.
+3. For whom should Christians pray, according to 2:1–2? All people, including kings and all in high positions.
+4. Who is the one mediator between God and men? The man Christ Jesus (2:5).
+5. Which two church offices does chapter 3 describe? Overseers (elders) and deacons.
+6. What does Paul call the church in 3:15? The household of God, a pillar and buttress of the truth.
+7. What did Paul tell Timothy about his youth? Let no one despise you for your youth, but set the believers an example (4:12).
+8. Which elders are worthy of double honour? Those who rule well, especially those who labour in preaching and teaching (5:17).
+9. What is great gain? Godliness with contentment (6:6).
+10. What is a root of all kinds of evils? The love of money (6:10).
