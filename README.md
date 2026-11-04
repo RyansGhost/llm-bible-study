@@ -70,9 +70,12 @@ plugin/
     SKILL.md                         session steps, rating scale, rules, book index
     sources.md                       approved sources and citation rules
     books/01-genesis.md … 66-revelation.md
-site/                                Hugo site; mounts the books folder above as content/books
+site/                                Hugo site; mounts the books folder above as content/books;
+                                     llms.txt quotes SKILL.md's method (steps to tracker)
 .github/workflows/release.yml        on a v* tag, zips the skill and attaches it to a release
 ```
+
+The top of `llms.txt` links to `SKILL.md` and copies its session steps, rating scale, rules and tracker sections word for word at build time. Edit them in `SKILL.md`, and the site follows. Keep those sections free of relative links other than `sources.md` and `tracker-template.md`, or the build stops with an error.
 
 ## Writing a book's notes
 

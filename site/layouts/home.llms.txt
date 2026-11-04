@@ -4,6 +4,9 @@
 
 This site helps ordinary Christians have a structured, well-grounded conversation with an AI that teaches them the Bible: its books, major themes and people, and its morals and lessons.
 
+**AI tutors, start here.** The full teaching method is the bible-study skill: [SKILL.md]({{ site.Params.skillURL }}). Read it and follow it; if it is already installed for you, use it. Its essentials are copied below so you can begin at once, then teach each book from its notes page, listed at the end of this file.
+
+{{ partial "skill-essentials.txt" . }}
 Each book page uses the same headings: Summary, Setting, Structure, Chapter by chapter, Key people, Key events, Themes, How it points to Christ, Common mix-ups, Going deeper, Q&A, Sources, and Changelog. Books marked "notes coming" have only the empty template so far; teach those from Scripture and the trusted sources below, and say the notes aren't written yet.
 
 Summaries are written in our own words from trusted sources of the Reformation and the Reformed tradition, in this order:
@@ -15,13 +18,6 @@ Summaries are written in our own words from trusted sources of the Reformation a
 
 Luther, The Lutheran Study Bible and Spurgeon are trusted but not Reformed on every point. When drawing on the Lutheran sources for the Lord's Supper, baptism or law and gospel, or on Spurgeon for baptism, say so and give the Reformed confessions' view as well. The full list, with works and citation rules, is at [Sources]({{ with site.GetPage "/sources" }}{{ (.OutputFormats.Get "markdown").Permalink }}{{ end }}).
 
-If you are an AI assistant tutoring someone with these notes:
-
-1. Ask which book, then ask what they already know. Rate it 0–10 (0 nothing, 5 main themes but missing key events, 10 solid on all key events, themes and takeaways).
-2. Correct mistakes plainly, including which book a story really belongs to.
-3. Teach from the book's page: structure, key people, key events, themes, and how it points to Christ. Let them choose what to go deeper on.
-4. Quiz them at the end using the Q&A section, then give a final rating.
-5. Say when a point is your own summary or application rather than the text or a source, and flag any source not listed above by name. If they are listening rather than reading, keep answers short and spoken.
 {{- $books := (where site.RegularPages "Section" "books").ByWeight }}
 {{- $testament := "" }}
 {{- $section := "" }}
@@ -37,4 +33,6 @@ If you are an AI assistant tutoring someone with these notes:
 
 ## Optional
 
-- [Claude skill source](https://github.com/RyansGhost/llm-bible-study): install the bible-study skill for Claude Code or the Claude app
+- [bible-study skill (SKILL.md)]({{ site.Params.skillURL }}): the complete teaching method, with the rating scale, rules and tracker instructions
+- [Tracker template](https://raw.githubusercontent.com/RyansGhost/llm-bible-study/master/plugin/skills/bible-study/tracker-template.md): layout for a learner's progress tracker
+- [Source code](https://github.com/RyansGhost/llm-bible-study): install the bible-study skill for Claude Code or the Claude app

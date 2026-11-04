@@ -1,0 +1,17 @@
+{{- /* The teaching method from the skill's SKILL.md (session steps, rating
+     scale, rules, tracker), quoted word for word so llms.txt never drifts
+     from the skill. Headings become bold labels, because llms.txt keeps "##"
+     headings for its lists of links, and relative links are made absolute. */ -}}
+{{- $skill := resources.Get "skill/SKILL.md" -}}
+{{- if not $skill }}{{ errorf "llms.txt: skill/SKILL.md not found; check the assets mount in hugo.toml" }}{{ end -}}
+{{- $body := index (split $skill.Content "\n## Book index") 0 -}}
+{{- $parts := split $body "\n## Session steps" -}}
+{{- if ne (len $parts) 2 }}{{ errorf "llms.txt: SKILL.md has no \"## Session steps\" heading" }}{{ end -}}
+{{- $text := printf "## Session steps%s" (index $parts 1) -}}
+{{- $sources := "" }}{{ with site.GetPage "/sources" }}{{ $sources = (.OutputFormats.Get "markdown").Permalink }}{{ end -}}
+{{- $raw := replace site.Params.skillURL "SKILL.md" "" -}}
+{{- $text = replace $text "](sources.md)" (printf "](%s)" $sources) -}}
+{{- $text = replace $text "](tracker-template.md)" (printf "](%stracker-template.md)" $raw) -}}
+{{- $text = replaceRE `(?m)^## (.+)$` "**$1:**" $text -}}
+{{- with findRE `\]\([^)h][^)]*\)` $text }}{{ errorf "llms.txt: SKILL.md has relative links that need an absolute URL: %v" . }}{{ end -}}
+{{ trim $text "\n" | safeHTML }}
