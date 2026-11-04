@@ -1,0 +1,18 @@
+{{ define "main" }}
+<div class="wrap page-layout">
+  <article class="prose">
+    {{ .Content }}
+  </article>
+  <aside class="page-aside">
+    {{- with .TableOfContents }}
+    <nav class="toc" aria-label="On this page">
+      <p class="eyebrow">On this page</p>
+      {{ . }}
+    </nav>
+    {{- end }}
+    {{- with .OutputFormats.Get "markdown" }}
+    <p class="md-link"><a href="{{ .RelPermalink }}" type="text/markdown">View as markdown</a></p>
+    {{- end }}
+  </aside>
+</div>
+{{ end }}

@@ -13,7 +13,7 @@ Anyone can ask an AI about the Bible. The answers are often vague, or drift from
 This project gives the AI a **structure** and a **foundation**. It's for ordinary Christians, not scholars. It turns a conversation with a language model into a real study session:
 
 1. **It starts with you.** The AI asks what you already know about a book, gives you an honest 0–10 rating, and corrects mix-ups plainly.
-2. **It teaches from trusted notes.** Each book has notes on its setting, structure, key people, key events, themes, and how it points to Christ. The notes draw on Reformed sources such as the Reformation Study Bible, Ligonier, R.C. Sproul and Matthew Henry.
+2. **It teaches from trusted notes.** Each book has notes on its setting, structure, key people, key events, themes, and how it points to Christ. The notes draw on trusted sources from the Reformation and the Reformed tradition: Scripture first, then the Reformed confessions, the Reformation Study Bible, and teachers such as Calvin, Luther, Matthew Henry, the Puritans, Joel Beeke and R.C. Sproul. See the full [list of sources](/sources/).
 3. **It goes where you want.** Pick a person or story to dig into. The AI offers the next step instead of lecturing.
 4. **It checks what stuck.** Each book ends with a quiz and a final rating, so you can see your progress through all 66 books.
 
@@ -28,6 +28,6 @@ It works spoken aloud as well as typed, so you can study on a commute.
 
 **With any other AI assistant**: paste this at the start of a conversation.
 
-> Be my Bible study tutor. Use the notes at https://llm-bible-study.ryanfleck.ca/llms.txt and the book pages they link to. Teach me one book at a time from Reformed sources: first ask what I already know and rate it 0–10, then teach the book's key people, events, themes, and how it points to Christ, then quiz me. Correct my mistakes plainly, and tell me when something is your own opinion rather than the text or a source.
+> Be my Bible study tutor. Use the notes at https://llm-bible-study.ryanfleck.ca/llms.txt and the book pages they link to. Teach me one book at a time from the trusted Reformation and Reformed sources listed there: first ask what I already know and rate it 0–10, then teach the book's key people, events, themes, and how it points to Christ, then quiz me. Correct my mistakes plainly, and tell me when something is your own opinion rather than the text or a source.
 
 The notes for every book are below. Each page also has a plain markdown copy for AI tools.

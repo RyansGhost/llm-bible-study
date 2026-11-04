@@ -7,7 +7,7 @@ This project helps ordinary Christians (laymen, not scholars) have a structured,
 On its own, an AI's answers about the Bible can be vague, can drift from the text, or can mix up which story belongs to which book. This repo gives the AI two things:
 
 - **A structure.** The *bible-study* skill runs each session the same way. It asks what you already know, rates it 0–10, corrects mistakes plainly, and teaches the book's people, events, themes, and how it points to Christ. It lets you choose where to go deeper, then quizzes you and records an honest rating.
-- **A foundation.** Notes for all 66 books, written in our own words from Reformed sources (the Reformation Study Bible, Ligonier, R.C. Sproul, Matthew Henry), with citations. The AI is told to say when a point is its own opinion rather than the text or a source.
+- **A foundation.** Notes for all 66 books, written in our own words, with citations, from trusted sources of the Reformation and the Reformed tradition. In order: Scripture, the Reformed confessions and catechisms, the Reformation Study Bible and the Reformation Heritage KJV Study Bible, and teachers such as Calvin, Luther, Matthew Henry, the Puritans, Joel Beeke, Spurgeon and R.C. Sproul. The full list is in [`sources.md`](plugin/skills/bible-study/sources.md), also published at [/sources/](https://llm-bible-study.ryanfleck.ca/sources/). The AI is told to say when a point is its own opinion rather than the text or a source.
 
 Sessions work spoken aloud as well as typed, so you can study on a commute.
 
@@ -36,7 +36,7 @@ Or copy `plugin/skills/bible-study/` to `~/.claude/skills/bible-study/` to insta
 
 Paste this at the start of a conversation:
 
-> Be my Bible study tutor. Use the notes at https://llm-bible-study.ryanfleck.ca/llms.txt and the book pages they link to. Teach me one book at a time from Reformed sources: first ask what I already know and rate it 0–10, then teach the book's key people, events, themes, and how it points to Christ, then quiz me. Correct my mistakes plainly, and tell me when something is your own opinion rather than the text or a source.
+> Be my Bible study tutor. Use the notes at https://llm-bible-study.ryanfleck.ca/llms.txt and the book pages they link to. Teach me one book at a time from the trusted Reformation and Reformed sources listed there: first ask what I already know and rate it 0–10, then teach the book's key people, events, themes, and how it points to Christ, then quiz me. Correct my mistakes plainly, and tell me when something is your own opinion rather than the text or a source.
 
 ### Keeping a progress tracker
 

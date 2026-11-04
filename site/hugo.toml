@@ -18,6 +18,11 @@ disableKinds = ["taxonomy", "term"]
   [[module.mounts]]
     source = "../plugin/skills/bible-study/books"
     target = "content/books"
+  # The skill's source list doubles as the site's /sources/ page.
+  [[module.mounts]]
+    source = "../plugin/skills/bible-study"
+    target = "content"
+    files = ["sources.md"]
 
 # Allow the footer to read Cloudflare Pages' build variables (commit and branch).
 [security.funcs]

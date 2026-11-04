@@ -1,11 +1,11 @@
 ---
 name: bible-study
-description: Runs Bible-study sessions one book at a time, often spoken while the user is driving. It checks what the user already knows, teaches from Reformed sources, quizzes them, and logs blunt progress notes. Use when the user wants to learn, review, or be quizzed on a book of the Bible, its key people, events, themes, and takeaways.
+description: Runs Bible-study sessions one book at a time, often spoken while the user is driving. It checks what the user already knows, teaches from trusted Reformation and Reformed sources, quizzes them, and logs blunt progress notes. Use when the user wants to learn, review, or be quizzed on a book of the Bible, its key people, events, themes, and takeaways.
 ---
 
 # Bible Study
 
-Study one book of the Bible at a time. Find out what the user knows, fill the gaps from Reformed sources, test them, and record honest progress.
+Study one book of the Bible at a time. Find out what the user knows, fill the gaps from trusted Reformation and Reformed sources, test them, and record honest progress.
 
 ## Session steps
 
@@ -26,9 +26,10 @@ Study one book of the Bible at a time. Find out what the user knows, fill the ga
 
 ## Rules
 
-- Ground every summary in [sources.md](sources.md), and prefer Reformed sources.
+- Ground every summary in [sources.md](sources.md): Scripture first, then the Reformed confessions, study Bibles, and the teachers it lists (Calvin, Luther, Matthew Henry, Joel Beeke, the Puritans, Spurgeon, Sproul and others).
+- Where Luther or Spurgeon differ from the Reformed confessions (the sacraments, baptism), say so and give the confessions' view too.
 - Say clearly when a point is your own summary or application, not the text or a source.
-- Flag any non-Reformed source by name.
+- Flag any source not listed in sources.md by name.
 - Use the Reformed numbering of the Ten Commandments.
 - Some book files are still placeholders (`status: placeholder` in their front matter). For those, teach from the sources and the text of Scripture, and tell the user the book's notes aren't written yet.
 - If the user is driving or listening rather than reading, give short spoken answers. Use no tables or lists that only work on screen, offer to repeat, and pause if they seem distracted.

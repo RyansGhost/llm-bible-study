@@ -18,6 +18,7 @@
       </a>
       <nav class="site-nav" aria-label="Site">
         <a href="{{ "/books/" | relURL }}">Books</a>
+        <a href="{{ "/sources/" | relURL }}">Sources</a>
         <a href="{{ "/llms.txt" | relURL }}">llms.txt</a>
         <a href="{{ site.Params.repo }}">Skill</a>
       </nav>
@@ -28,7 +29,7 @@
   </main>
   <footer class="site-footer">
     <div class="wrap footer-inner">
-      <p>Summaries are written in our own words from Reformed sources. Check them against Scripture.</p>
+      <p>Summaries are written in our own words from <a href="{{ "/sources/" | relURL }}">trusted Reformation and Reformed sources</a>. Check them against Scripture.</p>
       <p>Content <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> · <a href="{{ site.Params.repo }}">Source on GitHub</a></p>
       {{- $sha := os.Getenv "CF_PAGES_COMMIT_SHA" }}
       <p class="build-stamp">Built {{ now.UTC.Format "2006-01-02 15:04 UTC" }}{{ with $sha }} from <a href="{{ site.Params.repo }}/commit/{{ . }}">{{ substr . 0 7 }}</a>{{ end }}</p>
