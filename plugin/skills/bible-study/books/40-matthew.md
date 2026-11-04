@@ -5,56 +5,151 @@ book: 40
 testament: new
 section: "Gospels"
 weight: 40
-status: placeholder
+status: draft
 ---
 
 # Matthew
 
 ## Sources
 
-- Reformation Study Bible, introduction to Matthew, p. ___
-- Ligonier: _article title_, _url_
+- Reggie M. Kidd, "Matthew," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (authorship, audience, date, purpose, historicity), Structure and Outline, Message and Theology (Immanuel, Jesus as the new Torah, greater than the temple, Jonah and Solomon). Print pages to verify.
+- Reformation Study Bible, introduction to Matthew, p. ___ (to verify)
 
 ## Summary
 
-_Not written yet._ One or two sentences: what Matthew is about and why it matters.
+Matthew presents Jesus as the promised Messiah, the Son of David and Son of Abraham. He fulfils Israel's Scriptures, brings the kingdom of heaven, and is "Immanuel", God with us. Matthew alternates Jesus' deeds with five great blocks of teaching, beginning with the Sermon on the Mount. He traces Israel's leaders rejecting their King, his death and resurrection, and the risen Lord sending his disciples to make disciples of all nations, promising "I am with you always" (28:20).
 
 ## Setting
 
-_Not written yet._ Where, when, who wrote it, and where it sits in the story of Scripture.
+- **When:** Jesus' life, from his birth (about 6–4 BC) to his resurrection (about AD 30–33). Kidd notes most modern scholars date the Gospel after AD 70; many conservative scholars date it earlier, in the 60s.
+- **Where:** Bethlehem, Egypt, Nazareth, Galilee (especially Capernaum), the journey south, and Jerusalem.
+- **Who wrote it:** the apostle Matthew (also called Levi), a former tax collector (9:9). The title "according to Matthew" was always attached, and early church tradition from Papias says Matthew collected Jesus' sayings (Kidd).
+- **Where it sits:** the first Gospel in the New Testament. Most scholars think Matthew used Mark, since about 90% of Mark appears in Matthew (Kidd). Kidd suggests it was written for Greek-speaking Jewish Christians grappling with the mission to the Gentiles.
 
 ## Structure
 
-- _Chapters_: _section_
+Herman Ridderbos called Matthew "the architect among the Evangelists" (quoted in Kidd). Five sections each pair narrative with a major discourse, each ending "when Jesus finished these sayings" (7:28; 11:1; 13:53; 19:1; 26:1). Kidd compares them to the five books of Moses.
+
+- 1–2: Prologue: genealogy and birth
+- 3–7: Narrative and **the Sermon on the Mount** (5–7)
+- 8–10: Narrative and **the mission discourse** (10)
+- 11–13: Narrative and **the parables of the kingdom** (13)
+- 14–18: Narrative and **the discourse on life in the church** (18)
+- 19–25: Narrative and **the discourse on the end times** (24–25)
+- 26–28: The passion, the resurrection and the Great Commission
 
 ## Chapter by chapter
 
-- **Chapter 1:** _two or three sentences_
+- **Matthew 1:** Jesus' family line from Abraham through David and the exile to Joseph. An angel tells Joseph that Mary's child is from the Holy Spirit: Jesus, who will save his people from their sins, "Immanuel" (God with us).
+- **Matthew 2:** Magi follow a star to worship the newborn king. Herod tries to kill him, the family flees to Egypt, Herod slaughters Bethlehem's boys, and the family settles in Nazareth.
+- **Matthew 3:** John the Baptist preaches repentance in the wilderness. Jesus is baptised, the Spirit descends, and the Father says, "This is my beloved Son".
+- **Matthew 4:** Satan tempts Jesus in the wilderness, and he answers each time from Deuteronomy. He begins preaching in Galilee, calls four fishermen, and heals many.
+- **Matthew 5:** The Sermon on the Mount begins: the Beatitudes, salt and light, Jesus fulfilling the law, "you have heard … but I say to you", and love for enemies.
+- **Matthew 6:** Giving, praying (the Lord's Prayer) and fasting in secret. Treasure in heaven. Don't be anxious: "seek first the kingdom of God" (6:33).
+- **Matthew 7:** Don't judge. Ask, seek, knock. The Golden Rule, the narrow gate, trees known by their fruit, and the wise and foolish builders.
+- **Matthew 8:** Jesus heals a leper, a centurion's servant and Peter's mother-in-law. He calms a storm and frees two men from demons.
+- **Matthew 9:** Jesus forgives and heals a paralysed man, calls Matthew, and eats with sinners. He raises a ruler's daughter, heals a bleeding woman and the blind, and says the harvest is plentiful.
+- **Matthew 10:** Jesus sends out the twelve apostles with instructions and warnings of persecution. Whoever loses his life for Jesus' sake will find it.
+- **Matthew 11:** John the Baptist, in prison, asks if Jesus is the one. Jesus praises John and rebukes unrepentant towns. "Come to me … and I will give you rest" (11:28).
+- **Matthew 12:** Jesus is Lord of the Sabbath. The Pharisees say he casts out demons by Beelzebul. He offers only the sign of Jonah, and calls those who do God's will his family.
+- **Matthew 13:** Parables of the kingdom: the sower, the weeds, the mustard seed, the leaven, the hidden treasure, the pearl and the net. Jesus is rejected in his hometown.
+- **Matthew 14:** Herod beheads John. Jesus feeds five thousand and walks on water, and Peter starts to sink.
+- **Matthew 15:** Human tradition against God's commands. A Canaanite woman's great faith. Four thousand are fed.
+- **Matthew 16:** Peter confesses, "You are the Christ, the Son of the living God". Jesus says, "on this rock I will build my church" (16:18), predicts his death, and calls disciples to take up their cross.
+- **Matthew 17:** The transfiguration. A demon-possessed boy is healed, and the temple tax is paid with a coin from a fish's mouth.
+- **Matthew 18:** The greatest is like a child. The lost sheep. How to deal with a brother who sins. Forgive seventy-seven times, and the unforgiving servant.
+- **Matthew 19:** Marriage and divorce. Jesus blesses children. The rich young man, and the first who will be last.
+- **Matthew 20:** The workers in the vineyard. The Son of Man came "to give his life as a ransom for many" (20:28). Two blind men healed.
+- **Matthew 21:** The triumphal entry and the cleansing of the temple. The withered fig tree. The parables of the two sons and the wicked tenants, and the rejected stone.
+- **Matthew 22:** The wedding feast. Paying taxes to Caesar, the resurrection, the greatest commandment, and whose son the Christ is.
+- **Matthew 23:** Seven woes on the scribes and Pharisees, and Jesus' lament over Jerusalem.
+- **Matthew 24:** Jesus foretells the temple's destruction, signs of the end, and his coming as the Son of Man. Be ready.
+- **Matthew 25:** The ten virgins, the talents, and the sheep and the goats.
+- **Matthew 26:** The plot against Jesus, the anointing at Bethany, Judas' thirty pieces of silver, the Last Supper, Gethsemane, the arrest, the trial before Caiaphas, and Peter's denial.
+- **Matthew 27:** Judas' remorse and death. Pilate releases Barabbas. Jesus is crucified, darkness falls, the temple curtain tears, and the centurion confesses him. He is buried and the tomb guarded.
+- **Matthew 28:** The resurrection. The guards are bribed. The Great Commission: "make disciples of all nations … I am with you always" (28:18–20).
 
 ## Key people
 
-- _Name_: _one line on their role_
+- **Jesus:** the Messiah, Son of David, Son of God, Immanuel.
+- **Joseph and Mary:** Jesus' legal father and his mother.
+- **The magi:** wise men from the east who worship the infant King.
+- **Herod the Great:** the king who tries to kill Jesus.
+- **John the Baptist:** the forerunner who prepares the way.
+- **Peter:** the leading apostle, who confesses Jesus as the Christ and later denies him.
+- **The Twelve:** Jesus' apostles, including Matthew the tax collector.
+- **The Pharisees and scribes:** religious leaders who oppose Jesus.
+- **Caiaphas:** the high priest at Jesus' trial.
+- **Pontius Pilate:** the Roman governor who sentences Jesus.
+- **Judas Iscariot:** the disciple who betrays Jesus.
+- **Mary Magdalene and the other Mary:** first witnesses of the resurrection.
 
 ## Key events
 
-- _Event (chapter)_: _one line_
+- The genealogy and the virgin birth (1)
+- The magi, and the flight to Egypt (2)
+- Jesus' baptism and temptation (3–4)
+- The Sermon on the Mount (5–7)
+- Miracles of healing and power (8–9)
+- The parables of the kingdom (13)
+- Peter's confession (16)
+- The transfiguration (17)
+- The triumphal entry (21)
+- The Last Supper and Gethsemane (26)
+- The crucifixion (27)
+- The resurrection and the Great Commission (28)
 
 ## Themes
 
-- _Theme_: _one line, with a key verse_
+- **Fulfilment:** Matthew repeatedly says events happened "to fulfil what was spoken by the prophet" (1:22; 2:15; 4:14; 21:4). Kidd sees Matthew as a scribe "trained for the kingdom" bringing out treasures old and new (13:52).
+- **Jesus the King and the kingdom of heaven:** the kingdom has come in Jesus and will be completed at his return, "now and not yet" (Kidd).
+- **Immanuel, God with us:** the Gospel is framed by "God with us" (1:23) and "I am with you always" (28:20).
+- **Jesus and the law:** Jesus fulfils the law and teaches its true meaning (5:17–48). Kidd describes Jesus as a "new Torah" and greater than Moses.
+- **Greater than the temple, Jonah and Solomon:** Jesus surpasses Israel's priesthood, prophets and kings (12:6, 41–42).
+- **The church:** Matthew is the only Gospel to use the word "church" (16:18; 18:17).
+- **Mission to the nations:** from the magi to the Great Commission, Jesus' work reaches all peoples (2:1–12; 28:19).
+- **Discipleship and righteousness:** a righteousness that exceeds the Pharisees' comes from the heart (5:20).
 
 ## How it points to Christ
 
-_Not written yet._ One or two lines, with New Testament references.
+Matthew is about Christ from start to finish. He shows Jesus as the fulfilment of the whole Old Testament:
+
+- **Son of Abraham:** in whom all nations are blessed.
+- **Son of David:** the King whose throne lasts forever.
+- **The new Moses:** delivering the law on a mountain, and rescued from a murderous king as a baby.
+- **The true Israel:** called out of Egypt and tested in the wilderness.
+- **The Servant of Isaiah,** and the stone the builders rejected.
+
+His death is the ransom for many (20:28) and the blood of the covenant poured out for forgiveness (26:28). His resurrection proves his authority over heaven and earth (28:18).
 
 ## Common mix-ups
 
-- _Things easily confused with other books_
+- Matthew is also called Levi (compare 9:9 with Mark 2:14).
+- Matthew traces Jesus' genealogy through Joseph from Abraham. Luke goes back to Adam through a different line.
+- The number of magi isn't stated; "three" comes from the three gifts.
+- The Sermon on the Mount (Matt 5–7) is longer than Luke's similar Sermon on the Plain (Luke 6).
+- "Kingdom of heaven" in Matthew means the same as "kingdom of God" in Mark and Luke. Matthew uses Jewish reverence for God's name.
+- Only Matthew records the magi, the flight to Egypt, Peter walking on water, the coin in the fish, and the guards at the tomb.
+- "Peter and the rock" (16:18) is interpreted differently: Protestants usually see the rock as Peter's confession or Peter as the confessing apostle, not a papal office.
 
 ## Going deeper
 
-- **_Topic_:** _a question worth a longer conversation, and where the sources discuss it_
+- **The five discourses.** Kidd compares Matthew's five teaching blocks to the five books of Moses. How does Matthew present Jesus as a new and greater Moses? Read: Kidd, Jesus as the New Torah.
+- **"I have come not to abolish … but to fulfil" (5:17).** What does it mean that Jesus fulfils the law? How do the "you have heard … but I say to you" sayings (5:21–48) show it?
+- **Greater than the temple, Jonah and Solomon (12:6, 41–42).** Kidd uses these sayings to trace Jesus as the true priest, prophet and king.
+- **When was Matthew written?** Kidd discusses the debate over dating before or after AD 70. What evidence is weighed?
+- **The kingdom in parables (13).** What do the parables teach about how God's kingdom grows, and about who belongs to it?
+- **The Great Commission (28:18–20).** How does Jesus' authority ground the mission? What does "make disciples" involve?
 
 ## Q&A
 
-1. _Question?_ _Answer._
+1. With whom does Matthew's genealogy begin? Abraham (1:1–2).
+2. What does "Immanuel" mean? "God with us" (1:23).
+3. Who visited the infant Jesus from the east? The magi (wise men) (2:1).
+4. What did the Father say at Jesus' baptism? "This is my beloved Son, with whom I am well pleased" (3:17).
+5. Which chapters contain the Sermon on the Mount? Matthew 5–7.
+6. What did Peter confess at Caesarea Philippi? "You are the Christ, the Son of the living God" (16:16).
+7. Which Gospel is the only one to use the word "church"? Matthew (16:18; 18:17).
+8. Why did the Son of Man come, according to 20:28? To serve, and to give his life as a ransom for many.
+9. For how much did Judas betray Jesus? Thirty pieces of silver (26:15).
+10. What did Jesus command in the Great Commission? Make disciples of all nations, baptising and teaching them, with his promise to be with them always (28:19–20).

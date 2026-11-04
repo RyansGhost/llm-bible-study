@@ -63,7 +63,7 @@ Shared source chapters (read once, used for several books): Van Pelt's "1–2 Sa
 ## New Testament
 
 ### The Gospels
-- [ ] 40 Matthew
+- [x] 40 Matthew
 - [ ] 41 Mark
 - [ ] 42 Luke
 - [ ] 43 John
