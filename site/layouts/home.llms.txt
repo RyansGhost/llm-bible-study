@@ -36,3 +36,4 @@ Luther, The Lutheran Study Bible and Spurgeon are trusted but not Reformed on ev
 - [bible-study skill (SKILL.md)]({{ site.Params.skillURL }}): the complete teaching method, with the rating scale, rules and tracker instructions
 - [Tracker template](https://raw.githubusercontent.com/RyansGhost/llm-bible-study/master/plugin/skills/bible-study/tracker-template.md): layout for a learner's progress tracker
 - [Source code](https://github.com/RyansGhost/llm-bible-study): install the bible-study skill for Claude Code or the Claude app
+- [About]({{ with site.GetPage "/about" }}{{ (.OutputFormats.Get "markdown").Permalink }}{{ end }}): why the site exists, how the notes are made, and who is behind it
