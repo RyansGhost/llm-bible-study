@@ -241,9 +241,9 @@ a:hover { color: var(--olive); }
 }
 
 /* Split-flap ("flip clock") card in the home heading; see assets/js/flip.js */
-:root { --flap-bg: #24211b; --flap-bg-top: #2d2a23; --flap-fg: #faf7f2; --flap-line: rgb(0 0 0 / 45%); }
+:root { --flap-bg: #384316; --flap-bg-top: #46521f; --flap-fg: #faf7f2; --flap-line: rgb(0 0 0 / 45%); }
 @media (prefers-color-scheme: dark) {
-  :root { --flap-bg: #34312a; --flap-bg-top: #3c3930; --flap-fg: #f3efe6; --flap-line: rgb(0 0 0 / 60%); }
+  :root { --flap-bg: #3f4a1a; --flap-bg-top: #4d5a23; --flap-fg: #f3efe6; --flap-line: rgb(0 0 0 / 60%); }
 }
 
 .hero-title { line-height: 1.5; }
