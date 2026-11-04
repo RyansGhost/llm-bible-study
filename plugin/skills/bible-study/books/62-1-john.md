@@ -132,11 +132,12 @@ Hill notes that John loves repetition, parallels and groups of three, so the let
 
 ## Sources
 
-- Charles E. Hill, "1–3 John," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): 1 John, Background Issues (date, chronological order, place, authorship, purpose), Structure and Outline, Message and Theology (ethics, atonement, incarnation, sin, eschatology and antichrist). Print pages to verify.
-- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to 1 John: Title and Author, Date and Occasion, Genre and Literary Features, Characteristics and Primary Themes, Theology of 1 John, 1 John in the Larger Story of the Bible, Christ in 1 John, Special Issues, Outline. Print pages to verify.
+- Charles E. Hill, "1–3 John," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): 1 John, Background Issues (date, chronological order, place, authorship, purpose), Structure and Outline, Message and Theology (ethics, atonement, incarnation, sin, eschatology and antichrist).
+- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to 1 John: Title and Author, Date and Occasion, Genre and Literary Features, Characteristics and Primary Themes, Theology of 1 John, 1 John in the Larger Story of the Bible, Christ in 1 John, Special Issues, Outline.
 
 ## Changelog
 
 1. 2026-11-04: Generated initial notes with Claude Code
 2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code
 3. 2026-11-04: Q&A reformatted as question-and-answer pairs and reviewed; verse references added with Claude Code
+4. 2026-11-04: Sources cited by section; dropped the print page notes

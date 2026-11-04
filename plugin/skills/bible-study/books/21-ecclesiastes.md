@@ -148,11 +148,12 @@ The "one Shepherd" who gives true wisdom (12:11) points to Christ, the Good Shep
 
 ## Sources
 
-- Richard P. Belcher Jr., "Ecclesiastes," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues (authorship, the Hebrew of Ecclesiastes), Structure and Outline (literary analysis, the term Qohelet, different approaches), Message and Theology (the meaning of *hebel*, the main question, how Qohelet knows, the calls to enjoyment, Qohelet's view of God, the epilogue). Print pages to verify.
-- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Ecclesiastes: Title, Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of Ecclesiastes, Ecclesiastes in the Larger Story of the Bible, Christ in Ecclesiastes, Outline. Print pages to verify.
+- Richard P. Belcher Jr., "Ecclesiastes," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues (authorship, the Hebrew of Ecclesiastes), Structure and Outline (literary analysis, the term Qohelet, different approaches), Message and Theology (the meaning of *hebel*, the main question, how Qohelet knows, the calls to enjoyment, Qohelet's view of God, the epilogue).
+- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Ecclesiastes: Title, Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of Ecclesiastes, Ecclesiastes in the Larger Story of the Bible, Christ in Ecclesiastes, Outline.
 
 ## Changelog
 
 1. 2026-11-04: Generated initial notes with Claude Code
 2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code
 3. 2026-11-04: Q&A reformatted as question-and-answer pairs and reviewed; verse references added with Claude Code
+4. 2026-11-04: Sources cited by section; dropped the print page notes

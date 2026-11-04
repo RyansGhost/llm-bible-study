@@ -132,12 +132,13 @@ The Lord who suddenly comes to his temple (3:1) is Jesus, presented there as a b
 
 ## Sources
 
-- Daniel C. Timmer, "The Twelve," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Message and Theology (repentance and Malachi's dispute structure, deliverance of the remnant, the day of the Lord), Approaching the New Testament. Print pages to verify.
+- Daniel C. Timmer, "The Twelve," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Message and Theology (repentance and Malachi's dispute structure, deliverance of the remnant, the day of the Lord), Approaching the New Testament.
 - *The Lutheran Study Bible* (Concordia, 2009), introduction to Malachi: Overview. Lutheran source.
-- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Malachi: Title and Author, Date and Occasion, Genre and Literary Features, Characteristics and Primary Themes, Theology of Malachi, Malachi in the Larger Story of the Bible, Christ in the Book of Malachi, History of Interpretation, Outline. Print pages to verify.
+- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Malachi: Title and Author, Date and Occasion, Genre and Literary Features, Characteristics and Primary Themes, Theology of Malachi, Malachi in the Larger Story of the Bible, Christ in the Book of Malachi, History of Interpretation, Outline.
 
 ## Changelog
 
 1. 2026-11-04: Generated initial notes with Claude Code
 2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code
 3. 2026-11-04: Q&A reformatted as question-and-answer pairs and reviewed; verse references added with Claude Code
+4. 2026-11-04: Sources cited by section; dropped the print page notes

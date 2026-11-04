@@ -134,12 +134,13 @@ Peter, an eyewitness of Christ's sufferings (5:1), shows Jesus as the fulfilment
 
 ## Sources
 
-- William B. Barcley, "1 Peter," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (authorship, occasion and date, audience), Structure and Outline, Message and Theology (living in a world that isn't our home, suffering after Christ's example, holiness, witness). Print pages to verify.
+- William B. Barcley, "1 Peter," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (authorship, occasion and date, audience), Structure and Outline, Message and Theology (living in a world that isn't our home, suffering after Christ's example, holiness, witness).
 - *The Lutheran Study Bible* (Concordia, 2009), introduction to 1 Peter: Overview, Luther on 1 Peter, Challenges for Readers. Lutheran source.
-- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to 1 Peter: Title and Author, Date and Occasion, Genre and Literary Features, Characteristics and Primary Themes, Theology of 1 Peter, 1 Peter in the Larger Story of the Bible, Christ in 1 Peter, History of Interpretation, Outline. Print pages to verify.
+- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to 1 Peter: Title and Author, Date and Occasion, Genre and Literary Features, Characteristics and Primary Themes, Theology of 1 Peter, 1 Peter in the Larger Story of the Bible, Christ in 1 Peter, History of Interpretation, Outline.
 
 ## Changelog
 
 1. 2026-11-04: Generated initial notes with Claude Code
 2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code
 3. 2026-11-04: Q&A reformatted as question-and-answer pairs and reviewed; verse references added with Claude Code
+4. 2026-11-04: Sources cited by section; dropped the print page notes

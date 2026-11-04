@@ -82,12 +82,12 @@ The top of `llms.txt` links to `SKILL.md` and copies its session steps, rating s
 Every book file uses the same headings: Summary, Setting, Structure, Chapter by chapter, Key people, Key events, Themes, How it points to Christ, Common mix-ups, Going deeper, Q&A, Sources, and Changelog. That way the AI can find the same thing in any book. `06-joshua.md` is the worked example.
 
 - Write in your own words. Don't copy study Bible introductions or notes: that text is copyrighted.
-- Cite every source: Reformation Study Bible page numbers, Ligonier URLs, chapter and verse.
+- Cite every source by section: the study Bible introduction and its section headings, a commentary's chapter, a Ligonier URL, or chapter and verse. Page numbers aren't needed.
 - Flag any non-Reformed source by name.
 - Mark your own applications as yours.
 - Write each Q&A item as a numbered `**Q:**` line with its `**A:**` indented under it, and give the answer a chapter and verse. The site styles these as question cards; the markdown stays plain.
 - Set `status` in the front matter as the notes progress: `draft` (written, awaiting human review; shown as "Human review pending") or `complete`. The site and the skill both use it.
-- Add a line to the book's Changelog whenever the notes change, e.g. `2. 2026-11-20: Human review; checked Reformation Study Bible page numbers`.
+- Add a line to the book's Changelog whenever the notes change, e.g. `2. 2026-11-20: Human review; checked the citations against the sources`.
 
 To draft notes from commentaries or study Bibles you own as DRM-free EPUBs, use the indexer in [`tools/`](tools/README.md). It finds each book's material across your sources. The EPUBs themselves are never committed.
 

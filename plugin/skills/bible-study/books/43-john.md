@@ -165,11 +165,12 @@ On the cross he declares, "It is finished" (19:30). After rising he breathes the
 
 ## Sources
 
-- Michael J. Kruger, "John," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (authorship, occasion and purpose, date, historicity), Structure and Outline, Message and Theology (Christ as the one true God, as the bringer of new life, as the fulfilment of the Old Testament). Print pages to verify.
-- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to John: Title, Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of John, John in the Larger Story of the Bible, Christ in John, History of Interpretation, Outline. Print pages to verify.
+- Michael J. Kruger, "John," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (authorship, occasion and purpose, date, historicity), Structure and Outline, Message and Theology (Christ as the one true God, as the bringer of new life, as the fulfilment of the Old Testament).
+- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to John: Title, Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of John, John in the Larger Story of the Bible, Christ in John, History of Interpretation, Outline.
 
 ## Changelog
 
 1. 2026-11-04: Generated initial notes with Claude Code
 2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code
 3. 2026-11-04: Q&A reformatted as question-and-answer pairs and reviewed; verse references added with Claude Code
+4. 2026-11-04: Sources cited by section; dropped the print page notes

@@ -216,10 +216,10 @@ Joseph, rejected by his brothers and raised to save many lives, is a pattern of 
 
 ## Sources
 
-- John D. Currid, "Genesis," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues, Literary Analysis, Structure and Outline, Message and Theology, Centrality of the Covenant, Approaching the New Testament. Print pages to verify.
+- John D. Currid, "Genesis," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues, Literary Analysis, Structure and Outline, Message and Theology, Centrality of the Covenant, Approaching the New Testament.
 - *The Lutheran Study Bible* (Concordia, 2009), introduction to Genesis: Overview, Luther on Genesis, Challenges for Readers, Genesis and Theories of Evolution, Outline. Lutheran source.
 - Westminster Confession of Faith 4.1 (creation) and 7.1–3 (the covenants).
-- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Genesis: Title, Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of Genesis, Genesis in the Larger Story of the Bible, Christ in Genesis, History of Interpretation, Special Issues, Outline. Print pages to verify.
+- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Genesis: Title, Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of Genesis, Genesis in the Larger Story of the Bible, Christ in Genesis, History of Interpretation, Special Issues, Outline.
 
 ## Changelog
 
@@ -227,3 +227,4 @@ Joseph, rejected by his brothers and raised to save many lives, is a pattern of 
 2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code
 3. 2026-11-04: Structure regrouped into nested sections, combining the earlier outline with the Reformation Study Bible's divisions
 4. 2026-11-04: Q&A reformatted as question-and-answer pairs and reviewed; verse references added with Claude Code
+5. 2026-11-04: Sources cited by section; dropped the print page notes

@@ -147,11 +147,12 @@ Much of the church's history, including many Puritans, read the Song directly as
 
 ## Sources
 
-- Miles V. Van Pelt, "Song of Songs," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues (authorship and date, genre, proposed setting), Structure and Outline, Message and Theology (interpretation, message, a summary of the Song's content). Print pages to verify.
-- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Song of Solomon: Title, Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of the Song of Solomon, The Song of Solomon in the Larger Story of the Bible, Christ in the Song of Solomon, History of Interpretation, Outline. Print pages to verify.
+- Miles V. Van Pelt, "Song of Songs," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues (authorship and date, genre, proposed setting), Structure and Outline, Message and Theology (interpretation, message, a summary of the Song's content).
+- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Song of Solomon: Title, Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of the Song of Solomon, The Song of Solomon in the Larger Story of the Bible, Christ in the Song of Solomon, History of Interpretation, Outline.
 
 ## Changelog
 
 1. 2026-11-04: Generated initial notes with Claude Code
 2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code
 3. 2026-11-04: Q&A reformatted as question-and-answer pairs and reviewed; verse references added with Claude Code
+4. 2026-11-04: Sources cited by section; dropped the print page notes

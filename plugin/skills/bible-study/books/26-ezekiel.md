@@ -187,11 +187,12 @@ The glory that left the temple returns in Jesus, the Word who "dwelt among us" a
 
 ## Sources
 
-- Michael G. McKelvey, "Ezekiel," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues (authorship, historical background and audience), Structure and Outline, Message and Theology (creation, de-creation and re-creation; God's holiness, sovereignty, mercy; man's sinfulness and responsibility), Approaching the New Testament. Print pages to verify.
-- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Ezekiel: Title, Author, Date and Occasion, Genre and Literary Features, Characteristics and Primary Themes, Theology of Ezekiel, Ezekiel in the Larger Story of the Bible, Christ in Ezekiel, Ezekiel in the History of Interpretation, Outline. Print pages to verify.
+- Michael G. McKelvey, "Ezekiel," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues (authorship, historical background and audience), Structure and Outline, Message and Theology (creation, de-creation and re-creation; God's holiness, sovereignty, mercy; man's sinfulness and responsibility), Approaching the New Testament.
+- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Ezekiel: Title, Author, Date and Occasion, Genre and Literary Features, Characteristics and Primary Themes, Theology of Ezekiel, Ezekiel in the Larger Story of the Bible, Christ in Ezekiel, Ezekiel in the History of Interpretation, Outline.
 
 ## Changelog
 
 1. 2026-11-04: Generated initial notes with Claude Code
 2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code
 3. 2026-11-04: Q&A reformatted as question-and-answer pairs and reviewed; verse references added with Claude Code
+4. 2026-11-04: Sources cited by section; dropped the print page notes

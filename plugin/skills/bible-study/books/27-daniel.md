@@ -156,11 +156,12 @@ Many interpreters see Christ's death in the "anointed one" who is "cut off" in t
 
 ## Sources
 
-- Richard P. Belcher Jr., "Daniel," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues, Structure and Outline, Message and Theology (living faithfully in exile; Daniel 2 and 7; the seventy weeks; Daniel 8 and 10–12), Approaching the New Testament. Print pages to verify.
-- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Daniel: Title, Author, Date and Occasion, Genre and Literary Features, Characteristics and Primary Themes, Theology of Daniel, Daniel in the Larger Story of the Bible, Christ in Daniel, History of Interpretation, Outline. Print pages to verify.
+- Richard P. Belcher Jr., "Daniel," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues, Structure and Outline, Message and Theology (living faithfully in exile; Daniel 2 and 7; the seventy weeks; Daniel 8 and 10–12), Approaching the New Testament.
+- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Daniel: Title, Author, Date and Occasion, Genre and Literary Features, Characteristics and Primary Themes, Theology of Daniel, Daniel in the Larger Story of the Bible, Christ in Daniel, History of Interpretation, Outline.
 
 ## Changelog
 
 1. 2026-11-04: Generated initial notes with Claude Code
 2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code
 3. 2026-11-04: Q&A reformatted as question-and-answer pairs and reviewed; verse references added with Claude Code
+4. 2026-11-04: Sources cited by section; dropped the print page notes

@@ -147,12 +147,13 @@ Zerubbabel, a descendant of David leading the return, appears in Jesus' genealog
 
 ## Sources
 
-- Mark D. Futato, "Ezra–Nehemiah," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues (authorship, sources, date, genre), Structure and Outline, Message and Theology (rebuilding the house of God, ordinary people, the written Word, sovereignty and responsibility). Print pages to verify.
+- Mark D. Futato, "Ezra–Nehemiah," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues (authorship, sources, date, genre), Structure and Outline, Message and Theology (rebuilding the house of God, ordinary people, the written Word, sovereignty and responsibility).
 - *The Lutheran Study Bible* (Concordia, 2009), introduction to Ezra: Overview. Lutheran source.
-- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Ezra: Title, Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of Ezra, Ezra in the Larger Story of the Bible, Christ in Ezra, History of Interpretation, Outline. Print pages to verify.
+- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Ezra: Title, Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of Ezra, Ezra in the Larger Story of the Bible, Christ in Ezra, History of Interpretation, Outline.
 
 ## Changelog
 
 1. 2026-11-04: Generated initial notes with Claude Code
 2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code
 3. 2026-11-04: Q&A reformatted as question-and-answer pairs and reviewed; verse references added with Claude Code
+4. 2026-11-04: Sources cited by section; dropped the print page notes

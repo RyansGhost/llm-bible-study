@@ -174,12 +174,13 @@ Proverbs describes the perfectly wise, righteous person who fears the Lord. Only
 
 ## Sources
 
-- Willem A. VanGemeren, "Proverbs," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues (authorship and date, social context, ancient Near Eastern wisdom), Genre, The Situational Nature of the Sayings, Structure and Outline, Message and Theology (three dimensions of wisdom). Print pages to verify.
+- Willem A. VanGemeren, "Proverbs," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues (authorship and date, social context, ancient Near Eastern wisdom), Genre, The Situational Nature of the Sayings, Structure and Outline, Message and Theology (three dimensions of wisdom).
 - *The Lutheran Study Bible* (Concordia, 2009), introduction to Proverbs: Overview, Central Theme, Luther on Proverbs, Types of Proverbs, Challenges for Readers, Outline. Lutheran source.
-- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Proverbs: Title, Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of Proverbs, Proverbs in the Larger Story of the Bible, Christ in Proverbs, History of Interpretation, Outline. Print pages to verify.
+- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Proverbs: Title, Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of Proverbs, Proverbs in the Larger Story of the Bible, Christ in Proverbs, History of Interpretation, Outline.
 
 ## Changelog
 
 1. 2026-11-04: Generated initial notes with Claude Code
 2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code
 3. 2026-11-04: Q&A reformatted as question-and-answer pairs and reviewed; verse references added with Claude Code
+4. 2026-11-04: Sources cited by section; dropped the print page notes

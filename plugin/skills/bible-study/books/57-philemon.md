@@ -130,12 +130,13 @@ Philemon is a living picture of the gospel. Luther wrote that "we are all his On
 
 ## Sources
 
-- Benjamin Gladd, "Philemon," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (occasion, authorship, date, purpose), Structure and Outline, Message and Theology (slavery in the ancient world, the restructuring of God's people). Print pages to verify.
+- Benjamin Gladd, "Philemon," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (occasion, authorship, date, purpose), Structure and Outline, Message and Theology (slavery in the ancient world, the restructuring of God's people).
 - *The Lutheran Study Bible* (Concordia, 2009), introduction to Philemon: Luther on Philemon (from Luther's 1522 preface, AE 35:390). Lutheran source.
-- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Philemon: Title and Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of Philemon, Philemon in the Larger Story of the Bible, Christ in Philemon, History of Interpretation, Special Issues, Outline. Print pages to verify.
+- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Philemon: Title and Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of Philemon, Philemon in the Larger Story of the Bible, Christ in Philemon, History of Interpretation, Special Issues, Outline.
 
 ## Changelog
 
 1. 2026-11-04: Generated initial notes with Claude Code
 2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code
 3. 2026-11-04: Q&A reformatted as question-and-answer pairs and reviewed; verse references added with Claude Code
+4. 2026-11-04: Sources cited by section; dropped the print page notes

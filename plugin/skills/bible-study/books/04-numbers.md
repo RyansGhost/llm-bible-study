@@ -178,9 +178,9 @@ The ashes of the red heifer cleansed the body; Christ's blood cleanses the consc
 
 ## Sources
 
-- Michael J. Glodo, "Numbers," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues, Authorship, Date and Audience, Structure and Outline, Message and Theology. Print pages to verify.
+- Michael J. Glodo, "Numbers," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues, Authorship, Date and Audience, Structure and Outline, Message and Theology.
 - *The Lutheran Study Bible* (Concordia, 2009), introduction to Numbers: Overview, Luther on Numbers, Challenges for Readers. Lutheran source.
-- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Numbers: Title, Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of Numbers, Numbers in the Larger Story of the Bible, Christ in Numbers, History of Interpretation, Special Issues, Outline. Print pages to verify.
+- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Numbers: Title, Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of Numbers, Numbers in the Larger Story of the Bible, Christ in Numbers, History of Interpretation, Special Issues, Outline.
 
 ## Changelog
 
@@ -188,3 +188,4 @@ The ashes of the red heifer cleansed the body; Christ's blood cleanses the consc
 2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code
 3. 2026-11-04: Structure regrouped into nested sections, combining the earlier outline with the Reformation Study Bible's divisions
 4. 2026-11-04: Q&A reformatted as question-and-answer pairs and reviewed; verse references added with Claude Code
+5. 2026-11-04: Sources cited by section; dropped the print page notes

@@ -142,11 +142,12 @@ At the heart of the letter is the great exchange: God made Christ, who knew no s
 
 ## Sources
 
-- Guy Prentiss Waters, "1–2 Corinthians," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues, Structure and Outline (outline of 2 Corinthians), Message and Theology (the redemptive-historical framework, the death and resurrection of Christ, the Spirit). Print pages to verify.
-- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to 2 Corinthians: Title and Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of 2 Corinthians, 2 Corinthians in the Larger Story of the Bible, Christ in 2 Corinthians, History of Interpretation, Special Issues, Outline. Print pages to verify.
+- Guy Prentiss Waters, "1–2 Corinthians," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues, Structure and Outline (outline of 2 Corinthians), Message and Theology (the redemptive-historical framework, the death and resurrection of Christ, the Spirit).
+- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to 2 Corinthians: Title and Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of 2 Corinthians, 2 Corinthians in the Larger Story of the Bible, Christ in 2 Corinthians, History of Interpretation, Special Issues, Outline.
 
 ## Changelog
 
 1. 2026-11-04: Generated initial notes with Claude Code
 2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code
 3. 2026-11-04: Q&A reformatted as question-and-answer pairs and reviewed; verse references added with Claude Code
+4. 2026-11-04: Sources cited by section; dropped the print page notes

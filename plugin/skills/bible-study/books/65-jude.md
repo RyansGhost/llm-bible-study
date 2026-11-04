@@ -138,11 +138,12 @@ Jesus Christ is "our only Master and Lord" (v. 4), whom the false teachers deny.
 
 ## Sources
 
-- Simon J. Kistemaker, "Jude," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (relationship to 2 Peter, authorship, date, canonicity), Structure and Outline, Message and Theology (antinomianism, judgment on sin, the glory of Christ). Print pages to verify.
-- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Jude: Author, Date and Occasion, Genre and Literary Features, Characteristics and Primary Themes, Theology of Jude, Jude in the Larger Story of the Bible, Christ in Jude, History of Interpretation, Special Issues, Outline. Print pages to verify.
+- Simon J. Kistemaker, "Jude," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (relationship to 2 Peter, authorship, date, canonicity), Structure and Outline, Message and Theology (antinomianism, judgment on sin, the glory of Christ).
+- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Jude: Author, Date and Occasion, Genre and Literary Features, Characteristics and Primary Themes, Theology of Jude, Jude in the Larger Story of the Bible, Christ in Jude, History of Interpretation, Special Issues, Outline.
 
 ## Changelog
 
 1. 2026-11-04: Generated initial notes with Claude Code
 2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code
 3. 2026-11-04: Q&A reformatted as question-and-answer pairs and reviewed; verse references added with Claude Code
+4. 2026-11-04: Sources cited by section; dropped the print page notes

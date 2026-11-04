@@ -169,12 +169,13 @@ Elijah's ministry anticipates the gospel. Jesus points to the widow of Zarephath
 
 ## Sources
 
-- William B. Fullilove, "1–2 Kings," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues (author and date, genre, chronology, historical accuracy), Structure and Outline, Message and Theology (the Mosaic covenant, the Davidic covenant, the prophetic word). Print pages to verify.
+- William B. Fullilove, "1–2 Kings," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues (author and date, genre, chronology, historical accuracy), Structure and Outline, Message and Theology (the Mosaic covenant, the Davidic covenant, the prophetic word).
 - *The Lutheran Study Bible* (Concordia, 2009), introduction to 1 and 2 Kings. Lutheran source.
-- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to 1 Kings: Title, Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of 1 and 2 Kings, 1 and 2 Kings in the Larger Story of the Bible, Special Issues, Outline. Print pages to verify.
+- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to 1 Kings: Title, Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of 1 and 2 Kings, 1 and 2 Kings in the Larger Story of the Bible, Special Issues, Outline.
 
 ## Changelog
 
 1. 2026-11-04: Generated initial notes with Claude Code
 2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code
 3. 2026-11-04: Q&A reformatted as question-and-answer pairs and reviewed; verse references added with Claude Code
+4. 2026-11-04: Sources cited by section; dropped the print page notes

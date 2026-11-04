@@ -195,12 +195,13 @@ Christians have long prayed the Psalms with Christ: he is both the one the Psalm
 
 ## Sources
 
-- Mark D. Futato, "Psalms," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues (composition, authorship, genre), Structure and Outline (lament to praise, the five books), Message and Theology (Psalm 1 as instruction, the kingship of God, our King is coming). Print pages to verify.
+- Mark D. Futato, "Psalms," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues (composition, authorship, genre), Structure and Outline (lament to praise, the five books), Message and Theology (Psalm 1 as instruction, the kingship of God, our King is coming).
 - John Calvin, *Commentary on the Book of Psalms*, preface (cited in Futato).
-- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Psalms: Title, Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of the Psalms, Psalms in the Larger Story of the Bible, Christ in the Psalms, History of Interpretation, Special Issues, Outline. Print pages to verify.
+- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Psalms: Title, Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of the Psalms, Psalms in the Larger Story of the Bible, Christ in the Psalms, History of Interpretation, Special Issues, Outline.
 
 ## Changelog
 
 1. 2026-11-04: Generated initial notes with Claude Code
 2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code
 3. 2026-11-04: Q&A reformatted as question-and-answer pairs and reviewed; verse references added with Claude Code
+4. 2026-11-04: Sources cited by section; dropped the print page notes

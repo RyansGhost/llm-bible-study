@@ -138,12 +138,13 @@ James names Jesus only twice: "the Lord Jesus Christ" (1:1) and "our glorious Lo
 
 ## Sources
 
-- Bruce A. Lowe, "James," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (authorship and date, occasion and purpose), Structure and Outline (genre, outline), Message and Theology (God, wisdom and change, Paul, faith and works, rich and poor). Print pages to verify.
+- Bruce A. Lowe, "James," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (authorship and date, occasion and purpose), Structure and Outline (genre, outline), Message and Theology (God, wisdom and change, Paul, faith and works, rich and poor).
 - *The Lutheran Study Bible* (Concordia, 2009), introduction to James: Overview, Luther on James, Challenges for Readers. Lutheran source.
-- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to James: Title and Author, Date and Occasion, Genre and Literary Features, Characteristics and Primary Themes, Theology in James, James in the Larger Story of the Bible, Christ in James, History of Interpretation, Special Issues, Outline. Print pages to verify.
+- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to James: Title and Author, Date and Occasion, Genre and Literary Features, Characteristics and Primary Themes, Theology in James, James in the Larger Story of the Bible, Christ in James, History of Interpretation, Special Issues, Outline.
 
 ## Changelog
 
 1. 2026-11-04: Generated initial notes with Claude Code
 2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code
 3. 2026-11-04: Q&A reformatted as question-and-answer pairs and reviewed; verse references added with Claude Code
+4. 2026-11-04: Sources cited by section; dropped the print page notes

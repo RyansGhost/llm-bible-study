@@ -153,11 +153,12 @@ Mark is the gospel of Jesus Christ, the Son of God (1:1). It shows Jesus as both
 
 ## Sources
 
-- Benjamin Gladd, "Mark," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (genre, eyewitness testimony, audience, authorship, date, text, purpose), Structure and Outline, Message and Theology (the messianic secret, Jesus and Isaiah's second exodus). Print pages to verify.
-- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Mark: Title, Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of Mark, Mark in the Larger Story of the Bible, Christ in Mark, History of Interpretation, Special Issues, Outline. Print pages to verify.
+- Benjamin Gladd, "Mark," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (genre, eyewitness testimony, audience, authorship, date, text, purpose), Structure and Outline, Message and Theology (the messianic secret, Jesus and Isaiah's second exodus).
+- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Mark: Title, Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of Mark, Mark in the Larger Story of the Bible, Christ in Mark, History of Interpretation, Special Issues, Outline.
 
 ## Changelog
 
 1. 2026-11-04: Generated initial notes with Claude Code
 2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code
 3. 2026-11-04: Q&A reformatted as question-and-answer pairs and reviewed; verse references added with Claude Code
+4. 2026-11-04: Sources cited by section; dropped the print page notes

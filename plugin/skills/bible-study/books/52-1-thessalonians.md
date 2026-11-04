@@ -133,11 +133,12 @@ The believers wait for God's Son from heaven, "whom he raised from the dead, Jes
 
 ## Sources
 
-- Robert J. Cara, "1 Thessalonians," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (Thessalonica, authorship and date, occasion and purpose, 2:1–12), Structure and Outline, Message and Theology (be imitators, "consistent" eschatology, election and calling). Print pages to verify.
-- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to 1 Thessalonians: Title and Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of 1 Thessalonians, 1 Thessalonians in the Larger Story of the Bible, Christ in 1 Thessalonians, History of Interpretation, Outline. Print pages to verify.
+- Robert J. Cara, "1 Thessalonians," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (Thessalonica, authorship and date, occasion and purpose, 2:1–12), Structure and Outline, Message and Theology (be imitators, "consistent" eschatology, election and calling).
+- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to 1 Thessalonians: Title and Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of 1 Thessalonians, 1 Thessalonians in the Larger Story of the Bible, Christ in 1 Thessalonians, History of Interpretation, Outline.
 
 ## Changelog
 
 1. 2026-11-04: Generated initial notes with Claude Code
 2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code
 3. 2026-11-04: Q&A reformatted as question-and-answer pairs and reviewed; verse references added with Claude Code
+4. 2026-11-04: Sources cited by section; dropped the print page notes

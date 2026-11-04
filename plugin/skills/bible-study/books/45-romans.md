@@ -159,13 +159,14 @@ Romans is centred on Christ:
 
 ## Sources
 
-- Guy Prentiss Waters, "Romans," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (when, to whom and why Paul wrote), Structure and Outline (Rom 1:1–7; 1:16–17; a brief outline), Message and Theology. Print pages to verify.
+- Guy Prentiss Waters, "Romans," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (when, to whom and why Paul wrote), Structure and Outline (Rom 1:1–7; 1:16–17; a brief outline), Message and Theology.
 - Martin Luther, *Preface to the Epistle to the Romans* (1522), quoted by Waters. Free at [Project Wittenberg](https://www.projectwittenberg.org/pub/resources/text/wittenberg/wittenberg-luther.html).
 - Westminster Confession of Faith 3 (God's eternal decree) and 11 (justification).
-- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Romans: Title and Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of Romans, Romans in the Larger Story of the Bible, Christ in Romans, History of Interpretation, Outline. Print pages to verify.
+- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Romans: Title and Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of Romans, Romans in the Larger Story of the Bible, Christ in Romans, History of Interpretation, Outline.
 
 ## Changelog
 
 1. 2026-11-04: Generated initial notes with Claude Code
 2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code
 3. 2026-11-04: Q&A reformatted as question-and-answer pairs and reviewed; verse references added with Claude Code
+4. 2026-11-04: Sources cited by section; dropped the print page notes

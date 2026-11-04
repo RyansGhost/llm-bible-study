@@ -133,11 +133,12 @@ From its first verse, 2 Peter calls Jesus "our God and Saviour Jesus Christ" (1:
 
 ## Sources
 
-- Simon J. Kistemaker, "2 Peter," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (authorship, date, genre, provenance, place in the canon, purpose), Structure and Outline, Message and Theology. Print pages to verify.
-- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to 2 Peter: Title and Author, Date and Occasion, Genre and Literary Features, Characteristics and Primary Themes, Theology of 2 Peter, 2 Peter in the Larger Story of the Bible, Christ in 2 Peter, History of Interpretation, Special Issues, Outline. Print pages to verify.
+- Simon J. Kistemaker, "2 Peter," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (authorship, date, genre, provenance, place in the canon, purpose), Structure and Outline, Message and Theology.
+- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to 2 Peter: Title and Author, Date and Occasion, Genre and Literary Features, Characteristics and Primary Themes, Theology of 2 Peter, 2 Peter in the Larger Story of the Bible, Christ in 2 Peter, History of Interpretation, Special Issues, Outline.
 
 ## Changelog
 
 1. 2026-11-04: Generated initial notes with Claude Code
 2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code
 3. 2026-11-04: Q&A reformatted as question-and-answer pairs and reviewed; verse references added with Claude Code
+4. 2026-11-04: Sources cited by section; dropped the print page notes

@@ -224,8 +224,8 @@ John even says Isaiah saw Christ's glory in his temple vision (John 12:41).
 
 ## Sources
 
-- Willem A. VanGemeren, "Isaiah," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues (unity of the book), Structure and Outline (theological, historical and literary factors, figuration), Message and Theology (Isaiah 1–39 and 40–66). Print pages to verify.
-- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Isaiah: Title, Author, Date and Occasion, Genre and Literary Features, Characteristics and Primary Themes, Theology of Isaiah, Isaiah in the Larger Story of the Bible, Christ in Isaiah, History of Interpretation, Outline. Print pages to verify.
+- Willem A. VanGemeren, "Isaiah," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues (unity of the book), Structure and Outline (theological, historical and literary factors, figuration), Message and Theology (Isaiah 1–39 and 40–66).
+- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Isaiah: Title, Author, Date and Occasion, Genre and Literary Features, Characteristics and Primary Themes, Theology of Isaiah, Isaiah in the Larger Story of the Bible, Christ in Isaiah, History of Interpretation, Outline.
 
 ## Changelog
 
@@ -233,3 +233,4 @@ John even says Isaiah saw Christ's glory in his temple vision (John 12:41).
 2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code
 3. 2026-11-04: Structure regrouped into nested sections, combining the earlier outline with the Reformation Study Bible's divisions
 4. 2026-11-04: Q&A reformatted as question-and-answer pairs and reviewed; verse references added with Claude Code
+5. 2026-11-04: Sources cited by section; dropped the print page notes

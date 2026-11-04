@@ -129,11 +129,12 @@ Because of him, the mercies of 3:22–23 are secured for good: in Christ, God's 
 
 ## Sources
 
-- Peter Y. Lee, "Lamentations," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues (title, authorship and setting, canonical position, poetic features, imagery, genre), Structure and Outline (the acrostics, summary outline). Print pages to verify.
-- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Lamentations: Title, Author, Date and Occasion, Genre and Literary Features, Characteristics and Primary Themes, Theology of Lamentations, Lamentations in the Larger Story of the Bible, Christ in Lamentations, History of Interpretation, Outline. Print pages to verify.
+- Peter Y. Lee, "Lamentations," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues (title, authorship and setting, canonical position, poetic features, imagery, genre), Structure and Outline (the acrostics, summary outline).
+- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Lamentations: Title, Author, Date and Occasion, Genre and Literary Features, Characteristics and Primary Themes, Theology of Lamentations, Lamentations in the Larger Story of the Bible, Christ in Lamentations, History of Interpretation, Outline.
 
 ## Changelog
 
 1. 2026-11-04: Generated initial notes with Claude Code
 2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code
 3. 2026-11-04: Q&A reformatted as question-and-answer pairs and reviewed; verse references added with Claude Code
+4. 2026-11-04: Sources cited by section; dropped the print page notes

@@ -130,12 +130,13 @@ The God who casts sins into the depths of the sea (7:19) does so through Christ'
 
 ## Sources
 
-- Daniel C. Timmer, "The Twelve," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Message and Theology (sin in Israel and Judah, punishment, repentance, deliverance of the remnant, the nations), Approaching the New Testament. Print pages to verify.
+- Daniel C. Timmer, "The Twelve," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Message and Theology (sin in Israel and Judah, punishment, repentance, deliverance of the remnant, the nations), Approaching the New Testament.
 - *The Lutheran Study Bible* (Concordia, 2009), introduction to Micah: Overview. Lutheran source.
-- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Micah: Title and Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of Micah, Micah in the Larger Story of the Bible, Christ in Micah, History of Interpretation, Outline. Print pages to verify.
+- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Micah: Title and Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of Micah, Micah in the Larger Story of the Bible, Christ in Micah, History of Interpretation, Outline.
 
 ## Changelog
 
 1. 2026-11-04: Generated initial notes with Claude Code
 2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code
 3. 2026-11-04: Q&A reformatted as question-and-answer pairs and reviewed; verse references added with Claude Code
+4. 2026-11-04: Sources cited by section; dropped the print page notes

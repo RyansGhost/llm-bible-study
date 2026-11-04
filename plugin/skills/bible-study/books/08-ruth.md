@@ -139,12 +139,13 @@ Ruth and Boaz are named in Jesus' genealogy (Matt 1:5). Their great-grandson's t
 
 ## Sources
 
-- John J. Yeo, "Ruth," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues, Structure and Outline, Message and Theology, Approaching the New Testament. Print pages to verify.
+- John J. Yeo, "Ruth," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues, Structure and Outline, Message and Theology, Approaching the New Testament.
 - *The Lutheran Study Bible* (Concordia, 2009), introduction to Ruth: Overview, Luther on Ruth, Challenges for Readers, Outline. Lutheran source.
-- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Ruth: Title and Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Ruth in the Larger Story of the Bible, Christ in the Book of Ruth, Outline. Print pages to verify.
+- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Ruth: Title and Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Ruth in the Larger Story of the Bible, Christ in the Book of Ruth, Outline.
 
 ## Changelog
 
 1. 2026-11-04: Generated initial notes with Claude Code
 2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code
 3. 2026-11-04: Q&A reformatted as question-and-answer pairs and reviewed; verse references added with Claude Code
+4. 2026-11-04: Sources cited by section; dropped the print page notes

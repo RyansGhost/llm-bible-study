@@ -183,9 +183,9 @@ Jesus refers to the martyrdom of Zechariah son of Jehoiada (24:20–22) when he 
 
 ## Sources
 
-- Richard L. Pratt Jr., "1–2 Chronicles," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Structure and Outline, Message and Theology (the people of God, king and temple, blessing and judgment). Print pages to verify.
+- Richard L. Pratt Jr., "1–2 Chronicles," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Structure and Outline, Message and Theology (the people of God, king and temple, blessing and judgment).
 - *The Lutheran Study Bible* (Concordia, 2009), introduction to 1 and 2 Chronicles. Lutheran source.
-- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to 2 Chronicles: Title and Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of 2 Chronicles, 2 Chronicles in the Larger Story of the Bible, Christ in 2 Chronicles, History of Interpretation, Special Issues, Outline. Print pages to verify.
+- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to 2 Chronicles: Title and Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of 2 Chronicles, 2 Chronicles in the Larger Story of the Bible, Christ in 2 Chronicles, History of Interpretation, Special Issues, Outline.
 
 ## Changelog
 
@@ -193,3 +193,4 @@ Jesus refers to the martyrdom of Zechariah son of Jehoiada (24:20–22) when he 
 2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code
 3. 2026-11-04: Structure regrouped into nested sections, combining the earlier outline with the Reformation Study Bible's divisions
 4. 2026-11-04: Q&A reformatted as question-and-answer pairs and reviewed; verse references added with Claude Code
+5. 2026-11-04: Sources cited by section; dropped the print page notes

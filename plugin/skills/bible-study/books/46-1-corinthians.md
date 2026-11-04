@@ -149,12 +149,13 @@ Christ crucified is the centre of the letter (2:2). He is the power and wisdom o
 
 ## Sources
 
-- Guy Prentiss Waters, "1–2 Corinthians," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (Paul and the church in Corinth, the problems in Corinth), Structure and Outline, Message and Theology (Paul's redemptive-historical framework, the gospel, the death and resurrection of Christ, the Spirit and the body). Print pages to verify.
+- Guy Prentiss Waters, "1–2 Corinthians," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (Paul and the church in Corinth, the problems in Corinth), Structure and Outline, Message and Theology (Paul's redemptive-historical framework, the gospel, the death and resurrection of Christ, the Spirit and the body).
 - John Calvin, *Commentary on 1 Corinthians*, dedicatory epistle (quoted in Waters).
-- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to 1 Corinthians: Title and Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of 1 Corinthians, 1 Corinthians in the Larger Story of the Bible, Christ in 1 Corinthians, History of Interpretation, Outline. Print pages to verify.
+- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to 1 Corinthians: Title and Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of 1 Corinthians, 1 Corinthians in the Larger Story of the Bible, Christ in 1 Corinthians, History of Interpretation, Outline.
 
 ## Changelog
 
 1. 2026-11-04: Generated initial notes with Claude Code
 2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code
 3. 2026-11-04: Q&A reformatted as question-and-answer pairs and reviewed; verse references added with Claude Code
+4. 2026-11-04: Sources cited by section; dropped the print page notes

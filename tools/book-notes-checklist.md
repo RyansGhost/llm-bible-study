@@ -1,6 +1,6 @@
 # Book notes checklist
 
-Drafting every book's notes from the indexed sources, in canonical order. Each book gets all template sections, including "Chapter by chapter" and "Going deeper", and is set to `status: draft` (citations still to verify against print editions).
+Drafting every book's notes from the indexed sources, in canonical order. Each book gets all template sections, including "Chapter by chapter" and "Going deeper", and is set to `status: draft` (awaiting human review).
 
 Sources used for every book:
 

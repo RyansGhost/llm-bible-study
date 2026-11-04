@@ -169,12 +169,13 @@ Above all, Kings ends with a question about God's promise to David. Jehoiachin's
 
 ## Sources
 
-- William B. Fullilove, "1–2 Kings," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues, Structure and Outline, Message and Theology (the Mosaic covenant, the Davidic covenant, the prophetic word and delayed retribution). Print pages to verify.
+- William B. Fullilove, "1–2 Kings," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues, Structure and Outline, Message and Theology (the Mosaic covenant, the Davidic covenant, the prophetic word and delayed retribution).
 - *The Lutheran Study Bible* (Concordia, 2009), introduction to 1 and 2 Kings. Lutheran source.
-- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to 2 Kings: Title and Author, Date and Occasion, Outline. Print pages to verify.
+- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to 2 Kings: Title and Author, Date and Occasion, Outline.
 
 ## Changelog
 
 1. 2026-11-04: Generated initial notes with Claude Code
 2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code
 3. 2026-11-04: Q&A reformatted as question-and-answer pairs and reviewed; verse references added with Claude Code
+4. 2026-11-04: Sources cited by section; dropped the print page notes

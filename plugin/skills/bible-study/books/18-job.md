@@ -182,12 +182,13 @@ Job is a righteous sufferer, though not sinless. Christ is the truly innocent su
 
 ## Sources
 
-- Richard P. Belcher Jr., "Job," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues (historical context, genre), Structure and Outline, Message and Theology (the prologue, Job's lament, the speeches, Elihu, God's speeches, the epilogue). Print pages to verify.
+- Richard P. Belcher Jr., "Job," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues (historical context, genre), Structure and Outline, Message and Theology (the prologue, Job's lament, the speeches, Elihu, God's speeches, the epilogue).
 - *The Lutheran Study Bible* (Concordia, 2009), introduction to Job: Overview. Lutheran source.
-- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Job: Title, Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of Job, Job in the Larger Story of the Bible, Christ in Job, History of Interpretation, Outline. Print pages to verify.
+- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Job: Title, Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of Job, Job in the Larger Story of the Bible, Christ in Job, History of Interpretation, Outline.
 
 ## Changelog
 
 1. 2026-11-04: Generated initial notes with Claude Code
 2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code
 3. 2026-11-04: Q&A reformatted as question-and-answer pairs and reviewed; verse references added with Claude Code
+4. 2026-11-04: Sources cited by section; dropped the print page notes

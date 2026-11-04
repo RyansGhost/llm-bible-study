@@ -134,12 +134,13 @@ Paul begins with the grace given to us in Christ Jesus before the ages began, no
 
 ## Sources
 
-- William B. Barcley, "Introduction to the Pastoral Epistles" and "2 Timothy," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues, Structure and Outline, Message and Theology. Print pages to verify.
+- William B. Barcley, "Introduction to the Pastoral Epistles" and "2 Timothy," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues, Structure and Outline, Message and Theology.
 - *The Lutheran Study Bible* (Concordia, 2009), introduction to 2 Timothy: Overview, Luther on 2 Timothy. Lutheran source.
-- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to 2 Timothy: Title and Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of 2 Timothy, 2 Timothy in the Larger Story of the Bible, Christ in 2 Timothy, History of Interpretation, Special Issues, Outline. Print pages to verify.
+- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to 2 Timothy: Title and Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of 2 Timothy, 2 Timothy in the Larger Story of the Bible, Christ in 2 Timothy, History of Interpretation, Special Issues, Outline.
 
 ## Changelog
 
 1. 2026-11-04: Generated initial notes with Claude Code
 2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code
 3. 2026-11-04: Q&A reformatted as question-and-answer pairs and reviewed; verse references added with Claude Code
+4. 2026-11-04: Sources cited by section; dropped the print page notes

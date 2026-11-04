@@ -191,10 +191,10 @@ The tabernacle, God living among his people, is fulfilled when the Word "dwelt" 
 
 ## Sources
 
-- John D. Currid, "Exodus," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues, Structure and Outline, Message and Theology (the plagues, the hardening of Pharaoh's heart, the law, the tabernacle, the golden calf). Print pages to verify.
+- John D. Currid, "Exodus," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues, Structure and Outline, Message and Theology (the plagues, the hardening of Pharaoh's heart, the law, the tabernacle, the golden calf).
 - *The Lutheran Study Bible* (Concordia, 2009), introduction to Exodus: Overview, Luther on Exodus, Challenges for Readers, Outline. Lutheran source.
 - Westminster Confession of Faith 19 (the law of God) and Westminster Shorter Catechism Q41–81 (the Ten Commandments).
-- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Exodus: Title, Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of Exodus, Exodus in the Larger Story of the Bible, Christ in Exodus, History of Interpretation, Special Issues, Outline. Print pages to verify.
+- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Exodus: Title, Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of Exodus, Exodus in the Larger Story of the Bible, Christ in Exodus, History of Interpretation, Special Issues, Outline.
 
 ## Changelog
 
@@ -202,3 +202,4 @@ The tabernacle, God living among his people, is fulfilled when the Word "dwelt" 
 2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code
 3. 2026-11-04: Structure regrouped into nested sections, combining the earlier outline with the Reformation Study Bible's divisions
 4. 2026-11-04: Q&A reformatted as question-and-answer pairs and reviewed; verse references added with Claude Code
+5. 2026-11-04: Sources cited by section; dropped the print page notes

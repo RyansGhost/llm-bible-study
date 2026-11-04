@@ -201,11 +201,12 @@ Jesus quoted Jeremiah's temple sermon when he cleared the temple: "a den of robb
 
 ## Sources
 
-- Peter Y. Lee, "Jeremiah," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues (historical setting, text of Jeremiah), Structure and Outline, Message and Theology (prosecutor of the Mosaic covenant, herald of the new covenant, "from repentance to redemption", the prophetic call). Print pages to verify.
-- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Jeremiah: Title, Author, Date and Occasion, Genre and Literary Features, Characteristics and Primary Themes, Theology of Jeremiah, Jeremiah in the Larger Story of the Bible, Christ in Jeremiah, History of Interpretation, Outline. Print pages to verify.
+- Peter Y. Lee, "Jeremiah," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues (historical setting, text of Jeremiah), Structure and Outline, Message and Theology (prosecutor of the Mosaic covenant, herald of the new covenant, "from repentance to redemption", the prophetic call).
+- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Jeremiah: Title, Author, Date and Occasion, Genre and Literary Features, Characteristics and Primary Themes, Theology of Jeremiah, Jeremiah in the Larger Story of the Bible, Christ in Jeremiah, History of Interpretation, Outline.
 
 ## Changelog
 
 1. 2026-11-04: Generated initial notes with Claude Code
 2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code
 3. 2026-11-04: Q&A reformatted as question-and-answer pairs and reviewed; verse references added with Claude Code
+4. 2026-11-04: Sources cited by section; dropped the print page notes

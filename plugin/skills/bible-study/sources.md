@@ -21,7 +21,7 @@ These are summaries of what the Bible teaches, written and adopted by Reformed c
 
 ## 3. Study Bibles
 
-The main sources for book introductions, outlines and notes. Cite them by book introduction and page number.
+The main sources for book introductions, outlines and notes. Cite them by book introduction and section heading.
 
 - **Reformation Study Bible** (ed. R.C. Sproul, Ligonier Ministries).
 - **Reformation Heritage KJV Study Bible** (general editor Joel R. Beeke, Reformation Heritage Books).
@@ -57,7 +57,7 @@ Some trusted sources are not Reformed on every point. Use them freely, but on th
 ## Citation rules
 
 - Write summaries in your own words. Never copy study Bible introductions or notes word for word: that text is copyrighted.
-- Give each claim a source: chapter and verse, a confession or catechism article, a study Bible page number, a commentary reference, or an article URL.
+- Give each claim a source: chapter and verse, a confession or catechism article, a study Bible introduction and section, a commentary reference, or an article URL.
 - Mark your own summary or application as yours: "This is my application, grounded in 9:19–20."
 - Any source not on this list must be flagged by name, e.g. "Non-Reformed source: the NIV Study Bible."
 - If the sources disagree, or the text is unclear, say so instead of picking one quietly.

@@ -169,12 +169,13 @@ The book's title is its theme: "the revelation of Jesus Christ" (1:1). He is "th
 
 ## Sources
 
-- Charles E. Hill, "Revelation," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Introduction and Purpose, Background Issues (authorship, date, form and genre, approaches to Revelation, hermeneutical factors), Structure and Outline (four visions), Message and Theology. Print pages to verify.
+- Charles E. Hill, "Revelation," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Introduction and Purpose, Background Issues (authorship, date, form and genre, approaches to Revelation, hermeneutical factors), Structure and Outline (four visions), Message and Theology.
 - *The Lutheran Study Bible* (Concordia, 2009), introduction to Revelation: Overview, Luther on Revelation (from his 1530 preface), Challenges for Readers. Lutheran source.
-- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Revelation: Title and Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of Revelation, Revelation in the Larger Story of the Bible, Christ in Revelation, History of Interpretation, Special Issues, Outline. Print pages to verify.
+- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Revelation: Title and Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of Revelation, Revelation in the Larger Story of the Bible, Christ in Revelation, History of Interpretation, Special Issues, Outline.
 
 ## Changelog
 
 1. 2026-11-04: Generated initial notes with Claude Code
 2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code
 3. 2026-11-04: Q&A reformatted as question-and-answer pairs and reviewed; verse references added with Claude Code
+4. 2026-11-04: Sources cited by section; dropped the print page notes

@@ -178,14 +178,15 @@ Rahab, saved by faith and marked by a scarlet cord, appears in Jesus' genealogy 
 
 ## Sources
 
-- Daniel C. Timmer, "Joshua," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues, Historical Context, Structure and Outline, Message and Theology (the land, rest, the nations, the ethical problems of the conquest), Approaching the New Testament. Print pages to verify.
+- Daniel C. Timmer, "Joshua," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues, Historical Context, Structure and Outline, Message and Theology (the land, rest, the nations, the ethical problems of the conquest), Approaching the New Testament.
 - *The Lutheran Study Bible* (Concordia, 2009), introduction to Joshua: Overview, Luther on Joshua, Challenges for Readers. Lutheran source.
 - Ligonier devotional on Joshua's courage: <https://learn.ligonier.org/devotionals/joshua-18>
 - Matthew Henry, *Commentary on the Whole Bible*, on Joshua 9 (the oath to the Gibeonites).
-- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Joshua: Title, Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of Joshua, Joshua in the Larger Story of the Bible, Christ in Joshua, History of Interpretation, Special Issues, Outline. Print pages to verify.
+- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Joshua: Title, Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of Joshua, Joshua in the Larger Story of the Bible, Christ in Joshua, History of Interpretation, Special Issues, Outline.
 
 ## Changelog
 
 1. 2026-11-04: Generated initial notes with Claude Code
 2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code
 3. 2026-11-04: Q&A reformatted as question-and-answer pairs and reviewed; verse references added with Claude Code
+4. 2026-11-04: Sources cited by section; dropped the print page notes

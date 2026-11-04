@@ -161,10 +161,10 @@ Jesus, untouched by uncleanness, touched lepers and made them clean (Mark 1:40â€
 
 ## Sources
 
-- Michael G. McKelvey, "Leviticus," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues, Title, Historical Context, Structure and Outline, Message and Theology (holiness, sacrifice, time), Approaching the New Testament. Print pages to verify.
+- Michael G. McKelvey, "Leviticus," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues, Title, Historical Context, Structure and Outline, Message and Theology (holiness, sacrifice, time), Approaching the New Testament.
 - *The Lutheran Study Bible* (Concordia, 2009), introduction to Leviticus: Overview, Luther on Leviticus, Challenges for Readers. Lutheran source.
 - Westminster Confession of Faith 19.3â€“5 (ceremonial, civil and moral law).
-- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Leviticus: Title, Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of Leviticus, Leviticus in the Larger Story of the Bible, Christ in Leviticus, History of Interpretation, Special Issues, Outline. Print pages to verify.
+- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Leviticus: Title, Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of Leviticus, Leviticus in the Larger Story of the Bible, Christ in Leviticus, History of Interpretation, Special Issues, Outline.
 
 ## Changelog
 
@@ -172,3 +172,4 @@ Jesus, untouched by uncleanness, touched lepers and made them clean (Mark 1:40â€
 2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code
 3. 2026-11-04: Structure regrouped into nested sections, combining the earlier outline with the Reformation Study Bible's divisions
 4. 2026-11-04: Q&A reformatted as question-and-answer pairs and reviewed; verse references added with Claude Code
+5. 2026-11-04: Sources cited by section; dropped the print page notes
