@@ -254,18 +254,20 @@ a:hover { color: var(--olive); }
   color: var(--flap-fg);
   border-radius: var(--flap-r);
   box-shadow: 0 0.06em 0 rgb(0 0 0 / 25%), 0 0.25em 0.6em rgb(16 11 0 / 22%);
+  -webkit-perspective: 22em;
   perspective: 22em;
   white-space: nowrap;
   text-align: center;
 }
 .flip-sizer { display: inline-grid; visibility: hidden; }
 .flip-sizer > span { grid-area: 1 / 1; }
-.flip-static { position: absolute; inset: 0; }
+.flip-static { position: absolute; top: 0; right: 0; bottom: 0; left: 0; }
 
 .flip-half {
   position: absolute; left: 0; right: 0; height: 50%;
   overflow: hidden;
   background: var(--flap-bg);
+  -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
 }
 .flip-half > span { display: block; height: var(--flap-h); line-height: var(--flap-h); }
@@ -281,7 +283,7 @@ a:hover { color: var(--olive); }
 
 .flip-flap { z-index: 3; visibility: hidden; }
 .flip-flap-top { transform-origin: 50% 100%; }
-.flip-flap-bottom { transform-origin: 50% 0; transform: rotateX(90deg); }
+.flip-flap-bottom { transform-origin: 50% 0; -webkit-transform: rotateX(90deg); transform: rotateX(90deg); }
 .flip.is-flipping .flip-flap { visibility: visible; }
 .flip.is-flipping .flip-flap-top { animation: flap-top 260ms ease-in forwards; }
 .flip.is-flipping .flip-flap-bottom { animation: flap-bottom 260ms ease-out 260ms forwards; }

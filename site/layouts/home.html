@@ -21,8 +21,10 @@
 <div class="wrap books" id="books">
   {{ partial "book-list.html" . }}
 </div>
-{{- /* data-cfasync="false" stops Cloudflare Rocket Loader rewriting this tag; when it does, adblockers that block Rocket Loader stop the script running. */}}
-{{- with resources.Get "js/flip.js" | minify | fingerprint }}
-<script src="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" defer data-cfasync="false"></script>
+{{- /* The flip-clock script is inlined: no separate file means nothing to 404,
+     fail an integrity check, or be blocked by URL. data-cfasync="false" stops
+     Cloudflare Rocket Loader rewriting the tag. */}}
+{{- with resources.Get "js/flip.js" | minify }}
+<script data-cfasync="false">{{ .Content | safeJS }}</script>
 {{- end }}
 {{ end }}

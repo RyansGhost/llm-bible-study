@@ -1,9 +1,12 @@
 // Split-flap ("flip clock") word changer for the home page heading.
 // <span class="flip" data-words='["Claude","ChatGPT"]'>Claude</span>
+// Plain JavaScript, no libraries. It is inlined into the page (see
+// layouts/home.html) so there is no separate file to fail to load.
 (function () {
   "use strict";
 
   var INTERVAL_MS = 3000;
+  var FLIP_MS = 520; // both flaps, matching the CSS animations
   var reduceMotion = window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)").matches;
 
   function half(cls, word) {
@@ -26,7 +29,7 @@
     } catch (e) {
       return;
     }
-    if (!words || words.length < 2) return;
+    if (!words || words.length < 2 || card.classList.contains("is-ready")) return;
 
     var current = 0;
 
@@ -53,10 +56,16 @@
     [sizer, top, bottom, flapTop, flapBottom].forEach(function (n) { card.appendChild(n); });
     card.classList.add("is-ready");
 
-    flapBottom.addEventListener("animationend", function () {
+    // Finish a flip when the bottom flap lands. The timer is a fallback for
+    // browsers that pause or skip the animation, so the card never sticks.
+    var finishTimer = null;
+    function finish() {
+      clearTimeout(finishTimer);
       setWord(bottom, words[current]);
       card.classList.remove("is-flipping");
-    });
+    }
+    flapBottom.addEventListener("animationend", finish);
+    flapBottom.addEventListener("animationcancel", finish);
 
     setInterval(function () {
       if (document.hidden) return;
@@ -77,8 +86,17 @@
       card.classList.remove("is-flipping");
       void card.offsetWidth; // restart the animation
       card.classList.add("is-flipping");
+      clearTimeout(finishTimer);
+      finishTimer = setTimeout(finish, FLIP_MS + 200);
     }, INTERVAL_MS);
   }
 
-  document.querySelectorAll(".flip[data-words]").forEach(init);
+  function start() {
+    Array.prototype.forEach.call(document.querySelectorAll(".flip[data-words]"), init);
+  }
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", start);
+  } else {
+    start();
+  }
 })();
