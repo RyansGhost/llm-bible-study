@@ -40,9 +40,9 @@ The EPUB is indexed with `tools/epub_index.py` (work `bible-reformation-study-bi
 - [x] 34 Nahum
 - [x] 35 Habakkuk
 - [x] 36 Zephaniah
-- [ ] 37 Haggai
-- [ ] 38 Zechariah
-- [ ] 39 Malachi
+- [x] 37 Haggai
+- [x] 38 Zechariah
+- [x] 39 Malachi
 - [ ] 40 Matthew
 - [ ] 41 Mark
 - [ ] 42 Luke

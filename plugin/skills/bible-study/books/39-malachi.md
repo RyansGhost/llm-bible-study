@@ -16,22 +16,21 @@ Malachi, the last book of the Old Testament, speaks to a returned people who hav
 
 ## Setting
 
-- **When:** about 430 BC (Lutheran Study Bible), after the temple was rebuilt (1:10) and probably around Nehemiah's time. The sins Malachi attacks closely match Nehemiah 13.
+- **When:** in the Persian period, when Judah had a governor (1:8) and the rebuilt temple was in use (1:10), around the time of Ezra and Nehemiah. Some date it between Ezra's arrival (458 BC) and Nehemiah's (445 BC); others between Nehemiah's two visits, about 433 BC (Reformation Study Bible). The Lutheran Study Bible gives about 430 BC. The sins Malachi attacks, foreign marriages, unpaid tithes, corrupt priests and injustice, closely match Nehemiah 13.
 - **Where:** Jerusalem and Judah under Persian rule.
-- **Who wrote it:** "Malachi" means "my messenger". It may be the prophet's name or a title (compare 3:1). Nothing else is known about him.
-- **Where it sits:** last of the Twelve and, in English Bibles, the last book of the Old Testament. About four hundred years of prophetic silence follow, until John the Baptist.
+- **Who wrote it:** "Malachi" means "my messenger". Some ancient translations took it as a title (the Greek has "his messenger"; an Aramaic paraphrase identifies him with Ezra). The RSB takes it as the prophet's name, since every other prophetic book is named after its prophet. Nothing else is known about him.
+- **Where it sits:** last of the Twelve and, in English Bibles, the last book of the Old Testament. It speaks to a discouraged people: poor, under Persian rule, and doubting God's promises because the glorious age the prophets foretold hadn't come. About four hundred years of prophetic silence follow, until John the Baptist.
 
 ## Structure
 
-Six disputes, each following the same pattern: God makes a statement, the people object "How?" or "But you say…", and God replies. Timmer notes this dispute structure makes repentance especially prominent.
+Six disputes, each following the same pattern: God makes a statement, the people object "How?" or "But you say…", and God replies. The people's objections sum up their attitude, whether or not they said the words aloud, and God speaks unusually often in the first person (RSB). Timmer notes this dispute structure makes repentance especially prominent. The Reformation Study Bible's divisions:
 
 - 1:1–5: "I have loved you": Jacob and Esau
 - 1:6–2:9: Priests who despise God's name with blemished offerings
 - 2:10–16: Faithlessness in marriage, and divorce
 - 2:17–3:5: "Where is the God of justice?": the messenger and the refiner
 - 3:6–12: Robbing God in tithes
-- 3:13–4:3: "It is vain to serve God": the book of remembrance and the coming day
-- 4:4–6: Closing: remember Moses' law; Elijah will come
+- 3:13–4:6: The righteous and the wicked distinguished: "It is vain to serve God", the book of remembrance, the coming day, and the closing charge to remember Moses' law, for Elijah will come
 
 ## Chapter by chapter
 
@@ -59,6 +58,7 @@ Six disputes, each following the same pattern: God makes a statement, the people
 ## Themes
 
 - **God's covenant love:** the book begins with "I have loved you" (1:2). God's love is shown in his electing choice.
+- **Covenant faithfulness:** Malachi names the covenant with Levi, the covenant of the fathers, the marriage covenant, and "the messenger of the covenant" (2:5, 10, 14; 3:1). Unfaithful priests led to a people who broke faith with God and one another, and stayed under the covenant curse unless they returned (3:7–9).
 - **Honouring God in worship:** God deserves our best, not leftovers (1:6–14).
 - **Faithful leaders:** priests must teach truth and walk with God (2:4–9).
 - **Faithfulness in marriage:** God witnesses the marriage covenant and hates the treachery of divorce (2:13–16).
@@ -105,8 +105,9 @@ The Lord who suddenly comes to his temple (3:1) is Jesus, presented there as a b
 
 - Daniel C. Timmer, "The Twelve," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Message and Theology (repentance and Malachi's dispute structure, deliverance of the remnant, the day of the Lord), Approaching the New Testament. Print pages to verify.
 - *The Lutheran Study Bible* (Concordia, 2009), introduction to Malachi: Overview. Lutheran source.
-- Reformation Study Bible, introduction to Malachi, p. ___ (to verify)
+- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Malachi: Title and Author, Date and Occasion, Genre and Literary Features, Characteristics and Primary Themes, Theology of Malachi, Malachi in the Larger Story of the Bible, Christ in the Book of Malachi, History of Interpretation, Outline. Print pages to verify.
 
 ## Changelog
 
 1. 2026-11-04: Generated initial notes with Claude Code
+2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code
