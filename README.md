@@ -68,6 +68,8 @@ Every book file uses the same headings: Sources, Summary, Setting, Structure, Ke
 - Mark your own applications as yours.
 - Set `status` in the front matter as the notes progress: `placeholder` (empty template), `draft` (written, sources still to check), or `complete`. The site and the skill both use it.
 
+To draft notes from commentaries or study Bibles you own as DRM-free EPUBs, use the indexer in [`tools/`](tools/README.md). It finds each book's material across your sources. The EPUBs themselves are never committed.
+
 ## Building the site
 
 Install [Hugo extended](https://gohugo.io/installation/) 0.168.0 or newer, then run either:

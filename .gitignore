@@ -4,3 +4,9 @@ site/resources/
 *.zip
 .DS_Store
 .hugo/
+
+# Source books for drafting the notes: copyrighted, never commit them or their indexes
+epubs/
+*.epub
+.epub-index/
+__pycache__/
