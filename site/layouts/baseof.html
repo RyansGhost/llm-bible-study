@@ -7,7 +7,15 @@
   <a class="skip-link" href="#main">Skip to content</a>
   <header class="site-header">
     <div class="wrap header-inner">
-      <a class="wordmark" href="{{ "/" | relURL }}">{{ site.Title }}</a>
+      <a class="wordmark" href="{{ "/" | relURL }}">
+        {{- with resources.Get "images/logo.png" }}
+          {{- $x1 := .Resize "40x40 png Lanczos" }}
+          {{- $x2 := .Resize "80x80 png Lanczos" }}
+          {{- $x3 := .Resize "120x120 png Lanczos" }}
+        <img class="logo" src="{{ $x1.RelPermalink }}" srcset="{{ $x1.RelPermalink }} 1x, {{ $x2.RelPermalink }} 2x, {{ $x3.RelPermalink }} 3x" width="40" height="40" alt="">
+        {{- end }}
+        <span>{{ site.Title }}</span>
+      </a>
       <nav class="site-nav" aria-label="Site">
         <a href="{{ "/books/" | relURL }}">Books</a>
         <a href="{{ "/llms.txt" | relURL }}">llms.txt</a>
