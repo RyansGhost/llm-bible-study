@@ -1,6 +1,6 @@
 # Q&A review checklist
 
-Each book's Q&A reformatted as **Q:** / **A:** pairs and reviewed: every question a clear, standalone question that works read aloud; every answer short, accurate to the current notes, and with a chapter-and-verse reference where one exists; and together covering the book's key people, events, themes and how it points to Christ. Each reviewed book gets a Changelog entry.
+Each book's Q&A reformatted as **Q:** / **A:** pairs and reviewed: every question a clear, standalone question that works read aloud; every answer short, accurate to the current notes, and with a chapter-and-verse reference where one exists; and together covering the book's key people, events, themes and how it points to Christ.
 
 - [x] 01 Genesis
 - [x] 02 Exodus

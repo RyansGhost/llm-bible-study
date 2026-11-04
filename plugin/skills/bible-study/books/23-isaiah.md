@@ -230,7 +230,3 @@ John even says Isaiah saw Christ's glory in his temple vision (John 12:41).
 ## Changelog
 
 1. 2026-11-04: Generated initial notes with Claude Code
-2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code
-3. 2026-11-04: Structure regrouped into nested sections, combining the earlier outline with the Reformation Study Bible's divisions
-4. 2026-11-04: Q&A reformatted as question-and-answer pairs and reviewed; verse references added with Claude Code
-5. 2026-11-04: Sources cited by section; dropped the print page notes

@@ -176,6 +176,3 @@ The book's title is its theme: "the revelation of Jesus Christ" (1:1). He is "th
 ## Changelog
 
 1. 2026-11-04: Generated initial notes with Claude Code
-2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code
-3. 2026-11-04: Q&A reformatted as question-and-answer pairs and reviewed; verse references added with Claude Code
-4. 2026-11-04: Sources cited by section; dropped the print page notes

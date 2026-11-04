@@ -182,6 +182,3 @@ Jesus himself cites David eating the holy bread at Nob (21; Mark 2:25–26). Lik
 ## Changelog
 
 1. 2026-11-04: Generated initial notes with Claude Code
-2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code
-3. 2026-11-04: Q&A reformatted as question-and-answer pairs and reviewed; verse references added with Claude Code
-4. 2026-11-04: Sources cited by section; dropped the print page notes

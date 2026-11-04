@@ -1,6 +1,6 @@
 # Reformation Study Bible review checklist
 
-Each book's notes checked against the Reformation Study Bible's introduction to that book (title, author, date and occasion, themes, Christ in the book, outline, and so on). Summary, Setting, Structure, Chapter by chapter, Key people, Key events and Themes are revised where the introduction adds to or differs from them, preferring its details and keeping the notes short. Each revised book cites the introduction's sections in its Sources and gets a Changelog entry.
+Each book's notes checked against the Reformation Study Bible's introduction to that book (title, author, date and occasion, themes, Christ in the book, outline, and so on). Summary, Setting, Structure, Chapter by chapter, Key people, Key events and Themes are revised where the introduction adds to or differs from them, preferring its details and keeping the notes short. Each revised book cites the introduction's sections in its Sources.
 
 The EPUB is indexed with `tools/epub_index.py` (work `bible-reformation-study-bible`); each introduction is the section containing "Study Material" plus the "OUTLINE OF …" section after it. The EPUB itself is never committed.
 
