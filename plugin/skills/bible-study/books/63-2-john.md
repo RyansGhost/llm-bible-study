@@ -5,56 +5,93 @@ book: 63
 testament: new
 section: "General Epistles"
 weight: 63
-status: placeholder
+status: draft
 ---
 
 # 2 John
 
 ## Sources
 
-- Reformation Study Bible, introduction to 2 John, p. ___
-- Ligonier: _article title_, _url_
+- Charles E. Hill, "1–3 John," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): 2 John, Background Issues (authorship, audience), Structure and Outline, Message and Theology. Print pages to verify.
+- Reformation Study Bible, introduction to 2 John, p. ___ (to verify)
 
 ## Summary
 
-_Not written yet._ One or two sentences: what 2 John is about and why it matters.
+2 John is a short letter from "the elder" to "the elect lady and her children", most likely a local church and its members. It comes out of the same crisis as 1 John: deceivers who deny that Jesus Christ has come in the flesh are going around the churches. John rejoices that some are walking in the truth, repeats the command to love one another, and warns them to watch themselves. Anyone who doesn't abide in the teaching of Christ doesn't have God. So they mustn't welcome such teachers or support their work. Hill notes that 2 John stresses true doctrine and 3 John stresses love for the brothers, but both themes run through both letters.
 
 ## Setting
 
-_Not written yet._ Where, when, who wrote it, and where it sits in the story of Scripture.
+- **When:** late first century, about AD 85–100, near the time of 1 John (Hill).
+- **Where:** probably from Ephesus, to a church in the province of Asia.
+- **Who wrote it:** "the elder" (v. 1). Hill argues that the style and setting connect 1–3 John with John's Gospel, and that the apostle John is the author. Some in the early church, Eusebius among them, wondered whether the "elder" was a different John, but most held to the apostle.
+- **Where it sits:** one of the shortest books in the Bible, the length of a single sheet of papyrus. Hill suggests, as a possibility, that 2 John may have been a cover letter sent with John's Gospel.
 
 ## Structure
 
-- _Chapters_: _section_
+Hill's outline:
+
+- vv. 1–3: Greeting
+- vv. 4–7: Walking in truth: love one another, and beware of deceivers
+- vv. 8–11: Warning and exhortation: abide in the teaching of Christ; don't receive deceivers
+- vv. 12–13: Closing
 
 ## Chapter by chapter
 
-- **Chapter 1:** _two or three sentences_
+2 John has only one chapter, so here it is by section:
+
+- **vv. 1–3:** The elder greets the elect lady and her children, whom he loves in the truth, as do all who know the truth. Grace, mercy and peace will be with us from God the Father and from Jesus Christ the Father's Son, in truth and love.
+- **vv. 4–7:** John rejoices to find some of her children walking in the truth. He reminds her of the command from the beginning: that we love one another. Love means walking according to his commands. Many deceivers have gone out into the world who don't confess the coming of Jesus Christ in the flesh. Such a one is the deceiver and the antichrist.
+- **vv. 8–11:** Watch yourselves, so you don't lose what you've worked for. Everyone who goes on ahead and doesn't abide in the teaching of Christ doesn't have God; whoever abides in it has both the Father and the Son. If anyone comes without this teaching, don't receive him into the house or greet him, for whoever greets him takes part in his wicked works.
+- **vv. 12–13:** John has much more to write, but hopes to come and talk face to face, so their joy may be complete. The children of your elect sister greet you.
 
 ## Key people
 
-- _Name_: _one line on their role_
+- **The elder:** the apostle John, writing with authority to a church he loves.
+- **The elect lady and her children:** Hill argues this is a church and its members, not an individual woman.
+- **The elect sister's children:** the members of the church where John is (v. 13).
+- **The deceivers:** false teachers who deny that Jesus Christ has come in the flesh (v. 7).
 
 ## Key events
 
-- _Event (chapter)_: _one line_
+- Deceivers going out into the world (v. 7)
+- John's planned visit (v. 12)
 
 ## Themes
 
-- _Theme_: _one line, with a key verse_
+- **Truth:** the word appears five times in the first four verses. Walking in the truth means holding to right belief about Christ.
+- **Love:** the old command to love one another (vv. 5–6; John 13:34).
+- **Obedience:** love means walking according to God's commands (v. 6). Hill shows how truth, love and obedience are bound together.
+- **The teaching of Christ:** abiding in it means having both the Father and the Son (v. 9).
+- **Guarding the church:** don't give a platform or support to those who deny Christ (vv. 10–11).
 
 ## How it points to Christ
 
-_Not written yet._ One or two lines, with New Testament references.
+The test of true teaching is the confession of "the coming of Jesus Christ in the flesh" (v. 7): the incarnation of the Son of God is non-negotiable. Jesus Christ is "the Father's Son" (v. 3), and grace, mercy and peace come from him as well as from the Father. Whoever abides in the teaching of Christ "has both the Father and the Son" (v. 9), so to deny the Son is to lose God himself (compare 1 John 2:23).
 
 ## Common mix-ups
 
-- _Things easily confused with other books_
+- "The elect lady" is most likely a church, not a particular woman (Hill), though some have thought otherwise.
+- The ban on receiving false teachers (v. 10) is about giving them a welcome, platform or support as teachers, likely in a house church (Hill). It isn't a command to be rude to every unbeliever.
+- 2 John and 3 John are both from "the elder". 2 John warns against welcoming false teachers, and 3 John urges welcoming true ones.
+- "Antichrist" appears in 2 John 7 as well as 1 John.
 
 ## Going deeper
 
-- **_Topic_:** _a question worth a longer conversation, and where the sources discuss it_
+- **Truth and love (vv. 1–6).** Why does John hold truth and love together? What happens to a church that keeps one without the other?
+- **The elect lady.** Weigh Hill's reasons for reading her as a church. What difference does it make?
+- **"Going on ahead" (v. 9).** What does it look like to "progress" beyond the teaching of Christ? Where do we see this today?
+- **Hospitality and false teaching (vv. 10–11).** How should churches apply this today, for example in who they invite to preach or what they support?
+- **Face to face (v. 12).** What does John's desire to visit say about the limits of letters, and the value of meeting together?
 
 ## Q&A
 
-1. _Question?_ _Answer._
+1. Who wrote 2 John? "The elder", traditionally the apostle John (v. 1).
+2. To whom is 2 John addressed? The elect lady and her children, most likely a church and its members.
+3. What made John rejoice? Finding some of her children walking in the truth (v. 4).
+4. What command does John repeat? That we love one another (v. 5).
+5. What is love, according to v. 6? Walking according to God's commands.
+6. What do the deceivers fail to confess? The coming of Jesus Christ in the flesh (v. 7).
+7. Who has both the Father and the Son? Whoever abides in the teaching of Christ (v. 9).
+8. What should they not do for a false teacher? Receive him into the house or give him any greeting (v. 10).
+9. Why does John not write more? He hopes to come and talk face to face (v. 12).
+10. Who sends greetings at the end? The children of your elect sister (v. 13).
