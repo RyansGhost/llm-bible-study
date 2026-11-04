@@ -16,9 +16,9 @@ God keeps his promise to Abraham by bringing Israel into the land under Joshua. 
 
 ## Setting
 
-- **When:** right after Moses' death, at the end of the forty years. The Reformation Study Bible favours a conquest around 1400 BC, noting that the case for a later date (about 1250 BC) has weakened; the Lutheran Study Bible dates the events to about 1406–1375 BC. Timmer uses the Amarna letters (mid-14th century BC) to show a Canaan split into feuding city-states under loose Egyptian control.
+- **When:** right after Moses' death, at the end of the forty years. The Reformation Study Bible favours a conquest around 1400 BC, noting that the case for a later date (about 1250 BC) has weakened; the Lutheran Study Bible dates the events to about 1406–1375 BC, and the Reformation Heritage KJV Study Bible (RH) to 1406–1386 BC, ending with Joshua's death at 110 (24:29). Timmer uses the Amarna letters (mid-14th century BC) to show a Canaan split into feuding city-states under loose Egyptian control.
 - **Where:** from the plains of Moab across the Jordan to Gilgal, Jericho and Ai, then the southern and northern campaigns, Shiloh, and finally Shechem.
-- **Who wrote it:** unknown. Jewish tradition credits Joshua himself. The RSB thinks someone shaped by Deuteronomy's outlook gave it its final form after Joshua's death but before Saul (about 1050 BC): Jerusalem is not yet taken (15:63), Gezer is not yet Solomon's (16:10), and Sidon is still the leading Phoenician city (11:8). Timmer is cautious about theories that split it into many sources.
+- **Who wrote it:** unknown. Jewish tradition credits Joshua himself, and RH agrees: he wrote at least part of it (24:26), and its first-hand detail suits him, with his death (24:29–30) added by a later prophet. The RSB thinks someone shaped by Deuteronomy's outlook gave it its final form after Joshua's death but before Saul (about 1050 BC): Jerusalem is not yet taken (15:63), Gezer is not yet Solomon's (16:10), and Sidon is still the leading Phoenician city (11:8). Timmer is cautious about theories that split it into many sources.
 - **Where it sits:** the first of the "Former Prophets" (Joshua to Kings). It carries on directly from Deuteronomy and fulfils God's promise of the land (Gen 15:16–21). Joshua came from Ephraim, the tribe that led Israel from Joseph's time to Samuel's.
 
 ## Structure
@@ -62,7 +62,7 @@ Timmer, following Koorevaar, marks the same sections with four verbs: cross, tak
 
 ## Key people
 
-- **Joshua:** from the tribe of Ephraim, Moses' successor and one of the two faithful spies. Told again and again to be strong and courageous, he leads Israel into the land.
+- **Joshua:** from the tribe of Ephraim, Moses' successor and one of the two faithful spies. First called Hoshea, he was renamed Joshua, "the Lord saves", by Moses (Num 13:16). Told again and again to be strong and courageous, he leads Israel into the land.
 - **Rahab:** a Canaanite prostitute in Jericho who hides the spies and is saved by faith (Heb 11:31). She is in Jesus' genealogy (Matt 1:5).
 - **Achan:** an Israelite who steals devoted things from Jericho and brings defeat at Ai.
 - **Caleb:** the other faithful spy, who claims Hebron at 85.
@@ -92,7 +92,8 @@ Timmer, following Koorevaar, marks the same sections with four verbs: cross, tak
 - **God keeps his promises:** the land is the Lord's gift to Abraham's descendants. Timmer prefers "giving" to "taking", because the book insists every victory is God's doing (21:43–45; 24:12–13).
 - **God fights for his people:** "the Lord fought for Israel" (10:14). Jericho falls to marching and trumpets, not siege engines.
 - **Faith versus unbelief:** Rahab, the Canaanite, believes and is saved, and so are the Gibeonites; Achan, of Judah, disobeys and dies. Faith, not birth, decides who belongs to God's people (RSB).
-- **Judgment on sin:** the conquest is God's judgment on the long-standing sin of the Canaanites (Gen 15:16). Timmer notes its language echoes the flood: "all that breathed" perished (10:40; Gen 7:22). It isn't ethnic: God judges Israel's sin just as severely (Lev 18:24–28; Num 25:9).
+- **Judgment on sin:** the conquest is God's judgment on the long-standing sin of the Canaanites (Gen 15:16). Timmer notes its language echoes the flood: "all that breathed" perished (10:40; Gen 7:22). It isn't ethnic: God judges Israel's sin just as severely (Lev 18:24–28; Num 25:9). Achan's hidden sin brings defeat on the whole nation, and it can't be hidden from God (7:1, 11–21).
+- **A gift that must still be taken:** God gives the land, yet Israel has to fight for it city by city, and much remains (13:1). RH sees a picture of the Christian life: Christ has broken sin's rule (Rom 6:14), yet believers must keep fighting it (Rom 6:12–13).
 - **Rest:** God gives Israel rest from their enemies (21:44; 23:1). In Joshua this is rest from war, the setting for an obedient life, not yet the final rest (Heb 4:8).
 - **Obedience to God's word:** success depends on meditating on and keeping the law (1:7–8; 23:6).
 - **Keep your word, even at a cost:** Israel honours its oath to the Gibeonites despite the deception (9:19–20; compare 2 Sam 21 and Ps 15:4). This is our application, grounded in those texts.
@@ -103,7 +104,7 @@ Timmer, following Koorevaar, marks the same sections with four verbs: cross, tak
 
 Joshua and Jesus share the same name, meaning "the Lord saves" (the Greek form of Joshua is Jesus). Hebrews says that if Joshua had given Israel real rest, God would not have spoken of another day. A Sabbath rest still remains for God's people, found in Christ (Heb 4:8–10).
 
-Rahab, saved by faith and marked by a scarlet cord, appears in Jesus' genealogy and among the heroes of faith (Matt 1:5; Heb 11:31; Jas 2:25). The commander of the Lord's army (5:13–15) foreshadows the Lord himself fighting for his people. The conquest's judgment on sin and gift of an inheritance look ahead to Christ's final victory and the new creation, which the meek will inherit (Matt 5:5; Rev 21:1–4).
+Rahab, saved by faith and marked by a scarlet cord, appears in Jesus' genealogy and among the heroes of faith (Matt 1:5; Heb 11:31; Jas 2:25). The commander of the Lord's army (5:13–15), whom the RSB and RH take to be Christ before his incarnation, shows there is a greater leader than Joshua: the "captain of [our] salvation" (Heb 2:10, KJV). The conquest's judgment on sin and gift of an inheritance look ahead to Christ's final victory and the new creation, which the meek will inherit (Matt 5:5; Rev 21:1–4).
 
 ## Common mix-ups
 
@@ -183,6 +184,7 @@ Rahab, saved by faith and marked by a scarlet cord, appears in Jesus' genealogy 
 - Ligonier devotional on Joshua's courage: <https://learn.ligonier.org/devotionals/joshua-18>
 - Matthew Henry, *Commentary on the Whole Bible*, on Joshua 9 (the oath to the Gibeonites).
 - *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Joshua: Title, Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of Joshua, Joshua in the Larger Story of the Bible, Christ in Joshua, History of Interpretation, Special Issues, Outline.
+- *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to Joshua: Authorship, Date, Theme, Purpose, Synopsis, Outline; chapter summaries.
 
 ## Changelog
 

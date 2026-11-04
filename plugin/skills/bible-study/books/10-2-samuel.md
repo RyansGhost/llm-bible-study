@@ -37,13 +37,13 @@ The whole book centres on David's kingship, almost a history of his court. The R
 - **2 Samuel 3:** David's house grows stronger. Abner defects to David but is murdered by Joab, and David mourns him publicly.
 - **2 Samuel 4:** Two men murder Ish-bosheth and bring David his head. David executes them. Jonathan's son Mephibosheth is lame in both feet.
 - **2 Samuel 5:** All Israel anoints David king. He captures Jerusalem from the Jebusites and defeats the Philistines.
-- **2 Samuel 6:** David brings the ark to Jerusalem. Uzzah is struck down for touching it. David dances before the Lord, and Michal despises him.
+- **2 Samuel 6:** David brings the ark to Jerusalem. Moved on a cart instead of carried as God commanded, it is steadied by Uzzah, who is struck down. Carried properly the second time, it comes up with rejoicing. David dances before the Lord, and Michal despises him.
 - **2 Samuel 7:** David wants to build God a house, but God promises to build David a house: an offspring whose throne he will establish forever (7:12–16). David responds in humble prayer.
 - **2 Samuel 8:** David defeats the Philistines, Moab, Zobah, Syria and Edom, and rules with justice.
 - **2 Samuel 9:** David shows kindness to Mephibosheth for Jonathan's sake, giving him a place at his table.
 - **2 Samuel 10:** The Ammonites humiliate David's envoys, and David defeats Ammon and its Syrian allies.
 - **2 Samuel 11:** Staying home from war, David takes Bathsheba, and she conceives. He arranges for her husband Uriah to die in battle.
-- **2 Samuel 12:** Nathan's parable of the poor man's lamb: "You are the man!" David repents (Ps 51), the child dies, and Solomon is born.
+- **2 Samuel 12:** Nathan's parable of the poor man's lamb: "You are the man!" David repents (Ps 51), the child dies, and Solomon is born. David returns to the war and takes Rabbah.
 - **2 Samuel 13:** Amnon rapes his half-sister Tamar. Absalom kills Amnon two years later and flees.
 - **2 Samuel 14:** Joab uses a wise woman of Tekoa to bring Absalom home, and David finally receives him.
 - **2 Samuel 15:** Absalom steals the people's hearts and launches a revolt from Hebron. David flees Jerusalem across the Kidron, weeping.
@@ -88,7 +88,7 @@ The whole book centres on David's kingship, almost a history of his court. The R
 
 ## Themes
 
-- **The Davidic covenant:** God promises David an everlasting house, kingdom and throne through his offspring (7:12–16; Ps 89; Ps 132). McKelvey shows how it carries forward the promises to Abraham, including that kings would come from him (Gen 17:6). Solomon fulfils it in part, as David's son who builds the temple, but only Christ fulfils its "forever" (RSB).
+- **The Davidic covenant:** God promises David an everlasting house, kingdom and throne through his offspring (7:12–16; Ps 89; Ps 132). McKelvey shows how it carries forward the promises to Abraham, including that kings would come from him (Gen 17:6). Solomon fulfils it in part, as David's son who builds the temple, but only Christ fulfils its "forever" (RSB). The Reformation Heritage KJV Study Bible (RH) calls it a high point in the Old Testament's unfolding of the promised offspring of Genesis 3:15, now named as David's son.
 - **Sin and its consequences:** David is forgiven (12:13), yet "the sword shall never depart from your house" (12:10). The rest of the book unfolds that judgment: David sees his own sins repeated in his sons, and loses three of them to the sword (Amnon, Absalom, and later Adonijah).
 - **Repentance:** David's honest confession (12:13; Ps 51) marks him off from Saul's excuses.
 - **God's kindness (*hesed*):** David's loyal love to Mephibosheth (9) reflects God's own covenant loyalty.
@@ -166,6 +166,7 @@ David fleeing Jerusalem across the Kidron, rejected by his own people (15:23), a
 - Michael G. McKelvey, "1–2 Samuel," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Structure and Outline, Message and Theology (David, the Davidic covenant, the heart, David and the Psalms), Approaching the New Testament.
 - *The Lutheran Study Bible* (Concordia, 2009), introduction to 1 and 2 Samuel. Lutheran source.
 - *The Reformation Study Bible* (Reformation Trust, 2015), introduction to 2 Samuel: Title and Author, Characteristics and Primary Themes, Outline.
+- *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to 1 and 2 Samuel (Synopsis, Outline) and introduction to 2 Samuel; chapter summaries.
 
 ## Changelog
 

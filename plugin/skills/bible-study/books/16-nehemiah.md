@@ -12,7 +12,7 @@ status: draft
 
 ## Summary
 
-Nehemiah, a Jewish official in the Persian court, hears that Jerusalem's walls are still in ruins. After prayer and with the king's support, he goes to rebuild them, and despite mockery, threats and plots the wall is finished in fifty-two days. Then Ezra reads God's law to the people, they confess their sins and renew the covenant, and the wall is dedicated with great joy. But the book ends with Nehemiah confronting the same failures again, showing how much the people still needed a deeper renewal.
+Nehemiah, a Jewish official in the Persian court, hears that Jerusalem's walls are still in ruins. After prayer and with the king's support, he goes to rebuild them, and despite mockery, threats and plots the wall is finished in fifty-two days. Then Ezra reads God's law to the people, they confess their sins and renew the covenant, and the wall is dedicated with great joy. But the book ends with Nehemiah confronting the same failures again, showing how much the people still needed a deeper renewal. The Reformation Heritage KJV Study Bible (RH) sums up the theme as God protecting and providing for his people through leadership that is godly, prayerful and active.
 
 ## Setting
 
@@ -90,7 +90,7 @@ The Reformation Study Bible has two parts, matching Ezra's pattern of a return f
 
 ## How it points to Christ
 
-Nehemiah left the comfort of the king's palace, identified with his people's shame, and gave himself to rebuild what was broken. That is a faint picture of Christ, who left heaven's glory to restore his people (Phil 2:5–8). Nehemiah's reforms couldn't hold: within years the people slid back (13). The book ends looking for a greater restorer who can change hearts, not just walls.
+Nehemiah left the comfort of the king's palace, identified with his people's shame, and gave himself to rebuild what was broken. That is a faint picture of Christ, who left heaven's glory to restore his people (Phil 2:5–8). Nehemiah's reforms couldn't hold: within years the people slid back (13). The book ends looking for a greater restorer who can change hearts, not just walls. RH also notes how Nehemiah's work prepared for Christ: it kept a distinct, law-keeping Jewish community in Jerusalem, the people into whom the Messiah would be born and among whom he would come to his temple (Mal 3:1; Luke 2:21–27; John 4:22).
 
 Jesus builds God's true house, his church, against which the gates of hell will not prevail (Matt 16:18). The new Jerusalem has walls and gates that will never fall or be shut (Rev 21:12–25).
 
@@ -158,6 +158,7 @@ Jesus builds God's true house, his church, against which the gates of hell will 
 - Mark D. Futato, "Ezra–Nehemiah," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues, Structure and Outline, Message and Theology (rebuilding the house of God, ordinary people, the written Word, sovereignty and responsibility).
 - *The Lutheran Study Bible* (Concordia, 2009), introduction to Nehemiah: Overview. Lutheran source.
 - *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Nehemiah: Title, Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of Nehemiah, Nehemiah in the Larger Story of the Bible, Christ in Nehemiah, History of Interpretation, Outline.
+- *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to Nehemiah: Theme, Purpose, Synopsis, Outline (with the introduction to Ezra for authorship and date); chapter summaries.
 
 ## Changelog
 

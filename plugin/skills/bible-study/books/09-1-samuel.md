@@ -18,7 +18,7 @@ status: draft
 
 - **When:** about 1100 BC (roughly Samuel's birth) to about 1010 BC, when David began to reign at Hebron. The length of Saul's reign is uncertain, because the Hebrew of 13:1 is damaged (Reformation Study Bible); the Lutheran Study Bible gives about 1048–1009 BC.
 - **Where:** Shiloh, Ramah, Mizpah, Gibeah (Saul's home), Bethlehem (David's), the wilderness of Judah, and the borderlands with the Philistines.
-- **Who wrote it:** unknown. It is named for Samuel, who anointed both Saul and David, but his death is recorded in 25:1. Samuel may have written some early material, with others continuing it (compare 1 Chr 29:29). Phrases like "to this day", and the note that Ziklag belongs "to the kings of Judah" (27:6), show the final form came after the kingdom divided; the RSB suggests a court historian in the ninth or eighth century BC.
+- **Who wrote it:** unknown. It is named for Samuel, who anointed both Saul and David, but his death is recorded in 25:1. Samuel may have written some early material, with others continuing it (compare 1 Chr 29:29). Phrases like "to this day", and the note that Ziklag belongs "to the kings of Judah" (27:6), show the final form came after the kingdom divided; the RSB suggests a court historian in the ninth or eighth century BC. The Reformation Heritage KJV Study Bible (RH) follows older tradition instead: Samuel began the record (10:25), Nathan and Gad continued it (1 Chr 29:29), and it was written between about 1050 and 970 BC. Both read it as one unified work.
 - **Where it sits:** 1 and 2 Samuel were one book in Hebrew. The Greek translation split them and treated Samuel and Kings together as "the Kingdoms". They carry on from Judges and Ruth, which ends with David's family line.
 
 ## Structure
@@ -55,7 +55,7 @@ Across 1 and 2 Samuel, Saul and David run in parallel: both begin with victories
 - **1 Samuel 19:** Saul tries to kill David. Michal helps him escape, and Saul is overcome by the Spirit at Ramah.
 - **1 Samuel 20:** Jonathan warns David with the signal of the arrows, and they part in tears and loyalty.
 - **1 Samuel 21:** At Nob, the priest gives David holy bread and Goliath's sword. At Gath David pretends to be mad.
-- **1 Samuel 22:** David gathers men at the cave of Adullam. Saul massacres the priests of Nob; only Abiathar escapes.
+- **1 Samuel 22:** David gathers men at the cave of Adullam. Saul massacres eighty-five priests of Nob, and David admits his lie to Ahimelech brought it on them (22:18, 22); only Abiathar escapes.
 - **1 Samuel 23:** David saves Keilah from the Philistines. Saul hunts him in the wilderness, and Jonathan strengthens David in God.
 - **1 Samuel 24:** In a cave at En-gedi, David cuts Saul's robe but refuses to harm the Lord's anointed.
 - **1 Samuel 25:** Samuel dies. Foolish Nabal insults David, wise Abigail stops David's revenge, and after Nabal dies she marries David.
@@ -101,7 +101,7 @@ Across 1 and 2 Samuel, Saul and David run in parallel: both begin with victories
 - **God's kingship and human kings:** Israel's demand for a king rejects God as their King (8:7). Yet God means to give a king who rules under him (Deut 17:14–20). McKelvey makes kingship, God's and man's, the book's major theme.
 - **The Lord looks on the heart:** Saul has the appearance of a king, David a heart for God (16:7). McKelvey traces "heart" through Hannah, Eli, Saul and David.
 - **Obedience over ritual:** "To obey is better than sacrifice" (15:22). Saul's religion is outward and his obedience partial.
-- **God raises the lowly and humbles the proud:** Hannah's song (2:1–10) previews the whole book: barren Hannah, the boy Samuel, the shepherd David are raised; Eli's house, the Philistines' Dagon and proud Saul are brought low.
+- **God raises the lowly and humbles the proud:** Hannah's song (2:1–10) previews the whole book: barren Hannah, the boy Samuel, the shepherd David are raised; Eli's house, the Philistines' Dagon and proud Saul are brought low. RH makes this the book's theme: God lifts up and puts down leaders by what he sees in their hearts, preparing the way for the Messiah.
 - **God rules behind the scenes:** he steers even Saul's search for lost donkeys to bring him to Samuel (9:15–16), and chooses David before anyone else sees it (16:1–13).
 - **God's presence cannot be manipulated:** treating the ark as a charm brings defeat; the ark humiliates Dagon on its own.
 - **Waiting on God's timing:** David refuses twice to kill "the Lord's anointed" (24:6; 26:9), trusting God to give the throne.
@@ -111,7 +111,7 @@ Across 1 and 2 Samuel, Saul and David run in parallel: both begin with victories
 
 Hannah's song is the first place Scripture calls the coming king the Lord's "anointed" (2:10), in Hebrew *mashiach*, Messiah. Mary's song in Luke 1:46–55 echoes it closely. David, born in Bethlehem, a shepherd chosen by God though overlooked by men, anointed with the Spirit, and fighting as Israel's champion against Goliath, foreshadows the Son of David. Jesus, born in Bethlehem, is the Good Shepherd (John 10:11), anointed with the Spirit at his baptism, who defeats our great enemy on our behalf.
 
-Jesus himself cites David eating the holy bread at Nob (21; Mark 2:25–26). Like David, Jesus was hunted and rejected before he took his throne.
+Jesus himself cites David eating the holy bread at Nob (21; Mark 2:25–26). Like David, Jesus was hunted and rejected before he took his throne. Saul's envious pursuit of David follows Cain's hatred of Abel and looks ahead to the leaders who handed Jesus over out of envy (18:8–9; Gen 4:8; Matt 27:18) (RH).
 
 ## Common mix-ups
 
@@ -178,6 +178,7 @@ Jesus himself cites David eating the holy bread at Nob (21; Mark 2:25–26). Lik
 - Michael G. McKelvey, "1–2 Samuel," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues, Structure and Outline, Message and Theology (Samuel, kingship, Saul, David, the heart).
 - *The Lutheran Study Bible* (Concordia, 2009), introduction to 1 and 2 Samuel: Overview, Reading 1 and 2 Samuel, Luther on 1 and 2 Samuel. Lutheran source.
 - *The Reformation Study Bible* (Reformation Trust, 2015), introduction to 1 Samuel: Title, Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of 1 and 2 Samuel, 1 and 2 Samuel in the Larger Story of the Bible, History of Interpretation, Outline.
+- *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to 1 and 2 Samuel: Authorship, Date, Theme, Purpose, Synopsis, Outline; chapter summaries.
 
 ## Changelog
 

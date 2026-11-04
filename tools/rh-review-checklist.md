@@ -9,18 +9,18 @@ The EPUB is indexed with `tools/epub_index.py` (work `beeke-reformation-heritage
 - [x] 03 Leviticus
 - [x] 04 Numbers
 - [x] 05 Deuteronomy
-- [ ] 06 Joshua
-- [ ] 07 Judges
-- [ ] 08 Ruth
-- [ ] 09 1 Samuel
-- [ ] 10 2 Samuel
-- [ ] 11 1 Kings
-- [ ] 12 2 Kings
-- [ ] 13 1 Chronicles
-- [ ] 14 2 Chronicles
-- [ ] 15 Ezra
-- [ ] 16 Nehemiah
-- [ ] 17 Esther
+- [x] 06 Joshua
+- [x] 07 Judges
+- [x] 08 Ruth
+- [x] 09 1 Samuel
+- [x] 10 2 Samuel
+- [x] 11 1 Kings
+- [x] 12 2 Kings
+- [x] 13 1 Chronicles
+- [x] 14 2 Chronicles
+- [x] 15 Ezra
+- [x] 16 Nehemiah
+- [x] 17 Esther
 - [ ] 18 Job
 - [ ] 19 Psalms
 - [ ] 20 Proverbs

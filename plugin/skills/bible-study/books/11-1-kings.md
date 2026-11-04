@@ -16,9 +16,9 @@ status: draft
 
 ## Setting
 
-- **When:** from David's last days to the death of Ahab (about 853 BC). Fixed points (Reformation Study Bible): Solomon reigned about 970–930 BC, and the kingdom divided in 930 BC. Dating each later king is hard, because the two kingdoms may have counted years differently and some reigns overlapped as co-regencies.
+- **When:** from David's last days to the death of Ahab (about 853 BC). Fixed points (Reformation Study Bible): Solomon reigned about 970–930 BC, and the kingdom divided in 930 BC (the Reformation Heritage KJV Study Bible, RH, gives 931 BC). Dating each later king is hard, because the two kingdoms may have counted years differently and some reigns overlapped as co-regencies.
 - **Where:** Jerusalem and its temple; after the split, Judah (capital Jerusalem) and Israel (capitals Shechem, Tirzah, and then Samaria). Elijah's ministry ranges from Carmel to Sinai (Horeb).
-- **Who wrote it:** unknown. Jewish tradition named Jeremiah, but there's no firm evidence. 1 and 2 Kings were one book, completed during the exile, about 550 BC: its last event is 561 BC (2 Kgs 25:27), and it doesn't mention the return in 538 BC. Some think a first edition was written under Josiah. The writer used older sources, naming the "Book of the Acts of Solomon" (11:41) and the chronicles of the kings of Israel and of Judah.
+- **Who wrote it:** unknown. Jewish tradition named Jeremiah, but there's no firm evidence; RH thinks him a fitting candidate, a prophet of Judah who lived into the exile. 1 and 2 Kings were one book, completed during the exile, about 550 BC: its last event is 561 BC (2 Kgs 25:27), and it doesn't mention the return in 538 BC. Some think a first edition was written under Josiah. The writer used older sources, naming the "Book of the Acts of Solomon" (11:41) and the chronicles of the kings of Israel and of Judah.
 - **Where it sits:** the last of the Former Prophets (Joshua to Kings), which share the outlook of Deuteronomy. 1 Kings finishes the story of David's court begun in 2 Samuel; the Greek Bible calls 1 and 2 Kings "3 and 4 Kingdoms". Fullilove calls Kings "selective and theological history": it chooses events to show why the kingdoms fell.
 
 ## Structure
@@ -90,6 +90,7 @@ After the split, the writer moves back and forth between the two kingdoms, telli
 
 ## Themes
 
+- **A defence of God's justice:** Kings explains that the exile wasn't God failing his people but God keeping his word. Deuteronomy made life in the land depend on obedience, and the kings' apostasy brought the promised judgment, while God stayed faithful to his promises (RH).
 - **Covenant faithfulness is the measure of every king:** Kings judges each ruler by Deuteronomy, especially worship at the one place God chose (Deut 12) and the covenant's blessings and curses (Deut 28) (Fullilove).
 - **Like king, like nation:** as a king goes, so the people usually go. Every northern king "walked in the way of Jeroboam"; in Judah, David is the standard (15:3, 11, 26).
 - **One God, one sanctuary:** the Lord alone rules all nations, and he chose one place for worship (Deut 12). The kings' usual sin isn't dropping the Lord altogether, but mixing his worship with other gods at unauthorised high places (RSB).
@@ -102,7 +103,7 @@ After the split, the writer moves back and forth between the two kingdoms, telli
 
 ## How it points to Christ
 
-Solomon's wisdom and glory point beyond him: Jesus says "something greater than Solomon is here" (Matt 12:42). The temple where God's glory dwelt is fulfilled in Jesus, who spoke of his body as the temple (John 2:19–21). He is the true Son of David whose kingdom never divides or falls.
+Solomon's wisdom and glory point beyond him: Jesus says "something greater than Solomon is here" (Matt 12:42). The temple where God's glory dwelt is fulfilled in Jesus, who spoke of his body as the temple (John 2:19–21). He is the true Son of David whose kingdom never divides or falls. Even the failures of David's sons serve this hope: by showing that no ordinary king can save, they sharpen the longing for the one who can (RH).
 
 Elijah's ministry anticipates the gospel. Jesus points to the widow of Zarephath as an outsider God helped (Luke 4:25–26). He raises a widow's son as Elijah did (Luke 7:11–16). Elijah himself appears with Jesus at the transfiguration (Matt 17:3). John the Baptist comes "in the spirit and power of Elijah" (Luke 1:17).
 
@@ -172,6 +173,7 @@ Elijah's ministry anticipates the gospel. Jesus points to the widow of Zarephath
 - William B. Fullilove, "1–2 Kings," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues (author and date, genre, chronology, historical accuracy), Structure and Outline, Message and Theology (the Mosaic covenant, the Davidic covenant, the prophetic word).
 - *The Lutheran Study Bible* (Concordia, 2009), introduction to 1 and 2 Kings. Lutheran source.
 - *The Reformation Study Bible* (Reformation Trust, 2015), introduction to 1 Kings: Title, Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of 1 and 2 Kings, 1 and 2 Kings in the Larger Story of the Bible, Special Issues, Outline.
+- *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to 1 and 2 Kings: Authorship, Date (with tables of the kings), Theme, Purpose, Synopsis, Outline; chapter summaries.
 
 ## Changelog
 

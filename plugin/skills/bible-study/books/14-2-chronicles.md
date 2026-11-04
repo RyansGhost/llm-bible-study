@@ -18,7 +18,7 @@ status: draft
 
 - **When:** from Solomon's accession (about 970 BC) to the fall of Jerusalem (586 BC) and Cyrus' decree (539/538 BC). Written after the return from exile.
 - **Where:** Jerusalem and Judah. The northern kingdom appears mainly when it touches Judah.
-- **Who wrote it:** the same Chronicler as 1 Chronicles, probably between about 515 and 400 BC; Jewish tradition says Ezra (Pratt; Reformation Study Bible). The split into two books was only a later convenience for handling the scrolls.
+- **Who wrote it:** the same Chronicler as 1 Chronicles, probably between about 515 and 400 BC; Jewish tradition says Ezra (Pratt; Reformation Study Bible). The Reformation Heritage KJV Study Bible (RH) thinks Ezra a likely author and dates the work to about 450–425 BC. The split into two books was only a later convenience for handling the scrolls.
 - **Where it sits:** the end of Chronicles, and the end of the Hebrew Bible. It assumes readers know Kings, and focuses on Judah's spiritual health rather than its wars and wealth. Its last verses (36:22–23) are nearly the same as the opening of Ezra (Ezra 1:1–3).
 
 ## Structure
@@ -112,6 +112,7 @@ The Reformation Study Bible's three parts (Pratt divides Chronicles the same way
 - **Blessing and judgment:** the Chronicler often connects a king's faithfulness or unfaithfulness directly with the outcome, as a pointed lesson to his readers (Pratt). But he isn't simplistic: Asa is attacked after his reforms (16), and Sennacherib invades right after Hezekiah's faithfulness (32:1). His aim is to call people to repentance, since the way back to blessing is always open (7:13–14) (RSB).
 - **The heart, not just ritual:** the Chronicler keeps saying that God wants wholehearted devotion, not mere performance (15:12, 15; 16:9; 31:21).
 - **Kings as hopeful pictures:** he presents some kings, such as Abijah, Jotham and Hezekiah, at their best, to stir hope for the ideal king still to come (RSB).
+- **Rest:** seeking God brings "rest", both peace from enemies and the joy of his presence, as under Solomon, Asa and Jehoshaphat (14:6–7; 15:15; 20:30). RH links it to the rest Hebrews says remains for God's people (Heb 4:9).
 - **The temple at the centre:** the kings are judged largely by how they treat God's house and its worship.
 - **All Israel:** Hezekiah invites the north to Passover (30), and the Chronicler welcomes northerners who return to the Lord.
 - **Hope after exile:** the book ends not with destruction but with Cyrus' decree to go up and rebuild (36:22–23).
@@ -186,6 +187,7 @@ Jesus refers to the martyrdom of Zechariah son of Jehoiada (24:20–22) when he 
 - Richard L. Pratt Jr., "1–2 Chronicles," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Structure and Outline, Message and Theology (the people of God, king and temple, blessing and judgment).
 - *The Lutheran Study Bible* (Concordia, 2009), introduction to 1 and 2 Chronicles. Lutheran source.
 - *The Reformation Study Bible* (Reformation Trust, 2015), introduction to 2 Chronicles: Title and Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of 2 Chronicles, 2 Chronicles in the Larger Story of the Bible, Christ in 2 Chronicles, History of Interpretation, Special Issues, Outline.
+- *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to 1 and 2 Chronicles (Synopsis, Outline) and introduction to 2 Chronicles; chapter summaries.
 
 ## Changelog
 

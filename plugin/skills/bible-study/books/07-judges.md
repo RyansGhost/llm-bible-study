@@ -16,9 +16,9 @@ Judges tells of Israel's spiral into idolatry and chaos between Joshua's death a
 
 ## Setting
 
-- **When:** from Joshua's death (mid-fourteenth or late thirteenth century BC, depending on the date of the exodus) to the rise of Samuel in the mid-eleventh century (Reformation Study Bible). Othniel belongs to the generation after Joshua, and Samson lived in Samuel's time. Some judges' terms probably overlapped, so the numbers in the book can't simply be added up (Glodo).
+- **When:** from Joshua's death (mid-fourteenth or late thirteenth century BC, depending on the date of the exodus) to the rise of Samuel in the mid-eleventh century (Reformation Study Bible). Othniel belongs to the generation after Joshua, and Samson lived in Samuel's time. Some judges' terms probably overlapped, so the numbers in the book can't simply be added up (Glodo). The Reformation Heritage KJV Study Bible (RH) puts the whole period at about 350 years, with most oppressions local and overlapping.
 - **Where:** throughout Canaan, especially the central hill country, with oppressors inside and around the land: Canaanites, Moab, Midian, Ammon, Amalek, Aram, and the Philistines.
-- **Who wrote it:** unknown; Jewish tradition credits Samuel. The RSB places it early in David's reign, at Hebron: it favours Judah over Saul's tribe of Benjamin (1:1–2; 20:18), and the Jebusites still hold Jerusalem "to this day" (1:21), which ended when David took the city about 1000 BC. It judges Israel by the standard of Deuteronomy.
+- **Who wrote it:** unknown; Jewish tradition credits Samuel. The RSB places it early in David's reign, at Hebron: it favours Judah over Saul's tribe of Benjamin (1:1–2; 20:18), and the Jebusites still hold Jerusalem "to this day" (1:21), which ended when David took the city about 1000 BC. RH allows a slightly earlier window, between the ark's capture about 1090 BC (if that is "the captivity of the land", 18:30; 1 Sam 4:11) and David's capture of Jerusalem, within Samuel's lifetime. It judges Israel by the standard of Deuteronomy.
 - **Where it sits:** the second of the "Former Prophets", between Joshua's conquest and the monarchy in Samuel. It shows the conquest left unfinished, with Israelites and Canaanites living side by side and Baal worship creeping in. Ruth happens "in the days when the judges ruled".
 
 ## Structure
@@ -84,6 +84,7 @@ The cycle of 2:11–19 (sin, oppression, crying out, a judge, rest) runs seven t
 ## Themes
 
 - **The cycle of sin:** Israel turns away, God hands them over, they cry out, and God raises a judge (2:11–19). Glodo shows each round getting worse: longer oppressions, shorter peace.
+- **Compromise breeds idolatry:** instead of driving out the Canaanites, Israel lets them stay, puts them to work and marries them, and their gods follow (1:27–36; 3:5–6). RH draws the lesson: sin left alive rises again, but God rises to save those who confess it and cry for mercy.
 - **Idolatry as adultery:** Israel keeps going after Baal and Asherah, which the book calls whoring after other gods (2:17; 8:33).
 - **Salvation belongs to the Lord:** the judges "save" Israel, but it is the Lord who saves through them (2:18; 10:11–12). He even uses pagan nations to discipline his people (2:14).
 - **God's patient mercy:** God keeps rescuing a people who keep failing, out of compassion, not because they deserve it (2:18; 10:16).
@@ -165,6 +166,7 @@ Hebrews names Gideon, Barak, Samson and Jephthah among those who "through faith 
 - Michael J. Glodo, "Judges," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues, Structure and Outline, Message and Theology (the prologues, the cycles, each judge).
 - *The Lutheran Study Bible* (Concordia, 2009), introduction to Judges: Overview, Challenges for Readers. Lutheran source.
 - *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Judges: Title, Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of the Book of Judges, Judges in the Larger Story of the Bible, Christ in the Book of Judges, History of Interpretation, Outline.
+- *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to Judges: Authorship, Date, Theme, Purpose, Synopsis, Outline; chapter summaries.
 
 ## Changelog
 
