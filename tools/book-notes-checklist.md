@@ -75,7 +75,7 @@ Shared source chapters (read once, used for several books): Van Pelt's "1–2 Sa
 - [x] 45 Romans
 - [x] 46 1 Corinthians
 - [x] 47 2 Corinthians
-- [ ] 48 Galatians
+- [x] 48 Galatians
 - [ ] 49 Ephesians
 - [ ] 50 Philippians
 - [ ] 51 Colossians
