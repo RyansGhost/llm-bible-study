@@ -12,23 +12,26 @@ status: draft
 
 ## Summary
 
-God keeps his promise to Abraham by bringing Israel into the land under Joshua. He fights for them, judges the Canaanites for their sin, and divides the land among the tribes. The conquest is left incomplete, and the book closes with Israel renewing the covenant and promising to serve the Lord.
+God keeps his promise to Abraham by bringing Israel into the land under Joshua. He fights for them, judges the Canaanites for their sin, and divides the land among the tribes. The book declares that not one of God's promises failed (21:45), yet much land is still to be taken, and keeping it depends on Israel's obedience; the land wasn't fully held until David and Solomon. It closes with Israel renewing the covenant and promising to serve the Lord.
 
 ## Setting
 
-- **When:** right after Moses' death, at the end of the forty years. The Lutheran Study Bible dates the book's events to about 1406–1375 BC. Timmer uses the Amarna letters (mid-14th century BC) to show a Canaan split into feuding city-states under loose Egyptian control.
+- **When:** right after Moses' death, at the end of the forty years. The Reformation Study Bible favours a conquest around 1400 BC, noting that the case for a later date (about 1250 BC) has weakened; the Lutheran Study Bible dates the events to about 1406–1375 BC. Timmer uses the Amarna letters (mid-14th century BC) to show a Canaan split into feuding city-states under loose Egyptian control.
 - **Where:** from the plains of Moab across the Jordan to Gilgal, Jericho and Ai, then the southern and northern campaigns, Shiloh, and finally Shechem.
-- **Who wrote it:** the book doesn't say. Jewish tradition credits Joshua, with later additions such as his death; the Lutheran Study Bible lists "Joshua; an unknown writer". Timmer is cautious about theories that split it into many sources.
-- **Where it sits:** the first of the "Former Prophets" (Joshua to Kings). It carries on directly from Deuteronomy and fulfils God's promise of the land (Gen 15:16–21).
+- **Who wrote it:** unknown. Jewish tradition credits Joshua himself. The RSB thinks someone shaped by Deuteronomy's outlook gave it its final form after Joshua's death but before Saul (about 1050 BC): Jerusalem is not yet taken (15:63), Gezer is not yet Solomon's (16:10), and Sidon is still the leading Phoenician city (11:8). Timmer is cautious about theories that split it into many sources.
+- **Where it sits:** the first of the "Former Prophets" (Joshua to Kings). It carries on directly from Deuteronomy and fulfils God's promise of the land (Gen 15:16–21). Joshua came from Ephraim, the tribe that led Israel from Joseph's time to Samuel's.
 
 ## Structure
 
-Timmer, following Koorevaar, traces four sections, each marked by a key verb:
+Two halves: overcoming the land's kings (1–12, ending with a list of thirty-one defeated kings) and dividing the land among the tribes (13–21). The Reformation Study Bible's outline:
 
-- 1–5: **Cross:** preparing for entry and crossing the Jordan
-- 6–12: **Take:** Jericho, Ai, Gibeon, and the southern and northern campaigns
-- 13–21: **Divide:** allotting the land among the tribes
-- 22–24: **Serve:** keeping the land by keeping the covenant
+- 1: Prologue: God's promise and charge to Joshua
+- 2:1–5:12: Entering the land: Rahab and the spies, crossing the Jordan, circumcision and Passover at Gilgal
+- 5:13–12:24: Taking the land: the commander of the Lord's army, Jericho, Achan and Ai, Gibeon, the southern and northern campaigns
+- 13–21: Allotting the land: Judah first (14–15), then Joseph's tribes (16–17), then the rest by lot at Shiloh (18–19), cities of refuge and Levite towns (20–21)
+- 22–24: Epilogue: the eastern tribes' altar, Joshua's farewell, and the covenant renewed at Shechem
+
+Timmer, following Koorevaar, marks the same sections with four verbs: cross, take, divide, serve.
 
 ## Chapter by chapter
 
@@ -59,13 +62,14 @@ Timmer, following Koorevaar, traces four sections, each marked by a key verb:
 
 ## Key people
 
-- **Joshua:** Moses' successor and one of the two faithful spies. Told again and again to be strong and courageous, he leads Israel into the land.
+- **Joshua:** from the tribe of Ephraim, Moses' successor and one of the two faithful spies. Told again and again to be strong and courageous, he leads Israel into the land.
 - **Rahab:** a Canaanite prostitute in Jericho who hides the spies and is saved by faith (Heb 11:31). She is in Jesus' genealogy (Matt 1:5).
 - **Achan:** an Israelite who steals devoted things from Jericho and brings defeat at Ai.
 - **Caleb:** the other faithful spy, who claims Hebron at 85.
 - **The Gibeonites:** Canaanites who trick Israel into a treaty and are spared as woodcutters and water carriers.
 - **Eleazar:** the high priest, who shares in dividing the land.
 - **Phinehas:** the priest who confronts the eastern tribes over their altar (22).
+- **The commander of the Lord's army:** who meets Joshua near Jericho and receives his worship (5:13–15). The RSB sees a pre-incarnate appearance of Christ.
 - **Adoni-zedek:** king of Jerusalem, leader of the southern coalition (10).
 
 ## Key events
@@ -73,7 +77,7 @@ Timmer, following Koorevaar, traces four sections, each marked by a key verb:
 - God commissions Joshua: "Be strong and courageous" (1)
 - Rahab hides the spies; the scarlet cord (2)
 - Crossing the Jordan on dry ground (3–4)
-- Circumcision and Passover at Gilgal (5)
+- Circumcision and Passover at Gilgal; Joshua meets the commander of the Lord's army (5)
 - The walls of Jericho fall (6)
 - Achan's sin and the defeat at Ai (7); Ai taken (8)
 - The Gibeonite treaty (9)
@@ -87,11 +91,12 @@ Timmer, following Koorevaar, traces four sections, each marked by a key verb:
 
 - **God keeps his promises:** the land is the Lord's gift to Abraham's descendants. Timmer prefers "giving" to "taking", because the book insists every victory is God's doing (21:43–45; 24:12–13).
 - **God fights for his people:** "the Lord fought for Israel" (10:14). Jericho falls to marching and trumpets, not siege engines.
-- **Faith versus unbelief:** Rahab, the Canaanite, believes and is saved; Achan, the Israelite, disobeys and dies.
-- **Judgment on sin:** the conquest is God's judgment on the long-standing sin of the Canaanites (Gen 15:16). Timmer notes its language echoes the flood: "all that breathed" perished (10:40; Gen 7:22).
+- **Faith versus unbelief:** Rahab, the Canaanite, believes and is saved, and so are the Gibeonites; Achan, of Judah, disobeys and dies. Faith, not birth, decides who belongs to God's people (RSB).
+- **Judgment on sin:** the conquest is God's judgment on the long-standing sin of the Canaanites (Gen 15:16). Timmer notes its language echoes the flood: "all that breathed" perished (10:40; Gen 7:22). It isn't ethnic: God judges Israel's sin just as severely (Lev 18:24–28; Num 25:9).
 - **Rest:** God gives Israel rest from their enemies (21:44; 23:1). In Joshua this is rest from war, the setting for an obedient life, not yet the final rest (Heb 4:8).
 - **Obedience to God's word:** success depends on meditating on and keeping the law (1:7–8; 23:6).
 - **Keep your word, even at a cost:** Israel honours its oath to the Gibeonites despite the deception (9:19–20; compare 2 Sam 21 and Ps 15:4). This is our application, grounded in those texts.
+- **Judah leads:** Judah's allotment comes first and in the most detail, and Judah takes its land most fully, while Ephraim holds back (17:14–18). This points ahead to David's line (RSB).
 - **Seek God before deciding:** the Gibeonite treaty went wrong because Israel "did not ask counsel from the Lord" (9:14).
 
 ## How it points to Christ
@@ -144,8 +149,9 @@ Rahab, saved by faith and marked by a scarlet cord, appears in Jesus' genealogy 
 - *The Lutheran Study Bible* (Concordia, 2009), introduction to Joshua: Overview, Luther on Joshua, Challenges for Readers. Lutheran source.
 - Ligonier devotional on Joshua's courage: <https://learn.ligonier.org/devotionals/joshua-18>
 - Matthew Henry, *Commentary on the Whole Bible*, on Joshua 9 (the oath to the Gibeonites).
-- Reformation Study Bible, introduction to Joshua, p. ___ (to verify)
+- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Joshua: Title, Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of Joshua, Joshua in the Larger Story of the Bible, Christ in Joshua, History of Interpretation, Special Issues, Outline. Print pages to verify.
 
 ## Changelog
 
 1. 2026-11-04: Generated initial notes with Claude Code
+2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code

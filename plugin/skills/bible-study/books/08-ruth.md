@@ -16,14 +16,14 @@ Ruth is a short, true story from the days of the judges in which God turns a fam
 
 ## Setting
 
-- **When:** "in the days when the judges ruled" (1:1), a time of famine and moral chaos, when everyone did what was right in their own eyes (Judg 21:25).
+- **When:** "in the days when the judges ruled" (1:1), a time of moral chaos, when everyone did what was right in their own eyes (Judg 21:25). The famine itself may signal God's displeasure with an unfaithful Israel (Lev 26:18–20) (Reformation Study Bible).
 - **Where:** Bethlehem in Judah, whose name means "house of bread", and the plains of Moab east of the Dead Sea.
-- **Who wrote it:** unknown. Jewish tradition (the Talmud) credits Samuel. Most evangelical scholars date it to David's reign or later, because the closing genealogy names David. Yeo argues Samuel is still plausible, since the genealogy stops at David and never mentions Solomon. The Lutheran Study Bible dates it around 1000 BC.
+- **Who wrote it:** unknown. Jewish tradition (the Talmud) credits Samuel; many have suggested Solomon. It can't be earlier than David (about 1010–970 BC), because the closing genealogy names him, and the RSB dates it to his reign or later. Yeo argues Samuel is still plausible, since the genealogy stops at David and never mentions Solomon. The Lutheran Study Bible dates it around 1000 BC.
 - **Where it sits:** English Bibles follow the Greek Old Testament and put Ruth straight after Judges. Hebrew Bibles place it among the Writings, as the first of the five festival scrolls.
 
 ## Structure
 
-Four acts, one per chapter, with a short prologue and epilogue (Yeo; the Lutheran Study Bible's outline is the same):
+Four acts, one per chapter, with a short prologue and epilogue (Yeo; the Lutheran Study Bible's outline is the same). The Reformation Study Bible frames it as Naomi emptied (1) and Naomi filled (4:13–22). The verb "return" comes twelve times in 1:6–22, hinting at a return to the Lord as well as to the land.
 
 - 1:1–5: Prologue: famine, the move to Moab, three deaths
 - 1:6–22: Act 1: Naomi comes home empty, with Ruth
@@ -66,9 +66,11 @@ Four acts, one per chapter, with a short prologue and epilogue (Yeo; the Luthera
 
 - **God's hidden providence:** there are no miracles, yet God steers every "chance": the field Ruth happens upon (2:3), the relative who walks by just as Boaz sits down (4:1), and the son the Lord gives (4:13).
 - **Covenant kindness (*hesed*):** loyal, self-giving love, shown by Ruth to Naomi and by Boaz to both women, and behind them by the Lord (1:8; 2:20; 3:10).
-- **Empty to full:** famine becomes harvest, and three deaths give way to a birth (1:1, 6, 21; 4:15).
+- **Empty to full:** famine becomes harvest, and three deaths give way to a birth (1:1, 6, 21; 4:15). The story is as much Naomi's as Ruth's.
+- **The cost of disobedience:** Elimelech's family leaves the promised land for Moab, and the sons marry outside God's people; poverty, death and widowhood follow (RSB).
+- **Faith lived out:** Ruth and Boaz show their faith in integrity, hard work and honour.
 - **Redemption by a relative:** the laws on buying back family land (Lev 25:25) and on raising an heir for a dead brother (Deut 25:5–10) come together in Boaz's willing, costly act.
-- **God welcomes outsiders who trust him:** a Moabite comes to take refuge under the wings of the God of Israel (2:12). Luther notes that God has always gathered his church from among the nations, and that Ruth and Rahab both appear in Christ's genealogy (Lutheran Study Bible, "Luther on Ruth").
+- **God welcomes outsiders who trust him:** God chooses Ruth the Moabite, a picture of Gentiles grafted into his people (RSB). A Moabite comes to take refuge under the wings of the God of Israel (2:12). Luther notes that God has always gathered his church from among the nations, and that Ruth and Rahab both appear in Christ's genealogy (Lutheran Study Bible, "Luther on Ruth").
 - **Kingship:** the book opens with "My God is King" and closes with King David. It is God's answer to the chaos of a time with "no king in Israel" (Yeo).
 
 ## How it points to Christ
@@ -109,8 +111,9 @@ Ruth and Boaz are named in Jesus' genealogy (Matt 1:5). Their great-grandson's t
 
 - John J. Yeo, "Ruth," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues, Structure and Outline, Message and Theology, Approaching the New Testament. Print pages to verify.
 - *The Lutheran Study Bible* (Concordia, 2009), introduction to Ruth: Overview, Luther on Ruth, Challenges for Readers, Outline. Lutheran source.
-- Reformation Study Bible, introduction to Ruth, p. ___ (to verify)
+- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Ruth: Title and Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Ruth in the Larger Story of the Bible, Christ in the Book of Ruth, Outline. Print pages to verify.
 
 ## Changelog
 
 1. 2026-11-04: Generated initial notes with Claude Code
+2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code

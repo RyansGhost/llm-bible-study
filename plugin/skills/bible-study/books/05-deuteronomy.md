@@ -12,26 +12,26 @@ status: draft
 
 ## Summary
 
-Deuteronomy is Moses' farewell: a series of sermons to the new generation on the plains of Moab, renewing God's covenant before they enter the land. Moses retells their history, restates and explains the law, and sets before them life and death, blessing and curse. He urges them to love the Lord with all their heart, and then he dies within sight of the promised land.
+Deuteronomy is Moses' farewell: sermons to the new generation on the plains of Moab, renewing God's covenant before they enter the land. Its name comes from the Greek for "second law", because Moses repeats and explains the law given at Sinai. He retells their history, sets before them life and death, blessing and curse, and urges them to love the Lord with all their heart, while warning that they will fail. Then he dies within sight of the promised land. The New Testament quotes it more than fifty times; only Psalms and Isaiah are quoted more.
 
 ## Setting
 
-- **When:** the last weeks of Moses' life, in the fortieth year after the exodus (1:3).
+- **When:** the last weeks of Moses' life, in the fortieth year after the exodus (1:3), about 1406 BC (Reformation Study Bible).
 - **Where:** the plains of Moab, east of the Jordan opposite Jericho. The book ends on Mount Nebo.
-- **Who wrote it:** Moses gave the speeches (1:1; 31:9, 24). Redd notes that many conservative scholars speak of "essential Mosaic authorship", allowing that an inspired narrator gathered the speeches and recorded Moses' death (34). Critical scholars often date it to the 7th century BC.
-- **Where it sits:** the last book of Moses. Redd calls it the theological core of the Old Testament: it sums up Genesis to Numbers, and its covenant standards are the measure by which Joshua to Kings and the prophets judge Israel.
+- **Who wrote it:** Moses (1:1, 5; 31:9, 22, 24), apart from the account of his death (34), which another hand, perhaps Joshua, added. Critical scholars often date it to King Josiah's reform (about 620 BC). The RSB answers that the book knows nothing of later times: no king or Jerusalem, Israel still one nation of twelve tribes, only the cities of refuge east of the Jordan named, and no Babylonian or Persian words. Redd likewise speaks of "essential Mosaic authorship".
+- **Where it sits:** the last book of Moses, between Numbers and Joshua. Redd calls it the theological core of the Old Testament: it sums up Genesis to Numbers, and its covenant standards are the measure by which Joshua to Kings and the prophets judge Israel.
 
 ## Structure
 
-Deuteronomy follows the shape of an ancient treaty between a great king and his people (Redd, after Kline and others):
+Most of the book is two long speeches by Moses, followed by shorter speeches and narrative (Reformation Study Bible). The whole also follows the shape of an ancient treaty between a great king and his people (Redd, after Kline): preamble, history, stipulations, blessings and curses, and arrangements for the future.
 
-- 1:1–4:43: Historical prologue: what the Lord has done from Horeb to Moab
-- 4:44–26:19: Stipulations
-    - 4:44–5:33: the Ten Commandments
-    - 6–26: the commandments explained and applied, in roughly the order of the Ten Commandments
-- 27–28: Blessings and curses
-- 29–30: Covenant renewal: choose life
-- 31–34: Succession and farewell: Joshua commissioned, the law stored and to be read, the Song of Moses, Moses' blessing, Moses' death
+- 1:1–5: Introduction
+- 1:6–4:43: Moses' first speech: the Lord's faithfulness from Horeb to Moab, and a call to loyalty; then the cities of refuge east of the Jordan (4:41–43)
+- 4:44–26:19: Moses' second speech
+    - 5–11: the Ten Commandments, the Shema, and appeals to love and obey
+    - 12–26: the laws explained and applied: worship, judges, kings, priests, prophets, and daily life, in roughly the order of the Ten Commandments
+- 27–30: The covenant renewed: the ceremony at Mount Ebal and Mount Gerizim, blessings and curses, "choose life"
+- 31–34: The end of Moses' ministry: Joshua commissioned, the Song of Moses, Moses' blessing of the tribes, and his death
 
 ## Chapter by chapter
 
@@ -85,7 +85,7 @@ Deuteronomy follows the shape of an ancient treaty between a great king and his 
 - The Shema (6:4–9)
 - The law of the king (17:14–20)
 - The promise of a prophet like Moses (18:15–18)
-- Blessings and curses (27–28)
+- The ceremony on Mount Ebal and Mount Gerizim commanded; blessings and curses (27–28)
 - The covenant renewed, and the call to choose life (29–30)
 - Joshua commissioned; the law written and stored (31)
 - The Song of Moses (32), and Moses' blessing of the tribes (33)
@@ -98,7 +98,8 @@ Deuteronomy follows the shape of an ancient treaty between a great king and his 
 - **Remember and don't forget:** past grace drives present obedience. Israel's greatest danger is forgetting God in prosperity (6:12; 8:11–18).
 - **Grace before law:** God chose Israel out of love, not merit (7:7–8; 9:4–6). Obedience is the response.
 - **One place of worship:** God will choose a place for his name, setting up the later temple in Jerusalem (12).
-- **Blessing and curse:** obedience brings life in the land and disobedience brings exile. This framework explains the history that follows (28–30).
+- **Blessing and curse:** obedience brings life in the land and disobedience brings exile. This framework explains the history that follows, and the prophets call Israel back to it (28–30).
+- **Failure foreseen:** the book ends expecting Israel to break the covenant (31:16–29; 32). Their failure shows the limits of the old covenant and the need for a new one (RSB).
 - **The heart:** the law must be on the heart, and God promises to circumcise hearts himself (6:6; 10:16; 30:6).
 - **Justice and care for the weak:** widows, orphans, foreigners, the poor and the Levites are protected throughout (10:18–19; 24:17–22).
 
@@ -142,8 +143,9 @@ Peter identifies Jesus as the prophet like Moses (18:15; Acts 3:22–23). Paul r
 
 - John Scott Redd, "Deuteronomy," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues (title, authorship, date and setting, audience), Structure and Outline, Message and Theology. Print pages to verify.
 - *The Lutheran Study Bible* (Concordia, 2009), introduction to Deuteronomy. Lutheran source.
-- Reformation Study Bible, introduction to Deuteronomy, p. ___ (to verify)
+- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Deuteronomy: Title, Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of Deuteronomy, Deuteronomy in the Larger Story of the Bible, Christ in Deuteronomy, History of Interpretation, Outline. Print pages to verify.
 
 ## Changelog
 
 1. 2026-11-04: Generated initial notes with Claude Code
+2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code

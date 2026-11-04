@@ -12,22 +12,24 @@ status: draft
 
 ## Summary
 
-Judges tells of Israel's spiral into idolatry and chaos between Joshua's death and the rise of the kings. Again and again Israel turns to other gods, God hands them over to oppressors, they cry out, and God mercifully raises up a deliverer. Each round goes worse than the last, and the book ends in moral collapse: "there was no king in Israel. Everyone did what was right in his own eyes" (21:25).
+Judges tells of Israel's spiral into idolatry and chaos between Joshua's death and the rise of the kings. A "judge" here is a deliverer in war, an administrator of justice, and meant to be a model of covenant faithfulness. Again and again Israel turns to other gods, God hands them over to oppressors, they cry out, and God mercifully raises up a deliverer. Each round goes worse than the last, and the book ends in moral collapse: "there was no king in Israel. Everyone did what was right in his own eyes" (21:25).
 
 ## Setting
 
-- **When:** from Joshua's death to just before Samuel, roughly 1375–1100 BC on the traditional dating (Glodo). Some judges' terms probably overlapped, so the numbers in the book can't simply be added up.
-- **Where:** throughout Canaan, especially the central hill country, with local oppressors on every side: Moab, Canaanite Hazor, Midian, Ammon, and the Philistines.
-- **Who wrote it:** unknown. The Lutheran Study Bible dates it to about 1000 BC. The refrain "there was no king" suggests it was written once kingship had begun, and Jewish tradition credits Samuel.
-- **Where it sits:** the second of the "Former Prophets", between Joshua's conquest and the monarchy in Samuel. Ruth happens "in the days when the judges ruled".
+- **When:** from Joshua's death (mid-fourteenth or late thirteenth century BC, depending on the date of the exodus) to the rise of Samuel in the mid-eleventh century (Reformation Study Bible). Othniel belongs to the generation after Joshua, and Samson lived in Samuel's time. Some judges' terms probably overlapped, so the numbers in the book can't simply be added up (Glodo).
+- **Where:** throughout Canaan, especially the central hill country, with oppressors inside and around the land: Canaanites, Moab, Midian, Ammon, Amalek, Aram, and the Philistines.
+- **Who wrote it:** unknown; Jewish tradition credits Samuel. The RSB places it early in David's reign, at Hebron: it favours Judah over Saul's tribe of Benjamin (1:1–2; 20:18), and the Jebusites still hold Jerusalem "to this day" (1:21), which ended when David took the city about 1000 BC. It judges Israel by the standard of Deuteronomy.
+- **Where it sits:** the second of the "Former Prophets", between Joshua's conquest and the monarchy in Samuel. It shows the conquest left unfinished, with Israelites and Canaanites living side by side and Baal worship creeping in. Ruth happens "in the days when the judges ruled".
 
 ## Structure
 
-Two prologues, the stories of twelve judges, and a two-part epilogue (Glodo, following Davis):
+The Reformation Study Bible traces three parts, with the opening and closing sections mirroring each other:
 
-- 1:1–3:6: Prologues: the conquest stalls (Israel's view, 1:1–2:5), and why (God's view, 2:6–3:6)
-- 3:7–16:31: The judges: six major judges (Othniel, Ehud, Deborah and Barak, Gideon, Jephthah, Samson), six minor judges, and one "anti-judge" (Abimelech)
-- 17–21: Epilogue: Micah's idol and the Danites (17–18); the Levite's concubine and the civil war against Benjamin (19–21)
+- 1:1–3:6: The roots of apostasy: failure in war against foreign nations (1:1–2:5) and failure through foreign gods (2:6–3:6)
+- 3:7–16:31: The downward spiral: the stories of the judges (Othniel, Ehud, Deborah and Barak, Gideon, Abimelech, Jephthah, Samson, and the minor judges). They are arranged around Gideon at the centre, with pairs that contrast: godly Othniel and his Israelite wife against Samson chasing foreign women
+- 17–21: The results of apostasy: idolatry at home (Micah's idol and the Danites, 17–18) and war at home (the Levite's concubine and the war against Benjamin, 19–21)
+
+The cycle of 2:11–19 (sin, oppression, crying out, a judge, rest) runs seven times. It breaks down as it goes: Deborah summons Barak, Gideon's generation gets a prophet first, Gilead's elders hire Jephthah, and in Samson's day there is no cry and no rest.
 
 ## Chapter by chapter
 
@@ -82,7 +84,9 @@ Two prologues, the stories of twelve judges, and a two-part epilogue (Glodo, fol
 ## Themes
 
 - **The cycle of sin:** Israel turns away, God hands them over, they cry out, and God raises a judge (2:11–19). Glodo shows each round getting worse: longer oppressions, shorter peace.
-- **God's patient mercy:** God keeps rescuing a people who keep failing (2:18; 10:16).
+- **Idolatry as adultery:** Israel keeps going after Baal and Asherah, which the book calls whoring after other gods (2:17; 8:33).
+- **Salvation belongs to the Lord:** the judges "save" Israel, but it is the Lord who saves through them (2:18; 10:11–12). He even uses pagan nations to discipline his people (2:14).
+- **God's patient mercy:** God keeps rescuing a people who keep failing, out of compassion, not because they deserve it (2:18; 10:16).
 - **Flawed deliverers:** the judges grow more compromised, from Othniel to Gideon's ephod, Jephthah's vow and Samson's appetites. God works through weak and unlikely instruments.
 - **The Spirit of the Lord:** God's Spirit empowers the judges for victory (3:10; 6:34; 11:29; 14:6).
 - **Covenant amnesia:** a generation "did not know the Lord" (2:10). Failing to teach the next generation brings disaster (Deut 6:6–9).
@@ -131,8 +135,9 @@ Hebrews names Gideon, Barak, Samson and Jephthah among those who "through faith 
 
 - Michael J. Glodo, "Judges," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues, Structure and Outline, Message and Theology (the prologues, the cycles, each judge). Print pages to verify.
 - *The Lutheran Study Bible* (Concordia, 2009), introduction to Judges: Overview, Challenges for Readers. Lutheran source.
-- Reformation Study Bible, introduction to Judges, p. ___ (to verify)
+- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Judges: Title, Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of the Book of Judges, Judges in the Larger Story of the Bible, Christ in the Book of Judges, History of Interpretation, Outline. Print pages to verify.
 
 ## Changelog
 
 1. 2026-11-04: Generated initial notes with Claude Code
+2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code

@@ -8,10 +8,10 @@ The EPUB is indexed with `tools/epub_index.py` (work `bible-reformation-study-bi
 - [x] 02 Exodus
 - [x] 03 Leviticus
 - [x] 04 Numbers
-- [ ] 05 Deuteronomy
-- [ ] 06 Joshua
-- [ ] 07 Judges
-- [ ] 08 Ruth
+- [x] 05 Deuteronomy
+- [x] 06 Joshua
+- [x] 07 Judges
+- [x] 08 Ruth
 - [ ] 09 1 Samuel
 - [ ] 10 2 Samuel
 - [ ] 11 1 Kings
