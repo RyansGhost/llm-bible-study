@@ -12,23 +12,27 @@ status: draft
 
 ## Summary
 
-The Song of Solomon (also called the Song of Songs, "the greatest song") is a collection of love poetry celebrating the love between a woman and her beloved. In vivid images of gardens, vineyards and spices, it portrays desire, longing, separation and reunion, and it insists on love's commitment and power: "love is strong as death … many waters cannot quench love" (8:6–7). As wisdom literature, it teaches God's people how to think about love and marriage in God's world.
+The Song of Solomon (in Hebrew, the Song of Songs, "the very best song") is a collection of love poetry celebrating the love between a woman and her beloved. In vivid images of gardens, vineyards and spices, it portrays delight, longing, loss and reunion, and it insists on love's commitment and power: "love is strong as death … many waters cannot quench love" (8:6–7). It shows married love and desire as God's good gifts, redeemed from the shame the fall brought, and, like all marriage in Scripture, it offers a glimpse of the love between Christ and his church.
 
 ## Setting
 
-- **When:** traditionally Solomon's reign (about 970–930 BC). Van Pelt notes two options: Solomon wrote it in the 10th century BC, or an unknown author wrote it between the 10th and 5th centuries BC.
+- **When:** traditionally Solomon's reign (about 970–930 BC). Van Pelt notes two options: Solomon wrote it in the 10th century BC, or an unknown author wrote it between the 10th and 5th centuries BC. The mention of Tirzah (6:4) has been taken as a sign of an early date, but it may simply be used for its meaning, "pleasant" (Reformation Study Bible).
 - **Where:** Jerusalem and the countryside of Israel: vineyards, gardens, Lebanon, Engedi, Sharon.
-- **Who wrote it:** the heading reads "The Song of Songs, which is Solomon's" (1:1). That can mean written by, for, or about Solomon.
-- **Where it sits:** among the Writings and the wisdom books (Van Pelt). In Jewish tradition it is the first of the five festival scrolls, read at Passover.
+- **Who wrote it:** the heading reads "The Song of Songs, which is Solomon's" (1:1). That can mean written by, dedicated to, or associated with Solomon, who composed over a thousand songs (1 Kgs 4:32). Jewish and Christian tradition holds Solomon wrote it.
+- **Where it sits:** among the Writings and the wisdom books (Van Pelt). In Jewish tradition it is the first of the five festival scrolls, read at Passover. It has no narrow occasion or audience: it speaks to every time.
 
 ## Structure
 
-Interpreters range from seeing many loosely connected poems to one unified drama. Van Pelt finds four main sections. Each ends with the woman putting the "daughters of Jerusalem" under oath not to stir up love before its time (2:7; 3:5; 8:4), and each new section begins with someone arriving (2:8; 3:6; 8:5):
+Interpreters range from seeing loosely connected poems to one unified drama. The Reformation Study Bible reads it as a moderately structured anthology with some movement, but not a full plot. The refrain "I adjure you, O daughters of Jerusalem" (2:7; 3:5; 5:8; 8:4) marks the sections, as "these are the generations" does in Genesis:
 
-- 1:1–2:7: Opening longing; temptation from Solomon's court
-- 2:8–3:5: The beloved comes; springtime invitation; night search
-- 3:6–8:4: Solomon's procession, praise poems, separation and search, and longing
-- 8:5–14: The woman arrives with her beloved; the climax on love's strength (8:6–7); the vineyard
+- 1:1: Title
+- 1:2–2:7: The woman's desire for her beloved
+- 2:8–3:5: Her beloved comes to her
+- 3:6–5:8: She loses her beloved
+- 5:9–8:4: The lovers are reunited
+- 8:5–14: Conclusion: love's strength (8:6–7) and the closing longing
+
+Van Pelt finds four sections with the same refrain, each new one starting with someone arriving (2:8; 3:6; 8:5).
 
 ## Chapter by chapter
 
@@ -45,7 +49,7 @@ Interpreters range from seeing many loosely connected poems to one unified drama
 
 - **The woman (the Shulammite, 6:13):** the main voice of the Song, who speaks most of its lines.
 - **The beloved:** her lover, often pictured as a shepherd (1:7; 2:16).
-- **Solomon:** named several times (1:1, 5; 3:7–11; 8:11–12). In the traditional reading he is the beloved himself. In Van Pelt's reading he is a rival who tries to win her into his harem, and whom she rejects.
+- **Solomon:** named several times (1:1, 5; 3:7–11; 8:11–12). In the traditional reading he is the beloved himself. In Van Pelt's reading he is a rival who tries to win her into his harem, and whom she rejects. The RSB warns that such drama readings can't agree on the characters or plot.
 - **The daughters of Jerusalem:** a group the woman speaks to and warns (2:7; 3:5; 5:8; 8:4).
 - **Her brothers:** who once set her to work in the vineyards (1:6; 8:8–9).
 
@@ -62,12 +66,14 @@ The Song is poetry, not a straightforward story, but it includes:
 
 ## Themes
 
-- **The goodness of married love:** God made human love and desire, and they are good in their proper place (Gen 2:23–25). The Song celebrates them without embarrassment.
+- **The goodness of married love:** God made human love and desire, and they are good within marriage (Gen 2:23–25). The Song celebrates them without embarrassment, against the old Greek idea that the body is bad. Its garden imagery recalls Eden, where the man and woman were naked and unashamed (4:12–5:1).
+- **Delight, disappointment, desire:** the lovers delight in each other (1:15–16), love brings risk and loss in a fallen world (5:6), and desire outlasts the disappointment (8:6–7, 14) (RSB).
 - **Love's commitment and power:** Van Pelt finds the book's message in 8:6–10: love in God's design for marriage is both steadfast and passionate. It endures hardship, resists temptation and brings wholeness.
 - **Don't awaken love too soon:** the repeated oath (2:7; 3:5; 8:4) urges patience and restraint until the right time.
 - **Exclusive belonging:** "My beloved is mine, and I am his" (2:16; 6:3; 7:10).
 - **Love can't be bought:** wealth can't purchase true love (8:7), and the woman refuses Solomon's vineyard for her own (8:11–12).
 - **Wisdom for life:** Van Pelt reads the Song as wisdom teaching, showing how to make good decisions about love in God's world.
+- **Allegory or love poetry?** For most of history Jews and Christians, including many Reformers and Puritans, read the Song as an allegory of God (or Christ) and his people. Most interpreters now read it first as love poetry. The RSB holds both together: it is about human love, and because Scripture uses marriage to picture God and his people (Hos 1–3; Eph 5:25–32), it is also a window on Christ's love for his church.
 
 ## How it points to Christ
 
@@ -113,8 +119,9 @@ Much of the church's history, including many Puritans, read the Song directly as
 ## Sources
 
 - Miles V. Van Pelt, "Song of Songs," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues (authorship and date, genre, proposed setting), Structure and Outline, Message and Theology (interpretation, message, a summary of the Song's content). Print pages to verify.
-- Reformation Study Bible, introduction to Song of Solomon, p. ___ (to verify)
+- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Song of Solomon: Title, Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of the Song of Solomon, The Song of Solomon in the Larger Story of the Bible, Christ in the Song of Solomon, History of Interpretation, Outline. Print pages to verify.
 
 ## Changelog
 
 1. 2026-11-04: Generated initial notes with Claude Code
+2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code

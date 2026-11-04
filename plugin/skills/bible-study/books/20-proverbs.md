@@ -16,20 +16,26 @@ Proverbs is a book of practical wisdom for living well in God's world. It opens 
 
 ## Setting
 
-- **When:** mostly from Solomon's time (10th century BC). Hezekiah's officials gathered a further collection around 700 BC (25:1), and the book was finished later (VanGemeren; Lutheran Study Bible).
+- **When:** the earliest sayings come from Solomon's time (10th century BC). Hezekiah's officials gathered a further collection around 700 BC (25:1), so the book was finished no earlier than Hezekiah (715–686 BC) and possibly as late as Ezra's time, about 400 BC (Reformation Study Bible; VanGemeren).
 - **Where:** the royal court in Jerusalem, and the life of Israelite families: the home, the city gate, the marketplace.
-- **Who wrote it:** chiefly Solomon (1:1; 10:1; 25:1), with sayings from "the wise" (22:17; 24:23), Agur (30) and King Lemuel's mother (31). VanGemeren notes that the other named contributors show Solomon didn't write it all.
-- **Where it sits:** the central wisdom book of the Old Testament, alongside Job and Ecclesiastes, which wrestle with the hard cases Proverbs doesn't cover.
+- **Who wrote it:** chiefly Solomon (1:1; 10:1; 25:1; compare 1 Kgs 4:29–34), with sayings from "the wise" (22:17–24:22; 24:23–34), Agur (30) and King Lemuel, taught by his mother (31:1–9); the poem of the excellent wife (31:10–31) is anonymous. "The proverbs of Solomon" (1:1) marks his central place in Israel's wisdom, not authorship of every line. Even so, the prologue (1:1–7) shows this is a planned book, not a random collection.
+- **Where it sits:** the central wisdom book of the Old Testament, alongside Job and Ecclesiastes, which wrestle with the hard cases Proverbs doesn't cover. In the Hebrew Bible it is among the Writings, which teach God's people how to live out the covenant that the Law sets out. Similar wisdom collections existed in Egypt and Mesopotamia.
 
 ## Structure
 
-- 1:1–7: Title and purpose: "the fear of the Lord is the beginning of knowledge"
-- 1:8–9:18: A father's speeches to his son, and the poems of Lady Wisdom
-- 10:1–22:16: The proverbs of Solomon: hundreds of two-line sayings
-- 22:17–24:34: The words of the wise, including "thirty sayings" (22:20)
-- 25–29: More proverbs of Solomon, collected by Hezekiah's men
-- 30: The words of Agur
-- 31: The words of King Lemuel, and the poem of the excellent wife (31:10–31)
+The Reformation Study Bible's outline:
+
+- 1:1–7: Prologue: the beginning of wisdom, "the fear of the Lord is the beginning of knowledge"
+- 1:8–9:18: The call to wisdom: a father's speeches to his son, setting two ways before him, pictured as Woman Wisdom and Woman Folly. Choosing Wisdom is choosing the living God over idols.
+- 10:1–31:9: The life of wisdom, in several collections:
+    - 10:1–22:16: the proverbs of Solomon: hundreds of two-line sayings
+    - 22:17–24:34: the words of the wise, including "thirty sayings" (22:20)
+    - 25–29: more proverbs of Solomon, collected by Hezekiah's men
+    - 30: the words of Agur
+    - 31:1–9: the words of King Lemuel
+- 31:10–31: Epilogue: the beauty of wisdom, in the alphabetic poem of the excellent wife
+
+Its forms include longer "my son" instructions (1–9), two-line sayings that contrast or extend an idea (10–29), numerical sayings (6:16–19; 30), and alphabetic poems (2; 31:10–31).
 
 ## Chapter by chapter
 
@@ -74,7 +80,7 @@ Proverbs is a book of practical wisdom for living well in God's world. It opens 
 - **Folly / the adulteress:** the rival voice luring the simple to death (5; 7; 9).
 - **Hezekiah's men:** officials who copied out Solomon's proverbs (25:1).
 - **Agur, son of Jakeh:** author of chapter 30.
-- **King Lemuel:** a king taught by his mother (31).
+- **King Lemuel:** a king taught by his mother (31:1–9).
 - **The excellent wife:** the woman of strength and fear of the Lord in 31:10–31.
 
 ## Key events
@@ -89,12 +95,14 @@ Proverbs isn't a narrative. Its few "scenes":
 
 ## Themes
 
-- **The fear of the Lord:** reverent trust in God is the foundation of wisdom (1:7; 9:10; 15:33; 31:30).
+- **The fear of the Lord:** reverent trust in God is the foundation of wisdom (1:7; 9:10; 15:33; 31:30). Wisdom is the skill of living well by the order God built into his world (RSB).
+- **God behind the sayings:** the covenant name, the LORD, appears 87 times. He is the Creator (3:19–20; 8:22–31), in control (16:33), just (11:1), knowable (2:5–6), and near to those who pray (15:29).
 - **Two ways:** wisdom and righteousness lead to life; folly and wickedness lead to death (4:18–19; 14:12).
 - **Speech:** the tongue can heal or wound, give life or bring ruin (10:19; 12:18; 15:1; 18:21).
 - **Work and money:** diligence, honesty, generosity and contentment against laziness, greed and debt (6:6–11; 11:24–25; 30:8–9).
 - **Family and friendship:** faithful marriage, training children, loyal friends (5; 17:17; 22:6; 27:6).
 - **God's sovereignty and human plans:** we plan, but the Lord directs (16:1, 9, 33; 19:21; 21:1).
+- **Wisdom as a response to grace:** the proverbs aren't rules for earning God's favour but the way his redeemed people live (RSB).
 - **Three dimensions of wisdom:** VanGemeren describes wisdom as illumination from God (the fear of the Lord), discernment in applying it, and transformation of the self and its relationships.
 
 ## How it points to Christ
@@ -139,8 +147,9 @@ Proverbs describes the perfectly wise, righteous person who fears the Lord. Only
 
 - Willem A. VanGemeren, "Proverbs," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues (authorship and date, social context, ancient Near Eastern wisdom), Genre, The Situational Nature of the Sayings, Structure and Outline, Message and Theology (three dimensions of wisdom). Print pages to verify.
 - *The Lutheran Study Bible* (Concordia, 2009), introduction to Proverbs: Overview, Central Theme, Luther on Proverbs, Types of Proverbs, Challenges for Readers, Outline. Lutheran source.
-- Reformation Study Bible, introduction to Proverbs, p. ___ (to verify)
+- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Proverbs: Title, Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of Proverbs, Proverbs in the Larger Story of the Bible, Christ in Proverbs, History of Interpretation, Outline. Print pages to verify.
 
 ## Changelog
 
 1. 2026-11-04: Generated initial notes with Claude Code
+2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code

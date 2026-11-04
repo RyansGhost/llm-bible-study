@@ -12,22 +12,26 @@ status: draft
 
 ## Summary
 
-Ecclesiastes records the search of "the Preacher" (Qohelet) for lasting meaning in life "under the sun". He tests pleasure, work, wealth and wisdom, and finds them all *hebel*: breath, vapour, fleeting and unable to satisfy. Death levels the wise and the fool. Yet he keeps returning to the simple gifts of God: food, work and love, enjoyed now. The book's final word sets it all in God's light: "Fear God and keep his commandments", for God will judge every deed (12:13–14).
+Ecclesiastes records the search of "the Preacher" (Qohelet, "the gatherer") for lasting meaning in life "under the sun", that is, in a world marked by the fall. He tests pleasure, work, wealth and wisdom, and finds them all *hebel*: breath or vapour, so frustrating, puzzling and fleeting. Death levels the wise and the fool. Yet he keeps returning to the simple gifts of God, food, work and love, to be enjoyed now. The Reformation Study Bible sums up its message in three words: face life's frustrations honestly, find joy in God's gifts, and fear God through it all. The final word: "Fear God and keep his commandments", for God will judge every deed (12:13–14).
 
 ## Setting
 
-- **When:** traditionally Solomon's reign (10th century BC). Belcher notes that most scholars now date the writing much later, after the exile, partly because its Hebrew has features of late biblical Hebrew.
+- **When:** the 10th century BC if Solomon wrote it; after the exile (6th century BC or later) if not. Belcher notes that most scholars now date it late, partly because its Hebrew has features of late biblical Hebrew.
 - **Where:** Jerusalem, from the viewpoint of a king who has had every resource to test life (1:12–2:11).
-- **Who wrote it:** the speaker calls himself Qohelet, "son of David, king in Jerusalem" (1:1). Jewish and Christian tradition identified him with Solomon. Belcher thinks Solomon is not the author, and that the book uses a Solomon-like persona.
-- **Where it sits:** a wisdom book that tackles the hard cases Proverbs doesn't. In Jewish tradition it is one of the five festival scrolls, read at the Feast of Booths.
+- **Who wrote it:** the speaker calls himself Qohelet, "son of David, king in Jerusalem" (1:1). Jewish and Christian tradition identified him with Solomon, fitting his wisdom and wealth (1:16; 2:4–9). Belcher thinks Solomon is not the author and that the book uses a Solomon-like persona. The Reformation Study Bible notes that good scholars differ, Solomon is never named, and the book's message doesn't depend on settling it.
+- **Where it sits:** a wisdom book that tackles the hard cases Proverbs doesn't. It is written for believers who find God's ways frustrating and perplexing, not mainly as an argument for unbelievers (RSB). Luther's German title, *Prediger*, gave us "the Preacher". In Jewish tradition it is one of the five festival scrolls, read at the Feast of Booths.
 
 ## Structure
 
-Belcher shows the book's frame: a narrator speaks about Qohelet in the third person at the start and end, around Qohelet's own first-person words.
+A narrator speaks about Qohelet in the third person at the start and end, around Qohelet's own first-person words (1:12–12:7) (Belcher; RSB). The Reformation Study Bible's outline:
 
-- 1:1–11: Prologue (third person): title, motto ("vanity of vanities"), key question ("what gain?"), and a poem on the endless cycles of nature
-- 1:12–12:7: Qohelet's search (first person): experiments with pleasure and work, reflections on time, injustice, wealth, wisdom and death, with recurring calls to enjoy God's gifts
-- 12:8–14: Epilogue (third person): an evaluation of Qohelet's words, and the conclusion: fear God and keep his commandments
+- 1:1: Introduction
+- 1:2: Motto: "vanity of vanities … all is vanity"
+- 1:3–3:8: The limits of work and wisdom: the endless cycles of nature, Qohelet's experiments with wisdom, pleasure and building, and "a time for everything"
+- 3:9–6:7: Work in the fear of God, whose work lasts: injustice, toil, worship and vows, wealth that can't satisfy
+- 6:8–12:7: Wisdom in humility before a God who judges and whose wisdom we can't fathom: good and bad days, kings and fools, enjoy life while young, the poem of old age and death
+- 12:8: Motto repeated
+- 12:9–14: Conclusion: Qohelet's wisdom commended; fear God and keep his commandments
 
 ## Chapter by chapter
 
@@ -63,12 +67,13 @@ Ecclesiastes isn't a narrative. Its "events" are Qohelet's experiments:
 
 ## Themes
 
-- ***Hebel*, "vanity":** the book's key word, literally "breath" or "vapour". Belcher shows it can mean what is fleeting, but in Ecclesiastes often what lacks lasting significance.
-- **Life "under the sun":** Qohelet looks at life from the human vantage point. Belcher contrasts this with Proverbs: the sages start from God's revelation, while Qohelet reasons from what he himself observes, and keeps hitting limits.
+- ***Hebel*, "vanity":** the book's key word, literally "breath" or "vapour". It appears 38 times. Belcher shows it can mean what is fleeting, but often what lacks lasting significance; the RSB stresses what is frustrating (chasing the wind, 1:14) and perplexing (3:11; 8:17). "All is vanity" is deliberate overstatement, balanced by the call to joy.
+- **Life "under the sun":** life in this world since the fall, so the book works like a commentary on Genesis 3:16–19 (RSB; compare the return to dust, 3:20; 12:7). Paul echoes it when he says creation was "subjected to futility" (Rom 8:20). Qohelet looks at life from the human vantage point. Belcher contrasts this with Proverbs: the sages start from God's revelation, while Qohelet reasons from what he himself observes, and keeps hitting limits.
 - **Death the leveller:** wise and foolish, human and animal, all die (2:14–16; 3:19–20; 9:2–3).
 - **Enjoy God's gifts:** again and again Qohelet commends eating, drinking, work and marriage as gifts to receive from God (2:24–26; 3:12–13; 5:18–20; 9:7–10).
 - **God's sovereignty and mystery:** God has a time for everything, but we can't see the whole (3:11; 8:17).
-- **Fear God and remember judgment:** the epilogue gives the answer Qohelet's search couldn't reach on its own (12:13–14). Belcher argues the epilogue explains the problems of life in light of who God is.
+- **Fear God and remember judgment:** God does everything so that people will fear him (3:14; 5:1–7). The epilogue's call to fear God and keep his commands (12:13–14) draws out where Qohelet's teaching leads (RSB); Belcher argues it explains the problems of life in light of who God is.
+- **Sovereignty and responsibility:** the ability to enjoy what we have is God's gift (5:18–6:2), yet joy is given to those who please him and do good (2:26; 3:12–13).
 
 ## How it points to Christ
 
@@ -115,8 +120,9 @@ The "one Shepherd" who gives true wisdom (12:11) points to Christ, the Good Shep
 ## Sources
 
 - Richard P. Belcher Jr., "Ecclesiastes," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues (authorship, the Hebrew of Ecclesiastes), Structure and Outline (literary analysis, the term Qohelet, different approaches), Message and Theology (the meaning of *hebel*, the main question, how Qohelet knows, the calls to enjoyment, Qohelet's view of God, the epilogue). Print pages to verify.
-- Reformation Study Bible, introduction to Ecclesiastes, p. ___ (to verify)
+- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Ecclesiastes: Title, Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of Ecclesiastes, Ecclesiastes in the Larger Story of the Bible, Christ in Ecclesiastes, Outline. Print pages to verify.
 
 ## Changelog
 
 1. 2026-11-04: Generated initial notes with Claude Code
+2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code

@@ -23,9 +23,9 @@ The EPUB is indexed with `tools/epub_index.py` (work `bible-reformation-study-bi
 - [x] 17 Esther
 - [x] 18 Job
 - [x] 19 Psalms
-- [ ] 20 Proverbs
-- [ ] 21 Ecclesiastes
-- [ ] 22 Song of Solomon
+- [x] 20 Proverbs
+- [x] 21 Ecclesiastes
+- [x] 22 Song of Solomon
 - [ ] 23 Isaiah
 - [ ] 24 Jeremiah
 - [ ] 25 Lamentations
