@@ -64,7 +64,7 @@ Shared source chapters (read once, used for several books): Van Pelt's "1–2 Sa
 
 ### The Gospels
 - [x] 40 Matthew
-- [ ] 41 Mark
+- [x] 41 Mark
 - [ ] 42 Luke
 - [ ] 43 John
 
