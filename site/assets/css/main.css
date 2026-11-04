@@ -100,7 +100,7 @@ a:hover { color: var(--olive); }
   color: var(--ink); text-decoration: none;
 }
 .wordmark .logo {
-  width: 40px; height: 40px; flex: none;
+  width: 40px; height: 40px; flex: none; border-radius: 100%;
   filter: drop-shadow(0 1px 2px rgb(16 11 0 / 18%));
 }
 .site-nav { display: flex; gap: 1.5rem; }
