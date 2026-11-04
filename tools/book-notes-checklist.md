@@ -36,7 +36,7 @@ Shared source chapters (read once, used for several books): Van Pelt's "1–2 Sa
 - [x] 18 Job
 - [x] 19 Psalms (book by book, with key psalms, instead of all 150 chapters)
 - [x] 20 Proverbs
-- [ ] 21 Ecclesiastes
+- [x] 21 Ecclesiastes
 - [ ] 22 Song of Solomon
 
 ### Major Prophets
