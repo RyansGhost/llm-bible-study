@@ -16,18 +16,22 @@ Titus is a short letter from Paul to his co-worker Titus, whom he left on the is
 
 ## Setting
 
-- **When:** probably the early to mid-60s AD, around the same time as 1 Timothy, after Paul's release from his first Roman imprisonment (Barcley).
+- **When:** probably AD 62–64, around the same time as 1 Timothy, after Paul's release from his first Roman imprisonment (Barcley; Reformation Study Bible). Paul and Titus had worked on Crete together; Paul left Titus to finish organising the churches and then join him (1:5; 3:12).
 - **Where:** to Titus on Crete, a large Greek island in the Mediterranean. Paul plans to winter at Nicopolis (3:12).
 - **Who wrote it:** Paul (1:1). Barcley defends Paul's authorship of all three Pastoral Epistles.
-- **Where it sits:** one of the Pastoral Epistles, very close to 1 Timothy in its concerns: false teaching with a Jewish flavour, qualified elders, and godly living. Paul's ministry on Crete isn't mentioned in Acts, which only records his ship passing Crete on the way to Rome (Acts 27).
+- **Where it sits:** one of the Pastoral Epistles, meant for the whole church as well as Titus (the "you" of 3:15 is plural), and very close to 1 Timothy in its concerns: false teaching with a Jewish flavour, qualified elders, and godly living. Paul's ministry on Crete isn't mentioned in Acts, which only records his ship passing Crete on the way to Rome (Acts 27).
 
 ## Structure
 
-- 1:1–4: Greeting: Paul's apostleship for the faith of God's elect
-- 1:5–16: Appoint qualified elders; silence the false teachers
-- 2:1–15: Teach what accords with sound doctrine, to every group in the church; the grace of God that trains us
-- 3:1–11: Be ready for every good work; saved by God's mercy; avoid foolish controversies
+The Reformation Study Bible's outline:
+
+- 1:1–4: Greeting: Paul's apostleship for the faith of God's elect and the knowledge of truth that leads to godliness
+- 1:5–16: Organising the churches on Crete: appoint qualified elders; silence the false teachers
+- 2: Teaching each group (older men and women, younger women and men, slaves) what fits sound doctrine; the grace of God that trains us
+- 3:1–11: Teaching the church to do good: be ready for every good work; saved by God's mercy; avoid foolish controversies
 - 3:12–15: Final instructions and greetings
+
+"The saying is trustworthy" (3:8) marks the gospel summary of 3:4–7, as in 1 and 2 Timothy.
 
 ## Chapter by chapter
 
@@ -39,7 +43,7 @@ Titus is a short letter from Paul to his co-worker Titus, whom he left on the is
 
 - **Paul:** the apostle, writing to organise the churches on Crete.
 - **Titus:** a Greek believer and trusted co-worker (Gal 2:3; 2 Cor 7–8), left on Crete to set the churches in order.
-- **The false teachers:** "the circumcision party", empty talkers and deceivers, teaching Jewish myths for gain (1:10–16).
+- **The false teachers:** "the circumcision party", from within the church: empty talkers and deceivers, teaching Jewish myths, genealogies and human rules for gain, and dividing households (1:10–16; 3:9–11).
 - **The Cretans:** described by one of their own prophets as "always liars, evil beasts, lazy gluttons" (1:12).
 - **Artemas and Tychicus:** one of whom will be sent to relieve Titus (3:12).
 - **Zenas the lawyer and Apollos:** travellers Titus is to help on their way (3:13).
@@ -52,7 +56,8 @@ Titus is a short letter from Paul to his co-worker Titus, whom he left on the is
 ## Themes
 
 - **Sound doctrine and sound living:** Barcley notes "sound" appears four times in this short letter. True teaching is healthy and produces healthy lives (1:9, 13; 2:1–2, 8).
-- **Qualified elders:** leaders must be sound in both doctrine and life (1:5–9).
+- **Qualified elders:** leaders must be sound in both doctrine and life (1:5–9). "Elder" (1:5) and "overseer" or bishop (1:7) name one office, not two (compare Acts 20:17, 28).
+- **Self-control:** Paul keeps calling every group to be sober-minded and self-controlled (1:8; 2:2, 5, 6, 12).
 - **False teaching:** shown up by its fruit, profession without godly works (1:16).
 - **Grace that trains:** God's grace both saves and teaches us to live godly lives now (2:11–12).
 - **Adorning the gospel:** Christians' conduct makes the gospel attractive to outsiders (2:5, 8, 10).
@@ -97,8 +102,9 @@ Titus has two of the New Testament's richest short summaries of the gospel. In 2
 
 - William B. Barcley, "Introduction to the Pastoral Epistles" and "Titus," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues, Structure and Outline, Message and Theology. Print pages to verify.
 - *The Lutheran Study Bible* (Concordia, 2009), introduction to Titus: Overview, Luther on Titus, Challenges for Readers. Lutheran source.
-- Reformation Study Bible, introduction to Titus, p. ___ (to verify)
+- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Titus: Title and Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of Titus, Titus in the Larger Story of the Bible, Christ in Titus, History of Interpretation, Special Issues, Outline. Print pages to verify.
 
 ## Changelog
 
 1. 2026-11-04: Generated initial notes with Claude Code
+2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code

@@ -17,18 +17,20 @@ status: draft
 ## Setting
 
 - **When:** about AD 64–67 (the Lutheran Study Bible gives AD 68), during Paul's second Roman imprisonment, shortly before his martyrdom under Nero.
-- **Where:** from prison in Rome (1:8, 16–17) to Timothy, probably still in Ephesus (1:18; 4:19).
+- **Where:** from prison in Rome (1:8, 16–17) to Timothy, probably still in Ephesus (1:18; 4:19), where the false teaching of 1 Timothy was still a problem. Paul may have been arrested at Troas, where he left his cloak and books (4:13). No one stood by him at his first hearing (4:16), and unlike in Philippians, he now expects not release but execution (4:6) (Reformation Study Bible).
 - **Who wrote it:** Paul (1:1). Barcley notes that even some scholars who deny Paul wrote 1 Timothy and Titus accept 2 Timothy because it is so personal.
-- **Where it sits:** the last of the Pastoral Epistles, more intimate than 1 Timothy and Titus, and less about church order.
+- **Where it sits:** the last of the Pastoral Epistles and the last letter Paul wrote, more intimate than 1 Timothy and Titus, and less about church order. Paul writes to call Timothy to Rome before winter (4:9, 21) and to prepare him for ministry after the apostles. Though personal, it was meant for the church too (the "you" of 4:22 is plural).
+- **The false teachers:** led by men such as Hymenaeus and Philetus (2:17), they pursued myths, quarrels about words and so-called "knowledge", sometimes for money, and drew in some vulnerable women (3:6–7). It may have been an early form of what later became Gnosticism.
 
 ## Structure
 
-Barcley's outline:
+The Reformation Study Bible's outline (Barcley's call-to-faithfulness outline follows the same lines):
 
-- 1:1–18: Faithfulness in ministry: guard the good deposit
-- 2:1–13: Faithfulness in hardship: soldier, athlete, farmer
-- 2:14–4:5: Faithfulness in the face of false teaching: rightly handling the word, the last days, Scripture, "preach the word"
-- 4:6–22: Paul's faithfulness and his faithful Lord
+- 1:1–5: Greeting and thanksgiving for Timothy's sincere faith
+- 1:6–2:13: Calls to boldness and faithfulness: fan the gift into flame, don't be ashamed, guard the deposit, entrust it to faithful men, share in suffering
+- 2:14–4:5: The problem of false teachers: rightly handle the word, the last days, the God-breathed Scriptures, "preach the word"
+- 4:6–18: Paul and Timothy: Paul's departure near, his friends gone, the Lord standing by him
+- 4:19–22: Final greetings
 
 ## Chapter by chapter
 
@@ -61,8 +63,9 @@ Barcley's outline:
 - **Guarding and passing on the gospel:** the "good deposit" handed from Paul to Timothy to faithful men to others (1:13–14; 2:2).
 - **Not ashamed:** of the gospel, of the Lord, or of those who suffer for him (1:8, 12, 16).
 - **Suffering:** all who live godly lives will be persecuted, and Christ is the pattern of suffering before glory (2:8–12; 3:12).
-- **The authority and sufficiency of Scripture:** God-breathed and able to make us wise for salvation and equip us for every good work (3:14–17).
+- **The authority and sufficiency of Scripture:** God-breathed and able to make us wise for salvation and equip us for every good work (3:14–17). With 2 Peter 1:21, this is the foundation for the doctrine that the whole Bible, down to its words, is inspired and so wholly true. Even at the end, Paul wanted his "parchments", probably copies of the Old Testament (4:13).
 - **Preaching:** the central task of the minister (4:1–5).
+- **Grace and election:** God saved and called us not by our works but by his own purpose and grace, given in Christ before the ages (1:9); "the Lord knows those who are his" (2:19), and Paul endures for the sake of the elect (2:10).
 - **God's faithfulness:** he remains faithful even when we are faithless, and he will rescue his people and bring them into his heavenly kingdom (2:13; 4:18).
 
 ## How it points to Christ
@@ -104,8 +107,9 @@ Paul begins with the grace given to us in Christ Jesus before the ages began, no
 
 - William B. Barcley, "Introduction to the Pastoral Epistles" and "2 Timothy," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues, Structure and Outline, Message and Theology. Print pages to verify.
 - *The Lutheran Study Bible* (Concordia, 2009), introduction to 2 Timothy: Overview, Luther on 2 Timothy. Lutheran source.
-- Reformation Study Bible, introduction to 2 Timothy, p. ___ (to verify)
+- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to 2 Timothy: Title and Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of 2 Timothy, 2 Timothy in the Larger Story of the Bible, Christ in 2 Timothy, History of Interpretation, Special Issues, Outline. Print pages to verify.
 
 ## Changelog
 
 1. 2026-11-04: Generated initial notes with Claude Code
+2. 2026-11-04: Checked against the Reformation Study Bible introduction; revised with Claude Code
