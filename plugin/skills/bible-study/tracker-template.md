@@ -1,6 +1,6 @@
 # Tracker template
 
-Use this to start a new tracker, or to match the format of an existing one. The tracker can live anywhere the user can read and Claude can edit: a doc, a note, an artifact, or a markdown file. If the user's existing tracker uses a different layout, keep theirs and add entries in its style.
+Use this to start a new tracker, or to match the format of an existing one. It has a checklist of all 66 books, grouped by testament and section, with a short entry below for each finished book. The tracker can live anywhere the user can read and Claude can edit: a doc, a note, an artifact, or a markdown file. If the user's existing tracker uses a different layout, keep theirs and add entries in its style.
 
 Rules for entries:
 
@@ -8,7 +8,7 @@ Rules for entries:
 - Be plain and harsh, not kind. Write what the user actually knew and didn't know, not encouragement. "Thought Jericho was in Judges" is useful; "Great effort!" is not.
 - Ratings use the 0–10 scale in SKILL.md. Always give both the starting and final rating.
 - Keep each entry short enough to read aloud in under a minute.
-- Update the progress table and the "Covered" count every time.
+- When a book is done, tick its box, fill in its start and final ratings and the date, and update the "Covered" count. A book started but not finished gets "(in progress)" after its name.
 
 ## The template
 
@@ -23,9 +23,105 @@ Covered: 0 of 66 books
 
 ## Progress
 
-| Book | Status | Start | Final | Finished |
-| --- | --- | --- | --- | --- |
-| _Book_ | In progress / Done | _0–10_ | _0–10_ | _YYYY-MM-DD_ |
+### Old Testament
+
+**Law**
+
+- [ ] Genesis: start _/10, final _/10, finished _
+- [ ] Exodus: start _/10, final _/10, finished _
+- [ ] Leviticus: start _/10, final _/10, finished _
+- [ ] Numbers: start _/10, final _/10, finished _
+- [ ] Deuteronomy: start _/10, final _/10, finished _
+
+**History**
+
+- [ ] Joshua: start _/10, final _/10, finished _
+- [ ] Judges: start _/10, final _/10, finished _
+- [ ] Ruth: start _/10, final _/10, finished _
+- [ ] 1 Samuel: start _/10, final _/10, finished _
+- [ ] 2 Samuel: start _/10, final _/10, finished _
+- [ ] 1 Kings: start _/10, final _/10, finished _
+- [ ] 2 Kings: start _/10, final _/10, finished _
+- [ ] 1 Chronicles: start _/10, final _/10, finished _
+- [ ] 2 Chronicles: start _/10, final _/10, finished _
+- [ ] Ezra: start _/10, final _/10, finished _
+- [ ] Nehemiah: start _/10, final _/10, finished _
+- [ ] Esther: start _/10, final _/10, finished _
+
+**Wisdom and Poetry**
+
+- [ ] Job: start _/10, final _/10, finished _
+- [ ] Psalms: start _/10, final _/10, finished _
+- [ ] Proverbs: start _/10, final _/10, finished _
+- [ ] Ecclesiastes: start _/10, final _/10, finished _
+- [ ] Song of Solomon: start _/10, final _/10, finished _
+
+**Major Prophets**
+
+- [ ] Isaiah: start _/10, final _/10, finished _
+- [ ] Jeremiah: start _/10, final _/10, finished _
+- [ ] Lamentations: start _/10, final _/10, finished _
+- [ ] Ezekiel: start _/10, final _/10, finished _
+- [ ] Daniel: start _/10, final _/10, finished _
+
+**Minor Prophets**
+
+- [ ] Hosea: start _/10, final _/10, finished _
+- [ ] Joel: start _/10, final _/10, finished _
+- [ ] Amos: start _/10, final _/10, finished _
+- [ ] Obadiah: start _/10, final _/10, finished _
+- [ ] Jonah: start _/10, final _/10, finished _
+- [ ] Micah: start _/10, final _/10, finished _
+- [ ] Nahum: start _/10, final _/10, finished _
+- [ ] Habakkuk: start _/10, final _/10, finished _
+- [ ] Zephaniah: start _/10, final _/10, finished _
+- [ ] Haggai: start _/10, final _/10, finished _
+- [ ] Zechariah: start _/10, final _/10, finished _
+- [ ] Malachi: start _/10, final _/10, finished _
+
+### New Testament
+
+**Gospels**
+
+- [ ] Matthew: start _/10, final _/10, finished _
+- [ ] Mark: start _/10, final _/10, finished _
+- [ ] Luke: start _/10, final _/10, finished _
+- [ ] John: start _/10, final _/10, finished _
+
+**History**
+
+- [ ] Acts: start _/10, final _/10, finished _
+
+**Pauline Epistles**
+
+- [ ] Romans: start _/10, final _/10, finished _
+- [ ] 1 Corinthians: start _/10, final _/10, finished _
+- [ ] 2 Corinthians: start _/10, final _/10, finished _
+- [ ] Galatians: start _/10, final _/10, finished _
+- [ ] Ephesians: start _/10, final _/10, finished _
+- [ ] Philippians: start _/10, final _/10, finished _
+- [ ] Colossians: start _/10, final _/10, finished _
+- [ ] 1 Thessalonians: start _/10, final _/10, finished _
+- [ ] 2 Thessalonians: start _/10, final _/10, finished _
+- [ ] 1 Timothy: start _/10, final _/10, finished _
+- [ ] 2 Timothy: start _/10, final _/10, finished _
+- [ ] Titus: start _/10, final _/10, finished _
+- [ ] Philemon: start _/10, final _/10, finished _
+
+**General Epistles**
+
+- [ ] Hebrews: start _/10, final _/10, finished _
+- [ ] James: start _/10, final _/10, finished _
+- [ ] 1 Peter: start _/10, final _/10, finished _
+- [ ] 2 Peter: start _/10, final _/10, finished _
+- [ ] 1 John: start _/10, final _/10, finished _
+- [ ] 2 John: start _/10, final _/10, finished _
+- [ ] 3 John: start _/10, final _/10, finished _
+- [ ] Jude: start _/10, final _/10, finished _
+
+**Prophecy**
+
+- [ ] Revelation: start _/10, final _/10, finished _
 
 ## Entries
 
@@ -39,9 +135,15 @@ Covered: 0 of 66 books
 - **Next time:** What to review before moving on, or "nothing, move on".
 ```
 
-## Example entry
+## Example
 
-An example only; not a real record.
+An example only; not a real record. The book's line in the checklist, once it's done:
+
+```markdown
+- [x] Joshua: start 3/10, final 7/10, finished 2026-11-04
+```
+
+And its entry:
 
 ```markdown
 ### Joshua: 3/10 → 7/10
