@@ -2,14 +2,14 @@
 title: "LLM Bible Study"
 tagline: "Learn the Bible by talking it through with an AI tutor, one book at a time."
 # Names shown on the flip card in the home page heading; the first is shown without JavaScript.
-assistants: ["Claude", "ChatGPT", "Gemini", "Grok", "Copilot", "Meta AI", "DeepSeek", "Perplexity"]
+assistants: ["Claude", "ChatGPT", "Grok"]
 description: "Structured, well-grounded Bible study with an AI language model. Learn each book of the Bible, its major people and themes, and its morals and lessons, from Reformed sources."
 ---
 
 ## Begin your study by pasting this into your chat {#start}
 
 1. **Copy** the prompt below.
-2. **Paste** it into a new chat with any AI assistant: ChatGPT, Gemini, Claude, Copilot or another.
+2. **Paste** it into a new chat with an AI assistant that can open web links, such as Claude, ChatGPT or Grok.
 3. **Tell it** which book of the Bible you'd like to study.
 
 {{< prompt label="Your study prompt" featured="true" >}}
