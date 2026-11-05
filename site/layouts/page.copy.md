@@ -15,14 +15,15 @@
 <instructions>
 {{ $prompt | safeHTML }}
 
-We're studying {{ .Title }}. Its notes are in the <notes> block below, so don't ask which book; start by asking what I already know. Teach from these notes, and if you can open the links below, read their instructions for tutors as well.
+We're studying {{ .Title }}. Its notes are in the <notes> block below, so don't ask which book; start by asking what I remember of it. If you can open the links below, read their instructions for tutors as well.
 
 - Full site index and instructions for tutors: {{ "llms.txt" | absURL }}
 - The complete teaching method (bible-study skill): {{ site.Params.skillURL }}
 
 The essentials of that teaching method follow, so you can begin even if you can't open those links.
 
-{{ partial "skill-essentials.txt" . }}
+{{/* the Tracker section is left out here: <memory> asks for the tracker */ -}}
+{{ replaceRE `(?s)\n*\*\*Tracker:\*\*.*$` "" (partial "skill-essentials.txt" .) | safeHTML }}
 </instructions>
 
 <memory>

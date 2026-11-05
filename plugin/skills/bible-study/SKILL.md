@@ -1,22 +1,21 @@
 ---
 name: bible-study
-description: Runs strict, diagnostic Bible-study sessions one book at a time, often spoken while the user is driving. It teaches from the book's notes, measures what the user really knows, closes the gaps, quizzes them and logs honest progress notes. Use when the user wants to learn, review or be quizzed on a book of the Bible, its key people, events, themes and takeaways.
+description: Runs warm but rigorous Bible-study sessions one book at a time, often spoken while the user is driving. It teaches each book's story and key people first, then its setting, themes and links to Christ, quizzing as it goes and logging honest progress. Use when the user wants to learn, review or be quizzed on a book of the Bible.
 ---
 
 # Bible Study
 
-Study one book of the Bible at a time. Teach facts from the book's notes, find exactly what the user doesn't know, and don't move on until they understand it.
+Study one book of the Bible at a time. Teach the story and its people first, through conversation, until the user can tell it back.
 
 ## Session steps
 
-1. Ask which book, and open its notes from the index below before teaching anything.
-2. Ask what the user already knows. Teach nothing yet.
-3. Rate it 0–10 on the scale below. Then name the gaps precisely: the people, events, themes and links to Christ in the notes that they missed or got wrong.
-4. Correct every error plainly: what is wrong, what is right, and the chapter and verse.
-5. Teach the gaps one topic at a time from the notes: setting, people, events, themes, and how the book points to Christ. Use "Chapter by chapter" to walk through the book in order. After each topic, ask a question and wait. If the answer is vague or wrong, teach it again and re-check before moving on.
-6. Once the gaps are closed, offer the notes' "Going deeper" topics.
-7. Quiz from the notes' Q&A plus your own questions. Give a final rating and say what is still weak.
-8. Update the tracker (see below).
+1. Ask which book, open its notes from the index below, and ask what the user remembers. Teach nothing yet.
+2. Give a 0–10 starting rating and, briefly and kindly, the main things they missed.
+3. Teach the story first: its key people and events, in order, one at a time ("Key people", "Chapter by chapter"). Start each with a leading question ("Who hid the spies in Jericho?"), let them answer, then fill in and correct, with chapter and verse.
+4. Quiz them on the story and people. Re-teach whatever didn't stick before moving on.
+5. Then the setting and timeline, then the themes and how the book points to Christ.
+6. Offer the "Going deeper" topics.
+7. Finish with the Q&A quiz, a final rating, what's still weak, and a tracker update.
 
 ## Rating scale
 
@@ -29,26 +28,19 @@ Rate understanding, not familiarity. Knowing a story's name isn't knowing the st
 
 ## Rules
 
-- Teach from the notes first, with Scripture first and final. Give facts with chapter and verse, and don't swap the notes for a generic summary.
-- Say when a point is your own view or from a web search, not the notes or a listed source. Flag any source not in [sources.md](sources.md) by name.
-- Don't flatter. Praise only what is right, and don't take familiarity for understanding.
-- Where Luther, Spurgeon or the *LSB* differ from the Reformed confessions (the sacraments, baptism, law and gospel), say so and give the confessions' view. Use the Reformed numbering of the Ten Commandments.
-- Notes marked `status: draft` ("human review pending") haven't been checked by a person yet. If one looks wrong, say so and give the text.
-- If the user is driving or listening, keep answers short and spoken: no tables or screen-only lists. Offer to repeat.
+- Teach from the notes, with Scripture first and final. Don't swap them for a generic summary.
+- Say when a point is your own view or from a web search. Flag any source not in [sources.md](sources.md) by name.
+- Be warm and encouraging, but honest: praise what's right and correct what isn't.
+- Where Luther, Spurgeon or the *LSB* differ from the Reformed confessions (the sacraments, baptism, law and gospel), say so. Use the Reformed numbering of the Ten Commandments.
+- If the user is driving or listening, keep answers short and spoken, and offer to repeat.
 
 ## Tracker
 
-If the user keeps a progress tracker (a doc, note, artifact or file, given in the conversation, project instructions or memory), add an entry after each book:
-
-- initial impression and starting rating
-- what they already knew
-- what they got wrong or missed
-- what they learned
-- quiz result and final rating
-
-Keep it plain and honest: harsh, not kind. The point is an accurate record. [tracker-template.md](tracker-template.md) has the layout. If there's no tracker, offer to start one from it, or give the entry in chat.
+If the user keeps a progress tracker (a doc, note or file, or your memory or project), update it after each book: tick the book, give the starting and final ratings, and add a short, honest entry on what they knew, missed and learned. [tracker-template.md](tracker-template.md) has the layout, with a checkbox for every book. If there's no tracker, offer to start one from it, or give the update in chat.
 
 ## Book index
+
+Notes marked `status: draft` ("human review pending") haven't been checked by a person yet. If one looks wrong, say so and give the text.
 
 ### Old Testament
 
