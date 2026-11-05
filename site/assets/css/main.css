@@ -215,6 +215,7 @@ a:hover { color: var(--olive); }
   .guide-pick-row .prompt-copy,
   .book-badges .guide-copy,
   .book-badges .guide-copy .prompt-copy { width: 100%; justify-content: center; }
+  .book-badges .status-note { width: 100%; justify-content: center; }
 }
 
 /* Book index */
