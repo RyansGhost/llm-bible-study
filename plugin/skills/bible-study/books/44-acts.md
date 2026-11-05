@@ -101,7 +101,7 @@ Accounts of events alternate with summaries of the church's growth (2:42–47; 6
 
 ## Themes
 
-- **What Jesus continued to do:** Luke's Gospel told what Jesus "began to do and teach" (1:1); Acts shows the risen, reigning Lord still at work through his Spirit and his apostles, calling, guiding and saving (2:33; 9:4–6; 16:7, 14).
+- **What Jesus continued to do:** Luke's Gospel told what Jesus "began to do and teach" (1:1); Acts shows the risen, reigning Lord still at work through his Spirit and his apostles, calling, guiding and saving (2:33; 9:4–6; 16:7, 14). The Reformation Heritage KJV Study Bible (RH) frames the book's purpose this way: to strengthen instructed believers by tracing how the exalted Christ built his church from Jewish Jerusalem to Gentile Rome.
 - **The Holy Spirit:** the Spirit empowers the witness, from Jerusalem to the ends of the earth (1:8). Cara traces the Spirit's coming to Jews, Samaritans and Gentiles. He gives boldness, wisdom, direction, comfort and joy (4:31; 9:31; 13:2; 13:52).
 - **Witness to the risen Christ:** the apostles' central message is that God raised Jesus (2:32; 3:15; 13:30).
 - **The spread of the word:** "the word of God continued to increase and multiply" (12:24), despite opposition.
@@ -182,6 +182,7 @@ Acts begins by calling the Gospel of Luke an account of "all that Jesus began to
 
 - Robert J. Cara, "Acts," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (historical background, historical accuracy, authorship and date, addressee and purposes, the Greek text), Structure and Outline (the Peter-and-Paul outline, the Holy Spirit-events outline).
 - *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Acts: Title, Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of Acts, Acts in the Larger Story of the Bible, Christ in Acts, History of Interpretation, Outline.
+- *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to Acts: Authorship, Date, Theme, Purpose, Synopsis, Structure; chapter summaries.
 
 ## Changelog
 

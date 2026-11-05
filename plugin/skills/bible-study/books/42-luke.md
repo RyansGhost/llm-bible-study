@@ -94,6 +94,7 @@ After the prologue the outline is mainly geographical (Cara; Reformation Study B
 
 - **Salvation:** Cara highlights "salvation" as a key Lukan theme. Jesus is "a Saviour, who is Christ the Lord" (2:11), and "today salvation has come to this house" (19:9).
 - **The rejected, suffering Prophet and Messiah:** Jesus is rejected like the prophets before him, and must suffer, die and rise (4:24; 13:33; 24:26) (Cara).
+- **Prophet, priest and king:** the Reformation Heritage KJV Study Bible (RH) traces all three of Christ's offices through Luke, from the angel's promise of David's throne (1:32–33) to the ascension, when Jesus lifts his hands to bless like a priest (24:50–51). As a doctor, Luke takes particular note of Jesus' healing.
 - **God's plan in continuity with the Old Testament:** everything happens according to Scripture, and the plan includes the Gentiles (2:32; 24:44–47) (Cara). Words like "it is necessary" mark God's sovereign plan, worked out even through sinful acts (9:22; 24:26; Acts 2:23).
 - **Christ the Lord:** Jesus is David's heir and God's Son, conceived by the Spirit (1:32–35), so Luke often simply calls him "the Lord". He is also the suffering Servant of Isaiah (22:37) and the prophet like Moses (9:35).
 - **Good news for outsiders:** the poor, the sick, women, tax collectors, Samaritans and sinners are welcomed (4:18; 7:36–50; 15; 19:1–10).
@@ -172,6 +173,7 @@ Luke's genealogy traces him back to Adam (3:38), presenting him as the Saviour f
 
 - Robert J. Cara, "Luke," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (authorship and date, addressee, occasion and purpose, Luke and Acts), Structure and Outline, Message and Theology.
 - *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Luke: Title, Author, Date and Occasion, Genre, Literary Features, Theology of Luke, Luke in the Larger Story of the Bible, Christ in Luke, History of Interpretation, Outline.
+- *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to Luke: Authorship, Date, Theme, Purpose, Synopsis, Outline; chapter summaries.
 
 ## Changelog
 

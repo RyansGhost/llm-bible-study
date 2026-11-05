@@ -18,7 +18,7 @@ Matthew presents Jesus as the promised Messiah, the Son of David and Son of Abra
 
 - **When:** Jesus' life, from his birth (about 6–4 BC) to his resurrection (about AD 30–33). Kidd notes most modern scholars date the Gospel after AD 70; many conservative scholars date it earlier, in the 60s. The Reformation Study Bible favours AD 64–70: it warns against the Sadducees, who soon vanished after AD 70, and treats Jerusalem's fall as prophecy, not past event (24). Ignatius quotes it by about AD 110.
 - **Where:** Bethlehem, Egypt, Nazareth, Galilee (especially Capernaum), the journey south, and Jerusalem. It was probably written in Syrian Antioch, home of Ignatius and of a mixed Jewish and Gentile church (Acts 11:19–26), which would explain its concern with both legalism and lawlessness (RSB).
-- **Who wrote it:** the apostle Matthew (also called Levi), a former tax collector (9:9). The title "according to Matthew" was always attached, and early church tradition from Papias says Matthew collected Jesus' sayings, perhaps first in Hebrew or Aramaic (Kidd). As a tax collector dealing with Jews and Romans, he would have known several languages. It is hard to see why the church would credit such a minor, compromised apostle unless he really wrote it (RSB).
+- **Who wrote it:** the apostle Matthew (also called Levi), a former tax collector (9:9). The title "according to Matthew" was always attached, and early church tradition from Papias says Matthew collected Jesus' sayings, perhaps first in Hebrew or Aramaic (Kidd). As a tax collector dealing with Jews and Romans, he would have known several languages. It is hard to see why the church would credit such a minor, compromised apostle unless he really wrote it (RSB). The Reformation Heritage KJV Study Bible (RH) adds the tax collector's eye for coins and the temple tax (17:24–27; 22:19), and notes that "Matthew" probably means "gift of the Lord". Following Irenaeus, it dates the Gospel to the early 60s, while Peter and Paul were in Rome.
 - **Where it sits:** the first Gospel in the New Testament. Most scholars think Matthew used Mark, since about 90% of Mark appears in Matthew (Kidd). Kidd suggests it was written for Greek-speaking Jewish Christians grappling with the mission to the Gentiles.
 
 ## Structure
@@ -100,7 +100,7 @@ Herman Ridderbos called Matthew "the architect among the Evangelists" (quoted in
 - **A new beginning:** Matthew opens with "the book of the genealogy" (1:1), echoing Genesis (Gen 2:4; 5:1): Jesus begins a new creation (RSB).
 - **Jesus the King and the kingdom of heaven:** Jesus is the Son of David who fulfils God's covenants with David and Abraham. The kingdom has come in him and will be completed at his return, "now and not yet" (Kidd). Meanwhile good and evil grow together until the harvest (13:24–30).
 - **Immanuel, God with us:** the Gospel is framed by "God with us" (1:23) and "I am with you always" (28:20).
-- **Jesus and the law:** Jesus fulfils the law and teaches its true meaning (5:17–48). Kidd describes Jesus as a "new Torah" and greater than Moses.
+- **Jesus and the law:** Jesus fulfils the law and teaches its true meaning (5:17–48). Kidd describes Jesus as a "new Torah" and greater than Moses. RH presents him as the prophet like Moses: at the transfiguration the Father's "listen to him" (17:5) echoes Moses' promise (Deut 18:15).
 - **Greater than the temple, Jonah and Solomon:** Jesus surpasses Israel's priesthood, prophets and kings (12:6, 41–42).
 - **The church:** Matthew is the only Gospel to use the word "church" (16:18; 18:17).
 - **Mission to the nations:** this very Jewish Gospel shows God's promise to bless all nations through Abraham: women with Gentile links in the genealogy (1:3–6), the magi, and the Great Commission (2:1–12; 28:19).
@@ -184,6 +184,7 @@ His death is the ransom for many (20:28) and the blood of the covenant poured ou
 
 - Reggie M. Kidd, "Matthew," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (authorship, audience, date, purpose, historicity), Structure and Outline, Message and Theology (Immanuel, Jesus as the new Torah, greater than the temple, Jonah and Solomon).
 - *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Matthew: Title, Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of Matthew, Matthew in the Larger Story of the Bible, Christ in Matthew, History of Interpretation, Outline.
+- *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to Matthew: Authorship, Date, Theme, Purpose, Synopsis, Outline; chapter summaries.
 
 ## Changelog
 

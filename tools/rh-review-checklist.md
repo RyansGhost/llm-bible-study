@@ -43,11 +43,11 @@ The EPUB is indexed with `tools/epub_index.py` (work `beeke-reformation-heritage
 - [x] 37 Haggai
 - [x] 38 Zechariah
 - [x] 39 Malachi
-- [ ] 40 Matthew
-- [ ] 41 Mark
-- [ ] 42 Luke
-- [ ] 43 John
-- [ ] 44 Acts
+- [x] 40 Matthew
+- [x] 41 Mark
+- [x] 42 Luke
+- [x] 43 John
+- [x] 44 Acts
 - [ ] 45 Romans
 - [ ] 46 1 Corinthians
 - [ ] 47 2 Corinthians
