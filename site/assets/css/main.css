@@ -203,6 +203,19 @@ a:hover { color: var(--olive); }
 .prompt-featured .prompt-label { color: var(--olive-dark); }
 .prompt-featured .prompt-copy { padding: 0.7rem 1.2rem; font-size: 0.85rem; }
 .prompt-featured .prompt-body { font-size: 1.05rem; padding: 0.4rem 1.4rem 0.75rem; }
+/* Phones: the hero's two buttons and every Copy Study Guide button span the content width */
+@media (max-width: 40rem) {
+  .hero-actions { flex-direction: column; align-items: stretch; }
+  .hero-actions .button { width: 100%; text-align: center; }
+  /* the picker box runs edge to edge, so its contents line up with the page margin */
+  .guide-picker { margin-left: calc(-1 * var(--gutter)); margin-right: calc(-1 * var(--gutter)); border-left: 0; border-right: 0; }
+  .guide-picker .prompt-bar { padding-left: var(--gutter); }
+  .guide-picker .prompt-body { padding-left: var(--gutter); padding-right: var(--gutter); }
+  .guide-pick-row .guide-pick { flex-basis: 100%; max-width: none; }
+  .guide-pick-row .prompt-copy,
+  .book-badges .guide-copy,
+  .book-badges .guide-copy .prompt-copy { width: 100%; justify-content: center; }
+}
 
 /* Book index */
 .books { padding: 3.5rem var(--gutter) 4rem; }
