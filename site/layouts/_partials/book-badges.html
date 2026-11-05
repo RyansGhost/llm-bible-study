@@ -10,10 +10,10 @@
        click, so neither the prompt nor a second copy of the notes sits in this
        HTML. The button stays hidden until the script runs. */}}
   <div class="guide-copy" data-copied="{{ .Title }} study guide" data-copy-url="{{ with .OutputFormats.Get "copy" }}{{ .RelPermalink }}{{ end }}">
-    <button type="button" class="prompt-copy" hidden>
+    <button type="button" class="prompt-copy" aria-label="Copy {{ .Title }} study guide" hidden>
       <svg class="icon-copy" viewBox="0 0 24 24" width="16" height="16" aria-hidden="true" focusable="false"><rect x="9" y="9" width="12" height="12" rx="1.5" fill="none" stroke="currentColor" stroke-width="2"/><path d="M5 15H4a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1h10a1 1 0 0 1 1 1v1" fill="none" stroke="currentColor" stroke-width="2"/></svg>
       <svg class="icon-check" viewBox="0 0 24 24" width="16" height="16" aria-hidden="true" focusable="false"><path d="M4 12.5l5 5L20 6.5" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
-      <span class="prompt-copy-text">Copy {{ .Title }} Study Guide Markdown</span>
+      <span class="prompt-copy-text">Copy Study Guide</span>
     </button>
     <span class="prompt-status visually-hidden" role="status" aria-live="polite"></span>
   </div>
