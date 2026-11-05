@@ -1,10 +1,7 @@
-{{- /* The two book-page badges: the review-status label and the copy button.
+{{- /* The two book-page badges: the copy button and the review-status label.
      page.html puts them just after the book's title (the notes' own "# Book"
      heading). */ -}}
 <div class="book-badges">
-  {{- if ne .Params.status "complete" }}
-  <p class="status-note status-{{ .Params.status }}">{{ partial "status-label.html" . }}</p>
-  {{- end }}
   {{- /* Copies this book's index-for-copy.md (layouts/page.copy.md): the study prompt
        in <instructions> and the notes in <notes>. assets/js/copy.js fetches it on
        click, so neither the prompt nor a second copy of the notes sits in this
@@ -17,4 +14,7 @@
     </button>
     <span class="prompt-status visually-hidden" role="status" aria-live="polite"></span>
   </div>
+  {{- if ne .Params.status "complete" }}
+  <p class="status-note status-{{ .Params.status }}">{{ partial "status-label.html" . }}</p>
+  {{- end }}
 </div>
