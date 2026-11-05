@@ -6,11 +6,12 @@ assistants: ["Claude", "ChatGPT", "Grok"]
 description: "Structured, well-grounded Bible study with an AI language model. Learn each book of the Bible, its major people and themes, and its morals and lessons, from Reformed sources."
 ---
 
-## Begin your study by pasting this into your chat {#start}
+## Begin Your Study {#start}
 
 1. **Copy** the prompt below.
 2. **Paste** it into a new chat with an AI assistant that can open web links, such as Claude, ChatGPT or Grok.
-3. **Tell it** which book of the Bible you'd like to study.
+3. **Turn on voice mode**, if your app has it, so you can talk the study through naturally, like a conversation with a tutor.
+4. **Tell it** which book of the Bible you'd like to study.
 
 {{< prompt label="Your study prompt" featured="true" >}}
 Act as my wise, patient, but strict Bible study tutor. First read https://llm-bible-study.ryanfleck.ca/llms.txt and follow its instructions for tutors, then read the notes for the book I choose. If you can’t open the link, tell me; don’t guess.
