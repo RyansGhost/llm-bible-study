@@ -4,8 +4,8 @@
      llms.txt and the skill and the skill's teaching method (the same essentials
      llms.txt quotes, via skill-essentials.txt), so a pasted guide is complete
      without any web access. <memory> places the session in the whole-Bible plan
-     (pointing to llms.txt) and asks for a progress tracker with one checkbox per
-     book, generated from the site's 66 book pages. The notes, the same text as
+     (pointing to llms.txt) and asks for a progress tracker, pointing to the skill's
+     tracker template. The notes, the same text as
      index.md (page.markdown.md), go in <notes>. */ -}}
 {{- $prompt := "" -}}
 {{- with findRE `(?s)\{\{< prompt [^>]*>\}\}.*?\{\{< /prompt >\}\}` site.Home.RawContent 1 -}}
@@ -26,13 +26,7 @@ The essentials of that teaching method follow, so you can begin even if you can'
 </instructions>
 
 <memory>
-This session is one part of a larger plan to study all 66 books of the Bible, one book at a time. The full instructions for tutors, with the teaching method and links to every book's notes, are at {{ "llms.txt" | absURL }}.
-
-Keep a progress tracker for me: a document, note or file wherever I keep my notes, or in your memory or project if you have one. Save this block there too, so future sessions follow the same plan. The tracker has one checkbox per book, in the order below. When we finish {{ .Title }}, tick it and fill in my starting score, my final score (both out of 10) and the date. If I have no tracker yet, offer to start one from this list. If you can't save documents, give me the updated list at the end of the session so I can keep it myself.
-
-{{ range (where site.RegularPages "Section" "books").ByWeight -}}
-- [ ] {{ .Title }} (start: _/10, final: _/10, date: _)
-{{ end -}}
+This session is one part of a larger plan to study all 66 books of the Bible, one at a time; the full instructions are at {{ "llms.txt" | absURL }}. Keep a progress tracker for me (in my notes, or your memory or project): one checkbox per book with my starting and final scores, plus a short entry per book, as in the tracker template at {{ replace site.Params.skillURL "SKILL.md" "tracker-template.md" }}. When we finish {{ .Title }}, update it; if you can't save it, give me the update at the end.
 </memory>
 
 <notes>
