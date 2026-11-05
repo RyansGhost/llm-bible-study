@@ -71,6 +71,8 @@ site/                                Hugo site; mounts the books folder above as
 
 The top of `llms.txt` links to `SKILL.md` and copies its session steps, rating scale, rules and tracker sections word for word at build time. Edit them in `SKILL.md`, and the site follows. Keep those sections free of relative links other than `sources.md` and `tracker-template.md`, or the build stops with an error.
 
+The site also publishes the skill's `SKILL.md` and `tracker-template.md` at its root (`/SKILL.md`, `/tracker-template.md`), with `SKILL.md`'s links rewritten to absolute site URLs. These are the links `llms.txt` and the study guides use: some AI fetch tools won't open raw.githubusercontent.com. If a link in `SKILL.md` can't be resolved, the build stops with an error.
+
 ## Writing a book's notes
 
 Every book file uses the same headings: Summary, Setting, Structure, Chapter by chapter, Key people, Key events, Themes, How it points to Christ, Common mix-ups, Going deeper, Q&A, Sources, and Changelog. That way the AI can find the same thing in any book. `06-joshua.md` is the worked example. Follow the citation rules in [`AGENTS.md`](AGENTS.md); `CLAUDE.md` imports it for Claude Code.

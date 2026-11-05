@@ -7,9 +7,11 @@ disableKinds = ["taxonomy", "term"]
 [params]
   description = "Structured, well-grounded Bible study with an AI language model: learn each book of the Bible, its major people and themes, and its morals and lessons, from Reformed sources."
   repo = "https://github.com/RyansGhost/llm-bible-study"
-  # Raw SKILL.md on the default branch: plain text that any AI can read, and
-  # its relative links (books/, sources.md, tracker-template.md) still resolve.
-  skillURL = "https://raw.githubusercontent.com/RyansGhost/llm-bible-study/master/plugin/skills/bible-study/SKILL.md"
+  # The skill's SKILL.md, published at the site root by _partials/publish-skill.html
+  # with its links made absolute, beside /tracker-template.md. Same domain as
+  # llms.txt: some AI fetch tools refuse raw.githubusercontent.com. The build
+  # stops if the published URL ever differs from this one.
+  skillURL = "https://llm-bible-study.ryanfleck.ca/SKILL.md"
 
 # The book files live inside the Claude skill, so they are written once and
 # used by both the skill and this site. Declaring any mount replaces Hugo's
@@ -27,14 +29,15 @@ disableKinds = ["taxonomy", "term"]
     target = "content"
     files = ["sources.md"]
   # The skill's SKILL.md is also read as an asset, so llms.txt can quote its
-  # teaching method word for word. Re-list the default assets mount too.
+  # teaching method word for word, and it and tracker-template.md are published
+  # at the site root. Re-list the default assets mount too.
   [[module.mounts]]
     source = "assets"
     target = "assets"
   [[module.mounts]]
     source = "../plugin/skills/bible-study"
     target = "assets/skill"
-    files = ["SKILL.md"]
+    files = ["SKILL.md", "tracker-template.md"]
 
 # Allow the footer to read Cloudflare Pages' build variables (commit and branch).
 [security.funcs]

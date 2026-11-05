@@ -1,0 +1,29 @@
+{{- /* Publishes the skill's SKILL.md and tracker-template.md at the site root
+     (/SKILL.md, /tracker-template.md), so tutors can open them from the same
+     domain as llms.txt. SKILL.md's links are written for the skill folder
+     (books/06-joshua.md, sources.md, tracker-template.md), so they are rewritten
+     to absolute site URLs: each book's index.md, the Sources page's index.md and
+     /tracker-template.md. Called once, from home.llms.txt; it outputs nothing.
+     The build stops if a relative link is left or the URL isn't skillURL. */ -}}
+{{- $skill := resources.Get "skill/SKILL.md" -}}
+{{- $tracker := resources.Get "skill/tracker-template.md" -}}
+{{- if not (and $skill $tracker) }}{{ errorf "publish-skill: skill/SKILL.md or skill/tracker-template.md not found; check the assets mount in hugo.toml" }}{{ end -}}
+{{- $trackerURL := ($tracker | resources.Copy "tracker-template.md").Permalink -}}
+{{- $text := $skill.Content -}}
+{{- range where site.RegularPages "Section" "books" -}}
+  {{- $md := .OutputFormats.Get "markdown" -}}
+  {{- with .File -}}
+    {{- $text = replace $text (printf "](books/%s)" .LogicalName) (printf "](%s)" $md.Permalink) -}}
+  {{- end -}}
+{{- end -}}
+{{- with site.GetPage "/sources" -}}
+  {{- $text = replace $text "](sources.md)" (printf "](%s)" (.OutputFormats.Get "markdown").Permalink) -}}
+{{- end -}}
+{{- $text = replace $text "](tracker-template.md)" (printf "](%s)" $trackerURL) -}}
+{{- with findRE `\]\([^)h#][^)]*\)` $text -}}
+  {{- errorf "publish-skill: SKILL.md has links the site copy can't resolve: %v" . -}}
+{{- end -}}
+{{- $out := resources.FromString "SKILL.md" $text -}}
+{{- if ne $out.Permalink site.Params.skillURL -}}
+  {{- errorf "publish-skill: SKILL.md publishes at %s but skillURL in hugo.toml is %s" $out.Permalink site.Params.skillURL -}}
+{{- end -}}

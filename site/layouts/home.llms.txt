@@ -1,3 +1,4 @@
+{{- partial "publish-skill.html" . -}}
 # {{ site.Title }}
 
 > {{ site.Params.description }}
@@ -27,6 +28,6 @@ The notes are written in our own words from Reformation and Reformed sources, Sc
 ## Optional
 
 - [bible-study skill (SKILL.md)]({{ site.Params.skillURL }}): the complete teaching method, with the rating scale, rules and tracker instructions
-- [Tracker template](https://raw.githubusercontent.com/RyansGhost/llm-bible-study/master/plugin/skills/bible-study/tracker-template.md): layout for a learner's progress tracker
+- [Tracker template]({{ replace site.Params.skillURL "SKILL.md" "tracker-template.md" }}): layout for a learner's progress tracker
 - [Source code](https://github.com/RyansGhost/llm-bible-study): install the bible-study skill for Claude Code or the Claude app
 - [About]({{ with site.GetPage "/about" }}{{ (.OutputFormats.Get "markdown").Permalink }}{{ end }}): why the site exists, how the notes are made, and who is behind it
