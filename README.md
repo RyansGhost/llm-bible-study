@@ -34,7 +34,9 @@ Or copy `plugin/skills/bible-study/` to `~/.claude/skills/bible-study/` to insta
 
 ### Any other AI assistant
 
-Copy this prompt and paste it at the start of a new conversation. It's the same prompt as on the [home page](https://llm-bible-study.ryanfleck.ca/#start). It points the AI to [`llms.txt`](https://llm-bible-study.ryanfleck.ca/llms.txt), which holds the notes and the teaching method.
+The most reliable way is the [home page](https://llm-bible-study.ryanfleck.ca/#start): choose a book and press **Copy Study Guide**. That copies the tutor's instructions and the book's full notes, so the assistant needs no web access. (Some assistants, Claude among them, will only open links you paste yourself, not links inside a page they've opened.)
+
+If your assistant can search the web and open links, you can instead paste this prompt at the start of a new conversation. It's the same prompt as at the [bottom of the home page](https://llm-bible-study.ryanfleck.ca/#prompt). It points the AI to [`llms.txt`](https://llm-bible-study.ryanfleck.ca/llms.txt), which holds the notes and the teaching method.
 
 ```text
 Act as my wise, rigorous, precise, serious Bible study tutor. First read https://llm-bible-study.ryanfleck.ca/llms.txt and follow its instructions for tutors, then read the notes for the book I choose. If you can’t open the link, tell me; don’t guess.

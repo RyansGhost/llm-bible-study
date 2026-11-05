@@ -37,22 +37,26 @@
   function setup(box) {
     var btn = box.querySelector(".prompt-copy");
     var src = box.querySelector(".prompt-source");
-    var url = box.getAttribute("data-copy-url");
-    var body = box.querySelector(".prompt-body");
+    // .guide-copy boxes fetch their text from data-copy-url, read at click time
+    // because the home page's book picker changes it.
+    var isGuide = box.classList.contains("guide-copy");
+    var pick = box.querySelector(".guide-pick");
+    var body = isGuide ? null : box.querySelector(".prompt-body");
     var label = box.querySelector(".prompt-copy-text");
     var status = box.querySelector(".prompt-status");
-    if (!btn || !(src || url) || !label || btn.getAttribute("data-ready")) return;
+    if (!btn || !(src || isGuide) || !label || btn.getAttribute("data-ready")) return;
     btn.setAttribute("data-ready", "1");
     var original = label.textContent;
-    var what = box.getAttribute("data-copied") || "Prompt";
     var timer;
 
     function finish(ok) {
       btn.classList.toggle("is-copied", ok);
       label.textContent = ok ? "Copied!" : (body ? "Select and copy" : "Couldn't copy");
+      var what = box.getAttribute("data-copied") || "Prompt";
       if (status) status.textContent = ok ? what + " copied to clipboard." :
         (body ? "Couldn't copy automatically. The text is selected; press Ctrl+C or Cmd+C."
-              : "Couldn't copy automatically. Use View as markdown and copy the page.");
+         : pick ? "Couldn't copy automatically. Open the book's page from the list below and use its Copy Study Guide button."
+         : "Couldn't copy automatically. Use View as markdown and copy the page.");
       if (!ok && body) selectText(body);
       clearTimeout(timer);
       timer = setTimeout(function () {
@@ -66,8 +70,8 @@
     // never sits in the page's HTML. Passing a promise to ClipboardItem keeps the
     // click's permission in Safari while the request runs; browsers without
     // ClipboardItem (older Firefox) wait for the text and then use writeText.
-    function copyFromUrl() {
-      if (btn.getAttribute("aria-busy") === "true") return;
+    function copyFromUrl(url) {
+      if (!url || btn.getAttribute("aria-busy") === "true") return;
       btn.setAttribute("aria-busy", "true");
       var done = function (ok) { btn.removeAttribute("aria-busy"); finish(ok); };
       var text = fetch(url, { credentials: "same-origin" }).then(function (r) {
@@ -92,7 +96,7 @@
     }
 
     btn.addEventListener("click", function () {
-      if (url) { copyFromUrl(); return; }
+      if (isGuide) { copyFromUrl(box.getAttribute("data-copy-url")); return; }
       var text = src.value;
       if (navigator.clipboard && window.isSecureContext) {
         navigator.clipboard.writeText(text).then(
@@ -103,7 +107,40 @@
         finish(legacyCopy(text));
       }
     });
+    if (pick) setupPicker(box, pick, btn);
     btn.hidden = false;
+  }
+
+  // Home page book picker: choosing a book points the box at that book's
+  // index-for-copy.md and enables the button. ?book=<slug> preselects a book;
+  // otherwise the last choice is remembered in this browser (a convenience only).
+  var PICK_KEY = "bible-study:book";
+  function setupPicker(box, pick, btn) {
+    function choose() {
+      var opt = pick.options[pick.selectedIndex];
+      var url = pick.value;
+      if (url) {
+        box.setAttribute("data-copy-url", url);
+        box.setAttribute("data-copied", (opt.getAttribute("data-title") || "Study") + " study guide");
+        btn.setAttribute("aria-label", "Copy the " + (opt.getAttribute("data-title") || "") + " study guide");
+      } else {
+        box.removeAttribute("data-copy-url");
+      }
+      btn.disabled = !url;
+      try { if (url) localStorage.setItem(PICK_KEY, opt.getAttribute("data-slug") || ""); } catch (e) {}
+    }
+    var want = null;
+    try { want = new URLSearchParams(location.search).get("book"); } catch (e) {}
+    if (!want) { try { want = localStorage.getItem(PICK_KEY); } catch (e) {} }
+    if (want) {
+      for (var i = 0; i < pick.options.length; i++) {
+        if (pick.options[i].getAttribute("data-slug") === want) { pick.selectedIndex = i; break; }
+      }
+    }
+    pick.addEventListener("change", choose);
+    choose();
+    var row = box.querySelector(".guide-pick-row");
+    if (row) row.hidden = false;
   }
 
   function init() {

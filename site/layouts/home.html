@@ -13,14 +13,30 @@
     </p>
   </div>
 </section>
+{{- /* The last section of content/_index.md ("Prefer a prompt?", heading id "prompt")
+     is shown after the book list, at the very bottom of the page. Everything before
+     it stays above the list. If the heading is missing, all content goes above. */}}
+{{- $content := string .Content }}
+{{- $tail := "" }}
+{{- with findRE `(?s)<h2 id="prompt".*$` $content 1 }}
+{{- $tail = index . 0 }}
+{{- $content = replace $content $tail "" }}
+{{- end }}
 <div class="wrap">
   <article class="prose home-prose">
-    {{ .Content }}
+    {{ $content | safeHTML }}
   </article>
 </div>
 <div class="wrap books" id="books">
   {{ partial "book-list.html" . }}
 </div>
+{{- with $tail }}
+<div class="wrap">
+  <article class="prose home-prose home-tail">
+    {{ . | safeHTML }}
+  </article>
+</div>
+{{- end }}
 {{- /* The flip-clock and copy-button scripts are inlined: no separate file means nothing to 404,
      fail an integrity check, or be blocked by URL. data-cfasync="false" stops
      Cloudflare Rocket Loader rewriting the tag. */}}

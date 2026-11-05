@@ -167,6 +167,21 @@ a:hover { color: var(--olive); }
 .prompt-copy:focus-visible { outline: 2px solid var(--btn-ghost); outline-offset: 3px; }
 .prompt-copy .icon-check, .prompt-copy.is-copied .icon-copy { display: none; }
 .prompt-copy.is-copied .icon-check { display: inline; }
+/* Home page book picker (layouts/_shortcodes/guide-picker.html) */
+.guide-picker .prompt-body { padding-top: 1rem; padding-bottom: 1rem; }
+.guide-pick-row { display: flex; flex-wrap: wrap; align-items: center; gap: 0.6rem 0.75rem; }
+.guide-pick-row[hidden] { display: none; }
+.guide-pick-label { font-size: 0.75rem; font-weight: 800; letter-spacing: 0.12em; text-transform: uppercase; color: var(--muted); }
+.guide-pick {
+  flex: 1 1 12rem; min-width: 0; max-width: 20rem;
+  padding: 0.6rem 0.7rem; font: inherit; font-size: 1rem;
+  color: var(--text); background: var(--bg); border: 1px solid var(--line);
+}
+.guide-pick:focus-visible { outline: 2px solid var(--btn-ghost); outline-offset: 2px; }
+.guide-picker .prompt-copy[disabled] { opacity: 0.45; cursor: not-allowed; }
+.guide-pick-help { margin: 0.85rem 0 0; color: var(--muted); font-size: 0.95rem; }
+.home-tail { padding-top: 0; }
+
 /* Book page "Copy … Study Guide Markdown" button (layouts/page.html) */
 .guide-copy { margin: 0 0 1.5rem; }
 .guide-copy .prompt-copy { white-space: normal; text-align: left; line-height: 1.4; }

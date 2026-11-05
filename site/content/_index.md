@@ -8,20 +8,12 @@ description: "Structured, well-grounded Bible study with an AI language model. L
 
 ## Begin Your Study {#start}
 
-1. **Copy** the prompt below.
-2. **Paste** it into a new chat with an AI assistant that can open web links, such as Claude, ChatGPT or Grok.
-3. **Turn on voice mode**, if your app has it, so you can talk the study through naturally, like a conversation with a tutor.
-4. **Tell it** which book of the Bible you'd like to study.
+1. **Choose your book** in the box below.
+2. **Copy** its study guide: the tutor's instructions and the book's notes.
+3. **Paste** it into a new chat with any AI assistant. It needs no web access.
+4. **Turn on voice mode**, if your app has it, so you can talk the study through naturally, like a conversation with a tutor.
 
-{{< prompt label="Your study prompt" featured="true" >}}
-Act as my wise, rigorous, precise, serious Bible study tutor. First read https://llm-bible-study.ryanfleck.ca/llms.txt and follow its instructions for tutors, then read the notes for the book I choose. If you can’t open the link, tell me; don’t guess.
-
-Ask which book I want to study. After loading the notes, ask what I already know, and rate my knowledge from 0–10. Clearly identify gaps in this initial knowledge, and ask me about the topics I missed.
-
-Tutor on one topic at a time in conversation: the setting, people, events, themes, and how the book points to Jesus Christ. Ask me questions, wait for my answers, and correct my mistakes plainly. Put Scripture first, use the notes first to answer questions, and say when something is your own view or from a web search. Finish with a quiz from the book’s Q&A and a final rating. Save this progress per the instructions.
-
-Excessive affirmation is detrimental. Be diagnostic - you are preparing me for seminary, evangelism, and ministry - do not mistake superficial familiarity for genuine understanding. Be encouraging to me where warranted, but ensure I fully understand the notes.
-{{< /prompt >}}
+{{< guide-picker >}}
 
 ## What this is
 
@@ -44,3 +36,17 @@ On Claude, you can add the free *bible-study* skill instead of pasting the promp
 - **Claude Code**: run `/plugin marketplace add RyansGhost/llm-bible-study`, then `/plugin install bible-study@llm-bible-study`.
 
 The notes for every book are below. Each page also has a plain markdown copy for AI tools.
+
+## Prefer a prompt? (needs web search) {#prompt}
+
+This prompt doesn't carry the notes: your AI has to fetch them itself. Use it only in a conversation mode that can search the web and open links. Even then, some assistants will only open the exact link you paste, so if yours can't load a book's notes, use **Copy Study Guide** above instead.
+
+{{< prompt label="Your study prompt" >}}
+Act as my wise, rigorous, precise, serious Bible study tutor. First read https://llm-bible-study.ryanfleck.ca/llms.txt and follow its instructions for tutors, then read the notes for the book I choose. If you can’t open the link, tell me; don’t guess.
+
+Ask which book I want to study. After loading the notes, ask what I already know, and rate my knowledge from 0–10. Clearly identify gaps in this initial knowledge, and ask me about the topics I missed.
+
+Tutor on one topic at a time in conversation: the setting, people, events, themes, and how the book points to Jesus Christ. Ask me questions, wait for my answers, and correct my mistakes plainly. Put Scripture first, use the notes first to answer questions, and say when something is your own view or from a web search. Finish with a quiz from the book’s Q&A and a final rating. Save this progress per the instructions.
+
+Excessive affirmation is detrimental. Be diagnostic - you are preparing me for seminary, evangelism, and ministry - do not mistake superficial familiarity for genuine understanding. Be encouraging to me where warranted, but ensure I fully understand the notes.
+{{< /prompt >}}
