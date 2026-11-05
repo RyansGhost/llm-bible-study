@@ -58,7 +58,7 @@ plugin/
   .claude-plugin/plugin.json         the "bible-study" plugin
   skills/bible-study/                the skill; this folder alone is the release zip
     SKILL.md                         session steps, rating scale, rules, book index
-    sources.md                       approved sources and citation rules
+    sources.md                       approved sources and their abbreviations
     books/01-genesis.md … 66-revelation.md
 site/                                Hugo site; mounts the books folder above as content/books;
                                      llms.txt quotes SKILL.md's method (steps to tracker)
@@ -69,7 +69,7 @@ The top of `llms.txt` links to `SKILL.md` and copies its session steps, rating s
 
 ## Writing a book's notes
 
-Every book file uses the same headings: Summary, Setting, Structure, Chapter by chapter, Key people, Key events, Themes, How it points to Christ, Common mix-ups, Going deeper, Q&A, Sources, and Changelog. That way the AI can find the same thing in any book. `06-joshua.md` is the worked example.
+Every book file uses the same headings: Summary, Setting, Structure, Chapter by chapter, Key people, Key events, Themes, How it points to Christ, Common mix-ups, Going deeper, Q&A, Sources, and Changelog. That way the AI can find the same thing in any book. `06-joshua.md` is the worked example. Follow the citation rules in [`AGENTS.md`](AGENTS.md); `CLAUDE.md` imports it for Claude Code.
 
 - Write in your own words. Don't copy study Bible introductions or notes: that text is copyrighted.
 - Cite every source by section: the study Bible introduction and its section headings, a commentary's chapter, a Ligonier URL, or chapter and verse. Page numbers aren't needed.

@@ -57,7 +57,7 @@ python3 tools/epub_index.py search "scarlet cord"
 
 ## 3. Write the note
 
-Fill in the book file's template headings: Summary, Setting, Structure, Chapter by chapter, Key people, Key events, Themes, How it points to Christ, Common mix-ups, Going deeper, Q&A, Sources, and Changelog. Follow `plugin/skills/bible-study/sources.md`:
+Fill in the book file's template headings: Summary, Setting, Structure, Chapter by chapter, Key people, Key events, Themes, How it points to Christ, Common mix-ups, Going deeper, Q&A, Sources, and Changelog. Follow the citation rules in [`AGENTS.md`](../AGENTS.md) and the sources in `plugin/skills/bible-study/sources.md`:
 
 - **Own words.** Summarise; never copy study Bible introductions or notes. Quote only short phrases, in quotation marks, with the author named.
 - **Source order.** Scripture first, then the confessions, study Bibles, and commentaries. Every key event and theme gets chapter and verse.
