@@ -57,6 +57,14 @@ disableKinds = ["taxonomy", "term"]
     isPlainText = true
     baseName = "llms"
     notAlternative = true
+  # books/<book>/index-for-copy.md: the study prompt in <instructions> and the notes in
+  # <notes>, fetched by the book page's copy button (layouts/page.copy.md). Enabled for
+  # the book pages only, by the cascade in content/books/_index.md.
+  [outputFormats.copy]
+    mediaType = "text/markdown"
+    isPlainText = true
+    baseName = "index-for-copy"
+    notAlternative = true
 
 [outputs]
   home = ["HTML", "RSS", "llms"]
