@@ -28,13 +28,6 @@ This project gives the AI a **structure** and a **foundation**. It's for ordinar
 
 It works spoken aloud as well as typed, so you can study on a commute.
 
-## Using Claude? Add the skill {#claude}
-
-On Claude, you can add the free *bible-study* skill instead of pasting the prompt. It carries the same method and notes. Then say "Let's study Genesis."
-
-- **Claude app** (web, desktop or mobile): download [bible-study.zip](https://github.com/RyansGhost/llm-bible-study/releases/latest/download/bible-study.zip). Then go to *Customize → Skills*, click **+**, then **Create skill → Upload a skill**, and choose the zip. Code execution must be turned on.
-- **Claude Code**: run `/plugin marketplace add RyansGhost/llm-bible-study`, then `/plugin install bible-study@llm-bible-study`.
-
 The notes for every book are below. Each page also has a plain markdown copy for AI tools.
 
 ## Prefer a prompt? (needs web search) {#prompt}
@@ -50,3 +43,10 @@ Tutor on one topic at a time in conversation: the setting, people, events, theme
 
 Excessive affirmation is detrimental. Be diagnostic - you are preparing me for seminary, evangelism, and ministry - do not mistake superficial familiarity for genuine understanding. Be encouraging to me where warranted, but ensure I fully understand the notes.
 {{< /prompt >}}
+
+## Using Claude? Add the skill {#claude}
+
+On Claude, you can add the free *bible-study* skill instead of pasting a study guide or the prompt. It carries the same method and notes. Then say "Let's study Genesis."
+
+- **Claude app** (web, desktop or mobile): download [bible-study.zip](https://github.com/RyansGhost/llm-bible-study/releases/latest/download/bible-study.zip). Then go to *Customize → Skills*, click **+**, then **Create skill → Upload a skill**, and choose the zip. Code execution must be turned on.
+- **Claude Code**: run `/plugin marketplace add RyansGhost/llm-bible-study`, then `/plugin install bible-study@llm-bible-study`.
