@@ -258,6 +258,11 @@ a:hover { color: var(--olive); }
   border: 1px solid currentColor; color: var(--muted);
 }
 .status-note.status-draft { color: var(--clay); }
+/* Book page: the review label and copy button sit side by side under the title */
+.page-layout .prose h1 { font-size: clamp(2.5rem, 6vw, 3.4rem); margin-bottom: 1rem; }
+.book-badges { display: flex; flex-wrap: wrap; align-items: stretch; gap: 0.6rem; margin: 0 0 2rem; }
+.book-badges .status-note, .book-badges .guide-copy { margin: 0; }
+.book-badges .status-note { display: inline-flex; align-items: center; }
 
 .toc { font-size: 0.9rem; }
 .toc ul { list-style: none; margin: 0; padding: 0; }
