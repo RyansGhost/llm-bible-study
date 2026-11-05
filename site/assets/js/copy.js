@@ -1,5 +1,8 @@
-// "Copy prompt" buttons for the prompt boxes (layouts/_shortcodes/prompt.html).
-// Plain JavaScript, no libraries; inlined into the home page like flip.js.
+// Copy buttons: the home page's prompt boxes (layouts/_shortcodes/prompt.html)
+// and each book page's "Copy … Study Guide Markdown" button (layouts/page.html).
+// A box holds the button, a hidden .prompt-source textarea with the exact text,
+// and an optional .prompt-body to select if copying fails. data-copied names
+// what was copied for screen readers. Plain JavaScript, no libraries; inlined.
 (function () {
   "use strict";
 
@@ -40,12 +43,15 @@
     if (!btn || !src || !label || btn.getAttribute("data-ready")) return;
     btn.setAttribute("data-ready", "1");
     var original = label.textContent;
+    var what = box.getAttribute("data-copied") || "Prompt";
     var timer;
 
     function finish(ok) {
       btn.classList.toggle("is-copied", ok);
-      label.textContent = ok ? "Copied!" : "Select and copy";
-      if (status) status.textContent = ok ? "Prompt copied to clipboard." : "Couldn't copy automatically. The prompt is selected; press Ctrl+C or Cmd+C.";
+      label.textContent = ok ? "Copied!" : (body ? "Select and copy" : "Couldn't copy");
+      if (status) status.textContent = ok ? what + " copied to clipboard." :
+        (body ? "Couldn't copy automatically. The text is selected; press Ctrl+C or Cmd+C."
+              : "Couldn't copy automatically. Use View as markdown and copy the page.");
       if (!ok && body) selectText(body);
       clearTimeout(timer);
       timer = setTimeout(function () {
@@ -70,7 +76,7 @@
   }
 
   function init() {
-    var boxes = document.querySelectorAll(".prompt");
+    var boxes = document.querySelectorAll(".prompt, .guide-copy");
     for (var i = 0; i < boxes.length; i++) setup(boxes[i]);
   }
 

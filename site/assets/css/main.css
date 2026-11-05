@@ -87,6 +87,9 @@ a:hover { color: var(--olive); }
 }
 .eyebrow a { color: inherit; text-decoration: none; }
 .eyebrow a:hover { color: var(--olive); }
+/* the book-page eyebrow wraps between items, never inside a word */
+.prose > .eyebrow { flex-wrap: wrap; row-gap: 0.35rem; }
+.eyebrow a { overflow-wrap: normal; }
 
 /* Header */
 .site-header { background: var(--cream); border-bottom: 1px solid var(--line); }
@@ -164,6 +167,10 @@ a:hover { color: var(--olive); }
 .prompt-copy:focus-visible { outline: 2px solid var(--btn-ghost); outline-offset: 3px; }
 .prompt-copy .icon-check, .prompt-copy.is-copied .icon-copy { display: none; }
 .prompt-copy.is-copied .icon-check { display: inline; }
+/* Book page "Copy … Study Guide Markdown" button (layouts/page.html) */
+.guide-copy { margin: 0 0 1.5rem; }
+.guide-copy .prompt-copy { white-space: normal; text-align: left; line-height: 1.4; }
+@media print { .guide-copy { display: none; } }
 .prompt-body { padding: 0.25rem 1.25rem 0.5rem; font-size: 1rem; overflow-wrap: anywhere; }
 .prompt-body p { margin: 0.85rem 0; }
 .home-prose .prompt-body ol { list-style: decimal; padding-left: 1.4rem; }
