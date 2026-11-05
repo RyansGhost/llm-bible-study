@@ -117,7 +117,11 @@ a:hover { color: var(--olive); }
 /* Hero */
 .hero { background: var(--cream); padding: 4rem 0 3.5rem; text-align: center; }
 .hero h1 { font-size: clamp(2.25rem, 5vw, 3rem); margin: 0 0 1rem; }
-.hero .lead, .hero .lead p { font-size: 1.15rem; color: var(--text); margin: 0 auto 0.75rem; }
+.hero .lead, .hero .lead p {
+  font-family: var(--font-serif); font-style: italic;
+  font-size: clamp(1.15rem, 2.4vw, 1.35rem); line-height: 1.45;
+  color: var(--text); margin: 0 auto 0.75rem;
+}
 
 .hero-actions { display: flex; gap: 0.75rem; justify-content: center; flex-wrap: wrap; margin: 1.75rem 0 0; }
 /* Button colours, chosen for at least 4.5:1 text contrast (WCAG AA) in both themes */
