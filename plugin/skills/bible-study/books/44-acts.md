@@ -16,21 +16,21 @@ Acts continues the story Luke began: what the risen Jesus kept doing through his
 
 ## Setting
 
-- **When:** from Jesus' ascension (about AD 30–33) to Paul's two years under house arrest in Rome (about AD 60–62). Cara describes it as a theological interpretation of the church's first three decades. The Reformation Study Bible dates the writing before AD 70, probably in the early 60s: it ends with Paul preaching freely in Rome, before Nero blamed Christians for the fire of AD 64, says nothing of Paul's death (about AD 68), and still portrays Rome as fair to Christians. Arguments for dates after AD 80 rest largely on supposed borrowing from Josephus, which doesn't hold up.
+- **When:** from Jesus' ascension (about AD 30–33) to Paul's two years under house arrest in Rome (about AD 60–62). Cara[^btn] describes it as a theological interpretation of the church's first three decades. The *Reformation Study Bible*[^rsb] dates the writing before AD 70, probably in the early 60s: it ends with Paul preaching freely in Rome, before Nero blamed Christians for the fire of AD 64, says nothing of Paul's death (about AD 68), and still portrays Rome as fair to Christians. Arguments for dates after AD 80 rest largely on supposed borrowing from Josephus, which doesn't hold up.
 - **Where:** Jerusalem, Judea and Samaria, Syria (Antioch), Asia Minor, Greece and Macedonia, the islands of Cyprus, Crete and Malta, and finally Rome.
-- **Who wrote it:** Luke, Paul's Gentile companion, author of the Gospel of Luke. The "we" passages (16:10–17; 20:5–21:18; 27:1–28:16) show him travelling with Paul. Written to Theophilus (1:1), perhaps Luke's patron. Irenaeus, Clement of Alexandria, the Muratorian Canon and Eusebius all name Luke, an educated Gentile writing polished Greek, who drew on his own travels and on eyewitnesses. Cara holds this traditional view.
-- **Where it sits:** the only history book of the New Testament, the bridge between the Gospels and the letters. Cara notes a longer "Western" version of the Greek text (about 8.5% longer) that modern translations don't follow.
+- **Who wrote it:** Luke, Paul's Gentile companion, author of the Gospel of Luke. The "we" passages (16:10–17; 20:5–21:18; 27:1–28:16) show him travelling with Paul. Written to Theophilus (1:1), perhaps Luke's patron. Irenaeus, Clement of Alexandria, the Muratorian Canon and Eusebius all name Luke, an educated Gentile writing polished Greek, who drew on his own travels and on eyewitnesses. Cara[^btn] holds this traditional view.
+- **Where it sits:** the only history book of the New Testament, the bridge between the Gospels and the letters. Cara[^btn] notes a longer "Western" version of the Greek text (about 8.5% longer) that modern translations don't follow.
 
 ## Structure
 
-The Reformation Study Bible's outline follows the word of the Lord as it spreads:
+The *RSB*'s[^rsb] outline follows the word of the Lord as it spreads:
 
 - 1:1–8:3: The word in Jerusalem
 - 8:4–12:24: The word scattered to Judea and Samaria
 - 13–20: The word to the ends of the earth, part 1: Asia Minor and Greece
 - 21–28: The word to the ends of the earth, part 2: Rome
 
-Accounts of events alternate with summaries of the church's growth (2:42–47; 6:7; 12:24; 19:20), and at least 30% of the book is sermons and speeches, to Jews, Gentiles and mixed audiences. Cara offers two complementary outlines:
+Accounts of events alternate with summaries of the church's growth (2:42–47; 6:7; 12:24; 19:20), and at least 30% of the book is sermons and speeches, to Jews, Gentiles and mixed audiences. Cara[^btn] offers two complementary outlines:
 
 - **By its two main figures:** Peter (1–12) and Paul (13–28), with striking parallels. Both heal a lame man, both preach, and both are freed from prison miraculously. The disciples' story also echoes Jesus' own in Luke: Spirit-anointed preaching, welcome and rejection, and Paul, like Jesus, setting out for Jerusalem knowing suffering awaits (20:22–24).
 - **By the Spirit's outpouring:** following Jesus' program in 1:8, "in Jerusalem and in all Judea and Samaria, and to the end of the earth":
@@ -101,12 +101,12 @@ Accounts of events alternate with summaries of the church's growth (2:42–47; 6
 
 ## Themes
 
-- **What Jesus continued to do:** Luke's Gospel told what Jesus "began to do and teach" (1:1); Acts shows the risen, reigning Lord still at work through his Spirit and his apostles, calling, guiding and saving (2:33; 9:4–6; 16:7, 14). The Reformation Heritage KJV Study Bible (RH) frames the book's purpose this way: to strengthen instructed believers by tracing how the exalted Christ built his church from Jewish Jerusalem to Gentile Rome.
-- **The Holy Spirit:** the Spirit empowers the witness, from Jerusalem to the ends of the earth (1:8). Cara traces the Spirit's coming to Jews, Samaritans and Gentiles. He gives boldness, wisdom, direction, comfort and joy (4:31; 9:31; 13:2; 13:52).
+- **What Jesus continued to do:** Luke's Gospel told what Jesus "began to do and teach" (1:1); Acts shows the risen, reigning Lord still at work through his Spirit and his apostles, calling, guiding and saving (2:33; 9:4–6; 16:7, 14). The *Reformation Heritage KJV Study Bible* (*RH*[^rh]) frames the book's purpose this way: to strengthen instructed believers by tracing how the exalted Christ built his church from Jewish Jerusalem to Gentile Rome.
+- **The Holy Spirit:** the Spirit empowers the witness, from Jerusalem to the ends of the earth (1:8). Cara[^btn] traces the Spirit's coming to Jews, Samaritans and Gentiles. He gives boldness, wisdom, direction, comfort and joy (4:31; 9:31; 13:2; 13:52).
 - **Witness to the risen Christ:** the apostles' central message is that God raised Jesus (2:32; 3:15; 13:30).
 - **The spread of the word:** "the word of God continued to increase and multiply" (12:24), despite opposition.
 - **Jews and Gentiles in one church:** God shows no partiality, and Gentiles are saved by grace through faith without becoming Jews (10:34–35; 15:7–11).
-- **God's plan fulfilled:** events happen "according to the definite plan and foreknowledge of God" (2:23) and in fulfilment of Scripture. Cara notes how Luke connects events with Old Testament fulfilment. God appoints Christ as Judge and appoints people to eternal life (13:48; 17:31), and the blessing promised to all nations through Abraham's offspring is coming true (3:25–26).
+- **God's plan fulfilled:** events happen "according to the definite plan and foreknowledge of God" (2:23) and in fulfilment of Scripture. Cara[^btn] notes how Luke connects events with Old Testament fulfilment. God appoints Christ as Judge and appoints people to eternal life (13:48; 17:31), and the blessing promised to all nations through Abraham's offspring is coming true (3:25–26).
 - **Salvation in Jesus' name alone:** "there is salvation in no one else" (4:12). Luke and Acts use the language of salvation more than the other Gospels.
 - **Suffering and boldness:** persecution, imprisonment and martyrdom don't stop the gospel (4:29–31; 5:41; 14:22).
 - **The life of the church:** the apostles' teaching, fellowship, the breaking of bread, prayer, generosity, and elders (2:42–47; 14:23; 20:28). It is "the church of God" (20:28) and, to outsiders, "the Way" (9:2).
@@ -129,12 +129,12 @@ Acts begins by calling the Gospel of Luke an account of "all that Jesus began to
 
 ## Going deeper
 
-- **Acts 1:8 as a map.** How does the book follow Jesus' outline from Jerusalem to the ends of the earth? Read: Cara, Holy Spirit-Events Outline.
-- **Peter and Paul in parallel.** Cara notes their healings, sermons and prison escapes match. Why might Luke draw these parallels?
+- **Acts 1:8 as a map.** How does the book follow Jesus' outline from Jerusalem to the ends of the earth? Read: Cara[^btn], Holy Spirit-Events Outline.
+- **Peter and Paul in parallel.** Cara[^btn] notes their healings, sermons and prison escapes match. Why might Luke draw these parallels?
 - **Is Acts a pattern for today?** Which events are unique (Pentecost, the apostles' miracles), and which are patterns for the church (preaching, prayer, generosity, elders)? How do Reformed churches answer the questions about tongues and the Spirit?
 - **The Jerusalem council (15).** What was at stake? How did they reach their decision, and what does it say about salvation by grace?
 - **Paul's sermons to different audiences.** Compare his speeches to Jews (13), pagans in Lystra (14) and philosophers in Athens (17). How does he adapt without changing the message?
-- **The longer Western text.** Cara explains this longer version of Acts. What does it show about how the New Testament was copied?
+- **The longer Western text.** Cara[^btn] explains this longer version of Acts. What does it show about how the New Testament was copied?
 
 ## Q&A
 
@@ -180,9 +180,9 @@ Acts begins by calling the Gospel of Luke an account of "all that Jesus began to
 
 ## Sources
 
-- Robert J. Cara, "Acts," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (historical background, historical accuracy, authorship and date, addressee and purposes, the Greek text), Structure and Outline (the Peter-and-Paul outline, the Holy Spirit-events outline).
-- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Acts: Title, Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of Acts, Acts in the Larger Story of the Bible, Christ in Acts, History of Interpretation, Outline.
-- *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to Acts: Authorship, Date, Theme, Purpose, Synopsis, Structure; chapter summaries.
+[^btn]: **BTN**: Robert J. Cara, "Acts," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (historical background, historical accuracy, authorship and date, addressee and purposes, the Greek text), Structure and Outline (the Peter-and-Paul outline, the Holy Spirit-events outline).
+[^rsb]: **RSB**: *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Acts: Title, Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of Acts, Acts in the Larger Story of the Bible, Christ in Acts, History of Interpretation, Outline.
+[^rh]: **RH**: *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to Acts: Authorship, Date, Theme, Purpose, Synopsis, Structure; chapter summaries.
 
 ## Changelog
 

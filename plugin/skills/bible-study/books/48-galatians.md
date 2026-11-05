@@ -12,19 +12,19 @@ status: draft
 
 ## Summary
 
-Galatians is Paul's urgent defence of the gospel of grace. False teachers have persuaded the Galatian believers that Gentile Christians must be circumcised and keep the law of Moses to be truly right with God. Paul calls this "a different gospel" (1:6). He shows that a person is justified by faith in Christ, not by works of the law (2:16). Believers are Abraham's children and God's adopted sons by faith, and the freedom Christ gives is lived out by walking in the Spirit and serving one another in love. Luther loved Galatians so much he called it the letter he was "betrothed" to (quoted in Waters).
+Galatians is Paul's urgent defence of the gospel of grace. False teachers have persuaded the Galatian believers that Gentile Christians must be circumcised and keep the law of Moses to be truly right with God. Paul calls this "a different gospel" (1:6). He shows that a person is justified by faith in Christ, not by works of the law (2:16). Believers are Abraham's children and God's adopted sons by faith, and the freedom Christ gives is lived out by walking in the Spirit and serving one another in love. Luther loved Galatians so much he called it the letter he was "betrothed" to (quoted in Waters[^btn]).
 
 ## Setting
 
-- **When:** debated. Waters explains that the date depends on where "Galatia" was. On the "South Galatian" view, Paul wrote to the churches of his first journey (Pisidian Antioch, Iconium, Lystra, Derbe), perhaps about AD 48–49, before the Jerusalem council. On the "North Galatian" view, Paul wrote to ethnic Galatians further north, about AD 54–55, during his third journey. The Reformation Study Bible notes that the later date puts it near Romans and 2 Corinthians, which share its concerns, but the earlier date fits Acts more easily: Paul's two Jerusalem visits in Galatians (1:18; 2:1–10) match Acts 9 and the famine visit of Acts 11:29–30, and his private meeting with the leaders doesn't look like the council of Acts 15.
-- **RH's view:** the Reformation Heritage KJV Study Bible (RH) prefers the early date, AD 48–49: it reads the Jerusalem visit of 2:1–10 as the famine-relief trip (Acts 11:30), not the council of Acts 15, and Paul's earlier visit (4:13) as his first-journey preaching in southern Galatia.
+- **When:** debated. Waters[^btn] explains that the date depends on where "Galatia" was. On the "South Galatian" view, Paul wrote to the churches of his first journey (Pisidian Antioch, Iconium, Lystra, Derbe), perhaps about AD 48–49, before the Jerusalem council. On the "North Galatian" view, Paul wrote to ethnic Galatians further north, about AD 54–55, during his third journey. The *Reformation Study Bible*[^rsb] notes that the later date puts it near Romans and 2 Corinthians, which share its concerns, but the earlier date fits Acts more easily: Paul's two Jerusalem visits in Galatians (1:18; 2:1–10) match Acts 9 and the famine visit of Acts 11:29–30, and his private meeting with the leaders doesn't look like the council of Acts 15.
+- **RH's view:** the *Reformation Heritage KJV Study Bible* (*RH*[^rh]) prefers the early date, AD 48–49: it reads the Jerusalem visit of 2:1–10 as the famine-relief trip (Acts 11:30), not the council of Acts 15, and Paul's earlier visit (4:13) as his first-journey preaching in southern Galatia.
 - **Where:** the Roman province of Galatia, in central Asia Minor (modern Turkey).
 - **Who wrote it:** Paul, "and all the brothers who are with me" (1:1–2). He wrote the closing in his own large letters (6:11).
-- **Where it sits:** often called the "Magna Carta of Christian freedom". Its themes overlap with Romans. Waters notes we know Paul's opponents only through his responses: they apparently required circumcision and law-keeping of Gentile believers and questioned Paul's authority. The RSB finds three charges behind Paul's answers: that he had defied the Jerusalem apostles (1:11–2:10), that he had clashed with Peter (2:11–14), and that he once preached circumcision himself (5:11). Pressure from nationalist Jews in Judea may have driven them. Already the Galatians were deserting the gospel and quarrelling (1:6; 5:15). Unusually, Paul skips his normal thanksgiving and goes straight to rebuke.
+- **Where it sits:** often called the "Magna Carta of Christian freedom". Its themes overlap with Romans. Waters[^btn] notes we know Paul's opponents only through his responses: they apparently required circumcision and law-keeping of Gentile believers and questioned Paul's authority. The *RSB*[^rsb] finds three charges behind Paul's answers: that he had defied the Jerusalem apostles (1:11–2:10), that he had clashed with Peter (2:11–14), and that he once preached circumcision himself (5:11). Pressure from nationalist Jews in Judea may have driven them. Already the Galatians were deserting the gospel and quarrelling (1:6; 5:15). Unusually, Paul skips his normal thanksgiving and goes straight to rebuke.
 
 ## Structure
 
-The Reformation Study Bible's outline: greeting (1:1–5), the problem of another gospel (1:6–9), Paul's defence of his apostleship (1:10–2:14), his defence of the gospel (2:15–6:10), and his conclusion in his own hand (6:11–18). Many see the shape of an ancient persuasive speech. Waters' outline of Paul's argument:
+The *RSB*'s[^rsb] outline: greeting (1:1–5), the problem of another gospel (1:6–9), Paul's defence of his apostleship (1:10–2:14), his defence of the gospel (2:15–6:10), and his conclusion in his own hand (6:11–18). Many see the shape of an ancient persuasive speech. Waters[^btn]' outline of Paul's argument:
 
 - 1:1–5: Greeting: Paul's apostleship comes from God; Christ gave himself to rescue us
 - 1:6–10: The issue: the Galatians are turning to a different gospel
@@ -62,7 +62,7 @@ The Reformation Study Bible's outline: greeting (1:1–5), the problem of anothe
 
 ## Themes
 
-- **Justification by faith alone:** a person is declared righteous through faith in Christ, not by works of the law (2:16). Waters identifies 2:15–21 as the thesis of the letter.
+- **Justification by faith alone:** a person is declared righteous through faith in Christ, not by works of the law (2:16). Waters[^btn] identifies 2:15–21 as the thesis of the letter.
 - **One gospel:** there is no other gospel, and adding requirements to Christ destroys grace (1:6–9; 5:2–4).
 - **Paul's apostolic authority:** his gospel came directly from Christ (1:11–12).
 - **Promise and law:** the promise to Abraham came first. The law was added as a temporary guardian leading to Christ (3:15–25).
@@ -71,7 +71,7 @@ The Reformation Study Bible's outline: greeting (1:1–5), the problem of anothe
 - **Freedom:** freedom from the law's curse and slavery, not freedom to sin, but to serve one another in love (5:1, 13).
 - **Life in the Spirit:** the fruit of the Spirit against the works of the flesh (5:16–26).
 - **The cross:** Christ bore the law's curse in our place (3:13); his death justifies and also frees us from sin (1:4; 2:20). The cross is Paul's only boast (6:14).
-- **The "New Perspective" debate:** some recent scholars argue that "works of the law" means Jewish identity markers (circumcision, food laws, feasts), so that Galatians is about who belongs to the church rather than how a sinner is saved. The RSB answers that in 3:10–14 Paul plainly means deeds done to gain acceptance with God, and that the Reformation reading stands: justification by faith alone in Christ alone, which then defines the people of God.
+- **The "New Perspective" debate:** some recent scholars argue that "works of the law" means Jewish identity markers (circumcision, food laws, feasts), so that Galatians is about who belongs to the church rather than how a sinner is saved. The *RSB*[^rsb] answers that in 3:10–14 Paul plainly means deeds done to gain acceptance with God, and that the Reformation reading stands: justification by faith alone in Christ alone, which then defines the people of God.
 
 ## How it points to Christ
 
@@ -88,8 +88,8 @@ Galatians is a letter about Christ's sufficiency. He "gave himself for our sins 
 
 ## Going deeper
 
-- **Where was Galatia, and when was the letter written?** Waters sets out the North and South Galatian theories and how each affects the date. How does the answer connect with Acts 15?
-- **Who were the opponents?** Waters reconstructs their teaching from Paul's replies. Why was requiring circumcision "a different gospel" rather than a minor addition?
+- **Where was Galatia, and when was the letter written?** Waters[^btn] sets out the North and South Galatian theories and how each affects the date. How does the answer connect with Acts 15?
+- **Who were the opponents?** Waters[^btn] reconstructs their teaching from Paul's replies. Why was requiring circumcision "a different gospel" rather than a minor addition?
 - **Justification by faith (2:15–21).** How did this passage shape the Reformation? Compare Luther's Commentary on Galatians with Reformed teaching (WCF 11). Here Lutherans and Reformed agree.
 - **What is the law for (3:19–25)?** If not for justification, why was it given? How does Paul's "guardian" image fit the Reformed "uses of the law"?
 - **Freedom and the flesh (5).** How does walking by the Spirit avoid both legalism and licence?
@@ -139,10 +139,11 @@ Galatians is a letter about Christ's sufficiency. He "gave himself for our sins 
 
 ## Sources
 
-- Guy Prentiss Waters, "Galatians," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (location and date, Paul's opponents), Structure and Outline, Message and Theology (the issue, Paul's defence of his apostleship, the thesis, the argument).
 - Martin Luther, *Commentary on Galatians* (1535). Free at [Project Wittenberg](https://www.projectwittenberg.org/pub/resources/text/wittenberg/wittenberg-luther.html). Lutheran source.
-- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Galatians: Title and Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of Galatians, Galatians in the Larger Story of the Bible, Christ in Galatians, History of Interpretation, Outline.
-- *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to Galatians: Authorship, Date, Theme, Purpose, Synopsis; chapter summaries.
+
+[^btn]: **BTN**: Guy Prentiss Waters, "Galatians," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (location and date, Paul's opponents), Structure and Outline, Message and Theology (the issue, Paul's defence of his apostleship, the thesis, the argument).
+[^rsb]: **RSB**: *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Galatians: Title and Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of Galatians, Galatians in the Larger Story of the Bible, Christ in Galatians, History of Interpretation, Outline.
+[^rh]: **RH**: *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to Galatians: Authorship, Date, Theme, Purpose, Synopsis; chapter summaries.
 
 ## Changelog
 

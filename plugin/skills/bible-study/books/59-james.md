@@ -12,18 +12,18 @@ status: draft
 
 ## Summary
 
-James is a practical, punchy letter about living out real faith. It is written to Jewish Christians scattered abroad, facing trials, favouritism, quarrels and the pull of wealth. James calls them to count trials as joy, ask God for wisdom, be doers of the word and not hearers only, refuse to favour the rich over the poor, tame the tongue, humble themselves before God, and wait patiently for the Lord's coming. His best-known teaching is that "faith apart from works is dead" (2:26). Lowe notes the letter can feel like a "stream of consciousness", but it is carefully built and full of theology, with many echoes of Jesus' Sermon on the Mount.
+James is a practical, punchy letter about living out real faith. It is written to Jewish Christians scattered abroad, facing trials, favouritism, quarrels and the pull of wealth. James calls them to count trials as joy, ask God for wisdom, be doers of the word and not hearers only, refuse to favour the rich over the poor, tame the tongue, humble themselves before God, and wait patiently for the Lord's coming. His best-known teaching is that "faith apart from works is dead" (2:26). Lowe[^btn] notes the letter can feel like a "stream of consciousness", but it is carefully built and full of theology, with many echoes of Jesus' Sermon on the Mount.
 
 ## Setting
 
-- **When:** between AD 44, when persecution scattered believers (Acts 12), and James' martyrdom in AD 62. Since it says nothing of the circumcision debate settled at the Jerusalem council (Acts 15), it may be from before AD 49, perhaps the earliest New Testament book (Reformation Study Bible; the Lutheran Study Bible gives about AD 50).
-- **Where:** from Jerusalem, "to the twelve tribes in the Dispersion" (1:1): Jewish Christians living outside Palestine, probably in several congregations (Lowe).
-- **Who wrote it:** James, the brother of Jesus and leader of the Jerusalem church, known as "James the Just". His authority fits the leader who presided at the Jerusalem council (Acts 15:13–21; Gal 1:19). Lowe weighs the arguments for pseudonymity and finds them unconvincing.
+- **When:** between AD 44, when persecution scattered believers (Acts 12), and James' martyrdom in AD 62. Since it says nothing of the circumcision debate settled at the Jerusalem council (Acts 15), it may be from before AD 49, perhaps the earliest New Testament book (*RSB*[^rsb]; the *Lutheran Study Bible*[^lsb] gives about AD 50).
+- **Where:** from Jerusalem, "to the twelve tribes in the Dispersion" (1:1): Jewish Christians living outside Palestine, probably in several congregations (Lowe[^btn]).
+- **Who wrote it:** James, the brother of Jesus and leader of the Jerusalem church, known as "James the Just". His authority fits the leader who presided at the Jerusalem council (Acts 15:13–21; Gal 1:19). Lowe[^btn] weighs the arguments for pseudonymity and finds them unconvincing.
 - **Where it sits:** the first of the letters often called the "General" or "Catholic" Epistles, addressed to a wide audience, much like Jewish leaders' letters to Jews abroad. Its practical wisdom has earned it the name "the New Testament Proverbs". It is very Jewish in flavour, and calls the Christian assembly a "synagogue" (2:2).
 
 ## Structure
 
-Lowe follows Richard Bauckham: chapter 1 introduces almost every theme the rest of the letter expands. The Reformation Study Bible's outline:
+Lowe[^btn] follows Richard Bauckham: chapter 1 introduces almost every theme the rest of the letter expands. The *Reformation Study Bible*'s[^rsb] outline:
 
 - 1: Perseverance: trials, wisdom, rich and poor, temptation, hearing and doing
 - 2: Faith and behaviour: favouritism, and faith shown by works
@@ -62,8 +62,8 @@ Lowe follows Richard Bauckham: chapter 1 introduces almost every theme the rest 
 ## Themes
 
 - **Trials and steadfastness:** testing produces endurance and maturity (1:2–4, 12; 5:7–11).
-- **Wisdom from God:** given generously to those who ask, and shown in peaceable, merciful lives (1:5; 3:13–18). Lowe compares James' teaching on wisdom with Paul's teaching on the Spirit.
-- **The one God who doesn't change:** the Father of lights, with no variation or shadow (1:17). Lowe sets this against the fickle gods of the Greco-Roman world.
+- **Wisdom from God:** given generously to those who ask, and shown in peaceable, merciful lives (1:5; 3:13–18). Lowe[^btn] compares James' teaching on wisdom with Paul's teaching on the Spirit.
+- **The one God who doesn't change:** the Father of lights, with no variation or shadow (1:17). Lowe[^btn] sets this against the fickle gods of the Greco-Roman world.
 - **Hearing and doing:** true faith acts on God's word (1:22–25).
 - **Faith and works:** saving faith is a living faith that shows itself in deeds (2:14–26).
 - **Rich and poor:** no favouritism; God's care for the poor; warnings to the rich (2:1–7; 5:1–6).
@@ -71,16 +71,16 @@ Lowe follows Richard Bauckham: chapter 1 introduces almost every theme the rest 
 - **Humility and prayer:** submit to God, draw near to him, and pray in faith (4:6–10; 5:13–18).
 - **The coming judgment:** James keeps pointing to the Judge at the door as the reason to live rightly (2:12–13; 4:12; 5:9). Those who persevere receive the crown of life (1:12).
 - **A high view of Christ:** James is "a servant of God and of the Lord Jesus Christ" (1:1), setting them side by side, and calls Jesus "the Lord of glory" (2:1).
-- **Real faith or empty religion:** the Reformation Heritage KJV Study Bible (RH) reads the letter as drawing the line between genuine and worthless religion (1:26–27), puncturing the idea that following Christ costs nothing, while encouraging true believers to live close to the Lord.
+- **Real faith or empty religion:** the *Reformation Heritage KJV Study Bible* (*RH*[^rh]) reads the letter as drawing the line between genuine and worthless religion (1:26–27), puncturing the idea that following Christ costs nothing, while encouraging true believers to live close to the Lord.
 
 ## How it points to Christ
 
-James names Jesus only twice: "the Lord Jesus Christ" (1:1) and "our glorious Lord Jesus Christ" (2:1). But the letter is soaked in his teaching. The Lutheran Study Bible lists many parallels with the Sermon on the Mount: joy in trials (Matt 5:12), being doers of the word (Matt 7:24), mercy triumphing over judgment (Matt 5:7), the peacemaker (Matt 5:9), treasures that rot (Matt 6:19), and plain yes and no (Matt 5:37). James awaits "the coming of the Lord", the Judge standing at the door (5:7–9). Every good gift comes from the Father of lights (1:17), and the greatest is that he "brought us forth by the word of truth" (1:18), the new birth through the gospel of Christ.
+James names Jesus only twice: "the Lord Jesus Christ" (1:1) and "our glorious Lord Jesus Christ" (2:1). But the letter is soaked in his teaching. The *LSB*[^lsb] lists many parallels with the Sermon on the Mount: joy in trials (Matt 5:12), being doers of the word (Matt 7:24), mercy triumphing over judgment (Matt 5:7), the peacemaker (Matt 5:9), treasures that rot (Matt 6:19), and plain yes and no (Matt 5:37). James awaits "the coming of the Lord", the Judge standing at the door (5:7–9). Every good gift comes from the Father of lights (1:17), and the greatest is that he "brought us forth by the word of truth" (1:18), the new birth through the gospel of Christ.
 
 ## Common mix-ups
 
-- James and Paul don't contradict each other. Paul is answering the question "How is a sinner made right with God?": by faith alone, apart from works (Rom 3:28). James is answering "What does real faith look like?": it works (2:18). "Justified" in James means shown to be righteous. The Reformation Study Bible notes that the context is the final judgment (2:12–13): a lifetime of works will show at the last day that faith was real, not earn God's verdict. The Reformers' summary: we are justified by faith alone, but the faith that justifies is never alone (WCF 11.2).
-- Luther called James "an epistle of straw" in his 1522 preface. The Lutheran Study Bible explains he was comparing it with Paul's letters, not denying its truth, and he elsewhere called it "a good book" that promotes God's law.
+- James and Paul don't contradict each other. Paul is answering the question "How is a sinner made right with God?": by faith alone, apart from works (Rom 3:28). James is answering "What does real faith look like?": it works (2:18). "Justified" in James means shown to be righteous. The *RSB*[^rsb] notes that the context is the final judgment (2:12–13): a lifetime of works will show at the last day that faith was real, not earn God's verdict. The Reformers' summary: we are justified by faith alone, but the faith that justifies is never alone (WCF 11.2).
+- Luther called James "an epistle of straw" in his 1522 preface. The *LSB*[^lsb] explains he was comparing it with Paul's letters, not denying its truth, and he elsewhere called it "a good book" that promotes God's law.
 - This James is the Lord's brother, not James the son of Zebedee (one of the Twelve), who was martyred in about AD 44 (Acts 12:2).
 - "Faith without works is dead" is James 2:26 (and 2:17).
 - "Resist the devil, and he will flee from you" is James 4:7.
@@ -88,8 +88,8 @@ James names Jesus only twice: "the Lord Jesus Christ" (1:1) and "our glorious Lo
 
 ## Going deeper
 
-- **Faith and works (2:14–26).** Lowe reads James 2 as answering people misusing Paul's language. Compare Romans 4 and James 2 on Abraham. How does WCF 11.2 hold them together?
-- **Luther and James.** Read the Lutheran Study Bible's "Luther on James". What was Luther's worry? How did Reformed theologians such as Calvin handle James?
+- **Faith and works (2:14–26).** Lowe[^btn] reads James 2 as answering people misusing Paul's language. Compare Romans 4 and James 2 on Abraham. How does WCF 11.2 hold them together?
+- **Luther and James.** Read the *LSB*'s[^lsb] "Luther on James". What was Luther's worry? How did Reformed theologians such as Calvin handle James?
 - **Favouritism (2:1–13).** Where might churches today show partiality to the wealthy, influential or attractive?
 - **The tongue (3:1–12).** Why does James give teachers a special warning? What practical steps help tame the tongue?
 - **"If the Lord wills" (4:13–17).** How does this shape the way Christians make plans?
@@ -139,10 +139,10 @@ James names Jesus only twice: "the Lord Jesus Christ" (1:1) and "our glorious Lo
 
 ## Sources
 
-- Bruce A. Lowe, "James," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (authorship and date, occasion and purpose), Structure and Outline (genre, outline), Message and Theology (God, wisdom and change, Paul, faith and works, rich and poor).
-- *The Lutheran Study Bible* (Concordia, 2009), introduction to James: Overview, Luther on James, Challenges for Readers. Lutheran source.
-- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to James: Title and Author, Date and Occasion, Genre and Literary Features, Characteristics and Primary Themes, Theology in James, James in the Larger Story of the Bible, Christ in James, History of Interpretation, Special Issues, Outline.
-- *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to James: Author, Date, Theme, Purpose, Synopsis; chapter summaries.
+[^btn]: **BTN**: Bruce A. Lowe, "James," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (authorship and date, occasion and purpose), Structure and Outline (genre, outline), Message and Theology (God, wisdom and change, Paul, faith and works, rich and poor).
+[^lsb]: **LSB**: *The Lutheran Study Bible* (Concordia, 2009), introduction to James: Overview, Luther on James, Challenges for Readers. Lutheran source.
+[^rsb]: **RSB**: *The Reformation Study Bible* (Reformation Trust, 2015), introduction to James: Title and Author, Date and Occasion, Genre and Literary Features, Characteristics and Primary Themes, Theology in James, James in the Larger Story of the Bible, Christ in James, History of Interpretation, Special Issues, Outline.
+[^rh]: **RH**: *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to James: Author, Date, Theme, Purpose, Synopsis; chapter summaries.
 
 ## Changelog
 

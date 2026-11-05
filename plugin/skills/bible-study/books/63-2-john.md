@@ -12,18 +12,18 @@ status: draft
 
 ## Summary
 
-2 John is a short letter from "the elder" to "the elect lady and her children", most likely a local church and its members. It comes out of the same crisis as 1 John: deceivers who deny that Jesus Christ has come in the flesh are going around the churches. John rejoices that some are walking in the truth, repeats the command to love one another, and warns them to watch themselves. Anyone who doesn't abide in the teaching of Christ doesn't have God. So they mustn't welcome such teachers or support their work. Hill notes that 2 John stresses true doctrine and 3 John stresses love for the brothers, but both themes run through both letters.
+2 John is a short letter from "the elder" to "the elect lady and her children", most likely a local church and its members. It comes out of the same crisis as 1 John: deceivers who deny that Jesus Christ has come in the flesh are going around the churches. John rejoices that some are walking in the truth, repeats the command to love one another, and warns them to watch themselves. Anyone who doesn't abide in the teaching of Christ doesn't have God. So they mustn't welcome such teachers or support their work. Hill[^btn] notes that 2 John stresses true doctrine and 3 John stresses love for the brothers, but both themes run through both letters.
 
 ## Setting
 
-- **When:** late first century, about AD 85–100, near the time of 1 John and probably soon after it (Hill; the Reformation Study Bible suggests the late 90s). It opposes the same false teaching: that Jesus Christ didn't truly come in the flesh.
+- **When:** late first century, about AD 85–100, near the time of 1 John and probably soon after it (Hill[^btn]; the *Reformation Study Bible*[^rsb] suggests the late 90s). It opposes the same false teaching: that Jesus Christ didn't truly come in the flesh.
 - **Where:** probably from Ephesus, to a church in the province of Asia.
-- **Who wrote it:** "the elder" (v. 1). Hill argues that the style and setting connect 1–3 John with John's Gospel, and that the apostle John is the author. Some in the early church, Eusebius among them, wondered whether the "elder" was a different John, but most held to the apostle.
-- **Where it sits:** one of the shortest books in the Bible, the length of a single sheet of papyrus. Hill suggests, as a possibility, that 2 John may have been a cover letter sent with John's Gospel.
+- **Who wrote it:** "the elder" (v. 1). Hill[^btn] argues that the style and setting connect 1–3 John with John's Gospel, and that the apostle John is the author. Some in the early church, Eusebius among them, wondered whether the "elder" was a different John, but most held to the apostle.
+- **Where it sits:** one of the shortest books in the Bible, the length of a single sheet of papyrus. Hill[^btn] suggests, as a possibility, that 2 John may have been a cover letter sent with John's Gospel.
 
 ## Structure
 
-Hill's outline:
+Hill's[^btn] outline:
 
 - vv. 1–3: Greeting
 - vv. 4–7: Walking in truth: love one another, and beware of deceivers
@@ -42,7 +42,7 @@ Hill's outline:
 ## Key people
 
 - **The elder:** the apostle John, writing with authority to a church he loves.
-- **The elect lady and her children:** Hill argues this is a church and its members; the RSB allows that it could also be a Christian woman and her household. Calling them "elect" (vv. 1, 13) reflects God's choosing.
+- **The elect lady and her children:** Hill[^btn] argues this is a church and its members; the *RSB*[^rsb] allows that it could also be a Christian woman and her household. Calling them "elect" (vv. 1, 13) reflects God's choosing.
 - **The elect sister's children:** the members of the church where John is (v. 13).
 - **The deceivers:** false teachers who deny that Jesus Christ has come in the flesh (v. 7).
 
@@ -53,12 +53,12 @@ Hill's outline:
 
 ## Themes
 
-- **Truth:** the word appears five times in the first four verses. Walking in the truth means holding to right belief about Christ; the truth that "abides in us" (v. 2) may even point to Christ himself, who is the truth (John 14:6) (RSB).
+- **Truth:** the word appears five times in the first four verses. Walking in the truth means holding to right belief about Christ; the truth that "abides in us" (v. 2) may even point to Christ himself, who is the truth (John 14:6) (*RSB*[^rsb]).
 - **Love:** the old command to love one another (vv. 5–6; John 13:34).
-- **Obedience:** love means walking according to God's commands (v. 6). Hill shows how truth, love and obedience are bound together.
+- **Obedience:** love means walking according to God's commands (v. 6). Hill[^btn] shows how truth, love and obedience are bound together.
 - **The teaching of Christ:** abiding in it means having both the Father and the Son (v. 9).
 - **Guarding the church:** don't give a platform or support to those who deny Christ (vv. 10–11).
-- **Love and truth together:** the Reformation Heritage KJV Study Bible (RH) gives the theme as love and truth in the elect church, and notes that an apostle could call himself an elder, as Peter did (1 Pet 5:1).
+- **Love and truth together:** the *Reformation Heritage KJV Study Bible* (*RH*[^rh]) gives the theme as love and truth in the elect church, and notes that an apostle could call himself an elder, as Peter did (1 Pet 5:1).
 
 ## How it points to Christ
 
@@ -66,15 +66,15 @@ The test of true teaching is the confession of "the coming of Jesus Christ in th
 
 ## Common mix-ups
 
-- "The elect lady" is most likely a church, not a particular woman (Hill), though some have thought otherwise.
-- The ban on receiving false teachers (v. 10) is about giving them a welcome, platform or support as teachers, likely in a house church (Hill). It isn't a command to be rude to every unbeliever.
+- "The elect lady" is most likely a church, not a particular woman (Hill[^btn]), though some have thought otherwise.
+- The ban on receiving false teachers (v. 10) is about giving them a welcome, platform or support as teachers, likely in a house church (Hill[^btn]). It isn't a command to be rude to every unbeliever.
 - 2 John and 3 John are both from "the elder". 2 John warns against welcoming false teachers, and 3 John urges welcoming true ones.
 - "Antichrist" appears in 2 John 7 as well as 1 John.
 
 ## Going deeper
 
 - **Truth and love (vv. 1–6).** Why does John hold truth and love together? What happens to a church that keeps one without the other?
-- **The elect lady.** Weigh Hill's reasons for reading her as a church. What difference does it make?
+- **The elect lady.** Weigh Hill's[^btn] reasons for reading her as a church. What difference does it make?
 - **"Going on ahead" (v. 9).** What does it look like to "progress" beyond the teaching of Christ? Where do we see this today?
 - **Hospitality and false teaching (vv. 10–11).** How should churches apply this today, for example in who they invite to preach or what they support?
 - **Face to face (v. 12).** What does John's desire to visit say about the limits of letters, and the value of meeting together?
@@ -123,9 +123,9 @@ The test of true teaching is the confession of "the coming of Jesus Christ in th
 
 ## Sources
 
-- Charles E. Hill, "1–3 John," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): 2 John, Background Issues (authorship, audience), Structure and Outline, Message and Theology.
-- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to 2 John: Title and Author, Date and Occasion, Genre and Literary Features, Characteristics and Primary Themes, Theology of 2 John, 2 John in the Larger Story of the Bible, Christ in 2 John, History of Interpretation, Outline.
-- *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to 2 John: Authorship, Date, Theme, Purpose, Synopsis.
+[^btn]: **BTN**: Charles E. Hill, "1–3 John," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): 2 John, Background Issues (authorship, audience), Structure and Outline, Message and Theology.
+[^rsb]: **RSB**: *The Reformation Study Bible* (Reformation Trust, 2015), introduction to 2 John: Title and Author, Date and Occasion, Genre and Literary Features, Characteristics and Primary Themes, Theology of 2 John, 2 John in the Larger Story of the Bible, Christ in 2 John, History of Interpretation, Outline.
+[^rh]: **RH**: *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to 2 John: Authorship, Date, Theme, Purpose, Synopsis.
 
 ## Changelog
 

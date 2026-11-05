@@ -12,18 +12,18 @@ status: draft
 
 ## Summary
 
-Ephesians unfolds God's eternal plan to unite all things in Christ, and the church's place in it. The first half (1–3) praises God for every spiritual blessing in Christ: chosen, adopted, redeemed, sealed by the Spirit. Sinners dead in sin are saved by grace through faith, and Jews and Gentiles are made one new people. The second half (4–6) shows how to "walk in a manner worthy" of that calling: in unity, holiness and love, in marriage, family and work, and standing firm in the armour of God. The church father Chrysostom said Paul entrusted the Ephesians with his deepest thoughts (quoted in Waters).
+Ephesians unfolds God's eternal plan to unite all things in Christ, and the church's place in it. The first half (1–3) praises God for every spiritual blessing in Christ: chosen, adopted, redeemed, sealed by the Spirit. Sinners dead in sin are saved by grace through faith, and Jews and Gentiles are made one new people. The second half (4–6) shows how to "walk in a manner worthy" of that calling: in unity, holiness and love, in marriage, family and work, and standing firm in the armour of God. The church father Chrysostom said Paul entrusted the Ephesians with his deepest thoughts (quoted in Waters[^btn]).
 
 ## Setting
 
-- **When:** about AD 60–62, during Paul's imprisonment, probably his house arrest in Rome (3:1; 4:1; 6:20; Acts 28), soon after he wrote Colossians, which shares much of its wording (Reformation Study Bible).
-- **Where:** Ephesus, a leading city of Asia Minor, where Paul had ministered for about three years (Acts 19–20). Ephesus was the capital of the province of Asia and one of the five greatest cities of the empire, famous for its temple of Artemis (Diana), one of the Seven Wonders of the ancient world (Acts 19:23–41). Waters notes that "in Ephesus" (1:1) is missing from some early manuscripts, so the letter may also have been meant to circulate among nearby churches; that would explain its lack of personal greetings and Paul's "hearing" of their faith (1:15).
-- **Who wrote it:** Paul (1:1; 3:1). Waters observes that for about eighteen centuries no one doubted this. Many modern critical scholars call it pseudonymous, pointing to its fuller style and closeness to Colossians. Waters and the RSB defend Paul's authorship: an imitator would hardly copy Colossians word for word yet boldly move beyond it, and the overlap is best explained by Paul writing both at nearly the same time.
-- **Where it sits:** one of the four "Prison Epistles" (Ephesians, Philippians, Colossians, Philemon), carried by Tychicus (6:21) along with Colossians. Waters sees it as a broad summary of the gospel teaching the church had received, rather than a response to a crisis.
+- **When:** about AD 60–62, during Paul's imprisonment, probably his house arrest in Rome (3:1; 4:1; 6:20; Acts 28), soon after he wrote Colossians, which shares much of its wording (*RSB*[^rsb]).
+- **Where:** Ephesus, a leading city of Asia Minor, where Paul had ministered for about three years (Acts 19–20). Ephesus was the capital of the province of Asia and one of the five greatest cities of the empire, famous for its temple of Artemis (Diana), one of the Seven Wonders of the ancient world (Acts 19:23–41). Waters[^btn] notes that "in Ephesus" (1:1) is missing from some early manuscripts, so the letter may also have been meant to circulate among nearby churches; that would explain its lack of personal greetings and Paul's "hearing" of their faith (1:15).
+- **Who wrote it:** Paul (1:1; 3:1). Waters[^btn] observes that for about eighteen centuries no one doubted this. Many modern critical scholars call it pseudonymous, pointing to its fuller style and closeness to Colossians. Waters[^btn] and the *RSB*[^rsb] defend Paul's authorship: an imitator would hardly copy Colossians word for word yet boldly move beyond it, and the overlap is best explained by Paul writing both at nearly the same time.
+- **Where it sits:** one of the four "Prison Epistles" (Ephesians, Philippians, Colossians, Philemon), carried by Tychicus (6:21) along with Colossians. Waters[^btn] sees it as a broad summary of the gospel teaching the church had received, rather than a response to a crisis.
 
 ## Structure
 
-Waters describes the body of the letter as two halves: the great indicatives of the gospel (1:3–3:21) and the great imperatives (4:1–6:20). The word "walk" links them: once we walked in sin (2:1–2), but now in good works (2:10), and each main division of the second half opens with a call to walk (4:1, 17; 5:2, 8, 15). The first half's sections follow the Reformation Study Bible.
+Waters[^btn] describes the body of the letter as two halves: the great indicatives of the gospel (1:3–3:21) and the great imperatives (4:1–6:20). The word "walk" links them: once we walked in sin (2:1–2), but now in good works (2:10), and each main division of the second half opens with a call to walk (4:1, 17; 5:2, 8, 15). The first half's sections follow the *RSB*[^rsb].
 
 - 1:1–2: Greeting
 - 1:3–3:21: Doctrine: our riches in Christ
@@ -73,7 +73,7 @@ Waters describes the body of the letter as two halves: the great indicatives of 
 - **A new way of life:** put off the old self, put on the new (4:22–24).
 - **Christ-shaped households:** marriage reflects Christ and the church (5:22–33). Love like Christ's (5:2) and mutual submission out of reverence for him (5:21) are the foundation for every role in the home and at work, and remembering the cross keeps this from becoming mere moralism.
 - **Spiritual warfare:** stand firm in God's armour and pray (6:10–20).
-- **Doctrine that turns to praise:** the Reformation Heritage KJV Study Bible (RH) sees the letter as a display of the wealth God lavishes on the church through its union with Christ. It notes that Paul isn't fighting a crisis here but building up a healthy church, and that his teaching keeps breaking into worship (1:3–14; 3:20–21).
+- **Doctrine that turns to praise:** the *Reformation Heritage KJV Study Bible* (*RH*[^rh]) sees the letter as a display of the wealth God lavishes on the church through its union with Christ. It notes that Paul isn't fighting a crisis here but building up a healthy church, and that his teaching keeps breaking into worship (1:3–14; 3:20–21).
 
 ## How it points to Christ
 
@@ -90,7 +90,7 @@ Christ is at the centre of God's plan: "to unite all things in him, things in he
 
 ## Going deeper
 
-- **Who wrote Ephesians, and to whom?** Waters reviews the arguments against Paul's authorship and the missing "in Ephesus". What is at stake?
+- **Who wrote Ephesians, and to whom?** Waters[^btn] reviews the arguments against Paul's authorship and the missing "in Ephesus". What is at stake?
 - **Election and grace (1:3–14; 2:1–10).** How do these passages shape Reformed teaching on predestination (WCF 3) and salvation by grace alone?
 - **The dividing wall (2:11–22).** What did Christ abolish, and what does the one new humanity look like in a church today?
 - **The gifts of 4:11–16.** Who are apostles and prophets "foundations" (2:20) for, and how do shepherds and teachers equip the saints now?
@@ -141,10 +141,11 @@ Christ is at the centre of God's plan: "to unite all things in him, things in he
 
 ## Sources
 
-- Guy Prentiss Waters, "Ephesians," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (authorship, "to the Ephesians?", purpose), Structure and Outline, Message and Theology.
 - John Chrysostom, *Homilies on Ephesians*, "The Argument" (quoted in Waters).
-- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Ephesians: Title and Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of Ephesians, Ephesians in the Larger Story of the Bible, Christ in Ephesians, History of Interpretation, Outline.
-- *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to Ephesians: Authorship, Date, Theme, Purpose, Synopsis; chapter summaries.
+
+[^btn]: **BTN**: Guy Prentiss Waters, "Ephesians," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (authorship, "to the Ephesians?", purpose), Structure and Outline, Message and Theology.
+[^rsb]: **RSB**: *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Ephesians: Title and Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of Ephesians, Ephesians in the Larger Story of the Bible, Christ in Ephesians, History of Interpretation, Outline.
+[^rh]: **RH**: *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to Ephesians: Authorship, Date, Theme, Purpose, Synopsis; chapter summaries.
 
 ## Changelog
 

@@ -12,23 +12,23 @@ status: draft
 
 ## Summary
 
-Isaiah, the early church's "fifth Gospel" (VanGemeren), is a vision of the Holy One of Israel. He judges his rebellious people and the proud nations, yet promises to redeem a remnant, restore Zion, and fill the earth with his glory. The book moves from judgment under Assyria (1–39) to comfort and restoration after the Babylonian exile (40–66). At its heart stand a royal child from David's line and the Suffering Servant who bears his people's sins.
+Isaiah, the early church's "fifth Gospel" (VanGemeren[^bto]), is a vision of the Holy One of Israel. He judges his rebellious people and the proud nations, yet promises to redeem a remnant, restore Zion, and fill the earth with his glory. The book moves from judgment under Assyria (1–39) to comfort and restoration after the Babylonian exile (40–66). At its heart stand a royal child from David's line and the Suffering Servant who bears his people's sins.
 
 ## Setting
 
-- **When:** Isaiah son of Amoz prophesied in Jerusalem under Uzziah, Jotham, Ahaz and Hezekiah (1:1), for over forty years from about 740 BC to after 701 BC. The Reformation Heritage KJV Study Bible (RH) extends it to about 680 BC, since the book records Sennacherib's death (37:38), which makes Isaiah a contemporary of Micah, Hosea and Amos. He began as Uzziah's long, prosperous reign ended and Assyria rose under Tiglath-pileser III. At home, prosperity had bred hypocrisy, greed and oppression of the poor (1:10–17; 5:8–23) (Reformation Study Bible). VanGemeren lists the crises behind the book:
+- **When:** Isaiah son of Amoz prophesied in Jerusalem under Uzziah, Jotham, Ahaz and Hezekiah (1:1), for over forty years from about 740 BC to after 701 BC. The *Reformation Heritage KJV Study Bible* (*RH*[^rh]) extends it to about 680 BC, since the book records Sennacherib's death (37:38), which makes Isaiah a contemporary of Micah, Hosea and Amos. He began as Uzziah's long, prosperous reign ended and Assyria rose under Tiglath-pileser III. At home, prosperity had bred hypocrisy, greed and oppression of the poor (1:10–17; 5:8–23) (*RSB*[^rsb]). VanGemeren[^bto] lists the crises behind the book:
     - the rise of Assyria
     - the Syro-Ephraimite crisis of 734–732 BC, when Israel and Syria attacked Judah and Ahaz turned to Assyria (7–9)
     - the fall of the northern kingdom in 722 BC
     - Sennacherib's invasion of Judah in 701 BC (36–37)
     - the exile in Babylon still to come, and the return after it (40–66)
 - **Where:** Jerusalem and Judah, with oracles addressed to the surrounding nations.
-- **Who wrote it:** Isaiah, whose name means "the Lord saves": a well-educated man with access to the royal court, married, with two sons. Jewish tradition makes his father Amoz a brother of King Amaziah, which would make Isaiah a cousin of Uzziah (RH). Tradition says he was sawn in two under Manasseh (compare Heb 11:37). Since Bernhard Duhm (1892), many critical scholars divide the book between two or three "Isaiahs", partly because chapters 40–66 address the exile and name Cyrus. VanGemeren and the RSB defend its unity: distinctive phrases such as "the Holy One of Israel" run through every part; prophets often spoke to faithful hearers about a distant future (compare Deut 30:1–3); and the main objection assumes predictive prophecy is impossible. The New Testament quotes passages from every part simply as "Isaiah" (John 12:38–41).
+- **Who wrote it:** Isaiah, whose name means "the Lord saves": a well-educated man with access to the royal court, married, with two sons. Jewish tradition makes his father Amoz a brother of King Amaziah, which would make Isaiah a cousin of Uzziah (*RH*[^rh]). Tradition says he was sawn in two under Manasseh (compare Heb 11:37). Since Bernhard Duhm (1892), many critical scholars divide the book between two or three "Isaiahs", partly because chapters 40–66 address the exile and name Cyrus. VanGemeren[^bto] and the *RSB*[^rsb] defend its unity: distinctive phrases such as "the Holy One of Israel" run through every part; prophets often spoke to faithful hearers about a distant future (compare Deut 30:1–3); and the main objection assumes predictive prophecy is impossible. The New Testament quotes passages from every part simply as "Isaiah" (John 12:38–41).
 - **Where it sits:** the first of the Major Prophets. Its history overlaps 2 Kings 15–20, and chapters 36–39 closely parallel 2 Kings 18–20. Isaiah's call (6) echoes Moses' (Ex 3): he is one of the prophets like Moses (Deut 18:18).
 
 ## Structure
 
-Two parts (VanGemeren), with chapters 36–39 as the bridge: 1–35 focus on judgment through Assyria, and 40–66 on the remnant's return from Babylon and final salvation. Each part opens with a scene from God's heavenly court (6; 40:1–8). The subdivisions follow the Reformation Study Bible.
+Two parts (VanGemeren[^bto]), with chapters 36–39 as the bridge: 1–35 focus on judgment through Assyria, and 40–66 on the remnant's return from Babylon and final salvation. Each part opens with a scene from God's heavenly court (6; 40:1–8). The subdivisions follow the *RSB*[^rsb].
 
 - 1–39: Isaiah's vision concerning Judah and Jerusalem
     - 1–12: the Holy One of Israel: judgment and hope for Judah; the call vision (6); Immanuel and the child-king (7–12)
@@ -137,8 +137,8 @@ Two parts (VanGemeren), with chapters 36–39 as the bridge: 1–35 focus on jud
 
 ## Themes
 
-- **The Holy One of Israel:** Isaiah's favourite name for God. VanGemeren calls the vision of chapter 6 a "mirror text" that shapes the whole book: God's holiness and glory, Isaiah's cleansing, the people's hardening, judgment, and the holy seed.
-- **Judgment and salvation:** Isaiah brings God's covenant lawsuit against his faithless people (1:2–31), and his call includes hardening those who won't listen (6:9–10). Yet the same God who judges pride and injustice also comforts, redeems and restores (1:18, 24–27; 40:1–2). RH reads the whole book as God punishing sin and freely saving through the Messiah to come, all to display his glory, and stresses that the two belong together: even the Servant must bear judgment to save his people (53:4–6). The book's last image is a sober warning of judgment (66:24; Mark 9:48).
+- **The Holy One of Israel:** Isaiah's favourite name for God. VanGemeren[^bto] calls the vision of chapter 6 a "mirror text" that shapes the whole book: God's holiness and glory, Isaiah's cleansing, the people's hardening, judgment, and the holy seed.
+- **Judgment and salvation:** Isaiah brings God's covenant lawsuit against his faithless people (1:2–31), and his call includes hardening those who won't listen (6:9–10). Yet the same God who judges pride and injustice also comforts, redeems and restores (1:18, 24–27; 40:1–2). *RH*[^rh] reads the whole book as God punishing sin and freely saving through the Messiah to come, all to display his glory, and stresses that the two belong together: even the Servant must bear judgment to save his people (53:4–6). The book's last image is a sober warning of judgment (66:24; Mark 9:48).
 - **The remnant:** a purified remnant survives judgment and returns (6:13; 10:20–22).
 - **Trust in God, not alliances:** Ahaz turns to Assyria and others to Egypt; Isaiah calls for quiet trust in the Lord (7:9; 30:15; 31:1).
 - **The coming King and the Servant:** a Davidic child-king (9; 11) and a Servant who suffers for his people (53).
@@ -148,7 +148,7 @@ Two parts (VanGemeren), with chapters 36–39 as the bridge: 1–35 focus on jud
 
 ## How it points to Christ
 
-Isaiah is quoted in the New Testament more than almost any other book. RH highlights the three "Immanuel" passages in chapters 7, 9 and 11, which picture the coming one as a virgin's son who is God present with us, a royal child on David's throne, and a ruler resting in the Spirit, and the four Servant Songs (in chapters 42, 49, 50 and 52–53):
+Isaiah is quoted in the New Testament more than almost any other book. *RH*[^rh] highlights the three "Immanuel" passages in chapters 7, 9 and 11, which picture the coming one as a virgin's son who is God present with us, a royal child on David's throne, and a ruler resting in the Spirit, and the four Servant Songs (in chapters 42, 49, 50 and 52–53):
 
 - **Immanuel:** born of a virgin (7:14; Matt 1:22–23).
 - **The child born to us:** Mighty God and Prince of Peace on David's throne (9:6–7; Luke 1:32–33).
@@ -173,10 +173,10 @@ John even says Isaiah saw Christ's glory in his temple vision (John 12:41).
 
 ## Going deeper
 
-- **One Isaiah or several?** VanGemeren surveys the critical theory of a second and third Isaiah and defends the book's unity. What's at stake for predictive prophecy, and for how Jesus and the apostles cite Isaiah? Read: VanGemeren, Unity of the Book.
+- **One Isaiah or several?** VanGemeren[^bto] surveys the critical theory of a second and third Isaiah and defends the book's unity. What's at stake for predictive prophecy, and for how Jesus and the apostles cite Isaiah? Read: VanGemeren[^bto], Unity of the Book.
 - **Isaiah 6 as the key to the book.** Trace the themes of holiness, glory, cleansing, hardening and the holy seed from chapter 6 through the rest of Isaiah.
 - **Who is the Servant?** Read the four Servant Songs (42:1–9; 49:1–13; 50:4–11; 52:13–53:12). How does the Servant relate to Israel? How do Acts 8 and 1 Peter 2 answer the eunuch's question, "about whom does the prophet say this?"
-- **Righteousness as justice and as salvation.** VanGemeren shows how "righteousness" in 56:1 carries both senses, tying the two halves of Isaiah together. Compare Romans 1:16–17 and 3:21–26.
+- **Righteousness as justice and as salvation.** VanGemeren[^bto] shows how "righteousness" in 56:1 carries both senses, tying the two halves of Isaiah together. Compare Romans 1:16–17 and 3:21–26.
 - **Trust or alliances?** Ahaz (7), the pro-Egypt party (30–31) and Hezekiah (36–37) face similar crises with different responses. What does Isaiah teach about where to put our trust?
 - **New heavens and new earth.** How do Isaiah 65–66 shape the hope of Revelation 21–22?
 
@@ -224,9 +224,9 @@ John even says Isaiah saw Christ's glory in his temple vision (John 12:41).
 
 ## Sources
 
-- Willem A. VanGemeren, "Isaiah," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues (unity of the book), Structure and Outline (theological, historical and literary factors, figuration), Message and Theology (Isaiah 1–39 and 40–66).
-- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Isaiah: Title, Author, Date and Occasion, Genre and Literary Features, Characteristics and Primary Themes, Theology of Isaiah, Isaiah in the Larger Story of the Bible, Christ in Isaiah, History of Interpretation, Outline.
-- *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to Isaiah: Authorship, Date, Theme, Purpose, Synopsis, Outline; chapter summaries.
+[^bto]: **BTO**: Willem A. VanGemeren, "Isaiah," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues (unity of the book), Structure and Outline (theological, historical and literary factors, figuration), Message and Theology (Isaiah 1–39 and 40–66).
+[^rsb]: **RSB**: *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Isaiah: Title, Author, Date and Occasion, Genre and Literary Features, Characteristics and Primary Themes, Theology of Isaiah, Isaiah in the Larger Story of the Bible, Christ in Isaiah, History of Interpretation, Outline.
+[^rh]: **RH**: *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to Isaiah: Authorship, Date, Theme, Purpose, Synopsis, Outline; chapter summaries.
 
 ## Changelog
 

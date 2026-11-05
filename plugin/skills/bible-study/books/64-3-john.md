@@ -12,18 +12,18 @@ status: draft
 
 ## Summary
 
-3 John is a personal letter from "the elder" to his dear friend Gaius. John praises Gaius for walking in the truth and for welcoming travelling missionaries, "fellow workers for the truth", and asks him to send them on their way well supplied. By contrast, a church leader named Diotrephes, "who likes to put himself first", refuses to acknowledge John's authority, slanders him, won't welcome the missionaries, and throws out of the church those who do. John will deal with him when he comes. He commends Demetrius, who probably carried the letter. Hill shows how this short letter puts into practice 1 John's teaching on love for the brothers, and its warning against hating them.
+3 John is a personal letter from "the elder" to his dear friend Gaius. John praises Gaius for walking in the truth and for welcoming travelling missionaries, "fellow workers for the truth", and asks him to send them on their way well supplied. By contrast, a church leader named Diotrephes, "who likes to put himself first", refuses to acknowledge John's authority, slanders him, won't welcome the missionaries, and throws out of the church those who do. John will deal with him when he comes. He commends Demetrius, who probably carried the letter. Hill[^btn] shows how this short letter puts into practice 1 John's teaching on love for the brothers, and its warning against hating them.
 
 ## Setting
 
-- **When:** late first century, about AD 85–100, probably soon after 2 John (Hill). The Reformation Study Bible notes there's no sign of the dispute about Christ's humanity, so it could be earlier, in the 80s, or as late as the 90s.
+- **When:** late first century, about AD 85–100, probably soon after 2 John (Hill[^btn]). The *Reformation Study Bible*[^rsb] notes there's no sign of the dispute about Christ's humanity, so it could be earlier, in the 80s, or as late as the 90s.
 - **Where:** probably from Ephesus, to Gaius, a member of a church in the province of Asia.
-- **Who wrote it:** "the elder" (v. 1), the same author as 2 John. Hill argues that the authority the elder assumes over more than one church fits the apostle John.
-- **Where it sits:** the shortest book in the New Testament by word count in Greek, in the form of a short ancient letter of recommendation, commending Demetrius, probably its carrier, to Gaius. Hill suggests the letter John wrote "to the church" (v. 9) may be 2 John, which Diotrephes rejected.
+- **Who wrote it:** "the elder" (v. 1), the same author as 2 John. Hill[^btn] argues that the authority the elder assumes over more than one church fits the apostle John.
+- **Where it sits:** the shortest book in the New Testament by word count in Greek, in the form of a short ancient letter of recommendation, commending Demetrius, probably its carrier, to Gaius. Hill[^btn] suggests the letter John wrote "to the church" (v. 9) may be 2 John, which Diotrephes rejected.
 
 ## Structure
 
-Hill's outline:
+Hill's[^btn] outline:
 
 - vv. 1–2: Greeting
 - vv. 3–4: The faithfulness of Gaius
@@ -58,11 +58,11 @@ Hill's outline:
 
 - **Walking in the truth:** truth believed and lived, John's greatest joy (vv. 3–4).
 - **Hospitality and mission support:** Christians should support those who go out for Christ's name (vv. 5–8). Supporting them makes us "fellow workers for the truth".
-- **Pride in leadership:** Diotrephes' love of first place, against the servant leadership Jesus, Peter and Paul taught. Hill compares Matthew 23:6 and 1 Peter 5:3.
+- **Pride in leadership:** Diotrephes' love of first place, against the servant leadership Jesus, Peter and Paul taught. Hill[^btn] compares Matthew 23:6 and 1 Peter 5:3.
 - **Imitating good:** "Do not imitate evil but imitate good" (v. 11). Whatever someone's office, you know them by their fruit (Matt 7:15–20).
 - **Rewarded hospitality:** caring for the Lord's messengers is caring for Christ himself, and he will reward it (Matt 25:34–40).
-- **Love for the brothers:** Hill shows 3 John is a real-life example of 1 John's teaching that hating the brothers shows you aren't of God.
-- **Supporting true teachers:** the Reformation Heritage KJV Study Bible (RH) sums up the letter as love for the truth shown in practical support for faithful travelling missionaries (vv. 5–8).
+- **Love for the brothers:** Hill[^btn] shows 3 John is a real-life example of 1 John's teaching that hating the brothers shows you aren't of God.
+- **Supporting true teachers:** the *Reformation Heritage KJV Study Bible* (*RH*[^rh]) sums up the letter as love for the truth shown in practical support for faithful travelling missionaries (vv. 5–8).
 
 ## How it points to Christ
 
@@ -79,7 +79,7 @@ Christ isn't named in 3 John, but the missionaries went out "for the sake of the
 ## Going deeper
 
 - **Supporting missionaries (vv. 5–8).** What does it mean to send them "in a manner worthy of God"? How does your church do this?
-- **Diotrephes (vv. 9–10).** What made his leadership so harmful? Compare 1 Peter 5:1–4 and 1 Timothy 3:1–7. Hill discusses whether he held an office or hosted a house church.
+- **Diotrephes (vv. 9–10).** What made his leadership so harmful? Compare 1 Peter 5:1–4 and 1 Timothy 3:1–7. Hill[^btn] discusses whether he held an office or hosted a house church.
 - **The health-and-wealth reading of v. 2.** Why is this a misreading? How does context protect against it?
 - **Imitation (v. 11).** Whom are you imitating? Compare Paul's call to imitate him as he imitates Christ.
 - **A good testimony (v. 12).** What would it mean to have a good testimony "from the truth itself"?
@@ -128,9 +128,9 @@ Christ isn't named in 3 John, but the missionaries went out "for the sake of the
 
 ## Sources
 
-- Charles E. Hill, "1–3 John," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): 3 John, Background Issues (author, audience), Structure and Outline, Message and Theology (Gaius, the missionaries, Diotrephes, Demetrius).
-- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to 3 John: Title and Author, Date and Occasion, Genre and Literary Features, Characteristics and Primary Themes, Theology of 3 John, 3 John in the Larger Story of the Bible, Christ in 3 John, History of Interpretation, Outline.
-- *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to 3 John: Authorship, Date, Theme, Purpose, Synopsis.
+[^btn]: **BTN**: Charles E. Hill, "1–3 John," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): 3 John, Background Issues (author, audience), Structure and Outline, Message and Theology (Gaius, the missionaries, Diotrephes, Demetrius).
+[^rsb]: **RSB**: *The Reformation Study Bible* (Reformation Trust, 2015), introduction to 3 John: Title and Author, Date and Occasion, Genre and Literary Features, Characteristics and Primary Themes, Theology of 3 John, 3 John in the Larger Story of the Bible, Christ in 3 John, History of Interpretation, Outline.
+[^rh]: **RH**: *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to 3 John: Authorship, Date, Theme, Purpose, Synopsis.
 
 ## Changelog
 

@@ -12,18 +12,18 @@ status: draft
 
 ## Summary
 
-Exodus ("departure") is the story of God keeping his promise to Abraham (Gen 15:13–14). It has three movements: God rescues Abraham's enslaved descendants from Egypt by mighty acts of judgment; at Mount Sinai he binds them to himself by covenant and gives them his law; and he comes to live among them in the tabernacle. Through it all God makes himself known, to Israel and to a Pharaoh who said, "Who is the Lord?" (5:2), and Moses stands between God and the people as mediator. The Reformation Heritage KJV Study Bible (RH) sums up the theme as redemption, law and God's presence, all given by a God who keeps covenant with lawbreakers.
+Exodus ("departure") is the story of God keeping his promise to Abraham (Gen 15:13–14). It has three movements: God rescues Abraham's enslaved descendants from Egypt by mighty acts of judgment; at Mount Sinai he binds them to himself by covenant and gives them his law; and he comes to live among them in the tabernacle. Through it all God makes himself known, to Israel and to a Pharaoh who said, "Who is the Lord?" (5:2), and Moses stands between God and the people as mediator. The *Reformation Heritage KJV Study Bible* (*RH*[^rh]) sums up the theme as redemption, law and God's presence, all given by a God who keeps covenant with lawbreakers.
 
 ## Setting
 
-- **When:** after 430 years in Egypt (12:40–41). The Reformation Study Bible dates the exodus to about 1447 BC (RH, about 1446 BC), 480 years before Solomon began the temple (1 Kgs 6:1; compare Judg 11:26). On that dating, the "new king who did not know Joseph" (1:8) was probably Ahmose I, who drove the Hyksos out of Egypt, and the Pharaoh of the exodus was Thutmose III. Many scholars prefer a date around 1270 BC under Rameses II, but the RSB notes that recent finds in Transjordan and at Jericho have weakened that case.
+- **When:** after 430 years in Egypt (12:40–41). The *Reformation Study Bible*[^rsb] dates the exodus to about 1447 BC (*RH*[^rh], about 1446 BC), 480 years before Solomon began the temple (1 Kgs 6:1; compare Judg 11:26). On that dating, the "new king who did not know Joseph" (1:8) was probably Ahmose I, who drove the Hyksos out of Egypt, and the Pharaoh of the exodus was Thutmose III. Many scholars prefer a date around 1270 BC under Rameses II, but the *RSB*[^rsb] notes that recent finds in Transjordan and at Jericho have weakened that case.
 - **Where:** Egypt (Goshen and the store city Rameses), Midian, the sea crossing (perhaps at one of the Bitter Lakes), the wilderness of Sinai, and Mount Sinai (Horeb), traditionally Jebel Musa.
-- **Who wrote it:** Moses, between the exodus and his death about 1406 BC (RSB). The book records Moses writing things down (17:14; 24:4; 34:28), and Jesus calls it "the book of Moses" (Mark 12:26). Currid shows the author knew Egyptian life and religion closely, as someone raised in Pharaoh's court would.
-- **Where it sits:** the second book of Moses, continuing the history that runs from Genesis to Kings. It picks up where Genesis ends, "in Egypt", and its Hebrew title comes from its opening words, "These are the names". It echoes Genesis on purpose: Israel is fruitful and multiplies (1:7; Gen 1:28), and baby Moses is saved in a little tar-sealed "ark" (2:3; Gen 6:14) (RH).
+- **Who wrote it:** Moses, between the exodus and his death about 1406 BC (*RSB*[^rsb]). The book records Moses writing things down (17:14; 24:4; 34:28), and Jesus calls it "the book of Moses" (Mark 12:26). Currid[^bto] shows the author knew Egyptian life and religion closely, as someone raised in Pharaoh's court would.
+- **Where it sits:** the second book of Moses, continuing the history that runs from Genesis to Kings. It picks up where Genesis ends, "in Egypt", and its Hebrew title comes from its opening words, "These are the names". It echoes Genesis on purpose: Israel is fruitful and multiplies (1:7; Gen 1:28), and baby Moses is saved in a little tar-sealed "ark" (2:3; Gen 6:14) (*RH*[^rh]).
 
 ## Structure
 
-Currid describes Exodus as a "diptych", two panels hinged together: in Egypt Israel served Pharaoh; at Sinai they become the Lord's servants. Jethro's visit (18) is the hinge, looking back on what God has done and forward to the law (RSB). The nested sections follow the RSB:
+Currid[^bto] describes Exodus as a "diptych", two panels hinged together: in Egypt Israel served Pharaoh; at Sinai they become the Lord's servants. Jethro's visit (18) is the hinge, looking back on what God has done and forward to the law (*RSB*[^rsb]). The nested sections follow the *RSB*[^rsb]:
 
 - 1–18: Israel in Egypt and the road to Sinai (mostly narrative)
     - 1:1–15:21: God delivers his people: slavery, Moses' call, the plagues, Passover, and the sea
@@ -110,10 +110,10 @@ Currid describes Exodus as a "diptych", two panels hinged together: in Egypt Isr
 
 - **God keeps his promises:** he "remembered his covenant with Abraham, with Isaac, and with Jacob" (2:24) and acts to fulfil Genesis 15.
 - **Redemption:** God brings his people out of slavery "with an outstretched arm and with great acts of judgment" (6:6), and the exodus becomes the pattern for all later salvation.
-- **The Lord against the gods of Egypt:** the plagues are a contest over who is the one true God (12:12). Currid shows how each one strikes something Egypt worshipped, from the Nile to the sun.
-- **God's sovereignty and the hardened heart:** both God and Pharaoh are said to harden Pharaoh's heart (4:21; 8:15; 9:12), so that God's power is shown (9:16; Rom 9:17). RH stresses both sides: God actively rules Pharaoh's will, not merely permitting it, yet Pharaoh chooses freely, sins, and is held guilty (9:34; 10:16), and God is not the author of sin.
-- **God makes himself known:** "you shall know that I am the Lord" runs through the book (6:7; 7:5; 14:4; 29:46). The goal is not just knowing about him but knowing him and living in his presence (RH; John 17:3). He moves from a distant God to one who lives among his people (RSB).
-- **Covenant and law:** saved first, then given the law: "I am the Lord your God, who brought you out … You shall have no other gods" (20:2–3). The RSB notes the covenant follows the shape of second-millennium treaties (preamble, obligations, ratification, copies kept in the sanctuary), and its case laws value human life above property, unlike other ancient codes.
+- **The Lord against the gods of Egypt:** the plagues are a contest over who is the one true God (12:12). Currid[^bto] shows how each one strikes something Egypt worshipped, from the Nile to the sun.
+- **God's sovereignty and the hardened heart:** both God and Pharaoh are said to harden Pharaoh's heart (4:21; 8:15; 9:12), so that God's power is shown (9:16; Rom 9:17). *RH*[^rh] stresses both sides: God actively rules Pharaoh's will, not merely permitting it, yet Pharaoh chooses freely, sins, and is held guilty (9:34; 10:16), and God is not the author of sin.
+- **God makes himself known:** "you shall know that I am the Lord" runs through the book (6:7; 7:5; 14:4; 29:46). The goal is not just knowing about him but knowing him and living in his presence (*RH*[^rh]; John 17:3). He moves from a distant God to one who lives among his people (*RSB*[^rsb]).
+- **Covenant and law:** saved first, then given the law: "I am the Lord your God, who brought you out … You shall have no other gods" (20:2–3). The *RSB*[^rsb] notes the covenant follows the shape of second-millennium treaties (preamble, obligations, ratification, copies kept in the sanctuary), and its case laws value human life above property, unlike other ancient codes.
 - **God dwelling with his people:** the tabernacle is the place where the holy God lives among sinners (25:8; 40:34).
 - **Moses the mediator:** God judges Egypt, rescues Israel, speaks his law and feeds his people through Moses, who also pleads for them after the golden calf (32–34). This prepares for Christ, the mediator of a better covenant.
 - **Holiness and grace:** after the golden calf, God proclaims himself merciful and gracious, slow to anger, abounding in steadfast love, yet not clearing the guilty (34:6–7), one of the Old Testament's central statements about who God is.
@@ -136,11 +136,11 @@ The tabernacle, God living among his people, is fulfilled when the Word "dwelt" 
 
 ## Going deeper
 
-- **The plagues as war on Egypt's gods.** Currid links each plague to an Egyptian deity: the Nile god Hapi, the frog-headed Heqet, the sun god Re, and Pharaoh himself as a god. He also shows the plagues undoing creation, sending Egypt back into chaos while Israel is kept safe. Read: Currid, The Plague Account.
+- **The plagues as war on Egypt's gods.** Currid[^bto] links each plague to an Egyptian deity: the Nile god Hapi, the frog-headed Heqet, the sun god Re, and Pharaoh himself as a god. He also shows the plagues undoing creation, sending Egypt back into chaos while Israel is kept safe. Read: Currid[^bto], The Plague Account.
 - **Who hardened Pharaoh's heart?** God says he will harden it (4:21), and Pharaoh hardens it himself (8:15). In Egyptian belief Pharaoh's heart was the controlling centre of the world, which gives the theme extra force. Compare Romans 9:17–18.
-- **When was the exodus?** 1 Kings 6:1 implies about 1446 BC; many scholars argue for the 13th century. Read: Lutheran Study Bible, Challenges for Readers.
-- **The Decalogue and the case laws.** Currid notes that God spoke the Ten Commandments directly and wrote them himself, while Moses wrote down the case laws that applied them to Israel's life (21:1; 24:4). Compare the Westminster Confession's distinction between moral, ceremonial and civil (judicial) law (19.3–5).
-- **The golden calf and the second commandment.** Aaron calls a festival "to the Lord" (32:5): Currid sees blending true worship with idolatry rather than simply worshipping another god. What does that teach about worship today?
+- **When was the exodus?** 1 Kings 6:1 implies about 1446 BC; many scholars argue for the 13th century. Read: *LSB*[^lsb], Challenges for Readers.
+- **The Decalogue and the case laws.** Currid[^bto] notes that God spoke the Ten Commandments directly and wrote them himself, while Moses wrote down the case laws that applied them to Israel's life (21:1; 24:4). Compare the Westminster Confession's distinction between moral, ceremonial and civil (judicial) law (19.3–5).
+- **The golden calf and the second commandment.** Aaron calls a festival "to the Lord" (32:5): Currid[^bto] sees blending true worship with idolatry rather than simply worshipping another god. What does that teach about worship today?
 - **The Lord's name (34:6–7).** God describes himself as merciful, gracious and slow to anger, yet by no means clearing the guilty. How do mercy and justice meet, and where do they meet in the New Testament?
 
 ## Q&A
@@ -191,11 +191,12 @@ The tabernacle, God living among his people, is fulfilled when the Word "dwelt" 
 
 ## Sources
 
-- John D. Currid, "Exodus," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues, Structure and Outline, Message and Theology (the plagues, the hardening of Pharaoh's heart, the law, the tabernacle, the golden calf).
-- *The Lutheran Study Bible* (Concordia, 2009), introduction to Exodus: Overview, Luther on Exodus, Challenges for Readers, Outline. Lutheran source.
 - Westminster Confession of Faith 19 (the law of God) and Westminster Shorter Catechism Q41–81 (the Ten Commandments).
-- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Exodus: Title, Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of Exodus, Exodus in the Larger Story of the Bible, Christ in Exodus, History of Interpretation, Special Issues, Outline.
-- *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to Exodus: Authorship and Date, Theme, Purpose, Synopsis, Outline; chapter summaries.
+
+[^bto]: **BTO**: John D. Currid, "Exodus," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues, Structure and Outline, Message and Theology (the plagues, the hardening of Pharaoh's heart, the law, the tabernacle, the golden calf).
+[^lsb]: **LSB**: *The Lutheran Study Bible* (Concordia, 2009), introduction to Exodus: Overview, Luther on Exodus, Challenges for Readers, Outline. Lutheran source.
+[^rsb]: **RSB**: *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Exodus: Title, Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of Exodus, Exodus in the Larger Story of the Bible, Christ in Exodus, History of Interpretation, Special Issues, Outline.
+[^rh]: **RH**: *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to Exodus: Authorship and Date, Theme, Purpose, Synopsis, Outline; chapter summaries.
 
 ## Changelog
 

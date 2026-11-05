@@ -18,12 +18,12 @@ status: draft
 
 - **When:** from Solomon's accession (about 970 BC) to the fall of Jerusalem (586 BC) and Cyrus' decree (539/538 BC). Written after the return from exile.
 - **Where:** Jerusalem and Judah. The northern kingdom appears mainly when it touches Judah.
-- **Who wrote it:** the same Chronicler as 1 Chronicles, probably between about 515 and 400 BC; Jewish tradition says Ezra (Pratt; Reformation Study Bible). The Reformation Heritage KJV Study Bible (RH) thinks Ezra a likely author and dates the work to about 450–425 BC. The split into two books was only a later convenience for handling the scrolls.
+- **Who wrote it:** the same Chronicler as 1 Chronicles, probably between about 515 and 400 BC; Jewish tradition says Ezra (Pratt[^bto]; *RSB*[^rsb]). The *Reformation Heritage KJV Study Bible* (*RH*[^rh]) thinks Ezra a likely author and dates the work to about 450–425 BC. The split into two books was only a later convenience for handling the scrolls.
 - **Where it sits:** the end of Chronicles, and the end of the Hebrew Bible. It assumes readers know Kings, and focuses on Judah's spiritual health rather than its wars and wealth. Its last verses (36:22–23) are nearly the same as the opening of Ezra (Ezra 1:1–3).
 
 ## Structure
 
-The Reformation Study Bible's three parts (Pratt divides Chronicles the same way). Solomon's reign is arranged symmetrically, with the temple's dedication and God's answer at its centre (5:2–7:22), and his power struggle and later fall are left out. Afterwards each king is measured by the ideal of David and Solomon: faithful to the law, supporting the temple, listening to prophets and priests. The RSB subdivides by reign:
+The *Reformation Study Bible*'s[^rsb] three parts (Pratt[^bto] divides Chronicles the same way). Solomon's reign is arranged symmetrically, with the temple's dedication and God's answer at its centre (5:2–7:22), and his power struggle and later fall are left out. Afterwards each king is measured by the ideal of David and Solomon: faithful to the law, supporting the temple, listening to prophets and priests. The *RSB*[^rsb] subdivides by reign:
 
 - 1–9: The united kingdom under Solomon: wisdom, the temple built and dedicated, God's answer, Solomon's glory
 - 10–28: The divided kingdom, told from Judah's side: Rehoboam, Abijah, Asa, Jehoshaphat, Jehoram, Ahaziah, Athaliah's usurpation, Joash, Amaziah, Uzziah, Jotham and Ahaz
@@ -109,10 +109,10 @@ The Reformation Study Bible's three parts (Pratt divides Chronicles the same way
 
 - **Seek the Lord:** the book's refrain. Kings who seek God prosper; those who forsake him fall (15:2; 26:5).
 - **Humble yourselves and pray:** 7:14 is the key. Rehoboam, Hezekiah and even Manasseh humble themselves and find mercy (12:6–7; 32:26; 33:12–13).
-- **Blessing and judgment:** the Chronicler often connects a king's faithfulness or unfaithfulness directly with the outcome, as a pointed lesson to his readers (Pratt). But he isn't simplistic: Asa is attacked after his reforms (16), and Sennacherib invades right after Hezekiah's faithfulness (32:1). His aim is to call people to repentance, since the way back to blessing is always open (7:13–14) (RSB).
+- **Blessing and judgment:** the Chronicler often connects a king's faithfulness or unfaithfulness directly with the outcome, as a pointed lesson to his readers (Pratt[^bto]). But he isn't simplistic: Asa is attacked after his reforms (16), and Sennacherib invades right after Hezekiah's faithfulness (32:1). His aim is to call people to repentance, since the way back to blessing is always open (7:13–14) (*RSB*[^rsb]).
 - **The heart, not just ritual:** the Chronicler keeps saying that God wants wholehearted devotion, not mere performance (15:12, 15; 16:9; 31:21).
-- **Kings as hopeful pictures:** he presents some kings, such as Abijah, Jotham and Hezekiah, at their best, to stir hope for the ideal king still to come (RSB).
-- **Rest:** seeking God brings "rest", both peace from enemies and the joy of his presence, as under Solomon, Asa and Jehoshaphat (14:6–7; 15:15; 20:30). RH links it to the rest Hebrews says remains for God's people (Heb 4:9).
+- **Kings as hopeful pictures:** he presents some kings, such as Abijah, Jotham and Hezekiah, at their best, to stir hope for the ideal king still to come (*RSB*[^rsb]).
+- **Rest:** seeking God brings "rest", both peace from enemies and the joy of his presence, as under Solomon, Asa and Jehoshaphat (14:6–7; 15:15; 20:30). *RH*[^rh] links it to the rest Hebrews says remains for God's people (Heb 4:9).
 - **The temple at the centre:** the kings are judged largely by how they treat God's house and its worship.
 - **All Israel:** Hezekiah invites the north to Passover (30), and the Chronicler welcomes northerners who return to the Lord.
 - **Hope after exile:** the book ends not with destruction but with Cyrus' decree to go up and rebuild (36:22–23).
@@ -135,7 +135,7 @@ Jesus refers to the martyrdom of Zechariah son of Jehoiada (24:20–22) when he 
 ## Going deeper
 
 - **"If my people … humble themselves" (7:14).** This verse is often applied to modern nations. What did it mean in its original setting, the temple and Israel's covenant? How should Christians apply it today?
-- **Immediate reward and judgment.** Pratt notes that the Chronicler often links blessing and judgment closely to obedience, to warn and encourage his readers. Compare Asa's two halves (14–16) or Uzziah's rise and fall (26). What lessons did the returned exiles need?
+- **Immediate reward and judgment.** Pratt[^bto] notes that the Chronicler often links blessing and judgment closely to obedience, to warn and encourage his readers. Compare Asa's two halves (14–16) or Uzziah's rise and fall (26). What lessons did the returned exiles need?
 - **Hezekiah's inclusive Passover (30).** He invites the north and prays for those who aren't ceremonially clean but seek God. What does that say about the heart and the rules of worship?
 - **Manasseh's restoration.** The worst king of Judah repents and is restored. Why does Chronicles include this, and Kings not?
 - **The ending (36:22–23).** Why end the Hebrew Bible with "let him go up"? How does it leave the reader waiting for God's next act?
@@ -184,10 +184,11 @@ Jesus refers to the martyrdom of Zechariah son of Jehoiada (24:20–22) when he 
 
 ## Sources
 
-- Richard L. Pratt Jr., "1–2 Chronicles," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Structure and Outline, Message and Theology (the people of God, king and temple, blessing and judgment).
-- *The Lutheran Study Bible* (Concordia, 2009), introduction to 1 and 2 Chronicles. Lutheran source.
-- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to 2 Chronicles: Title and Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of 2 Chronicles, 2 Chronicles in the Larger Story of the Bible, Christ in 2 Chronicles, History of Interpretation, Special Issues, Outline.
-- *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to 1 and 2 Chronicles (Synopsis, Outline) and introduction to 2 Chronicles; chapter summaries.
+- **LSB**: *The Lutheran Study Bible* (Concordia, 2009), introduction to 1 and 2 Chronicles. Lutheran source.
+
+[^bto]: **BTO**: Richard L. Pratt Jr., "1–2 Chronicles," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Structure and Outline, Message and Theology (the people of God, king and temple, blessing and judgment).
+[^rsb]: **RSB**: *The Reformation Study Bible* (Reformation Trust, 2015), introduction to 2 Chronicles: Title and Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of 2 Chronicles, 2 Chronicles in the Larger Story of the Bible, Christ in 2 Chronicles, History of Interpretation, Special Issues, Outline.
+[^rh]: **RH**: *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to 1 and 2 Chronicles (Synopsis, Outline) and introduction to 2 Chronicles; chapter summaries.
 
 ## Changelog
 

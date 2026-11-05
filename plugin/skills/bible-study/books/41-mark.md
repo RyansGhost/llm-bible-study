@@ -16,15 +16,15 @@ Mark is the shortest and fastest-moving Gospel. It opens with "the beginning of 
 
 ## Setting
 
-- **When:** Jesus' public ministry, from his baptism to his resurrection (about AD 27–30/33). Gladd notes several scholars date the writing to the late 50s or early 60s, before Matthew and Luke and before Jerusalem's fall in AD 70. The Reformation Study Bible agrees it was written before AD 70, and earlier still if Luke and Acts were finished by about AD 62. The early church said it was written for the church in Rome: it explains Jewish customs and Aramaic words for Gentile readers (7:3–4; 5:41), uses Latin terms, and names Rufus, probably known in Rome (15:21; Rom 16:13).
-- **Rome and the date:** the Reformation Heritage KJV Study Bible (RH) adds two pointers to Rome: Latin terms, and Rufus (15:21), apparently the Rufus known to the Roman church (Rom 16:13). Early writers disagreed whether Mark wrote after Peter and Paul died or only after they left Rome, so RH gives the usual date as AD 65–68, while noting some argue for 45–60.
+- **When:** Jesus' public ministry, from his baptism to his resurrection (about AD 27–30/33). Gladd[^btn] notes several scholars date the writing to the late 50s or early 60s, before Matthew and Luke and before Jerusalem's fall in AD 70. The *Reformation Study Bible*[^rsb] agrees it was written before AD 70, and earlier still if Luke and Acts were finished by about AD 62. The early church said it was written for the church in Rome: it explains Jewish customs and Aramaic words for Gentile readers (7:3–4; 5:41), uses Latin terms, and names Rufus, probably known in Rome (15:21; Rom 16:13).
+- **Rome and the date:** the *Reformation Heritage KJV Study Bible* (*RH*[^rh]) adds two pointers to Rome: Latin terms, and Rufus (15:21), apparently the Rufus known to the Roman church (Rom 16:13). Early writers disagreed whether Mark wrote after Peter and Paul died or only after they left Rome, so *RH*[^rh] gives the usual date as AD 65–68, while noting some argue for 45–60.
 - **Where:** the Jordan, Galilee (especially Capernaum and the lake), Gentile regions (Decapolis, Tyre and Sidon, Caesarea Philippi), the journey south, and Jerusalem.
-- **Who wrote it:** John Mark, not one of the Twelve. The Jerusalem church met in his mother's house (Acts 12:12); he deserted Paul and Barnabas on their first journey but was later valued by Paul (Acts 13:13; 15:37–39; 2 Tim 4:11), and was with Peter in Rome (1 Pet 5:13). Early tradition from Papias says Mark wrote down Peter's preaching as "Peter's interpreter", which Gladd uses to explain how a non-apostle could write eyewitness-based testimony. RH points out that Peter's sermon to Cornelius (Acts 10:34–43) follows the same outline as Mark's Gospel. Forgers chose famous names, not a figure like Mark (RSB). The young man who fled naked at Jesus' arrest (14:51–52) may be Mark himself.
-- **Where it sits:** the second Gospel. Most scholars think it was the first written, and that Matthew and Luke used it. Gladd explains the Gospels as ancient biographies grounded in eyewitness testimony, written for the wider church; the RSB adds that they have been called passion narratives with long introductions, and that Mark may be the first to call a written account a "gospel" (1:1). The oldest manuscripts end at 16:8; the longer ending (16:9–20) seems to come from another hand.
+- **Who wrote it:** John Mark, not one of the Twelve. The Jerusalem church met in his mother's house (Acts 12:12); he deserted Paul and Barnabas on their first journey but was later valued by Paul (Acts 13:13; 15:37–39; 2 Tim 4:11), and was with Peter in Rome (1 Pet 5:13). Early tradition from Papias says Mark wrote down Peter's preaching as "Peter's interpreter", which Gladd[^btn] uses to explain how a non-apostle could write eyewitness-based testimony. *RH*[^rh] points out that Peter's sermon to Cornelius (Acts 10:34–43) follows the same outline as Mark's Gospel. Forgers chose famous names, not a figure like Mark (*RSB*[^rsb]). The young man who fled naked at Jesus' arrest (14:51–52) may be Mark himself.
+- **Where it sits:** the second Gospel. Most scholars think it was the first written, and that Matthew and Luke used it. Gladd[^btn] explains the Gospels as ancient biographies grounded in eyewitness testimony, written for the wider church; the *RSB*[^rsb] adds that they have been called passion narratives with long introductions, and that Mark may be the first to call a written account a "gospel" (1:1). The oldest manuscripts end at 16:8; the longer ending (16:9–20) seems to come from another hand.
 
 ## Structure
 
-Gladd notes the Synoptic Gospels move geographically: from the Jordan to Galilee, where Jesus is welcomed, to Jerusalem, where he is rejected and killed. Peter's confession (8:29) is the watershed. The Reformation Study Bible outlines it as preparation (1:1–13), the disclosure of the Christ (1:14–8:26), his suffering (8:27–15:47), and the resurrection (16). Mark often "sandwiches" one story inside another so each explains the other, such as the fig tree around the temple cleansing (11:12–21) and Peter's denial around Jesus' trial (14:53–72).
+Gladd[^btn] notes the Synoptic Gospels move geographically: from the Jordan to Galilee, where Jesus is welcomed, to Jerusalem, where he is rejected and killed. Peter's confession (8:29) is the watershed. The *RSB*[^rsb] outlines it as preparation (1:1–13), the disclosure of the Christ (1:14–8:26), his suffering (8:27–15:47), and the resurrection (16). Mark often "sandwiches" one story inside another so each explains the other, such as the fig tree around the temple cleansing (11:12–21) and Peter's denial around Jesus' trial (14:53–72).
 
 - 1:1–13: Prologue: John the Baptist, Jesus' baptism and temptation
 - 1:14–8:21: Jesus' authority in Galilee and beyond: teaching, healing, exorcisms, opposition, and the disciples' slowness
@@ -80,12 +80,12 @@ Gladd notes the Synoptic Gospels move geographically: from the Jordan to Galilee
 ## Themes
 
 - **Who is Jesus?** The question runs through the book ("Who then is this?", 4:41), answered by the demons, by Peter (8:29), and by the centurion (15:39).
-- **The messianic secret:** Jesus often tells people to keep quiet about him (1:34, 44; 8:30). Gladd discusses why: Jesus redefined messiahship around suffering, not political triumph, and his identity becomes fully clear only at the cross and resurrection.
-- **The suffering Messiah:** Gladd sums up Mark's purpose as reworking messianic hopes: the Messiah's reign comes through suffering and apparent defeat (8:31; 10:45).
-- **Isaiah's new exodus:** Gladd notes the influence of Isaiah's promise of a second exodus on Mark, from its opening quotation (1:2–3) onward.
+- **The messianic secret:** Jesus often tells people to keep quiet about him (1:34, 44; 8:30). Gladd[^btn] discusses why: Jesus redefined messiahship around suffering, not political triumph, and his identity becomes fully clear only at the cross and resurrection.
+- **The suffering Messiah:** Gladd[^btn] sums up Mark's purpose as reworking messianic hopes: the Messiah's reign comes through suffering and apparent defeat (8:31; 10:45).
+- **Isaiah's new exodus:** Gladd[^btn] notes the influence of Isaiah's promise of a second exodus on Mark, from its opening quotation (1:2–3) onward.
 - **Discipleship:** following Jesus means taking up the cross (8:34). The disciples' repeated failures show the need for grace.
 - **Authority:** Jesus acts with God's own authority over sin, Sabbath, nature, demons and death. The gospel itself is God's power over evil and sickness (1:27; compare Rom 1:16).
-- **Glory through the cross:** against Rome's idea of power, the Son of Man's glory is his sacrifice, and greatness among his people means serving (10:42–45) (RSB).
+- **Glory through the cross:** against Rome's idea of power, the Son of Man's glory is his sacrifice, and greatness among his people means serving (10:42–45) (*RSB*[^rsb]).
 - **The Gentiles:** the temple is a house of prayer for all nations (11:17), and the first person to confess Jesus as Son of God after his death is a Roman soldier (15:39).
 - **Urgency:** the frequent "immediately" gives the Gospel its pace.
 
@@ -98,15 +98,15 @@ Mark is the gospel of Jesus Christ, the Son of God (1:1). It shows Jesus as both
 - Mark is John Mark, Barnabas' cousin, who left Paul and Barnabas on their first journey (Acts 13:13; 15:37–39; Col 4:10) and was later useful to Paul (2 Tim 4:11) and close to Peter (1 Pet 5:13).
 - Mark has no birth story; it starts with John the Baptist.
 - Mark is the shortest Gospel, but often gives the most vivid details.
-- Mark 16:9–20 is not in the earliest and best manuscripts. Most modern Bibles mark it, and Gladd discusses the problem.
+- Mark 16:9–20 is not in the earliest and best manuscripts. Most modern Bibles mark it, and Gladd[^btn] discusses the problem.
 - The young man who flees naked at Jesus' arrest (14:51–52) is sometimes thought to be Mark himself, but the text doesn't say.
 - The "Ephphatha" healing (7:31–37) and the two-stage healing of a blind man (8:22–26) appear only in Mark.
 
 ## Going deeper
 
-- **The messianic secret.** Why does Jesus silence demons and people he heals? Gladd surveys the explanations. Read: Gladd, The "Messianic Secret".
-- **Mark's ending.** Does Mark end at 16:8, with the women afraid and silent? What would such an ending say to readers? Gladd discusses the manuscript evidence.
-- **Isaiah's new exodus in Mark.** Gladd draws on the argument that Isaiah's new exodus shapes Mark's Gospel, starting with 1:2–3. Trace the journey from wilderness to Jerusalem.
+- **The messianic secret.** Why does Jesus silence demons and people he heals? Gladd[^btn] surveys the explanations. Read: Gladd[^btn], The "Messianic Secret".
+- **Mark's ending.** Does Mark end at 16:8, with the women afraid and silent? What would such an ending say to readers? Gladd[^btn] discusses the manuscript evidence.
+- **Isaiah's new exodus in Mark.** Gladd[^btn] draws on the argument that Isaiah's new exodus shapes Mark's Gospel, starting with 1:2–3. Trace the journey from wilderness to Jerusalem.
 - **Discipleship and failure.** The Twelve misunderstand, argue over greatness, sleep in Gethsemane and flee. How does that encourage struggling disciples today?
 - **"Ransom for many" (10:45).** Connect this key verse to Isaiah 53 and to the cup and the cross in Mark 14–15.
 
@@ -154,9 +154,9 @@ Mark is the gospel of Jesus Christ, the Son of God (1:1). It shows Jesus as both
 
 ## Sources
 
-- Benjamin Gladd, "Mark," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (genre, eyewitness testimony, audience, authorship, date, text, purpose), Structure and Outline, Message and Theology (the messianic secret, Jesus and Isaiah's second exodus).
-- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Mark: Title, Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of Mark, Mark in the Larger Story of the Bible, Christ in Mark, History of Interpretation, Special Issues, Outline.
-- *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to Mark: Authorship, Date, Theme, Purpose, Synopsis, Outline; chapter summaries.
+[^btn]: **BTN**: Benjamin Gladd, "Mark," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (genre, eyewitness testimony, audience, authorship, date, text, purpose), Structure and Outline, Message and Theology (the messianic secret, Jesus and Isaiah's second exodus).
+[^rsb]: **RSB**: *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Mark: Title, Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of Mark, Mark in the Larger Story of the Bible, Christ in Mark, History of Interpretation, Special Issues, Outline.
+[^rh]: **RH**: *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to Mark: Authorship, Date, Theme, Purpose, Synopsis, Outline; chapter summaries.
 
 ## Changelog
 

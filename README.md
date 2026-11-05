@@ -71,6 +71,7 @@ Every book file uses the same headings: Summary, Setting, Structure, Chapter by 
 
 - Write in your own words. Don't copy study Bible introductions or notes: that text is copyrighted.
 - Cite every source by section: the study Bible introduction and its section headings, a commentary's chapter, a Ligonier URL, or chapter and verse. Page numbers aren't needed.
+- Cite the five main works by italic abbreviation with a footnote: *BTO*, *BTN*, *LSB*, *RSB* and *RH* (key in [`sources.md`](plugin/skills/bible-study/sources.md)). Write `*RSB*[^rsb]` in the text, or put the footnote on the chapter author for BTO and BTN (`Timmer[^bto]`). Under Sources, define each footnote with a bold key: `[^rsb]: **RSB**: *The Reformation Study Bible* (Reformation Trust, 2015), introduction to …`. The site shows these footnotes under the Sources heading. Other sources stay as a plain list.
 - Flag any non-Reformed source by name.
 - Mark your own applications as yours.
 - Write each Q&A item as a numbered `**Q:**` line with its `**A:**` indented under it, and give the answer a chapter and verse. The site styles these as question cards; the markdown stays plain.

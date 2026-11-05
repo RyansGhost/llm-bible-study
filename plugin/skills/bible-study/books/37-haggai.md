@@ -16,14 +16,14 @@ Sixteen years after returning from exile, the people of Jerusalem have stopped r
 
 ## Setting
 
-- **When:** the second year of King Darius of Persia, 520 BC. All four messages fall between late August and mid-December (1:1; 2:1, 10, 20). Timmer notes Haggai and Zechariah give some of the clearest dates in the Twelve. The exiles had returned under Cyrus' decree in 538 BC and begun the temple, but opposition and discouragement stopped the work for about sixteen years (Ezra 4). After Haggai's preaching, Darius confirmed Cyrus' decree, and the temple was finished and dedicated in 516 BC (Ezra 6:13–15) (Reformation Study Bible).
+- **When:** the second year of King Darius of Persia, 520 BC. All four messages fall between late August and mid-December (1:1; 2:1, 10, 20). Timmer[^bto] notes Haggai and Zechariah give some of the clearest dates in the Twelve. The exiles had returned under Cyrus' decree in 538 BC and begun the temple, but opposition and discouragement stopped the work for about sixteen years (Ezra 4). After Haggai's preaching, Darius confirmed Cyrus' decree, and the temple was finished and dedicated in 516 BC (Ezra 6:13–15) (*RSB*[^rsb]).
 - **Where:** Jerusalem and Judah, a small Persian province.
-- **Who wrote it:** Haggai the prophet, whose name means "festal", perhaps because he was born at a feast. Ezra mentions him with Zechariah encouraging the rebuilding (Ezra 5:1; 6:14). If he was one of those who had seen Solomon's temple (2:3), he was an old man by now, perhaps in his seventies, unlike the young Zechariah (the Reformation Heritage KJV Study Bible, RH, which sums up his theme as putting God first).
+- **Who wrote it:** Haggai the prophet, whose name means "festal", perhaps because he was born at a feast. Ezra mentions him with Zechariah encouraging the rebuilding (Ezra 5:1; 6:14). If he was one of those who had seen Solomon's temple (2:3), he was an old man by now, perhaps in his seventies, unlike the young Zechariah (the *Reformation Heritage KJV Study Bible*, *RH*[^rh], which sums up his theme as putting God first).
 - **Where it sits:** among the Twelve, the first of the three prophets after the exile (Haggai, Zechariah, Malachi), and the second-shortest book of the Old Testament. Its events fit into Ezra 4:24–6:15.
 
 ## Structure
 
-Four messages, each precisely dated and introduced by "the word of the Lord came by Haggai". They alternate between calls to repent under the covenant curses (1; 2:10–19) and promises of blessing on the temple and on David's line (2:1–9, 20–23). The Reformation Study Bible's titles:
+Four messages, each precisely dated and introduced by "the word of the Lord came by Haggai". They alternate between calls to repent under the covenant curses (1; 2:10–19) and promises of blessing on the temple and on David's line (2:1–9, 20–23). The *Reformation Study Bible*'s[^rsb] titles:
 
 - 1: A call to rebuild the temple (late August); the people obey and work begins (September)
 - 2:1–9: God's greater temple and blessings: take courage, the latter glory will be greater (October)
@@ -55,7 +55,7 @@ Four messages, each precisely dated and introduced by "the word of the Lord came
 
 - **Priorities:** God's house had been neglected while people built their own. Their neglect showed they didn't really want God's presence, and their failed harvests were the covenant curses, unrecognised (1:6–11; Deut 28:38–40). Haggai calls them to put God first (1:2–9; compare Matt 6:33).
 - **"Consider your ways":** examine your life in light of God's word (1:5, 7; 2:15, 18).
-- **Obedience and repentance:** the people respond quickly (1:12). Timmer lists Haggai among the prophets who press repentance on God's people.
+- **Obedience and repentance:** the people respond quickly (1:12). Timmer[^bto] lists Haggai among the prophets who press repentance on God's people.
 - **God's presence:** "I am with you" (1:13; 2:4), and his Spirit remains among them (2:5).
 - **The Lord of hosts:** the title appears fourteen times in Haggai, stressing God's power to fight for and save his people.
 - **Defiled people, holy God:** contact with the unclean spreads defilement, so even their offerings were unclean (2:10–14). Yet from the day they obeyed, God promised blessing (2:19).
@@ -127,10 +127,11 @@ Zerubbabel, God's chosen signet, appears in Jesus' genealogy (Matt 1:12–13; Lu
 
 ## Sources
 
-- Daniel C. Timmer, "The Twelve," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Message and Theology (chronology, repentance, deliverance of the remnant).
-- *The Lutheran Study Bible* (Concordia, 2009), introduction to Haggai: Overview. Lutheran source.
-- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Haggai: Title and Author, Date and Occasion, Genre and Literary Features, Characteristics and Primary Themes, Theology of Haggai, Haggai in the Larger Story of the Bible, Christ in the Book of Haggai, Haggai in the History of Interpretation, Outline.
-- *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to Haggai: Authorship, Date, Theme, Purpose, Synopsis, Outline; chapter summaries.
+- **LSB**: *The Lutheran Study Bible* (Concordia, 2009), introduction to Haggai: Overview. Lutheran source.
+
+[^bto]: **BTO**: Daniel C. Timmer, "The Twelve," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Message and Theology (chronology, repentance, deliverance of the remnant).
+[^rsb]: **RSB**: *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Haggai: Title and Author, Date and Occasion, Genre and Literary Features, Characteristics and Primary Themes, Theology of Haggai, Haggai in the Larger Story of the Bible, Christ in the Book of Haggai, Haggai in the History of Interpretation, Outline.
+[^rh]: **RH**: *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to Haggai: Authorship, Date, Theme, Purpose, Synopsis, Outline; chapter summaries.
 
 ## Changelog
 

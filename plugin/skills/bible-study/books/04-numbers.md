@@ -12,18 +12,18 @@ status: draft
 
 ## Summary
 
-Numbers follows Israel from Mount Sinai to the edge of the promised land. The generation God rescued from Egypt refuses to trust him and dies in the wilderness over forty years; even Moses sins and may not enter. God stays faithful, though, and brings their children to the plains of Moab ready to enter Canaan. The book was likely written to warn that new generation to trust and obey where their parents had failed, and Paul uses it the same way for Christians (1 Cor 10:1–13). The Reformation Heritage KJV Study Bible (RH) sums up its theme as God's discipline, direction and provision for his people.
+Numbers follows Israel from Mount Sinai to the edge of the promised land. The generation God rescued from Egypt refuses to trust him and dies in the wilderness over forty years; even Moses sins and may not enter. God stays faithful, though, and brings their children to the plains of Moab ready to enter Canaan. The book was likely written to warn that new generation to trust and obey where their parents had failed, and Paul uses it the same way for Christians (1 Cor 10:1–13). The *Reformation Heritage KJV Study Bible* (*RH*[^rh]) sums up its theme as God's discipline, direction and provision for his people.
 
 ## Setting
 
-- **When:** from the second year after the exodus to the fortieth (about 1445–1406 BC in the Lutheran Study Bible's dating; RH, 1445–1405 BC). Moses probably wrote it near the end of the wilderness years, before his death (Reformation Study Bible).
+- **When:** from the second year after the exodus to the fortieth (about 1445–1406 BC in the *Lutheran Study Bible*'s[^lsb] dating; *RH*[^rh], 1445–1405 BC). Moses probably wrote it near the end of the wilderness years, before his death (*RSB*[^rsb]).
 - **Where:** the wilderness of Sinai, Kadesh in the wilderness of Zin and Paran, the journey around Edom, and finally the plains of Moab across the Jordan from Jericho.
-- **Who wrote it:** Moses, who is said to have recorded the journey (33:2). "The Lord spoke to Moses" appears more than forty times. A few notes may have been added after his death, such as the remark that Moses was the meekest man on earth (12:3) (RSB). Glodo argues it was written for the second generation on the plains of Moab, before Deuteronomy.
+- **Who wrote it:** Moses, who is said to have recorded the journey (33:2). "The Lord spoke to Moses" appears more than forty times. A few notes may have been added after his death, such as the remark that Moses was the meekest man on earth (12:3) (*RSB*[^rsb]). Glodo[^bto] argues it was written for the second generation on the plains of Moab, before Deuteronomy.
 - **Where it sits:** the fourth book of Moses. Its Hebrew title, *Bemidbar*, "in the wilderness", names its setting; the English title comes from the Greek *Arithmoi*, "numbers", after the two censuses.
 
 ## Structure
 
-Two censuses frame the book. One counts the generation that fails; the other counts the generation that will enter the land (Glodo, following Olson). The nested sections are the Reformation Study Bible's:
+Two censuses frame the book. One counts the generation that fails; the other counts the generation that will enter the land (Glodo[^bto], following Olson). The nested sections are the *RSB*'s[^rsb]:
 
 - 1–25: The end of the old generation
     - 1:1–10:10: preparing for the journey: the first census, the camp, the Levites, and laws for a holy people
@@ -100,12 +100,12 @@ Two censuses frame the book. One counts the generation that fails; the other cou
 
 ## Themes
 
-- **Unbelief and its cost:** the generation that saw the plagues and the sea refuses to trust God at Kadesh, and dies in the wilderness (14:11, 22–23). The message they heard did them no good because they did not receive it with faith (Heb 4:2); the book's purpose is to show that following the Lord takes faith (RH).
+- **Unbelief and its cost:** the generation that saw the plagues and the sea refuses to trust God at Kadesh, and dies in the wilderness (14:11, 22–23). The message they heard did them no good because they did not receive it with faith (Heb 4:2); the book's purpose is to show that following the Lord takes faith (*RH*[^rh]).
 - **God's faithfulness despite his people:** they grumble again and again, yet God keeps feeding, guiding and protecting them, and brings the next generation to the border.
-- **Judged under the covenant:** the complaints about food and water echo Exodus, but now they are punished (compare Ex 16 with Num 11). Having sworn the covenant at Sinai, Israel is held to its terms (RSB).
+- **Judged under the covenant:** the complaints about food and water echo Exodus, but now they are punished (compare Ex 16 with Num 11). Having sworn the covenant at Sinai, Israel is held to its terms (*RSB*[^rsb]).
 - **Even the best fall short:** Moses himself is shut out of the land after Meribah (20:12), a reminder that all are saved by grace, not by their own record.
 - **God's presence among his people:** the cloud over the tabernacle sets every move (9:15–23). The camp is ordered around God's dwelling, with the Levites guarding it.
-- **Holy war and holiness:** Glodo shows the censuses are preparation for war, and the army must be holy because God marches with it (5:1–4; 10:35).
+- **Holy war and holiness:** Glodo[^bto] shows the censuses are preparation for war, and the army must be holy because God marches with it (5:1–4; 10:35).
 - **Intercession:** Moses and Aaron repeatedly stand between God's judgment and the people (14:13–19; 16:46–48).
 - **God's blessing can't be overturned:** Balaam, hired to curse, can only bless (23:8, 19–20).
 
@@ -113,7 +113,7 @@ Two censuses frame the book. One counts the generation that fails; the other cou
 
 Jesus says that as Moses lifted up the bronze serpent, the Son of Man must be lifted up, so that whoever believes in him may have eternal life (21:8–9; John 3:14–15). The rock that gave water was Christ (1 Cor 10:4), and the manna points to him as the bread from heaven (John 6:31–35). The star rising from Jacob in Balaam's prophecy (24:17) points to the Messiah-King, whose star the magi followed (Matt 2:2).
 
-The ashes of the red heifer cleansed the body; Christ's blood cleanses the conscience (Heb 9:13–14). The cities of refuge picture the safety a sinner finds by fleeing to Christ (RH). Where Israel failed forty years in the wilderness, Jesus stood firm through forty days of testing (Matt 4:1–11). Paul and Hebrews use Numbers as a warning against the unbelief that kept Israel out of God's rest (1 Cor 10:1–11; Heb 3:7–4:11).
+The ashes of the red heifer cleansed the body; Christ's blood cleanses the conscience (Heb 9:13–14). The cities of refuge picture the safety a sinner finds by fleeing to Christ (*RH*[^rh]). Where Israel failed forty years in the wilderness, Jesus stood firm through forty days of testing (Matt 4:1–11). Paul and Hebrews use Numbers as a warning against the unbelief that kept Israel out of God's rest (1 Cor 10:1–11; Heb 3:7–4:11).
 
 ## Common mix-ups
 
@@ -127,11 +127,11 @@ The ashes of the red heifer cleansed the body; Christ's blood cleanses the consc
 
 ## Going deeper
 
-- **Why did God command censuses here but punish David's?** Glodo connects the Numbers censuses to holy war under God's command, and David's census (2 Sam 24) to a king trusting in his own numbers (Deut 17:14–20). Read: Glodo, Census of All Men of Fighting Age.
-- **Are the census numbers too large?** The totals suggest about two million people. Some scholars reread the Hebrew word for "thousand" as "clan" or "unit". The Lutheran Study Bible points to God's miraculous provision instead. Weigh the options.
+- **Why did God command censuses here but punish David's?** Glodo[^bto] connects the Numbers censuses to holy war under God's command, and David's census (2 Sam 24) to a king trusting in his own numbers (Deut 17:14–20). Read: Glodo[^bto], Census of All Men of Fighting Age.
+- **Are the census numbers too large?** The totals suggest about two million people. Some scholars reread the Hebrew word for "thousand" as "clan" or "unit". The *LSB*[^lsb] points to God's miraculous provision instead. Weigh the options.
 - **Why was Moses barred from the land?** Striking the rock instead of speaking to it was unbelief that failed to uphold God as holy (20:12). Why such a severe penalty for one act?
 - **Balaam: prophet or false prophet?** He speaks true words from God, yet the New Testament remembers him for greed and for leading Israel into sin (2 Pet 2:15; Jude 11; Rev 2:14).
-- **The Levites as guardians.** Glodo argues the Levites were priest-soldiers guarding the sanctuary against anyone approaching wrongly (1:50–53). How does that shape Korah's rebellion (16)?
+- **The Levites as guardians.** Glodo[^bto] argues the Levites were priest-soldiers guarding the sanctuary against anyone approaching wrongly (1:50–53). How does that shape Korah's rebellion (16)?
 - **A warning for the church.** Paul says these things happened "as examples for us" (1 Cor 10:6–11). Work through the grumbling stories with that lens.
 
 ## Q&A
@@ -178,10 +178,10 @@ The ashes of the red heifer cleansed the body; Christ's blood cleanses the consc
 
 ## Sources
 
-- Michael J. Glodo, "Numbers," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues, Authorship, Date and Audience, Structure and Outline, Message and Theology.
-- *The Lutheran Study Bible* (Concordia, 2009), introduction to Numbers: Overview, Luther on Numbers, Challenges for Readers. Lutheran source.
-- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Numbers: Title, Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of Numbers, Numbers in the Larger Story of the Bible, Christ in Numbers, History of Interpretation, Special Issues, Outline.
-- *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to Numbers: Authorship, Date, Theme, Purpose, Synopsis, Outline; chapter summaries.
+[^bto]: **BTO**: Michael J. Glodo, "Numbers," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues, Authorship, Date and Audience, Structure and Outline, Message and Theology.
+[^lsb]: **LSB**: *The Lutheran Study Bible* (Concordia, 2009), introduction to Numbers: Overview, Luther on Numbers, Challenges for Readers. Lutheran source.
+[^rsb]: **RSB**: *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Numbers: Title, Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of Numbers, Numbers in the Larger Story of the Bible, Christ in Numbers, History of Interpretation, Special Issues, Outline.
+[^rh]: **RH**: *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to Numbers: Authorship, Date, Theme, Purpose, Synopsis, Outline; chapter summaries.
 
 ## Changelog
 

@@ -12,18 +12,18 @@ status: draft
 
 ## Summary
 
-Ruth is a short, true story from the days of the judges in which God turns a family's emptiness into fullness. A Moabite widow's loyal faith and a godly relative's costly kindness lead to the birth of Obed, King David's grandfather, and so into the line of Jesus. The Reformation Heritage KJV Study Bible (RH) sums up its theme in two words: redeeming love.
+Ruth is a short, true story from the days of the judges in which God turns a family's emptiness into fullness. A Moabite widow's loyal faith and a godly relative's costly kindness lead to the birth of Obed, King David's grandfather, and so into the line of Jesus. The *Reformation Heritage KJV Study Bible* (*RH*[^rh]) sums up its theme in two words: redeeming love.
 
 ## Setting
 
-- **When:** "in the days when the judges ruled" (1:1), a time of moral chaos, when everyone did what was right in their own eyes (Judg 21:25). The famine itself may signal God's displeasure with an unfaithful Israel (Lev 26:18–20) (Reformation Study Bible).
+- **When:** "in the days when the judges ruled" (1:1), a time of moral chaos, when everyone did what was right in their own eyes (Judg 21:25). The famine itself may signal God's displeasure with an unfaithful Israel (Lev 26:18–20) (*RSB*[^rsb]).
 - **Where:** Bethlehem in Judah, whose name means "house of bread", and the plains of Moab east of the Dead Sea.
-- **Who wrote it:** unknown. Jewish tradition (the Talmud) credits Samuel; many have suggested Solomon. It can't be earlier than David (about 1010–970 BC), because the closing genealogy names him, and the RSB dates it to his reign or later. Yeo argues Samuel is still plausible, since the genealogy stops at David and never mentions Solomon. The Lutheran Study Bible dates it around 1000 BC. RH notes that the phrase "in former times in Israel" (4:7) suggests a writer some generations after the events.
+- **Who wrote it:** unknown. Jewish tradition (the Talmud) credits Samuel; many have suggested Solomon. It can't be earlier than David (about 1010–970 BC), because the closing genealogy names him, and the *RSB*[^rsb] dates it to his reign or later. Yeo[^bto] argues Samuel is still plausible, since the genealogy stops at David and never mentions Solomon. The *Lutheran Study Bible*[^lsb] dates it around 1000 BC. *RH*[^rh] notes that the phrase "in former times in Israel" (4:7) suggests a writer some generations after the events.
 - **Where it sits:** English Bibles follow the Greek Old Testament and put Ruth straight after Judges. Hebrew Bibles place it among the Writings, as the first of the five festival scrolls.
 
 ## Structure
 
-Four acts, one per chapter, with a short prologue and epilogue (Yeo; the Lutheran Study Bible's outline is the same). The Reformation Study Bible frames it as Naomi emptied (1) and Naomi filled (4:13–22). The verb "return" comes twelve times in 1:6–22, hinting at a return to the Lord as well as to the land.
+Four acts, one per chapter, with a short prologue and epilogue (Yeo[^bto]; the *LSB*'s[^lsb] outline is the same). The *RSB*[^rsb] frames it as Naomi emptied (1) and Naomi filled (4:13–22). The verb "return" comes twelve times in 1:6–22, hinting at a return to the Lord as well as to the land.
 
 - 1:1–5: Prologue: famine, the move to Moab, three deaths
 - 1:6–22: Act 1: Naomi comes home empty, with Ruth
@@ -65,19 +65,19 @@ Four acts, one per chapter, with a short prologue and epilogue (Yeo; the Luthera
 ## Themes
 
 - **God's hidden providence:** there are no miracles, yet God steers every "chance": the field Ruth happens upon (2:3), the relative who walks by just as Boaz sits down (4:1), and the son the Lord gives (4:13).
-- **Covenant kindness (*hesed*):** loyal, self-giving love, shown by Ruth to Naomi and by Boaz to both women, and behind them by the Lord (1:8; 2:20; 3:10). Ruth comes for refuge under the Lord's "wings" (2:12) and finds it when she asks Boaz to spread his "wings", or garment, over her (3:9): God's love comes through human kindness (RH).
+- **Covenant kindness (*hesed*):** loyal, self-giving love, shown by Ruth to Naomi and by Boaz to both women, and behind them by the Lord (1:8; 2:20; 3:10). Ruth comes for refuge under the Lord's "wings" (2:12) and finds it when she asks Boaz to spread his "wings", or garment, over her (3:9): God's love comes through human kindness (*RH*[^rh]).
 - **Empty to full:** famine becomes harvest, and three deaths give way to a birth (1:1, 6, 21; 4:15). The story is as much Naomi's as Ruth's.
-- **The cost of disobedience:** Elimelech's family leaves the promised land for Moab, and the sons marry outside God's people; poverty, death and widowhood follow (RSB).
+- **The cost of disobedience:** Elimelech's family leaves the promised land for Moab, and the sons marry outside God's people; poverty, death and widowhood follow (*RSB*[^rsb]).
 - **Faith lived out:** Ruth and Boaz show their faith in integrity, hard work and honour.
-- **Redemption by a relative:** the laws on buying back family land (Lev 25:25) and on raising an heir for a dead brother (Deut 25:5–10) come together in Boaz's willing, costly act. "Redeem" and its related words occur over twenty times, and Boaz's redemption involves a price, a legal commitment and an inheritance (4:6–10), each echoed in Christ's (RH).
-- **God welcomes outsiders who trust him:** God chooses Ruth the Moabite, a picture of Gentiles grafted into his people (RSB). A Moabite comes to take refuge under the wings of the God of Israel (2:12). Luther notes that God has always gathered his church from among the nations, and that Ruth and Rahab both appear in Christ's genealogy (Lutheran Study Bible, "Luther on Ruth").
-- **Kingship:** the book opens with "My God is King" and closes with King David. It is God's answer to the chaos of a time with "no king in Israel" (Yeo).
+- **Redemption by a relative:** the laws on buying back family land (Lev 25:25) and on raising an heir for a dead brother (Deut 25:5–10) come together in Boaz's willing, costly act. "Redeem" and its related words occur over twenty times, and Boaz's redemption involves a price, a legal commitment and an inheritance (4:6–10), each echoed in Christ's (*RH*[^rh]).
+- **God welcomes outsiders who trust him:** God chooses Ruth the Moabite, a picture of Gentiles grafted into his people (*RSB*[^rsb]). A Moabite comes to take refuge under the wings of the God of Israel (2:12). Luther notes that God has always gathered his church from among the nations, and that Ruth and Rahab both appear in Christ's genealogy (*LSB*[^lsb], "Luther on Ruth").
+- **Kingship:** the book opens with "My God is King" and closes with King David. It is God's answer to the chaos of a time with "no king in Israel" (Yeo[^bto]).
 
 ## How it points to Christ
 
 Boaz is a picture of Christ, the kinsman-redeemer. He is a close relative, able to pay, willing to pay, and he takes a foreign bride. Christ became our kinsman by sharing our flesh and blood (Heb 2:14–17), redeemed us at the cost of his own blood (1 Pet 1:18–19), and takes the church as his bride (Eph 5:25–27).
 
-Ruth and Boaz are named in Jesus' genealogy (Matt 1:5). Their great-grandson's town, Bethlehem, is where Christ is born (Luke 2:4). Ruth, a Gentile brought into Israel, foreshadows the nations being brought into God's people (Eph 2:11–13). Yeo draws these lines of typology from Archer, Duguid and Waltke.
+Ruth and Boaz are named in Jesus' genealogy (Matt 1:5). Their great-grandson's town, Bethlehem, is where Christ is born (Luke 2:4). Ruth, a Gentile brought into Israel, foreshadows the nations being brought into God's people (Eph 2:11–13). Yeo[^bto] draws these lines of typology from Archer, Duguid and Waltke.
 
 ## Common mix-ups
 
@@ -89,11 +89,11 @@ Ruth and Boaz are named in Jesus' genealogy (Matt 1:5). Their great-grandson's t
 
 ## Going deeper
 
-- **The kinsman-redeemer (*go'el*).** Three laws meet in Ruth: buying back family land (Lev 25:25), raising an heir for a dead brother (Deut 25:5–10), and keeping land within the clan (Num 27:9–11; 36:6–9). Why did the nearer relative agree to buy the land but refuse once Ruth came with it (4:4–6)? A son by Ruth would inherit the field, so he would pay for land his own family would never keep. Read: Yeo on Ruth 3–4.
-- **Was the move to Moab a sin?** Yeo reads the famine as covenant judgment (Deut 28; 32:24) and the move as faithless, typical of the judges' era. Naomi herself says the Lord's hand was against her (1:13, 20–21). The text never condemns the move outright, so treat this as an interpretation, not a stated fact.
-- **Who wrote Ruth, and when?** Compare the Talmud's claim of Samuel, the common view that it was written during or after David's reign, and Yeo's case for Samuel. The Lutheran Study Bible simply says the author is unknown.
-- **Judges, Ruth and 1 Samuel read together.** Yeo traces a contrast running through all three books: faithful Judah and Bethlehem against Benjamin and Gibeah, Saul's hometown. Together they make the case for David, not Saul, as God's chosen king.
-- **A Moabite in God's people.** Ruth is accepted through faith in Israel's God. Luther uses her and Rahab as examples of God gathering his church from the nations (Lutheran Study Bible).
+- **The kinsman-redeemer (*go'el*).** Three laws meet in Ruth: buying back family land (Lev 25:25), raising an heir for a dead brother (Deut 25:5–10), and keeping land within the clan (Num 27:9–11; 36:6–9). Why did the nearer relative agree to buy the land but refuse once Ruth came with it (4:4–6)? A son by Ruth would inherit the field, so he would pay for land his own family would never keep. Read: Yeo[^bto] on Ruth 3–4.
+- **Was the move to Moab a sin?** Yeo[^bto] reads the famine as covenant judgment (Deut 28; 32:24) and the move as faithless, typical of the judges' era. Naomi herself says the Lord's hand was against her (1:13, 20–21). The text never condemns the move outright, so treat this as an interpretation, not a stated fact.
+- **Who wrote Ruth, and when?** Compare the Talmud's claim of Samuel, the common view that it was written during or after David's reign, and Yeo's[^bto] case for Samuel. The *LSB*[^lsb] simply says the author is unknown.
+- **Judges, Ruth and 1 Samuel read together.** Yeo[^bto] traces a contrast running through all three books: faithful Judah and Bethlehem against Benjamin and Gibeah, Saul's hometown. Together they make the case for David, not Saul, as God's chosen king.
+- **A Moabite in God's people.** Ruth is accepted through faith in Israel's God. Luther uses her and Rahab as examples of God gathering his church from the nations (*LSB*[^lsb]).
 
 ## Q&A
 
@@ -139,10 +139,10 @@ Ruth and Boaz are named in Jesus' genealogy (Matt 1:5). Their great-grandson's t
 
 ## Sources
 
-- John J. Yeo, "Ruth," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues, Structure and Outline, Message and Theology, Approaching the New Testament.
-- *The Lutheran Study Bible* (Concordia, 2009), introduction to Ruth: Overview, Luther on Ruth, Challenges for Readers, Outline. Lutheran source.
-- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Ruth: Title and Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Ruth in the Larger Story of the Bible, Christ in the Book of Ruth, Outline.
-- *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to Ruth: Authorship and Date, Theme, Purpose, Synopsis, Outline; chapter summaries.
+[^bto]: **BTO**: John J. Yeo, "Ruth," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues, Structure and Outline, Message and Theology, Approaching the New Testament.
+[^lsb]: **LSB**: *The Lutheran Study Bible* (Concordia, 2009), introduction to Ruth: Overview, Luther on Ruth, Challenges for Readers, Outline. Lutheran source.
+[^rsb]: **RSB**: *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Ruth: Title and Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Ruth in the Larger Story of the Bible, Christ in the Book of Ruth, Outline.
+[^rh]: **RH**: *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to Ruth: Authorship and Date, Theme, Purpose, Synopsis, Outline; chapter summaries.
 
 ## Changelog
 

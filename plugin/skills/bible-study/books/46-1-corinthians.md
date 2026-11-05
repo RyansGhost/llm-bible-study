@@ -12,18 +12,18 @@ status: draft
 
 ## Summary
 
-1 Corinthians is Paul's pastoral response to a gifted but troubled young church: divisions, pride, sexual immorality, lawsuits, disputes over food offered to idols, disorder in worship, and doubts about the resurrection. Paul answers each problem by bringing the gospel to bear: Christ crucified, the wisdom and power of God; the church as God's temple and Christ's body; love as the greatest gift; and Christ's resurrection as the guarantee of ours. Calvin called it a letter "not less obscure than useful" (quoted in Waters).
+1 Corinthians is Paul's pastoral response to a gifted but troubled young church: divisions, pride, sexual immorality, lawsuits, disputes over food offered to idols, disorder in worship, and doubts about the resurrection. Paul answers each problem by bringing the gospel to bear: Christ crucified, the wisdom and power of God; the church as God's temple and Christ's body; love as the greatest gift; and Christ's resurrection as the guarantee of ours. Calvin called it a letter "not less obscure than useful" (quoted in Waters[^btn]).
 
 ## Setting
 
-- **When:** about AD 55, from Ephesus, where Paul stayed over two years on his third journey (16:8; Acts 19:8–10). Waters dates Paul's founding visit to about AD 49–51, using the inscription that dates Gallio's office (Acts 18:12–17).
-- **Where:** Corinth, one of the largest cities in the Roman world, a wealthy, cosmopolitan port in Achaia (southern Greece), known for commerce, competition and immorality. Some believers thought anything went; others swung to harsh self-denial (6:12–20; 7:1) (Reformation Study Bible).
+- **When:** about AD 55, from Ephesus, where Paul stayed over two years on his third journey (16:8; Acts 19:8–10). Waters[^btn] dates Paul's founding visit to about AD 49–51, using the inscription that dates Gallio's office (Acts 18:12–17).
+- **Where:** Corinth, one of the largest cities in the Roman world, a wealthy, cosmopolitan port in Achaia (southern Greece), known for commerce, competition and immorality. Some believers thought anything went; others swung to harsh self-denial (6:12–20; 7:1) (*RSB*[^rsb]).
 - **Who wrote it:** Paul, with Sosthenes (1:1).
 - **Where it sits:** Paul had founded the church during 18 months there, coming from Athens resolved to preach nothing but Christ crucified (2:1–5; Acts 18:1–18). He worked with Aquila and Priscilla and turned to the Gentiles when the synagogue opposed him. This letter answers reports from "Chloe's people" (1:11) and a letter the Corinthians sent him (7:1). Paul had written an earlier letter that is now lost (5:9). The many topics don't mean the letter was stitched together from several: Paul is answering point by point, sometimes quoting the Corinthians' own slogans ("All things are lawful for me", 6:12).
 
 ## Structure
 
-The Reformation Study Bible divides the body by Paul's sources: the report from Chloe's household (1:10–6:20), then his answers to their letter (7:1–16:12), each marked "Now concerning…" (7:1, 25; 8:1; 12:1; 16:1, 12). Waters' more detailed outline:
+The *Reformation Study Bible*[^rsb] divides the body by Paul's sources: the report from Chloe's household (1:10–6:20), then his answers to their letter (7:1–16:12), each marked "Now concerning…" (7:1, 25; 8:1; 12:1; 16:1, 12). Waters[^btn]' more detailed outline:
 
 - 1:1–9: Greeting and thanksgiving
 - 1:10–4:21: Divisions and factions: the wisdom of the world against the word of the cross
@@ -73,9 +73,9 @@ The Reformation Study Bible divides the body by Paul's sources: the report from 
 
 ## Themes
 
-- **The cross against worldly wisdom:** Christ crucified looks foolish and weak, but it is God's wisdom and power (1:18–25). Waters shows Paul bringing the cross to bear on the church's divisions. The Reformation Heritage KJV Study Bible (RH) makes boasting only in the Lord (1:31) the book's theme, since that one thing promotes both unity and pure doctrine and life.
-- **This age and the age to come:** Waters highlights Paul's framework. Believers already belong to the new age in Christ, but still live in the present age and must not be shaped by it.
-- **Unity in the church:** one foundation, one temple, one body, one Spirit (3:11, 16; 12:12–13). Behind the many problems lie pride in spiritual knowledge, challenges to Paul's authority, and above all a lack of love (RSB).
+- **The cross against worldly wisdom:** Christ crucified looks foolish and weak, but it is God's wisdom and power (1:18–25). Waters[^btn] shows Paul bringing the cross to bear on the church's divisions. The *Reformation Heritage KJV Study Bible* (*RH*[^rh]) makes boasting only in the Lord (1:31) the book's theme, since that one thing promotes both unity and pure doctrine and life.
+- **This age and the age to come:** Waters[^btn] highlights Paul's framework. Believers already belong to the new age in Christ, but still live in the present age and must not be shaped by it.
+- **Unity in the church:** one foundation, one temple, one body, one Spirit (3:11, 16; 12:12–13). Behind the many problems lie pride in spiritual knowledge, challenges to Paul's authority, and above all a lack of love (*RSB*[^rsb]).
 - **Holiness of the body:** the believer's body belongs to the Lord and is the Spirit's temple (6:12–20).
 - **Christian freedom limited by love:** don't wound a weaker brother's conscience (8; 10:23–33).
 - **Worship that builds up:** gifts are for the common good, exercised in love and order (12–14). Christians still debate whether tongues and prophecy continue today or ceased with the apostles; many Reformed churches hold that they ceased (compare WCF 1.1). The Lord's Supper (11:17–34) has also been central to debates about how Christ is present in it.
@@ -98,8 +98,8 @@ Christ crucified is the centre of the letter (2:2). He is the power and wisdom o
 
 ## Going deeper
 
-- **Wisdom and foolishness (1–4).** Why does Paul refuse impressive rhetoric? What does "Christ crucified" say about the church's values today? Read: Waters, The Death of Christ.
-- **Living between the ages.** Waters frames the letter in terms of "this age" and "the age to come". How does that explain Paul's teaching on marriage (7:29–31), food (8–10) and the resurrection (15)?
+- **Wisdom and foolishness (1–4).** Why does Paul refuse impressive rhetoric? What does "Christ crucified" say about the church's values today? Read: Waters[^btn], The Death of Christ.
+- **Living between the ages.** Waters[^btn] frames the letter in terms of "this age" and "the age to come". How does that explain Paul's teaching on marriage (7:29–31), food (8–10) and the resurrection (15)?
 - **Food offered to idols (8–10).** How do knowledge, love and conscience fit together? What modern issues follow similar principles?
 - **Spiritual gifts (12–14).** What are the gifts for? How do Reformed churches understand the gifts of tongues and prophecy today?
 - **The Lord's Supper (11:17–34).** What does it mean to eat "in an unworthy manner" and to "discern the body"?
@@ -149,10 +149,11 @@ Christ crucified is the centre of the letter (2:2). He is the power and wisdom o
 
 ## Sources
 
-- Guy Prentiss Waters, "1–2 Corinthians," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (Paul and the church in Corinth, the problems in Corinth), Structure and Outline, Message and Theology (Paul's redemptive-historical framework, the gospel, the death and resurrection of Christ, the Spirit and the body).
 - John Calvin, *Commentary on 1 Corinthians*, dedicatory epistle (quoted in Waters).
-- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to 1 Corinthians: Title and Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of 1 Corinthians, 1 Corinthians in the Larger Story of the Bible, Christ in 1 Corinthians, History of Interpretation, Outline.
-- *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to 1 Corinthians: Authorship, Date (spring of AD 54 or 55), Theme, Purpose, Synopsis; chapter summaries.
+
+[^btn]: **BTN**: Guy Prentiss Waters, "1–2 Corinthians," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (Paul and the church in Corinth, the problems in Corinth), Structure and Outline, Message and Theology (Paul's redemptive-historical framework, the gospel, the death and resurrection of Christ, the Spirit and the body).
+[^rsb]: **RSB**: *The Reformation Study Bible* (Reformation Trust, 2015), introduction to 1 Corinthians: Title and Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of 1 Corinthians, 1 Corinthians in the Larger Story of the Bible, Christ in 1 Corinthians, History of Interpretation, Outline.
+[^rh]: **RH**: *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to 1 Corinthians: Authorship, Date (spring of AD 54 or 55), Theme, Purpose, Synopsis; chapter summaries.
 
 ## Changelog
 

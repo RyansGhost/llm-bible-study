@@ -54,6 +54,16 @@ Some trusted sources are not Reformed on every point. Use them freely, but on th
 - **Spurgeon (Reformed Baptist)**: baptism of believers only, not infants.
 - **The Lutheran Study Bible (Lutheran)**: the sacraments, as for Luther, and its "Law Themes / Gospel Themes" framing of each book, which follows Lutheran law-and-gospel teaching.
 
+## Abbreviations in the book notes
+
+The book notes cite their five main works by abbreviation, each linked to a markdown footnote that gives the full reference and the sections used:
+
+- **BTO**: Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016). The notes usually name the chapter's author, e.g. `Timmer[^bto]`.
+- **BTN**: Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016), cited the same way.
+- **LSB**: *The Lutheran Study Bible* (Concordia, 2009).
+- **RSB**: *The Reformation Study Bible* (Reformation Trust, 2015).
+- **RH**: *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014).
+
 ## Citation rules
 
 - Write summaries in your own words. Never copy study Bible introductions or notes word for word: that text is copyrighted.

@@ -227,6 +227,17 @@ a:hover { color: var(--olive); }
 .prose li { margin: 0.3rem 0; }
 .prose li::marker { color: var(--olive); }
 .prose em { color: var(--muted); }
+.prose a { overflow-wrap: anywhere; }
+/* Source footnotes (BTO, BTN, LSB, RSB, RH), moved under the Sources heading by qa-content.html */
+.prose sup { line-height: 0; }
+.prose .footnote-ref { text-decoration: none; font-size: 0.75em; padding: 0 0.1em; }
+.prose .footnotes { margin-top: 1rem; font-size: 0.95rem; }
+.prose .footnotes ol { padding-left: 1.5rem; }
+.prose .footnotes li { margin: 0.5rem 0; }
+.prose .footnotes p { margin: 0; }
+.prose .footnote-backref { text-decoration: none; margin-left: 0.25em; }
+/* each citation adds a return link; one is enough */
+.prose .footnote-backref ~ .footnote-backref { display: none; }
 .prose blockquote {
   margin: 1.5rem 0; padding: 0.25rem 0 0.25rem 1.25rem;
   border-left: 3px solid var(--olive);

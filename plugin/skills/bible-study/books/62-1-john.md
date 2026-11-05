@@ -12,19 +12,19 @@ status: draft
 
 ## Summary
 
-1 John is a letter of assurance to a church shaken by a split. A group of false teachers, whom John calls "antichrists", had left the church (2:19), denying that Jesus is the Christ come in the flesh. Their departure left the faithful unsettled. John writes "so that you may know that you have eternal life" (5:13). He gives tests, or marks, of a true Christian: believing that Jesus is the Christ, the Son of God come in the flesh; obeying God's commands; and loving one another. Hill notes these tests are both doctrinal and practical. God is light and God is love, and he sent his Son as the propitiation for our sins. Those born of God walk in the light, confess their sins, and love their brothers.
+1 John is a letter of assurance to a church shaken by a split. A group of false teachers, whom John calls "antichrists", had left the church (2:19), denying that Jesus is the Christ come in the flesh. Their departure left the faithful unsettled. John writes "so that you may know that you have eternal life" (5:13). He gives tests, or marks, of a true Christian: believing that Jesus is the Christ, the Son of God come in the flesh; obeying God's commands; and loving one another. Hill[^btn] notes these tests are both doctrinal and practical. God is light and God is love, and he sent his Son as the propitiation for our sins. Those born of God walk in the light, confess their sins, and love their brothers.
 
 ## Setting
 
-- **When:** probably about AD 85–100, late in the first century (Hill), after John's Gospel, which it seems to assume. The Reformation Study Bible places it in the 90s: the letters of Ignatius and Polycarp (from about AD 110) fight a more developed form of the same error. Early writers say John lived to old age in Ephesus.
-- **Where:** most likely from Ephesus, to churches in the province of Asia (Hill notes the earliest uses of the letters come from Asia Minor).
-- **Who wrote it:** the letter doesn't name its author, but its style and ideas are very close to John's Gospel. Early tradition, Irenaeus and the Muratorian Fragment among it, names the apostle John. Hill defends this, and notes no one in the early church doubted that John wrote 1 John.
+- **When:** probably about AD 85–100, late in the first century (Hill[^btn]), after John's Gospel, which it seems to assume. The *Reformation Study Bible*[^rsb] places it in the 90s: the letters of Ignatius and Polycarp (from about AD 110) fight a more developed form of the same error. Early writers say John lived to old age in Ephesus.
+- **Where:** most likely from Ephesus, to churches in the province of Asia (Hill[^btn] notes the earliest uses of the letters come from Asia Minor).
+- **Who wrote it:** the letter doesn't name its author, but its style and ideas are very close to John's Gospel. Early tradition, Irenaeus and the Muratorian Fragment among it, names the apostle John. Hill[^btn] defends this, and notes no one in the early church doubted that John wrote 1 John.
 - **Where it sits:** the first of three letters of John, probably written before 2 and 3 John, among the General Epistles. It reads more like a sermon than a letter, with no greeting or closing, though John writes warmly to "my little children".
-- **The false teaching:** that Christ only seemed to be human, so there was no real incarnation and no real death for sin (4:2–3; 5:6). Later writers linked such ideas with Cerinthus and with Gnosticism (RSB).
+- **The false teaching:** that Christ only seemed to be human, so there was no real incarnation and no real death for sin (4:2–3; 5:6). Later writers linked such ideas with Cerinthus and with Gnosticism (*RSB*[^rsb]).
 
 ## Structure
 
-Hill notes that John loves repetition, parallels and groups of three, so the letter's overall structure is hard to pin down and outlines vary widely. Rather than a straight argument, it circles back, amplifying the same themes each time. The Reformation Study Bible sees a prologue, three passes over what true fellowship with God looks like, and an epilogue on assurance:
+Hill[^btn] notes that John loves repetition, parallels and groups of three, so the letter's overall structure is hard to pin down and outlines vary widely. Rather than a straight argument, it circles back, amplifying the same themes each time. The *RSB*[^rsb] sees a prologue, three passes over what true fellowship with God looks like, and an epilogue on assurance:
 
 - 1:1–4: The word of life we have seen and touched
 - 1:5–2:27: God is light: walking in the light, confessing sin, keeping his commands, rejecting the antichrists
@@ -56,15 +56,15 @@ Hill notes that John loves repetition, parallels and groups of three, so the let
 
 ## Themes
 
-- **Assurance:** "I write these things … that you may know that you have eternal life" (5:13). Hill calls the letter's tests "marks of a true Christian".
+- **Assurance:** "I write these things … that you may know that you have eternal life" (5:13). Hill[^btn] calls the letter's tests "marks of a true Christian".
 - **Three tests:** right belief about Jesus, obedience to God's commands, and love for fellow believers. They belong together.
 - **God is light and God is love:** the two great statements about God's nature (1:5; 4:8).
-- **The incarnation:** Jesus Christ has come in the flesh. Hill shows the opponents denied that Jesus is the Christ and that Jesus Christ came in the flesh (4:2; 5:6).
-- **Sin and confession:** Christians still sin and must confess it (1:8–2:2), yet those born of God don't make a practice of sinning (3:4–10). Hill explains how both are true.
+- **The incarnation:** Jesus Christ has come in the flesh. Hill[^btn] shows the opponents denied that Jesus is the Christ and that Jesus Christ came in the flesh (4:2; 5:6).
+- **Sin and confession:** Christians still sin and must confess it (1:8–2:2), yet those born of God don't make a practice of sinning (3:4–10). Hill[^btn] explains how both are true.
 - **Antichrist:** John is the first known writer to use the word. Many antichrists have already come, so it is the last hour (2:18): the last days began with Christ's coming. The "sin that leads to death" (5:16) is probably such apostasy, which shows a profession of faith was never real (2:19).
 - **Eternal life now:** Christ is "the eternal life" made visible (1:2), and those united to him already have it (5:11–13, 20). The Spirit God gives assures them that he lives in them (3:24; 4:13).
 - **Fellowship:** with the Father, the Son and one another (1:3).
-- **Assurance:** the Reformation Heritage KJV Study Bible (RH) sums up the theme as a believer's personal assurance of real salvation: John marks out who belongs to God and who belongs to the world, so that the church may have peace and joy (5:13). It notes Clement of Rome seems to quote the letter about AD 96.
+- **Assurance:** the *Reformation Heritage KJV Study Bible* (*RH*[^rh]) sums up the theme as a believer's personal assurance of real salvation: John marks out who belongs to God and who belongs to the world, so that the church may have peace and joy (5:13). It notes Clement of Rome seems to quote the letter about AD 96.
 
 ## How it points to Christ
 
@@ -75,16 +75,16 @@ Hill notes that John loves repetition, parallels and groups of three, so the let
 - "If we confess our sins, he is faithful and just to forgive us" is 1 John 1:9.
 - "God is love" is 1 John 4:8 and 4:16.
 - "Perfect love casts out fear" is 1 John 4:18.
-- "The propitiation … for the sins of the whole world" (2:2). Hill argues John means that Christ is the only Saviour for people everywhere, against the false teachers' elitism, not that he has saved every individual. This fits the Reformed teaching on definite atonement.
-- "No one born of God makes a practice of sinning" (3:9) doesn't mean Christians never sin (1:8). Hill explains it describes a settled practice of sin.
+- "The propitiation … for the sins of the whole world" (2:2). Hill[^btn] argues John means that Christ is the only Saviour for people everywhere, against the false teachers' elitism, not that he has saved every individual. This fits the Reformed teaching on definite atonement.
+- "No one born of God makes a practice of sinning" (3:9) doesn't mean Christians never sin (1:8). Hill[^btn] explains it describes a settled practice of sin.
 - The words about three witnesses "in heaven, the Father, the Word, and the Holy Ghost" (5:7, KJV) aren't in the early Greek manuscripts, so most modern translations leave them out. The doctrine of the Trinity rests on many other texts.
 - "Antichrist" appears only in 1 and 2 John, not in Revelation.
 
 ## Going deeper
 
-- **Tests of a true Christian.** List the doctrinal and practical tests Hill identifies. How do they give assurance without leading to despair? Compare WCF 18.
-- **Who were the opponents?** Hill describes a denial that Jesus Christ came in the flesh, sometimes compared with docetism. Why does John link wrong belief about Jesus with lovelessness and sin?
-- **Sinless or sinning? (1:8–2:2; 3:4–10).** How can both passages be true? What does Hill propose?
+- **Tests of a true Christian.** List the doctrinal and practical tests Hill[^btn] identifies. How do they give assurance without leading to despair? Compare WCF 18.
+- **Who were the opponents?** Hill[^btn] describes a denial that Jesus Christ came in the flesh, sometimes compared with docetism. Why does John link wrong belief about Jesus with lovelessness and sin?
+- **Sinless or sinning? (1:8–2:2; 3:4–10).** How can both passages be true? What does Hill[^btn] propose?
 - **Propitiation (2:2; 4:10).** What does the word mean? How does it relate to God's wrath and love?
 - **Antichrist and the last hour (2:18–27; 4:1–6).** What does John mean that it is already the last hour? How should we test the spirits today?
 - **Love (4:7–21).** How does God's love for us create our love for others?
@@ -133,9 +133,9 @@ Hill notes that John loves repetition, parallels and groups of three, so the let
 
 ## Sources
 
-- Charles E. Hill, "1–3 John," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): 1 John, Background Issues (date, chronological order, place, authorship, purpose), Structure and Outline, Message and Theology (ethics, atonement, incarnation, sin, eschatology and antichrist).
-- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to 1 John: Title and Author, Date and Occasion, Genre and Literary Features, Characteristics and Primary Themes, Theology of 1 John, 1 John in the Larger Story of the Bible, Christ in 1 John, Special Issues, Outline.
-- *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to 1 John: Authorship, Date, Theme, Purpose, Synopsis; chapter summaries.
+[^btn]: **BTN**: Charles E. Hill, "1–3 John," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): 1 John, Background Issues (date, chronological order, place, authorship, purpose), Structure and Outline, Message and Theology (ethics, atonement, incarnation, sin, eschatology and antichrist).
+[^rsb]: **RSB**: *The Reformation Study Bible* (Reformation Trust, 2015), introduction to 1 John: Title and Author, Date and Occasion, Genre and Literary Features, Characteristics and Primary Themes, Theology of 1 John, 1 John in the Larger Story of the Bible, Christ in 1 John, Special Issues, Outline.
+[^rh]: **RH**: *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to 1 John: Authorship, Date, Theme, Purpose, Synopsis; chapter summaries.
 
 ## Changelog
 

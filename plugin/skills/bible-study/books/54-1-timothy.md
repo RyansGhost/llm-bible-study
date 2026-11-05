@@ -12,18 +12,18 @@ status: draft
 
 ## Summary
 
-1 Timothy is Paul's instruction to his trusted co-worker Timothy, whom he left in Ephesus to stop false teachers. Barcley shows the letter alternates between two themes: dealing with the false teachers, and "how one ought to behave in the household of God, which is the church" (3:15). Paul tells Timothy to hold to sound doctrine and a good conscience, to make prayer a priority, and to appoint qualified elders and deacons. He gives guidance on worship, caring for widows, honouring elders, and money: "godliness with contentment is great gain" (6:6). Through it all runs the gospel: "Christ Jesus came into the world to save sinners" (1:15).
+1 Timothy is Paul's instruction to his trusted co-worker Timothy, whom he left in Ephesus to stop false teachers. Barcley[^btn] shows the letter alternates between two themes: dealing with the false teachers, and "how one ought to behave in the household of God, which is the church" (3:15). Paul tells Timothy to hold to sound doctrine and a good conscience, to make prayer a priority, and to appoint qualified elders and deacons. He gives guidance on worship, caring for widows, honouring elders, and money: "godliness with contentment is great gain" (6:6). Through it all runs the gospel: "Christ Jesus came into the world to save sinners" (1:15).
 
 ## Setting
 
-- **When:** probably AD 62–64, after Paul's release from his first Roman imprisonment, during a further round of travels (perhaps including Spain) that Acts doesn't record (Barcley; Reformation Study Bible). Paul wrote from Macedonia, having urged Timothy to stay in Ephesus (1:3).
+- **When:** probably AD 62–64, after Paul's release from his first Roman imprisonment, during a further round of travels (perhaps including Spain) that Acts doesn't record (Barcley[^btn]; *RSB*[^rsb]). Paul wrote from Macedonia, having urged Timothy to stay in Ephesus (1:3).
 - **Where:** to Timothy at Ephesus, where Paul had spent about three years, and whose elders he had warned that false teachers would arise, some from among themselves (Acts 20:29–30). That warning had come true (1:6, 19–20).
-- **Who wrote it:** Paul (1:1). Barcley notes that Paul's authorship of the Pastoral Epistles is denied more often than for any of his other letters, mainly on grounds of vocabulary, style, theology and church order. He answers these arguments and defends Paul's authorship. The RSB adds that the differences fit a different reader and situation, perhaps a different secretary, and that Paul always appointed elders (Acts 14:23), so concern for church order is nothing new.
+- **Who wrote it:** Paul (1:1). Barcley[^btn] notes that Paul's authorship of the Pastoral Epistles is denied more often than for any of his other letters, mainly on grounds of vocabulary, style, theology and church order. He answers these arguments and defends Paul's authorship. The *RSB*[^rsb] adds that the differences fit a different reader and situation, perhaps a different secretary, and that Paul always appointed elders (Acts 14:23), so concern for church order is nothing new.
 - **Where it sits:** the first of the three "Pastoral Epistles" (1 and 2 Timothy, Titus), letters to individuals about ordering the life of local churches. Like an official's commission to his deputy, it was also meant for the whole church to hear (the "you" of 6:21 is plural).
 
 ## Structure
 
-Barcley shows the letter alternating between Timothy's dealings with the false teachers and proper conduct in God's household (3:15). The Reformation Study Bible's outline:
+Barcley[^btn] shows the letter alternating between Timothy's dealings with the false teachers and proper conduct in God's household (3:15). The *RSB*'s[^rsb] outline:
 
 - 1:1–2: Greeting
 - 1:3–11: Dealing with false teachers of the law
@@ -47,7 +47,7 @@ Barcley shows the letter alternating between Timothy's dealings with the false t
 ## Key people
 
 - **Paul:** the apostle, writing to his "true child in the faith" (1:2).
-- **Timothy:** Paul's closest co-worker, from Lystra, son of a Jewish believing mother and a Gentile father, taught the Scriptures from childhood (Acts 16:1–3; 2 Tim 1:5; 3:15). Barcley notes he appears in ten of Paul's thirteen letters; he represented Paul at Thessalonica, Corinth and Philippi. He was young, apparently timid, and often unwell (4:12; 5:23).
+- **Timothy:** Paul's closest co-worker, from Lystra, son of a Jewish believing mother and a Gentile father, taught the Scriptures from childhood (Acts 16:1–3; 2 Tim 1:5; 3:15). Barcley[^btn] notes he appears in ten of Paul's thirteen letters; he represented Paul at Thessalonica, Corinth and Philippi. He was young, apparently timid, and often unwell (4:12; 5:23).
 - **Hymenaeus and Alexander:** who rejected faith and a good conscience (1:19–20).
 - **The false teachers:** who taught myths, genealogies and harsh self-denial, and were motivated by gain (1:3–7; 4:1–3; 6:3–5).
 - **Elders (overseers) and deacons:** the church officers whose qualifications Paul sets out (3:1–13).
@@ -65,12 +65,12 @@ Barcley shows the letter alternating between Timothy's dealings with the false t
 - **The gospel of grace:** Paul himself is the example of mercy to the worst of sinners (1:12–16).
 - **The household of God:** the church as God's family, ordered by his word (3:15).
 - **Prayer and worship:** prayer for all people comes "first of all" (2:1).
-- **Church leadership:** qualified elders and deacons, marked by godly character and, for elders, the ability to teach (3:1–13; 5:17–22). This is the New Testament's fullest description of the offices, and 5:17 points to elders who rule and elders who also labour in preaching and teaching, a distinction Presbyterian churches draw on (RSB).
-- **Mercy ministry:** care for widows and the needy. Barcley reads the "women" of 3:11 as women who assist the deacons in this work.
+- **Church leadership:** qualified elders and deacons, marked by godly character and, for elders, the ability to teach (3:1–13; 5:17–22). This is the New Testament's fullest description of the offices, and 5:17 points to elders who rule and elders who also labour in preaching and teaching, a distinction Presbyterian churches draw on (*RSB*[^rsb]).
+- **Mercy ministry:** care for widows and the needy. Barcley[^btn] reads the "women" of 3:11 as women who assist the deacons in this work.
 - **Money and contentment:** godliness with contentment, generosity, and warning against the love of money (6:6–19).
 - **Guarding the faith:** "guard the deposit entrusted to you" (6:20).
 - **Christ the one mediator:** salvation by grace (1:12–16), one mediator who gave himself as a ransom (2:5–6), and an early confession of his whole saving work (3:16).
-- **Guarding the faith, ordering the church:** the Reformation Heritage KJV Study Bible (RH) sums up the letter as contending for the faith and setting up the church on the apostles' pattern, with Timothy urged to stay faithful to the gospel while he does it.
+- **Guarding the faith, ordering the church:** the *Reformation Heritage KJV Study Bible* (*RH*[^rh]) sums up the letter as contending for the faith and setting up the church on the apostles' pattern, with Timothy urged to stay faithful to the gospel while he does it.
 
 ## How it points to Christ
 
@@ -87,11 +87,11 @@ The letter centres on the "trustworthy saying" that Christ Jesus came into the w
 
 ## Going deeper
 
-- **Did Paul write the Pastoral Epistles?** Barcley explains the arguments from vocabulary, style, theology and church order, and his answers. What would be lost if they weren't Paul's?
-- **What was the false teaching?** Barcley sees a Jewish-flavoured speculation using the law as a springboard for myths and genealogies. Why does Paul treat it so seriously?
+- **Did Paul write the Pastoral Epistles?** Barcley[^btn] explains the arguments from vocabulary, style, theology and church order, and his answers. What would be lost if they weren't Paul's?
+- **What was the false teaching?** Barcley[^btn] sees a Jewish-flavoured speculation using the law as a springboard for myths and genealogies. Why does Paul treat it so seriously?
 - **Women in worship (2:8–15).** What does Paul ground his teaching in? How do Reformed churches apply 2:12 today, and how have others read it?
 - **Elders and deacons (3:1–13).** Compare these qualifications with Titus 1. How do they shape the Presbyterian and Reformed offices of elder and deacon?
-- **The women of 3:11.** Wives of deacons, or women who assist the deacons? Barcley favours the second. What is at stake?
+- **The women of 3:11.** Wives of deacons, or women who assist the deacons? Barcley[^btn] favours the second. What is at stake?
 - **Contentment and riches (6:6–19).** How does Paul's teaching challenge both the prosperity gospel and the love of comfort?
 
 ## Q&A
@@ -138,9 +138,9 @@ The letter centres on the "trustworthy saying" that Christ Jesus came into the w
 
 ## Sources
 
-- William B. Barcley, "Introduction to the Pastoral Epistles" and "1 Timothy," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (authorship, date and occasion, false teaching, recipients), Structure and Outline, Message and Theology.
-- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to 1 Timothy: Title and Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of 1 Timothy, 1 Timothy in the Larger Story of the Bible, Christ in 1 Timothy, History of Interpretation, Special Issues, Outline.
-- *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to 1 Timothy: Authorship, Date, Theme, Purpose, Synopsis; chapter summaries.
+[^btn]: **BTN**: William B. Barcley, "Introduction to the Pastoral Epistles" and "1 Timothy," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (authorship, date and occasion, false teaching, recipients), Structure and Outline, Message and Theology.
+[^rsb]: **RSB**: *The Reformation Study Bible* (Reformation Trust, 2015), introduction to 1 Timothy: Title and Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of 1 Timothy, 1 Timothy in the Larger Story of the Bible, Christ in 1 Timothy, History of Interpretation, Special Issues, Outline.
+[^rh]: **RH**: *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to 1 Timothy: Authorship, Date, Theme, Purpose, Synopsis; chapter summaries.
 
 ## Changelog
 

@@ -16,14 +16,14 @@ status: draft
 
 ## Setting
 
-- **When:** from about 853 BC (King Ahaziah of Israel) to 561 BC (Jehoiachin's release in Babylon). Landmarks (Reformation Study Bible): Samaria falls to Assyria in 722 BC; Hezekiah (715–686 BC) leads a great reform; Josiah (640–609 BC) tries to reform and reunite the land, but dies at Megiddo in 609 BC; Babylon destroys Jerusalem in 586 BC.
+- **When:** from about 853 BC (King Ahaziah of Israel) to 561 BC (Jehoiachin's release in Babylon). Landmarks (*RSB*[^rsb]): Samaria falls to Assyria in 722 BC; Hezekiah (715–686 BC) leads a great reform; Josiah (640–609 BC) tries to reform and reunite the land, but dies at Megiddo in 609 BC; Babylon destroys Jerusalem in 586 BC.
 - **Where:** Israel (capital Samaria) and Judah (capital Jerusalem), with the great empires pressing in: Syria (Aram), Assyria, Egypt, and finally Babylon.
-- **Who wrote it:** unknown, probably a Judean writer during the exile, about 550 BC. 1 and 2 Kings were one book (Fullilove; RSB).
-- **Where it sits:** the second half of Kings and the end of the Former Prophets. Prophets like Isaiah, Hosea, Amos, Micah, Jeremiah and Jonah ministered during these reigns; in fact every writing prophet except the three after the exile belongs to this period (the Reformation Heritage KJV Study Bible, RH). Read their books alongside it.
+- **Who wrote it:** unknown, probably a Judean writer during the exile, about 550 BC. 1 and 2 Kings were one book (Fullilove[^bto]; *RSB*[^rsb]).
+- **Where it sits:** the second half of Kings and the end of the Former Prophets. Prophets like Isaiah, Hosea, Amos, Micah, Jeremiah and Jonah ministered during these reigns; in fact every writing prophet except the three after the exile belongs to this period (the *Reformation Heritage KJV Study Bible*, *RH*[^rh]). Read their books alongside it.
 
 ## Structure
 
-The Reformation Study Bible's outline continues from 1 Kings:
+The *RSB*'s[^rsb] outline continues from 1 Kings:
 
 - 1:1–8:15: Prophets and kings: Elijah taken up, and Elisha's ministry (continuing from 1 Kgs 17)
 - 8:16–17:41: The late divided kingdom: from Jehu's purge to the fall of Samaria (722 BC), with a reflection on why Israel went into exile (17:7–23)
@@ -93,12 +93,12 @@ The Reformation Study Bible's outline continues from 1 Kings:
 
 ## Themes
 
-- **Covenant curses fulfilled:** the exiles of Israel and Judah are exactly what Deuteronomy warned (Deut 28:36, 64; 2 Kgs 17:7–23). Fullilove shows Kings explaining why the exile happened.
-- **The prophetic word never fails:** prophecies are fulfilled again and again, sometimes centuries later (1 Kgs 13:2 and 2 Kgs 23:15–16). Fullilove highlights "delayed retribution": God's patience before judgment falls.
+- **Covenant curses fulfilled:** the exiles of Israel and Judah are exactly what Deuteronomy warned (Deut 28:36, 64; 2 Kgs 17:7–23). Fullilove[^bto] shows Kings explaining why the exile happened.
+- **The prophetic word never fails:** prophecies are fulfilled again and again, sometimes centuries later (1 Kgs 13:2 and 2 Kgs 23:15–16). Fullilove[^bto] highlights "delayed retribution": God's patience before judgment falls.
 - **God's patience and justice:** God sends prophet after prophet (17:13), but finally judges.
 - **Reform is real but not enough:** Hezekiah and Josiah are among Judah's best kings, yet the people's hearts aren't changed and judgment comes (23:25–27). Josiah's reform is genuine but comes too late to turn the judgment aside.
 - **God's care for outsiders:** a Syrian general (5) and a Shunammite woman (4; 8) receive God's mercy through Elisha.
-- **The Davidic line preserved:** despite judgment, God keeps a "lamp" for David (8:19). When Athaliah tries to wipe out the royal family, one baby, Joash, is hidden and survives (11:1–3); RH sees in this the serpent's old attack on the promised offspring (Gen 3:15) foiled. The book ends with David's heir alive and honoured above the other captive kings in Babylon (25:27–30), a glimmer of hope fulfilled in Christ, the Son of David (RSB).
+- **The Davidic line preserved:** despite judgment, God keeps a "lamp" for David (8:19). When Athaliah tries to wipe out the royal family, one baby, Joash, is hidden and survives (11:1–3); *RH*[^rh] sees in this the serpent's old attack on the promised offspring (Gen 3:15) foiled. The book ends with David's heir alive and honoured above the other captive kings in Babylon (25:27–30), a glimmer of hope fulfilled in Christ, the Son of David (*RSB*[^rsb]).
 
 ## How it points to Christ
 
@@ -118,7 +118,7 @@ Above all, Kings ends with a question about God's promise to David. Jehoiachin's
 
 ## Going deeper
 
-- **Why did Israel fall?** 2 Kings 17:7–23 is the writer's sermon on the north's collapse. Trace each charge back to the covenant in Deuteronomy. Read: Fullilove, The Mosaic Covenant as Expressed in Deuteronomy.
+- **Why did Israel fall?** 2 Kings 17:7–23 is the writer's sermon on the north's collapse. Trace each charge back to the covenant in Deuteronomy. Read: Fullilove[^bto], The Mosaic Covenant as Expressed in Deuteronomy.
 - **Delayed retribution.** Ahab repents and his judgment is postponed (1 Kgs 21:29). Josiah's goodness delays Judah's end (22:18–20). Manasseh's sin makes it certain (23:26). What do these reveal about God's patience and justice?
 - **Naaman's conversion.** A foreign enemy healed by humbling himself in the Jordan (5). What does this say about grace, pride and the nations? Compare Luke 4:27.
 - **Hezekiah's prayer.** He spreads Sennacherib's letter before the Lord (19:14–19). What does his prayer teach about God's glory and the nations? Compare Isaiah 36–39.
@@ -169,10 +169,11 @@ Above all, Kings ends with a question about God's promise to David. Jehoiachin's
 
 ## Sources
 
-- William B. Fullilove, "1–2 Kings," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues, Structure and Outline, Message and Theology (the Mosaic covenant, the Davidic covenant, the prophetic word and delayed retribution).
-- *The Lutheran Study Bible* (Concordia, 2009), introduction to 1 and 2 Kings. Lutheran source.
-- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to 2 Kings: Title and Author, Date and Occasion, Outline.
-- *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to 1 and 2 Kings (Synopsis, Outline) and introduction to 2 Kings; chapter summaries.
+- **LSB**: *The Lutheran Study Bible* (Concordia, 2009), introduction to 1 and 2 Kings. Lutheran source.
+
+[^bto]: **BTO**: William B. Fullilove, "1–2 Kings," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues, Structure and Outline, Message and Theology (the Mosaic covenant, the Davidic covenant, the prophetic word and delayed retribution).
+[^rsb]: **RSB**: *The Reformation Study Bible* (Reformation Trust, 2015), introduction to 2 Kings: Title and Author, Date and Occasion, Outline.
+[^rh]: **RH**: *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to 1 and 2 Kings (Synopsis, Outline) and introduction to 2 Kings; chapter summaries.
 
 ## Changelog
 

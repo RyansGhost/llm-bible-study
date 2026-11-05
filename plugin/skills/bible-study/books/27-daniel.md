@@ -16,19 +16,19 @@ Daniel shows God's people how to live faithfully in exile, confident that God ru
 
 ## Setting
 
-- **When:** Daniel was taken to Babylon as a young man in 605 BC, after Babylon defeated Egypt at Carchemish. His ministry lasted until after Cyrus' conquest of Babylon in 539 BC (1:21; 10:1) (Belcher).
+- **When:** Daniel was taken to Babylon as a young man in 605 BC, after Babylon defeated Egypt at Carchemish. His ministry lasted until after Cyrus' conquest of Babylon in 539 BC (1:21; 10:1) (Belcher[^bto]).
 - **Where:** the royal court of Babylon, and then of Persia.
-- **Who wrote it:** Daniel, whose name means "God is my Judge". The book presents him as its author (9:2; 10:2), written soon after 539 BC, and Jesus quotes "the prophet Daniel" (Matt 24:15). Many critical scholars date it to about 165 BC, during Antiochus IV's persecution, because its prophecies of that period (11) are so detailed. The Reformation Study Bible answers that this rests mainly on assuming predictive prophecy is impossible. The other arguments don't require a late date either: Belshazzar and "Darius the Mede" have reasonable explanations, the later-looking Aramaic may reflect updating by copyists, and a few Greek words for instruments fit early contact with Greece.
-- **Where it sits:** among the Major Prophets in English Bibles, and among the Writings in the Hebrew Bible. Belcher notes it is written in Hebrew (1:1–2:4a; 8–12) and Aramaic (2:4b–7:28). The Aramaic section concerns the nations, the Hebrew section God's people in particular. The Reformation Heritage KJV Study Bible (RH) explains the Hebrew placement: Daniel received prophecy but didn't hold the office of prophet; he was a royal official who kept his post from Babylon into Persia, and Ezekiel ranks him beside Noah and Job for his godly life (Ezek 14:14, 20). RH dates the book to about 530 BC, near the end of his life.
+- **Who wrote it:** Daniel, whose name means "God is my Judge". The book presents him as its author (9:2; 10:2), written soon after 539 BC, and Jesus quotes "the prophet Daniel" (Matt 24:15). Many critical scholars date it to about 165 BC, during Antiochus IV's persecution, because its prophecies of that period (11) are so detailed. The *Reformation Study Bible*[^rsb] answers that this rests mainly on assuming predictive prophecy is impossible. The other arguments don't require a late date either: Belshazzar and "Darius the Mede" have reasonable explanations, the later-looking Aramaic may reflect updating by copyists, and a few Greek words for instruments fit early contact with Greece.
+- **Where it sits:** among the Major Prophets in English Bibles, and among the Writings in the Hebrew Bible. Belcher[^bto] notes it is written in Hebrew (1:1–2:4a; 8–12) and Aramaic (2:4b–7:28). The Aramaic section concerns the nations, the Hebrew section God's people in particular. The *Reformation Heritage KJV Study Bible* (*RH*[^rh]) explains the Hebrew placement: Daniel received prophecy but didn't hold the office of prophet; he was a royal official who kept his post from Babylon into Persia, and Ezekiel ranks him beside Noah and Job for his godly life (Ezek 14:14, 20). *RH*[^rh] dates the book to about 530 BC, near the end of his life.
 
 ## Structure
 
-The basic division (Belcher; Reformation Study Bible):
+The basic division (Belcher[^bto]; *RSB*[^rsb]):
 
 - 1–6: Stories of Daniel and his friends at the Babylonian and Persian courts, faithful in exile (compare Jer 29:4–7)
 - 7–12: Daniel's apocalyptic visions of the future
 
-Both halves carry one message: Nebuchadnezzar's dream (2) and Daniel's vision (7) say the same thing, that God rules history and will rescue his people from or through their trials. Belcher also pairs chapters by theme:
+Both halves carry one message: Nebuchadnezzar's dream (2) and Daniel's vision (7) say the same thing, that God rules history and will rescue his people from or through their trials. Belcher[^bto] also pairs chapters by theme:
 
 - 1: living faithfully in exile
 - 2 and 7: four kingdoms, and the victory of God's kingdom
@@ -80,9 +80,9 @@ Both halves carry one message: Nebuchadnezzar's dream (2) and Daniel's vision (7
 
 ## Themes
 
-- **Faithfulness in exile:** Belcher frames the whole book this way: how to serve God faithfully in a hostile culture without compromise (1; 3; 6).
-- **God rules over earthly kings:** "the Most High rules the kingdom of men and gives it to whom he will" (4:17). Proud kings are humbled (4–5). RH takes Nebuchadnezzar's confession (4:34–35) as the key to the book: God governs every time, nation and life, steering even hostile empires toward the coming of his Son.
-- **The kingdoms of the world and the kingdom of God:** empires rise and fall, but God's kingdom will never be destroyed (2:44; 7:14). Many who hold to the early date read the four kingdoms of 2 and 7 as Babylon, Medo-Persia, Greece and Rome; critics who take them as ending with Greece must posit a separate Median empire that never existed between Babylon and Persia (RSB).
+- **Faithfulness in exile:** Belcher[^bto] frames the whole book this way: how to serve God faithfully in a hostile culture without compromise (1; 3; 6).
+- **God rules over earthly kings:** "the Most High rules the kingdom of men and gives it to whom he will" (4:17). Proud kings are humbled (4–5). *RH*[^rh] takes Nebuchadnezzar's confession (4:34–35) as the key to the book: God governs every time, nation and life, steering even hostile empires toward the coming of his Son.
+- **The kingdoms of the world and the kingdom of God:** empires rise and fall, but God's kingdom will never be destroyed (2:44; 7:14). Many who hold to the early date read the four kingdoms of 2 and 7 as Babylon, Medo-Persia, Greece and Rome; critics who take them as ending with Greece must posit a separate Median empire that never existed between Babylon and Persia (*RSB*[^rsb]).
 - **Suffering and persecution:** God's people will face intense persecution (7:21–25; 8; 11), but it is limited and will end. Antiochus IV "Epiphanes" (175–164 BC) tried to stamp out Jewish faith, and Daniel strengthened those who resisted him, as it did Christians under Rome. Beyond him, Daniel points to a final enemy, whom the New Testament calls the man of lawlessness, and a "time of trouble" before the end (11:36–12:1; Matt 24:15; 2 Thess 2:3–4).
 - **Prayer and confession:** Daniel prays regularly (6:10) and confesses his people's sin, appealing to God's mercy (9:3–19).
 - **Resurrection and final judgment:** Daniel 12:2 is the Old Testament's clearest statement of bodily resurrection.
@@ -91,7 +91,7 @@ Both halves carry one message: Nebuchadnezzar's dream (2) and Daniel's vision (7
 
 The stone "cut out by no human hand" that crushes the empires and fills the earth (2:34–45) is the kingdom Christ brings. Jesus speaks of himself as the stone that crushes (Luke 20:17–18). His favourite title for himself, "the Son of Man", comes from Daniel 7:13–14. Before the high priest he claimed to be that one, coming on the clouds of heaven (Mark 14:61–62), and he was given all authority (Matt 28:18).
 
-Many interpreters see Christ's death in the "anointed one" who is "cut off" in the seventy weeks (9:24–27), bringing in everlasting righteousness. RH also sees the Son of God before his incarnation as the fourth figure in the furnace (3:25) and the glorious man of Daniel's last vision (10:5–6; compare Rev 1:13–15). Jesus referred to Daniel's "abomination of desolation" (Matt 24:15). Daniel's resurrection hope (12:2) is echoed in Jesus' words about the hour when the dead will hear his voice (John 5:28–29), and Revelation draws heavily on Daniel's visions of beasts and the Son of Man (Rev 1:13–14; 13).
+Many interpreters see Christ's death in the "anointed one" who is "cut off" in the seventy weeks (9:24–27), bringing in everlasting righteousness. *RH*[^rh] also sees the Son of God before his incarnation as the fourth figure in the furnace (3:25) and the glorious man of Daniel's last vision (10:5–6; compare Rev 1:13–15). Jesus referred to Daniel's "abomination of desolation" (Matt 24:15). Daniel's resurrection hope (12:2) is echoed in Jesus' words about the hour when the dead will hear his voice (John 5:28–29), and Revelation draws heavily on Daniel's visions of beasts and the Son of Man (Rev 1:13–14; 13).
 
 ## Common mix-ups
 
@@ -105,10 +105,10 @@ Many interpreters see Christ's death in the "anointed one" who is "cut off" in t
 
 ## Going deeper
 
-- **Living faithfully in exile.** Belcher reads Daniel as a guide for God's people in a foreign culture. What did Daniel and his friends accept (new names, education, service) and refuse (food, idol worship, giving up prayer)? Compare 1 Peter 1:1 and 2:11–12, which Belcher connects to Christians' own exile.
-- **The four kingdoms.** Daniel 2 and 7 cover the same history. The traditional view reads Babylon, Medo-Persia, Greece and Rome. Others read Babylon, Media, Persia and Greece. What is at stake? Read: Belcher on Daniel 2 and 7.
-- **The seventy weeks (9:24–27).** Belcher sets out the debates over the starting point and over how to translate 9:25. Consider the main approaches: messianic (fulfilled in Christ), focused on Antiochus, or dispensational (a future gap).
-- **Antiochus IV and beyond.** Belcher shows how chapters 8 and 11 match the persecution of 170–164 BC in detail, while also pointing beyond it to the end and the resurrection (12).
+- **Living faithfully in exile.** Belcher[^bto] reads Daniel as a guide for God's people in a foreign culture. What did Daniel and his friends accept (new names, education, service) and refuse (food, idol worship, giving up prayer)? Compare 1 Peter 1:1 and 2:11–12, which Belcher[^bto] connects to Christians' own exile.
+- **The four kingdoms.** Daniel 2 and 7 cover the same history. The traditional view reads Babylon, Medo-Persia, Greece and Rome. Others read Babylon, Media, Persia and Greece. What is at stake? Read: Belcher[^bto] on Daniel 2 and 7.
+- **The seventy weeks (9:24–27).** Belcher[^bto] sets out the debates over the starting point and over how to translate 9:25. Consider the main approaches: messianic (fulfilled in Christ), focused on Antiochus, or dispensational (a future gap).
+- **Antiochus IV and beyond.** Belcher[^bto] shows how chapters 8 and 11 match the persecution of 170–164 BC in detail, while also pointing beyond it to the end and the resurrection (12).
 - **Daniel's prayer (9:3–19).** A model of confession grounded in God's word (Jeremiah) and appealing to God's mercy, not Israel's righteousness.
 - **Spiritual warfare (10).** What does the "prince of Persia" passage reveal about unseen powers behind earthly empires? Compare Ephesians 6:12.
 
@@ -156,9 +156,9 @@ Many interpreters see Christ's death in the "anointed one" who is "cut off" in t
 
 ## Sources
 
-- Richard P. Belcher Jr., "Daniel," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues, Structure and Outline, Message and Theology (living faithfully in exile; Daniel 2 and 7; the seventy weeks; Daniel 8 and 10–12), Approaching the New Testament.
-- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Daniel: Title, Author, Date and Occasion, Genre and Literary Features, Characteristics and Primary Themes, Theology of Daniel, Daniel in the Larger Story of the Bible, Christ in Daniel, History of Interpretation, Outline.
-- *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to Daniel: Authorship, Date, Theme, Purpose, Synopsis, Outline; chapter summaries.
+[^bto]: **BTO**: Richard P. Belcher Jr., "Daniel," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues, Structure and Outline, Message and Theology (living faithfully in exile; Daniel 2 and 7; the seventy weeks; Daniel 8 and 10–12), Approaching the New Testament.
+[^rsb]: **RSB**: *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Daniel: Title, Author, Date and Occasion, Genre and Literary Features, Characteristics and Primary Themes, Theology of Daniel, Daniel in the Larger Story of the Bible, Christ in Daniel, History of Interpretation, Outline.
+[^rh]: **RH**: *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to Daniel: Authorship, Date, Theme, Purpose, Synopsis, Outline; chapter summaries.
 
 ## Changelog
 

@@ -14,4 +14,15 @@
   {{- $new = replaceRE `\b(vv?)\. (\d)` "$1.&nbsp;$2" $new -}}
   {{- $c = replace $c $old $new -}}
 {{- end -}}
+{{- /* The main works (BTO, BTN, LSB, RSB, RH) are markdown footnotes. Goldmark puts
+     footnotes at the very end; move them up under the Sources heading, before the
+     Changelog, and drop the rule above them. */ -}}
+{{- with findRE `(?s)<div class="footnotes" role="doc-endnotes">.*</div>` $c 1 -}}
+  {{- $fn := index . 0 -}}
+  {{- if in $c `<h2 id="changelog">` -}}
+    {{- $moved := replaceRE `^(<div class="footnotes" role="doc-endnotes">)\s*<hr>` "$1" $fn -}}
+    {{- $c = replace $c $fn "" -}}
+    {{- $c = replace $c `<h2 id="changelog">` (printf "%s\n<h2 id=\"changelog\">" $moved) 1 -}}
+  {{- end -}}
+{{- end -}}
 {{- $c | safeHTML -}}

@@ -12,19 +12,19 @@ status: draft
 
 ## Summary
 
-2 Corinthians is Paul's most personal letter. After a painful visit and a tearful letter, Paul writes with relief that many Corinthians have repented, but also with deep concern about "super-apostles" undermining him. He defends his ministry, not by boasting in strength, but by pointing to the cross: God's power is shown in weakness, like treasure in jars of clay. He also urges them to complete their generous gift for the poor believers in Jerusalem. Charles Hodge noted that no letter of Paul's carries such strong feeling (quoted in Waters).
+2 Corinthians is Paul's most personal letter. After a painful visit and a tearful letter, Paul writes with relief that many Corinthians have repented, but also with deep concern about "super-apostles" undermining him. He defends his ministry, not by boasting in strength, but by pointing to the cross: God's power is shown in weakness, like treasure in jars of clay. He also urges them to complete their generous gift for the poor believers in Jerusalem. Charles Hodge noted that no letter of Paul's carries such strong feeling (quoted in Waters[^btn]).
 
 ## Setting
 
-- **When:** about AD 55–56, from Macedonia, after Titus brought Paul news from Corinth (2:13; 7:5–7). Paul had left Ephesus anxious, found an open door in Troas but no peace, and was overjoyed when Titus finally met him with news of the Corinthians' repentance. Soon after, he spent three months in Corinth before taking the collection to Jerusalem (Acts 20:1–3) (Reformation Study Bible).
+- **When:** about AD 55–56, from Macedonia, after Titus brought Paul news from Corinth (2:13; 7:5–7). Paul had left Ephesus anxious, found an open door in Troas but no peace, and was overjoyed when Titus finally met him with news of the Corinthians' repentance. Soon after, he spent three months in Corinth before taking the collection to Jerusalem (Acts 20:1–3) (*RSB*[^rsb]).
 - **Where:** to the church at Corinth "with all the saints in the whole of Achaia" (1:1).
 - **Who wrote it:** Paul, with Timothy (1:1).
-- **Where it sits:** the second surviving letter to Corinth. Between 1 and 2 Corinthians came a "painful visit" (2:1), a quick trip from Ephesus not recorded in Acts but implied when Paul says he is coming a "third time" (12:14; 13:1), and a "tearful letter" (2:3–4), probably lost. Some scholars think 2 Corinthians combines several letters, especially because of the change in tone at chapter 10. The RSB reads it as one letter, perhaps written over days or weeks: even chapters 1–9 hint at unresolved tension (6:11–13), and Paul left the hardest task until last.
+- **Where it sits:** the second surviving letter to Corinth. Between 1 and 2 Corinthians came a "painful visit" (2:1), a quick trip from Ephesus not recorded in Acts but implied when Paul says he is coming a "third time" (12:14; 13:1), and a "tearful letter" (2:3–4), probably lost. Some scholars think 2 Corinthians combines several letters, especially because of the change in tone at chapter 10. The *RSB*[^rsb] reads it as one letter, perhaps written over days or weeks: even chapters 1–9 hint at unresolved tension (6:11–13), and Paul left the hardest task until last.
 - **The opponents:** Jewish Christians (11:22), the self-styled "super-apostles", who preached "another Jesus" (11:4) and mocked Paul's weak presence and plain speech (10:10), offering a picture of leadership built on power and polish rather than weakness and dependence on Christ.
 
 ## Structure
 
-The Reformation Study Bible's outline (Waters' is the same in its main divisions):
+The *RSB*'s[^rsb] outline (Waters[^btn]' is the same in its main divisions):
 
 - 1:1–2: Greeting
 - 1:3–7:16: Paul explains his ministry: comfort in affliction, his changed travel plans, the new covenant ministry, treasure in jars of clay, the ministry of reconciliation, and his joy at the church's repentance
@@ -68,14 +68,14 @@ The Reformation Study Bible's outline (Waters' is the same in its main divisions
 ## Themes
 
 - **Comfort in affliction:** God comforts his people in suffering so they can comfort others (1:3–7).
-- **Power in weakness:** Paul's ministry looks weak, but God's power works through it (4:7; 12:9–10). Waters connects this to the cross: Paul's ministry follows the pattern of Christ's death and resurrection life (4:10–11; 13:4).
+- **Power in weakness:** Paul's ministry looks weak, but God's power works through it (4:7; 12:9–10). Waters[^btn] connects this to the cross: Paul's ministry follows the pattern of Christ's death and resurrection life (4:10–11; 13:4).
 - **The new covenant:** a ministry of the Spirit, of righteousness and of surpassing glory (3). 3:1–4:6 is one of the New Testament's fullest statements of how the old covenant under Moses relates to the new covenant in Christ.
 - **Walking by faith, not sight:** the outer self wastes away, but present troubles are preparing an eternal weight of glory (4:16–18; 5:7). God's promises all find their "Yes" in Christ (1:20).
 - **Reconciliation:** God reconciled the world to himself in Christ and gives his servants the message of reconciliation (5:17–21). Verse 21 is a compact statement of imputation: our sin counted to Christ, his righteousness to us.
 - **Generous giving:** grace-motivated, cheerful giving modelled on Christ's self-giving (8–9).
 - **True and false ministry:** credentials, eloquence and boasting against faithfulness, suffering and Christ-likeness (10–13). Paul defends himself not from wounded pride but to protect the Corinthians' confidence in the gospel (11:2–4; 13:3).
 - **Repentance and restoration:** godly grief that leads to repentance; forgiving the repentant (2:5–11; 7:8–11).
-- **Ministry in weakness:** the Reformation Heritage KJV Study Bible (RH) sums up the letter as a portrait of new covenant ministry: carried out in the Spirit's power, marked by suffering now, and headed for glory. No minister is sufficient in himself; that sufficiency comes from God (3:5–6). RH dates the letter to AD 56.
+- **Ministry in weakness:** the *Reformation Heritage KJV Study Bible* (*RH*[^rh]) sums up the letter as a portrait of new covenant ministry: carried out in the Spirit's power, marked by suffering now, and headed for glory. No minister is sufficient in himself; that sufficiency comes from God (3:5–6). *RH*[^rh] dates the letter to AD 56.
 
 ## How it points to Christ
 
@@ -143,9 +143,9 @@ At the heart of the letter is the great exchange: God made Christ, who knew no s
 
 ## Sources
 
-- Guy Prentiss Waters, "1–2 Corinthians," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues, Structure and Outline (outline of 2 Corinthians), Message and Theology (the redemptive-historical framework, the death and resurrection of Christ, the Spirit).
-- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to 2 Corinthians: Title and Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of 2 Corinthians, 2 Corinthians in the Larger Story of the Bible, Christ in 2 Corinthians, History of Interpretation, Special Issues, Outline.
-- *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to 2 Corinthians: Authorship, Date, Theme, Purpose, Synopsis; chapter summaries.
+[^btn]: **BTN**: Guy Prentiss Waters, "1–2 Corinthians," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues, Structure and Outline (outline of 2 Corinthians), Message and Theology (the redemptive-historical framework, the death and resurrection of Christ, the Spirit).
+[^rsb]: **RSB**: *The Reformation Study Bible* (Reformation Trust, 2015), introduction to 2 Corinthians: Title and Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of 2 Corinthians, 2 Corinthians in the Larger Story of the Bible, Christ in 2 Corinthians, History of Interpretation, Special Issues, Outline.
+[^rh]: **RH**: *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to 2 Corinthians: Authorship, Date, Theme, Purpose, Synopsis; chapter summaries.
 
 ## Changelog
 

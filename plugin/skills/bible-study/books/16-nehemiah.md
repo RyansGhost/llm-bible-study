@@ -12,18 +12,18 @@ status: draft
 
 ## Summary
 
-Nehemiah, a Jewish official in the Persian court, hears that Jerusalem's walls are still in ruins. After prayer and with the king's support, he goes to rebuild them, and despite mockery, threats and plots the wall is finished in fifty-two days. Then Ezra reads God's law to the people, they confess their sins and renew the covenant, and the wall is dedicated with great joy. But the book ends with Nehemiah confronting the same failures again, showing how much the people still needed a deeper renewal. The Reformation Heritage KJV Study Bible (RH) sums up the theme as God protecting and providing for his people through leadership that is godly, prayerful and active.
+Nehemiah, a Jewish official in the Persian court, hears that Jerusalem's walls are still in ruins. After prayer and with the king's support, he goes to rebuild them, and despite mockery, threats and plots the wall is finished in fifty-two days. Then Ezra reads God's law to the people, they confess their sins and renew the covenant, and the wall is dedicated with great joy. But the book ends with Nehemiah confronting the same failures again, showing how much the people still needed a deeper renewal. The *Reformation Heritage KJV Study Bible* (*RH*[^rh]) sums up the theme as God protecting and providing for his people through leadership that is godly, prayerful and active.
 
 ## Setting
 
-- **When:** Nehemiah arrives in 445 BC, in Artaxerxes I's twentieth year. The last events happen after 433 BC, when Nehemiah returns for a second term (13:6) (Futato). The book covers about thirteen years.
+- **When:** Nehemiah arrives in 445 BC, in Artaxerxes I's twentieth year. The last events happen after 433 BC, when Nehemiah returns for a second term (13:6) (Futato[^bto]). The book covers about thirteen years.
 - **Where:** Susa, the Persian royal city, and Jerusalem with its broken walls and gates, surrounded by hostile neighbours: Samaria, Ammon, and the Arabs.
-- **Who wrote it:** much of it is Nehemiah's own memoir, written in the first person (1–7; 12:27–13:31), with his asides and short prayers ("Remember me, O my God"). It was originally one book with Ezra, probably compiled by Ezra or a younger contemporary about 430–400 BC (Reformation Study Bible); the repeated list of returnees (Ezra 2; Neh 7) suggests Nehemiah may once have stood alone. The Lutheran Study Bible names Nehemiah, governor of Judah, as author.
+- **Who wrote it:** much of it is Nehemiah's own memoir, written in the first person (1–7; 12:27–13:31), with his asides and short prayers ("Remember me, O my God"). It was originally one book with Ezra, probably compiled by Ezra or a younger contemporary about 430–400 BC (*RSB*[^rsb]); the repeated list of returnees (Ezra 2; Neh 7) suggests Nehemiah may once have stood alone. The *Lutheran Study Bible*[^lsb] names Nehemiah, governor of Judah, as author.
 - **Where it sits:** the last historical events of the Old Testament. Malachi probably preaches around the same time, against the same sins.
 
 ## Structure
 
-The Reformation Study Bible has two parts, matching Ezra's pattern of a return followed by rebuilding:
+The *Reformation Study Bible*[^rsb] has two parts, matching Ezra's pattern of a return followed by rebuilding:
 
 - 1:1–7:3: Nehemiah returns and the wall is rebuilt
     - 1–2: Nehemiah's prayer, the king's permission, and his night inspection
@@ -78,19 +78,19 @@ The Reformation Study Bible has two parts, matching Ezra's pattern of a return f
 
 ## Themes
 
-- **Prayer and action:** Nehemiah prays before everything: before the king (1:4–11; 2:4), under threat (4:9), and at the end (13:31). Then he works hard. Futato draws out God's sovereignty and human responsibility working together.
+- **Prayer and action:** Nehemiah prays before everything: before the king (1:4–11; 2:4), under threat (4:9), and at the end (13:31). Then he works hard. Futato[^bto] draws out God's sovereignty and human responsibility working together.
 - **God's providence:** "the good hand of my God was upon me" (2:8, 18). God moves a Persian king and gives success against opponents.
-- **The house of God rebuilt:** walls, temple and people restored together (Futato).
+- **The house of God rebuilt:** walls, temple and people restored together (Futato[^bto]).
 - **Ordinary people:** chapter 3 names families, guilds and even daughters who each rebuild their section.
-- **The Word read and understood:** the Levites explain the law "so that the people understood the reading" (8:8). Futato highlights how important the written Word was for the years ahead, when no prophets would speak.
+- **The Word read and understood:** the Levites explain the law "so that the people understood the reading" (8:8). Futato[^bto] highlights how important the written Word was for the years ahead, when no prophets would speak.
 - **Justice in the community:** Nehemiah confronts the rich who exploit their poor brothers (5).
-- **Practical leadership:** where Ezra rebuilt the people spiritually through the law, Nehemiah's work is practical: walls, justice, and enough people to make Jerusalem viable (RSB).
+- **Practical leadership:** where Ezra rebuilt the people spiritually through the law, Nehemiah's work is practical: walls, justice, and enough people to make Jerusalem viable (*RSB*[^rsb]).
 - **Covenant renewal:** the people don't set the terms; in gratitude they recommit to the Lord's commands (9–10).
 - **Repeated failure:** the book ends with the covenant of chapter 10 broken point by point (13). Neither Ezra nor Nehemiah could change hearts for good; that waited for the Messiah.
 
 ## How it points to Christ
 
-Nehemiah left the comfort of the king's palace, identified with his people's shame, and gave himself to rebuild what was broken. That is a faint picture of Christ, who left heaven's glory to restore his people (Phil 2:5–8). Nehemiah's reforms couldn't hold: within years the people slid back (13). The book ends looking for a greater restorer who can change hearts, not just walls. RH also notes how Nehemiah's work prepared for Christ: it kept a distinct, law-keeping Jewish community in Jerusalem, the people into whom the Messiah would be born and among whom he would come to his temple (Mal 3:1; Luke 2:21–27; John 4:22).
+Nehemiah left the comfort of the king's palace, identified with his people's shame, and gave himself to rebuild what was broken. That is a faint picture of Christ, who left heaven's glory to restore his people (Phil 2:5–8). Nehemiah's reforms couldn't hold: within years the people slid back (13). The book ends looking for a greater restorer who can change hearts, not just walls. *RH*[^rh] also notes how Nehemiah's work prepared for Christ: it kept a distinct, law-keeping Jewish community in Jerusalem, the people into whom the Messiah would be born and among whom he would come to his temple (Mal 3:1; Luke 2:21–27; John 4:22).
 
 Jesus builds God's true house, his church, against which the gates of hell will not prevail (Matt 16:18). The new Jerusalem has walls and gates that will never fall or be shut (Rev 21:12–25).
 
@@ -107,7 +107,7 @@ Jesus builds God's true house, his church, against which the gates of hell will 
 
 - **Nehemiah's prayer (1:4–11).** He confesses, appeals to God's promises (Deut 30:1–5), and asks for specific help. How does it combine humility and boldness?
 - **Leadership under pressure.** Nehemiah faces mockery, threats, internal injustice and personal plots (4–6). What does he do each time? How does prayer shape his responses?
-- **Preaching the Word (8:1–8).** Reading plus explaining: many see this as a pattern for expository preaching. Read: Futato, The Written Word.
+- **Preaching the Word (8:1–8).** Reading plus explaining: many see this as a pattern for expository preaching. Read: Futato[^bto], The Written Word.
 - **The great prayer (9).** A sweeping review of salvation history. What does it say about God's patience and Israel's repeated rebellion? Compare Psalms 78, 105 and 106.
 - **Why does the book end in failure?** Nehemiah 13 reverses chapter 10 almost item by item. What does this teach about reform, willpower and the need for the new covenant (Jer 31:31–34)?
 
@@ -155,10 +155,10 @@ Jesus builds God's true house, his church, against which the gates of hell will 
 
 ## Sources
 
-- Mark D. Futato, "Ezra–Nehemiah," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues, Structure and Outline, Message and Theology (rebuilding the house of God, ordinary people, the written Word, sovereignty and responsibility).
-- *The Lutheran Study Bible* (Concordia, 2009), introduction to Nehemiah: Overview. Lutheran source.
-- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Nehemiah: Title, Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of Nehemiah, Nehemiah in the Larger Story of the Bible, Christ in Nehemiah, History of Interpretation, Outline.
-- *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to Nehemiah: Theme, Purpose, Synopsis, Outline (with the introduction to Ezra for authorship and date); chapter summaries.
+[^bto]: **BTO**: Mark D. Futato, "Ezra–Nehemiah," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues, Structure and Outline, Message and Theology (rebuilding the house of God, ordinary people, the written Word, sovereignty and responsibility).
+[^lsb]: **LSB**: *The Lutheran Study Bible* (Concordia, 2009), introduction to Nehemiah: Overview. Lutheran source.
+[^rsb]: **RSB**: *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Nehemiah: Title, Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of Nehemiah, Nehemiah in the Larger Story of the Bible, Christ in Nehemiah, History of Interpretation, Outline.
+[^rh]: **RH**: *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to Nehemiah: Theme, Purpose, Synopsis, Outline (with the introduction to Ezra for authorship and date); chapter summaries.
 
 ## Changelog
 

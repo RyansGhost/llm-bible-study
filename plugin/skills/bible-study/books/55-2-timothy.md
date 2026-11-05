@@ -12,19 +12,19 @@ status: draft
 
 ## Summary
 
-2 Timothy is Paul's last surviving letter, written from a Roman prison as he waits to be executed. Barcley sums up its theme as "a call to faithfulness". Paul wants the gospel passed on faithfully after the apostles are gone, and he wants Timothy to persevere despite suffering and false teaching. He urges Timothy not to be ashamed, to guard the good deposit, to entrust it to faithful men, to endure hardship like a soldier, and to preach the word, which is breathed out by God. Paul faces death with confidence: he has fought the good fight, finished the race and kept the faith. Luther called it a farewell letter (Lutheran Study Bible).
+2 Timothy is Paul's last surviving letter, written from a Roman prison as he waits to be executed. Barcley[^btn] sums up its theme as "a call to faithfulness". Paul wants the gospel passed on faithfully after the apostles are gone, and he wants Timothy to persevere despite suffering and false teaching. He urges Timothy not to be ashamed, to guard the good deposit, to entrust it to faithful men, to endure hardship like a soldier, and to preach the word, which is breathed out by God. Paul faces death with confidence: he has fought the good fight, finished the race and kept the faith. Luther called it a farewell letter (*LSB*[^lsb]).
 
 ## Setting
 
-- **When:** about AD 64–67 (the Lutheran Study Bible gives AD 68), during Paul's second Roman imprisonment, shortly before his martyrdom under Nero.
-- **Where:** from prison in Rome (1:8, 16–17) to Timothy, probably still in Ephesus (1:18; 4:19), where the false teaching of 1 Timothy was still a problem. Paul may have been arrested at Troas, where he left his cloak and books (4:13). No one stood by him at his first hearing (4:16), and unlike in Philippians, he now expects not release but execution (4:6) (Reformation Study Bible).
-- **Who wrote it:** Paul (1:1). Barcley notes that even some scholars who deny Paul wrote 1 Timothy and Titus accept 2 Timothy because it is so personal.
+- **When:** about AD 64–67 (the *Lutheran Study Bible*[^lsb] gives AD 68), during Paul's second Roman imprisonment, shortly before his martyrdom under Nero.
+- **Where:** from prison in Rome (1:8, 16–17) to Timothy, probably still in Ephesus (1:18; 4:19), where the false teaching of 1 Timothy was still a problem. Paul may have been arrested at Troas, where he left his cloak and books (4:13). No one stood by him at his first hearing (4:16), and unlike in Philippians, he now expects not release but execution (4:6) (*RSB*[^rsb]).
+- **Who wrote it:** Paul (1:1). Barcley[^btn] notes that even some scholars who deny Paul wrote 1 Timothy and Titus accept 2 Timothy because it is so personal.
 - **Where it sits:** the last of the Pastoral Epistles and the last letter Paul wrote, more intimate than 1 Timothy and Titus, and less about church order. Paul writes to call Timothy to Rome before winter (4:9, 21) and to prepare him for ministry after the apostles. Though personal, it was meant for the church too (the "you" of 4:22 is plural).
 - **The false teachers:** led by men such as Hymenaeus and Philetus (2:17), they pursued myths, quarrels about words and so-called "knowledge", sometimes for money, and drew in some vulnerable women (3:6–7). It may have been an early form of what later became Gnosticism.
 
 ## Structure
 
-The Reformation Study Bible's outline (Barcley's call-to-faithfulness outline follows the same lines):
+The *Reformation Study Bible*'s[^rsb] outline (Barcley's[^btn] call-to-faithfulness outline follows the same lines):
 
 - 1:1–5: Greeting and thanksgiving for Timothy's sincere faith
 - 1:6–2:13: Calls to boldness and faithfulness: fan the gift into flame, don't be ashamed, guard the deposit, entrust it to faithful men, share in suffering
@@ -59,7 +59,7 @@ The Reformation Study Bible's outline (Barcley's call-to-faithfulness outline fo
 
 ## Themes
 
-- **A call to faithfulness:** Barcley's summary of the letter, faithful in ministry, in hardship, against false teaching, to the end.
+- **A call to faithfulness:** Barcley's[^btn] summary of the letter, faithful in ministry, in hardship, against false teaching, to the end.
 - **Guarding and passing on the gospel:** the "good deposit" handed from Paul to Timothy to faithful men to others (1:13–14; 2:2).
 - **Not ashamed:** of the gospel, of the Lord, or of those who suffer for him (1:8, 12, 16).
 - **Suffering:** all who live godly lives will be persecuted, and Christ is the pattern of suffering before glory (2:8–12; 3:12).
@@ -67,7 +67,7 @@ The Reformation Study Bible's outline (Barcley's call-to-faithfulness outline fo
 - **Preaching:** the central task of the minister (4:1–5).
 - **Grace and election:** God saved and called us not by our works but by his own purpose and grace, given in Christ before the ages (1:9); "the Lord knows those who are his" (2:19), and Paul endures for the sake of the elect (2:10).
 - **God's faithfulness:** he remains faithful even when we are faithless, and he will rescue his people and bring them into his heavenly kingdom (2:13; 4:18).
-- **Finish well:** the Reformation Heritage KJV Study Bible (RH) reads the letter as a dying apostle's encouragement to keep going in ministry despite hardship and false teaching, so that Timothy too may receive the crown Paul expects (4:6–8). Paul's request for his cloak before winter (4:13, 21) suggests he wrote in late summer or autumn.
+- **Finish well:** the *Reformation Heritage KJV Study Bible* (*RH*[^rh]) reads the letter as a dying apostle's encouragement to keep going in ministry despite hardship and false teaching, so that Timothy too may receive the crown Paul expects (4:6–8). Paul's request for his cloak before winter (4:13, 21) suggests he wrote in late summer or autumn.
 
 ## How it points to Christ
 
@@ -89,7 +89,7 @@ Paul begins with the grace given to us in Christ Jesus before the ages began, no
 - **Preach the word (4:1–5).** Why does Paul charge Timothy so solemnly? What happens when people "accumulate teachers to suit their own passions"?
 - **Faith in families (1:5; 3:15).** Timothy learned the Scriptures from his mother and grandmother. How does God use covenant households?
 - **Facing death (4:6–8).** What does Paul's attitude teach about how a Christian can face death? Compare Philippians 1:21–23.
-- **Luther on 2 Timothy.** Luther called it a farewell letter warning that many would fall away and false teachers spring up (Lutheran Study Bible). How does that fit Barcley's "call to faithfulness"?
+- **Luther on 2 Timothy.** Luther called it a farewell letter warning that many would fall away and false teachers spring up (*LSB*[^lsb]). How does that fit Barcley's[^btn] "call to faithfulness"?
 
 ## Q&A
 
@@ -135,10 +135,10 @@ Paul begins with the grace given to us in Christ Jesus before the ages began, no
 
 ## Sources
 
-- William B. Barcley, "Introduction to the Pastoral Epistles" and "2 Timothy," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues, Structure and Outline, Message and Theology.
-- *The Lutheran Study Bible* (Concordia, 2009), introduction to 2 Timothy: Overview, Luther on 2 Timothy. Lutheran source.
-- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to 2 Timothy: Title and Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of 2 Timothy, 2 Timothy in the Larger Story of the Bible, Christ in 2 Timothy, History of Interpretation, Special Issues, Outline.
-- *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to 2 Timothy: Authorship, Date, Theme, Purpose, Synopsis; chapter summaries.
+[^btn]: **BTN**: William B. Barcley, "Introduction to the Pastoral Epistles" and "2 Timothy," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues, Structure and Outline, Message and Theology.
+[^lsb]: **LSB**: *The Lutheran Study Bible* (Concordia, 2009), introduction to 2 Timothy: Overview, Luther on 2 Timothy. Lutheran source.
+[^rsb]: **RSB**: *The Reformation Study Bible* (Reformation Trust, 2015), introduction to 2 Timothy: Title and Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of 2 Timothy, 2 Timothy in the Larger Story of the Bible, Christ in 2 Timothy, History of Interpretation, Special Issues, Outline.
+[^rh]: **RH**: *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to 2 Timothy: Authorship, Date, Theme, Purpose, Synopsis; chapter summaries.
 
 ## Changelog
 

@@ -16,14 +16,14 @@ Zechariah encourages the returned exiles to finish the temple and return to the 
 
 ## Setting
 
-- **When:** Zechariah began in 520 BC, two months after Haggai (1:1), with dated messages to 518 BC (7:1). Chapters 9–14 may come from later in his life; the Reformation Heritage KJV Study Bible (RH) dates them about 480–470 BC, since they mention Greece (9:13), giving a ministry of some fifty years.
+- **When:** Zechariah began in 520 BC, two months after Haggai (1:1), with dated messages to 518 BC (7:1). Chapters 9–14 may come from later in his life; the *Reformation Heritage KJV Study Bible* (*RH*[^rh]) dates them about 480–470 BC, since they mention Greece (9:13), giving a ministry of some fifty years.
 - **Where:** Jerusalem, among the people who had returned from Babylon.
-- **Who wrote it:** Zechariah son of Berechiah, son of Iddo, from a priestly family (1:1; Neh 12:16). His name means "the Lord remembers". Being called "son of Iddo" elsewhere (Ezra 5:1) simply names his better-known grandfather. RH takes Jesus' words about a Zechariah son of Barachiah killed at the temple (Matt 23:35) as referring to this prophet; others see the earlier Zechariah of 2 Chronicles 24:20–22. Many scholars assign chapters 9–14 to a later author, often in the second century BC, because of the change in style. The Reformation Study Bible finds those arguments tentative, with no agreement among their supporters, and sees no compelling reason to doubt that Zechariah wrote the whole book.
+- **Who wrote it:** Zechariah son of Berechiah, son of Iddo, from a priestly family (1:1; Neh 12:16). His name means "the Lord remembers". Being called "son of Iddo" elsewhere (Ezra 5:1) simply names his better-known grandfather. *RH*[^rh] takes Jesus' words about a Zechariah son of Barachiah killed at the temple (Matt 23:35) as referring to this prophet; others see the earlier Zechariah of 2 Chronicles 24:20–22. Many scholars assign chapters 9–14 to a later author, often in the second century BC, because of the change in style. The *Reformation Study Bible*[^rsb] finds those arguments tentative, with no agreement among their supporters, and sees no compelling reason to doubt that Zechariah wrote the whole book.
 - **Where it sits:** among the Twelve, a contemporary of Haggai (Ezra 5:1; 6:14). Haggai focused on rebuilding the temple; Zechariah on the welfare and future of Jerusalem. It is the longest of the Minor Prophets, and the one the New Testament quotes most. Its visions, like Ezekiel's and Daniel's, are an early form of apocalyptic.
 
 ## Structure
 
-The Reformation Study Bible divides it into encouragement for the present (1–8) and the future of God's kingdom (9–14):
+The *RSB*[^rsb] divides it into encouragement for the present (1–8) and the future of God's kingdom (9–14):
 
 - 1:1–6: A call to return to the Lord
 - 1:7–6:15: Eight night visions, and the crowning of Joshua
@@ -31,7 +31,7 @@ The Reformation Study Bible divides it into encouragement for the present (1–8
 - 9–11: First oracle: the coming King, and the rejected Shepherd
 - 12–14: Second oracle: Jerusalem's deliverance, the pierced one, cleansing, and the Lord as King over all the earth
 
-The pictures of the future are snapshots, not a timeline: near and distant events are often seen together, so it can be hard to tell which period a promise has in view (RSB).
+The pictures of the future are snapshots, not a timeline: near and distant events are often seen together, so it can be hard to tell which period a promise has in view (*RSB*[^rsb]).
 
 ## Chapter by chapter
 
@@ -74,13 +74,13 @@ The pictures of the future are snapshots, not a timeline: near and distant event
 
 ## Themes
 
-- **Return to God:** "Return to me … and I will return to you" (1:3). The fathers' sins had brought the exile, but this generation need not stay under the curse if they repent (1:2–6). Timmer counts Zechariah among the prophets pressing repentance after the exile.
+- **Return to God:** "Return to me … and I will return to you" (1:3). The fathers' sins had brought the exile, but this generation need not stay under the curse if they repent (1:2–6). Timmer[^bto] counts Zechariah among the prophets pressing repentance after the exile.
 - **God's jealous love for Jerusalem:** he will restore and protect his city and live in her midst (1:14–17; 2:10; 8:2–3). In "the day of small things" (4:10), when the nations were at ease and God's people struggled, the visions show that God sees everything and is ready to act, though trouble still lies ahead.
 - **Holy living:** God wants justice, mercy and truth, not empty fasts (7:8–10; 8:16–17). In the end even cooking pots will be "holy to the Lord" (14:20–21).
 - **Not by human strength:** God's work is done by his Spirit (4:6).
 - **Cleansing from sin:** Joshua's filthy garments replaced (3), wickedness removed (5), and a fountain opened (13:1).
 - **The coming King and Shepherd:** humble, righteous and bringing salvation (9:9), yet rejected, sold, pierced and struck (11–13). The Gospel writers draw on chapters 9–14 more than any other passage to explain Christ's suffering (Matt 21:5; 26:31; 27:9–10; John 19:37). "The Branch" unites the offices of priest and king (6:12–13).
-- **The nations drawn to God:** many nations will join the Lord, and people from every language seek him in Jerusalem (2:11; 8:20–23; 14:16). Timmer highlights the Twelve's vision of some among the nations sharing in deliverance.
+- **The nations drawn to God:** many nations will join the Lord, and people from every language seek him in Jerusalem (2:11; 8:20–23; 14:16). Timmer[^bto] highlights the Twelve's vision of some among the nations sharing in deliverance.
 - **The final day and God's kingdom:** the Lord will reign over all the earth and everything will be holy (14:9, 20–21).
 
 ## How it points to Christ
@@ -157,10 +157,11 @@ Joshua's filthy garments replaced with clean ones (3:3–5) pictures justificati
 
 ## Sources
 
-- Daniel C. Timmer, "The Twelve," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Message and Theology (chronology, repentance, deliverance of the remnant, the nations' repentance and deliverance), Approaching the New Testament.
-- *The Lutheran Study Bible* (Concordia, 2009), introduction to Zechariah: Overview. Lutheran source.
-- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Zechariah: Title and Author, Date and Occasion, Genre and Literary Features, Characteristics and Primary Themes, Theology of Zechariah, Zechariah in the Larger Story of the Bible, Christ in Zechariah, History of Interpretation, Outline.
-- *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to Zechariah: Authorship, Date, Theme, Purpose; chapter summaries.
+- **LSB**: *The Lutheran Study Bible* (Concordia, 2009), introduction to Zechariah: Overview. Lutheran source.
+
+[^bto]: **BTO**: Daniel C. Timmer, "The Twelve," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Message and Theology (chronology, repentance, deliverance of the remnant, the nations' repentance and deliverance), Approaching the New Testament.
+[^rsb]: **RSB**: *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Zechariah: Title and Author, Date and Occasion, Genre and Literary Features, Characteristics and Primary Themes, Theology of Zechariah, Zechariah in the Larger Story of the Bible, Christ in Zechariah, History of Interpretation, Outline.
+[^rh]: **RH**: *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to Zechariah: Authorship, Date, Theme, Purpose; chapter summaries.
 
 ## Changelog
 

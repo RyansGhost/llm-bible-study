@@ -12,18 +12,18 @@ status: draft
 
 ## Summary
 
-1 Thessalonians is one of Paul's earliest letters, written to a young church he had been forced to leave after only a short stay. Timothy has brought good news: they are standing firm in faith and love despite persecution. Paul thanks God for them, defends the sincerity of his ministry among them, and urges them to keep living holy lives that please God. He also answers their questions about believers who have died: the dead in Christ will rise first, and all believers will be with the Lord forever. Cara notes that while the second-coming passages are the best known, Paul's main points in them are clear and meant to encourage.
+1 Thessalonians is one of Paul's earliest letters, written to a young church he had been forced to leave after only a short stay. Timothy has brought good news: they are standing firm in faith and love despite persecution. Paul thanks God for them, defends the sincerity of his ministry among them, and urges them to keep living holy lives that please God. He also answers their questions about believers who have died: the dead in Christ will rise first, and all believers will be with the Lord forever. Cara[^btn] notes that while the second-coming passages are the best known, Paul's main points in them are clear and meant to encourage.
 
 ## Setting
 
-- **When:** about AD 50–51, from Corinth, during Paul's second missionary journey, only months after founding the church (Acts 17:1–10; 18:5). With Galatians, it is among Paul's earliest surviving letters (Reformation Study Bible).
-- **Where:** Thessalonica, the capital of the Roman province of Macedonia, a busy harbour city of over 200,000 on the main east–west road (the Via Egnatia), founded about 315 BC and named after Alexander the Great's half-sister. Paul preached in the synagogue for three Sabbaths; most converts were Gentiles. He and his team worked with their hands rather than burden the church, helped by gifts from Philippi (2:9; Phil 4:15–16), until a riot drove them out and Jason and others had to post bond (Acts 17:5–9) (RSB).
-- **Who wrote it:** Paul, with Silvanus (Silas) and Timothy (1:1). Cara notes Paul is the real author, with the other two endorsing what he writes.
+- **When:** about AD 50–51, from Corinth, during Paul's second missionary journey, only months after founding the church (Acts 17:1–10; 18:5). With Galatians, it is among Paul's earliest surviving letters (*RSB*[^rsb]).
+- **Where:** Thessalonica, the capital of the Roman province of Macedonia, a busy harbour city of over 200,000 on the main east–west road (the Via Egnatia), founded about 315 BC and named after Alexander the Great's half-sister. Paul preached in the synagogue for three Sabbaths; most converts were Gentiles. He and his team worked with their hands rather than burden the church, helped by gifts from Philippi (2:9; Phil 4:15–16), until a riot drove them out and Jason and others had to post bond (Acts 17:5–9) (*RSB*[^rsb]).
+- **Who wrote it:** Paul, with Silvanus (Silas) and Timothy (1:1). Cara[^btn] notes Paul is the real author, with the other two endorsing what he writes.
 - **Where it sits:** among Paul's first letters. Paul had been driven out of Thessalonica by opposition (Acts 17:5–10), couldn't return, and sent Timothy to check on them (3:1–6). This letter is his response to Timothy's report. Because his time with them was so short, they needed teaching on the resurrection and Christ's return. Unusually, Paul writes "we" almost throughout.
 
 ## Structure
 
-The Reformation Study Bible's outline is simple: greeting (1:1), history of Paul's relationship with them (1:2–3:13), instruction (4:1–5:22), and closing prayer and blessing (5:23–28). Cara's fuller outline:
+The *RSB*'s[^rsb] outline is simple: greeting (1:1), history of Paul's relationship with them (1:2–3:13), instruction (4:1–5:22), and closing prayer and blessing (5:23–28). Cara's[^btn] fuller outline:
 
 - 1:1: Opening
 - 1:2–10: Thanksgiving: their work of faith, labour of love and steadfastness of hope
@@ -59,14 +59,14 @@ The Reformation Study Bible's outline is simple: greeting (1:1), history of Paul
 
 - **Faith, love and hope:** the triad that frames the letter (1:3; 5:8).
 - **The word received as God's word:** the gospel came in power and the Spirit (1:5; 2:13).
-- **Imitation:** Cara highlights how the believers imitate Paul, who imitates Christ, and so become examples to others (1:6–7; 2:14).
+- **Imitation:** Cara[^btn] highlights how the believers imitate Paul, who imitates Christ, and so become examples to others (1:6–7; 2:14).
 - **Election and calling:** God chose and called them, and this is the ground for living holy lives (1:4; 2:12; 4:7; 5:9, 24).
 - **Holiness:** sanctification as God's will, especially in sexual purity and brotherly love (4:1–12).
-- **The return of Christ:** the hope of resurrection and reunion for believers who have died (4:13–18), and readiness for the day of the Lord (5:1–11). Cara notes these passages end with commands to encourage one another.
+- **The return of Christ:** the hope of resurrection and reunion for believers who have died (4:13–18), and readiness for the day of the Lord (5:1–11). Cara[^btn] notes these passages end with commands to encourage one another.
 - **A pastor's heart:** Paul calls them "brothers" again and again, and describes himself as both mother and father to them (2:7, 11). They are his joy and crown (2:19).
 - **Christ is divine:** even in this early letter, Paul joins the Father and the Lord Jesus as one source of grace and one recipient of prayer (1:1; 3:11), and applies "the day of the Lord" to Jesus (5:2).
 - **Persecution and perseverance:** suffering for the gospel as Christ and the prophets did (2:14–16; 3:3–4).
-- **Endurance with hope:** the Reformation Heritage KJV Study Bible (RH) sums up the letter as a call to stand firm under suffering, strengthened by the hope of Christ's return. It dates the letter a little later than some, about AD 52, after Timothy rejoined Paul in Corinth.
+- **Endurance with hope:** the *Reformation Heritage KJV Study Bible* (*RH*[^rh]) sums up the letter as a call to stand firm under suffering, strengthened by the hope of Christ's return. It dates the letter a little later than some, about AD 52, after Timothy rejoined Paul in Corinth.
 
 ## How it points to Christ
 
@@ -76,14 +76,14 @@ The believers wait for God's Son from heaven, "whom he raised from the dead, Jes
 
 - "Pray without ceasing" is 1 Thessalonians 5:17.
 - 4:13–18 is about believers who have died, written to comfort grieving Christians. It isn't mainly a timetable of end-time events.
-- "Caught up ... to meet the Lord in the air" (4:17) is the basis for the word "rapture". Reformed teaching reads it as part of Christ's one visible return, when the living and dead believers meet him, not as a secret, separate event before it. The RSB notes that Paul describes a loud, public event at the end of the age (4:16; compare 3:13).
+- "Caught up ... to meet the Lord in the air" (4:17) is the basis for the word "rapture". Reformed teaching reads it as part of Christ's one visible return, when the living and dead believers meet him, not as a secret, separate event before it. The *RSB*[^rsb] notes that Paul describes a loud, public event at the end of the age (4:16; compare 3:13).
 - "Like a thief in the night" (5:2) means the day of the Lord comes unexpectedly for unbelievers. Believers, as children of light, shouldn't be caught off guard (5:4).
 - Paul stayed only a short time in Thessalonica (Acts 17 mentions three Sabbaths, though he may have stayed a little longer), so the church was very young.
 - The breastplate and helmet of 5:8 are a short image. The full armour of God is Ephesians 6.
 
 ## Going deeper
 
-- **Was Paul answering real accusations (2:1–12)?** Cara discusses whether this defence answers actual charges or follows a standard rhetorical pattern. What difference does it make?
+- **Was Paul answering real accusations (2:1–12)?** Cara[^btn] discusses whether this defence answers actual charges or follows a standard rhetorical pattern. What difference does it make?
 - **Imitation (1:6; 2:14).** What does it mean to imitate Paul as he imitates Christ? Who should we imitate, and who should be able to imitate us?
 - **Election and holiness (1:4; 4:3–7; 5:9).** How does Paul use God's choosing as a reason to live holy lives, rather than an excuse not to? Compare WCF 3.
 - **The dead in Christ (4:13–18).** What comfort does Paul give grieving Christians? How should this shape a Christian funeral?
@@ -134,9 +134,9 @@ The believers wait for God's Son from heaven, "whom he raised from the dead, Jes
 
 ## Sources
 
-- Robert J. Cara, "1 Thessalonians," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (Thessalonica, authorship and date, occasion and purpose, 2:1–12), Structure and Outline, Message and Theology (be imitators, "consistent" eschatology, election and calling).
-- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to 1 Thessalonians: Title and Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of 1 Thessalonians, 1 Thessalonians in the Larger Story of the Bible, Christ in 1 Thessalonians, History of Interpretation, Outline.
-- *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to 1 Thessalonians: Authorship, Date, Theme, Purpose; chapter summaries.
+[^btn]: **BTN**: Robert J. Cara, "1 Thessalonians," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (Thessalonica, authorship and date, occasion and purpose, 2:1–12), Structure and Outline, Message and Theology (be imitators, "consistent" eschatology, election and calling).
+[^rsb]: **RSB**: *The Reformation Study Bible* (Reformation Trust, 2015), introduction to 1 Thessalonians: Title and Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of 1 Thessalonians, 1 Thessalonians in the Larger Story of the Bible, Christ in 1 Thessalonians, History of Interpretation, Outline.
+[^rh]: **RH**: *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to 1 Thessalonians: Authorship, Date, Theme, Purpose; chapter summaries.
 
 ## Changelog
 

@@ -16,21 +16,21 @@ status: draft
 
 ## Setting
 
-- **When:** about 1100 BC (roughly Samuel's birth) to about 1010 BC, when David began to reign at Hebron. The length of Saul's reign is uncertain, because the Hebrew of 13:1 is damaged (Reformation Study Bible); the Lutheran Study Bible gives about 1048–1009 BC.
+- **When:** about 1100 BC (roughly Samuel's birth) to about 1010 BC, when David began to reign at Hebron. The length of Saul's reign is uncertain, because the Hebrew of 13:1 is damaged (*RSB*[^rsb]); the *Lutheran Study Bible*[^lsb] gives about 1048–1009 BC.
 - **Where:** Shiloh, Ramah, Mizpah, Gibeah (Saul's home), Bethlehem (David's), the wilderness of Judah, and the borderlands with the Philistines.
-- **Who wrote it:** unknown. It is named for Samuel, who anointed both Saul and David, but his death is recorded in 25:1. Samuel may have written some early material, with others continuing it (compare 1 Chr 29:29). Phrases like "to this day", and the note that Ziklag belongs "to the kings of Judah" (27:6), show the final form came after the kingdom divided; the RSB suggests a court historian in the ninth or eighth century BC. The Reformation Heritage KJV Study Bible (RH) follows older tradition instead: Samuel began the record (10:25), Nathan and Gad continued it (1 Chr 29:29), and it was written between about 1050 and 970 BC. Both read it as one unified work.
+- **Who wrote it:** unknown. It is named for Samuel, who anointed both Saul and David, but his death is recorded in 25:1. Samuel may have written some early material, with others continuing it (compare 1 Chr 29:29). Phrases like "to this day", and the note that Ziklag belongs "to the kings of Judah" (27:6), show the final form came after the kingdom divided; the *RSB*[^rsb] suggests a court historian in the ninth or eighth century BC. The *Reformation Heritage KJV Study Bible* (*RH*[^rh]) follows older tradition instead: Samuel began the record (10:25), Nathan and Gad continued it (1 Chr 29:29), and it was written between about 1050 and 970 BC. Both read it as one unified work.
 - **Where it sits:** 1 and 2 Samuel were one book in Hebrew. The Greek translation split them and treated Samuel and Kings together as "the Kingdoms". They carry on from Judges and Ruth, which ends with David's family line.
 
 ## Structure
 
-The Reformation Study Bible's outline follows the move from judges to kings:
+The *RSB*'s[^rsb] outline follows the move from judges to kings:
 
 - 1–7: Before the monarchy: God rules and rescues his people (Samuel's birth, Eli's fall, the ark captured and returned, Samuel as judge)
 - 8–12: The people demand a king; Saul is chosen and confirmed
 - 13–15: Israel's first king: Saul's disobedience and rejection
 - 16–31: God's chosen king: David's rise and Saul's fall (David anointed, Goliath, Saul's pursuit, Saul's death at Gilboa)
 
-Across 1 and 2 Samuel, Saul and David run in parallel: both begin with victories and both sin gravely. The difference is how each responds to his sin (RSB). McKelvey divides the book by its three figures: Samuel, Saul and David.
+Across 1 and 2 Samuel, Saul and David run in parallel: both begin with victories and both sin gravely. The difference is how each responds to his sin (*RSB*[^rsb]). McKelvey[^bto] divides the book by its three figures: Samuel, Saul and David.
 
 ## Chapter by chapter
 
@@ -98,20 +98,20 @@ Across 1 and 2 Samuel, Saul and David run in parallel: both begin with victories
 
 ## Themes
 
-- **God's kingship and human kings:** Israel's demand for a king rejects God as their King (8:7). Yet God means to give a king who rules under him (Deut 17:14–20). McKelvey makes kingship, God's and man's, the book's major theme.
-- **The Lord looks on the heart:** Saul has the appearance of a king, David a heart for God (16:7). McKelvey traces "heart" through Hannah, Eli, Saul and David.
+- **God's kingship and human kings:** Israel's demand for a king rejects God as their King (8:7). Yet God means to give a king who rules under him (Deut 17:14–20). McKelvey[^bto] makes kingship, God's and man's, the book's major theme.
+- **The Lord looks on the heart:** Saul has the appearance of a king, David a heart for God (16:7). McKelvey[^bto] traces "heart" through Hannah, Eli, Saul and David.
 - **Obedience over ritual:** "To obey is better than sacrifice" (15:22). Saul's religion is outward and his obedience partial.
-- **God raises the lowly and humbles the proud:** Hannah's song (2:1–10) previews the whole book: barren Hannah, the boy Samuel, the shepherd David are raised; Eli's house, the Philistines' Dagon and proud Saul are brought low. RH makes this the book's theme: God lifts up and puts down leaders by what he sees in their hearts, preparing the way for the Messiah.
+- **God raises the lowly and humbles the proud:** Hannah's song (2:1–10) previews the whole book: barren Hannah, the boy Samuel, the shepherd David are raised; Eli's house, the Philistines' Dagon and proud Saul are brought low. *RH*[^rh] makes this the book's theme: God lifts up and puts down leaders by what he sees in their hearts, preparing the way for the Messiah.
 - **God rules behind the scenes:** he steers even Saul's search for lost donkeys to bring him to Samuel (9:15–16), and chooses David before anyone else sees it (16:1–13).
 - **God's presence cannot be manipulated:** treating the ark as a charm brings defeat; the ark humiliates Dagon on its own.
 - **Waiting on God's timing:** David refuses twice to kill "the Lord's anointed" (24:6; 26:9), trusting God to give the throne.
-- **Vows and oaths:** the Lutheran Study Bible traces vows through the book: Hannah's, Saul's rash oath, and Jonathan and David's covenant.
+- **Vows and oaths:** the *LSB*[^lsb] traces vows through the book: Hannah's, Saul's rash oath, and Jonathan and David's covenant.
 
 ## How it points to Christ
 
 Hannah's song is the first place Scripture calls the coming king the Lord's "anointed" (2:10), in Hebrew *mashiach*, Messiah. Mary's song in Luke 1:46–55 echoes it closely. David, born in Bethlehem, a shepherd chosen by God though overlooked by men, anointed with the Spirit, and fighting as Israel's champion against Goliath, foreshadows the Son of David. Jesus, born in Bethlehem, is the Good Shepherd (John 10:11), anointed with the Spirit at his baptism, who defeats our great enemy on our behalf.
 
-Jesus himself cites David eating the holy bread at Nob (21; Mark 2:25–26). Like David, Jesus was hunted and rejected before he took his throne. Saul's envious pursuit of David follows Cain's hatred of Abel and looks ahead to the leaders who handed Jesus over out of envy (18:8–9; Gen 4:8; Matt 27:18) (RH).
+Jesus himself cites David eating the holy bread at Nob (21; Mark 2:25–26). Like David, Jesus was hunted and rejected before he took his throne. Saul's envious pursuit of David follows Cain's hatred of Abel and looks ahead to the leaders who handed Jesus over out of envy (18:8–9; Gen 4:8; Matt 27:18) (*RH*[^rh]).
 
 ## Common mix-ups
 
@@ -125,11 +125,11 @@ Jesus himself cites David eating the holy bread at Nob (21; Mark 2:25–26). Lik
 
 ## Going deeper
 
-- **Was asking for a king a sin?** Deuteronomy 17 expects a king, yet God calls Israel's request a rejection of him (8:7). The problem is wanting a king "like all the nations" instead of one under God's law. Read: McKelvey, Kingship.
+- **Was asking for a king a sin?** Deuteronomy 17 expects a king, yet God calls Israel's request a rejection of him (8:7). The problem is wanting a king "like all the nations" instead of one under God's law. Read: McKelvey[^bto], Kingship.
 - **Why was Saul rejected for what seem small failures?** Compare 13:8–14 and 15:1–23. What does partial obedience reveal about the heart?
 - **Did Samuel really appear at En-dor?** The text says Samuel spoke (28:12–19). Interpreters debate whether God permitted it or it was a deception. The point stands: Saul turned to what God forbade (Deut 18:10–12).
 - **David's patience.** David had Saul at his mercy twice. Why wouldn't he strike "the Lord's anointed"? What does this teach about waiting for God's promises?
-- **The Lord looks on the heart.** Trace the word "heart" through Hannah, Eli, Saul and David, as McKelvey does. Where is your own trust: in appearance or in God?
+- **The Lord looks on the heart.** Trace the word "heart" through Hannah, Eli, Saul and David, as McKelvey[^bto] does. Where is your own trust: in appearance or in God?
 
 ## Q&A
 
@@ -175,10 +175,10 @@ Jesus himself cites David eating the holy bread at Nob (21; Mark 2:25–26). Lik
 
 ## Sources
 
-- Michael G. McKelvey, "1–2 Samuel," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues, Structure and Outline, Message and Theology (Samuel, kingship, Saul, David, the heart).
-- *The Lutheran Study Bible* (Concordia, 2009), introduction to 1 and 2 Samuel: Overview, Reading 1 and 2 Samuel, Luther on 1 and 2 Samuel. Lutheran source.
-- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to 1 Samuel: Title, Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of 1 and 2 Samuel, 1 and 2 Samuel in the Larger Story of the Bible, History of Interpretation, Outline.
-- *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to 1 and 2 Samuel: Authorship, Date, Theme, Purpose, Synopsis, Outline; chapter summaries.
+[^bto]: **BTO**: Michael G. McKelvey, "1–2 Samuel," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues, Structure and Outline, Message and Theology (Samuel, kingship, Saul, David, the heart).
+[^lsb]: **LSB**: *The Lutheran Study Bible* (Concordia, 2009), introduction to 1 and 2 Samuel: Overview, Reading 1 and 2 Samuel, Luther on 1 and 2 Samuel. Lutheran source.
+[^rsb]: **RSB**: *The Reformation Study Bible* (Reformation Trust, 2015), introduction to 1 Samuel: Title, Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of 1 and 2 Samuel, 1 and 2 Samuel in the Larger Story of the Bible, History of Interpretation, Outline.
+[^rh]: **RH**: *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to 1 and 2 Samuel: Authorship, Date, Theme, Purpose, Synopsis, Outline; chapter summaries.
 
 ## Changelog
 

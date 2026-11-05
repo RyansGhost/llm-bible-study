@@ -16,14 +16,14 @@ A devastating locust plague strips Judah bare, and Joel reads it as a warning of
 
 ## Setting
 
-- **When:** uncertain; the book names no king. Many scholars date it after the exile, but the Reformation Study Bible notes that the temple and its worship are still in use, which suggests a date before Judah fell. With Calvin, it concludes the date can't be known for sure. The Lutheran Study Bible places it after Jehoshaphat's reign (9th century BC) or later. The Reformation Heritage KJV Study Bible (RH) prefers about 830 BC, under Athaliah or the boy-king Joash (2 Kgs 11–12), which would make Joel one of the earliest writing prophets, though it grants that some conservative scholars date it after the exile.
+- **When:** uncertain; the book names no king. Many scholars date it after the exile, but the *Reformation Study Bible*[^rsb] notes that the temple and its worship are still in use, which suggests a date before Judah fell. With Calvin, it concludes the date can't be known for sure. The *Lutheran Study Bible*[^lsb] places it after Jehoshaphat's reign (9th century BC) or later. The *Reformation Heritage KJV Study Bible* (*RH*[^rh]) prefers about 830 BC, under Athaliah or the boy-king Joash (2 Kgs 11–12), which would make Joel one of the earliest writing prophets, though it grants that some conservative scholars date it after the exile.
 - **Where:** Judah and Jerusalem, with its temple, priests and elders. An unprecedented locust plague has ruined the harvest and even stopped the temple offerings (1:9–13).
 - **Who wrote it:** Joel son of Pethuel (1:1), whose name means "the Lord is God". Nothing else is known about him; his interest in the temple suggests he lived in Jerusalem.
-- **Where it sits:** second of the Twelve in the Hebrew order. Timmer sees the day of the Lord as the overarching theme of the Twelve, and Joel is full of it.
+- **Where it sits:** second of the Twelve in the Hebrew order. Timmer[^bto] sees the day of the Lord as the overarching theme of the Twelve, and Joel is full of it.
 
 ## Structure
 
-The Reformation Study Bible's outline has two halves, with the promise of the Spirit (2:28) as the hinge of the book:
+The *RSB*'s[^rsb] outline has two halves, with the promise of the Spirit (2:28) as the hinge of the book:
 
 - 1:1: Heading
 - 1:2–2:17: Crises that demand repentance: the locust plague, and the coming day of the Lord pictured as an invading army; a call to lament, fast and return to God
@@ -54,8 +54,8 @@ The Reformation Study Bible's outline has two halves, with the promise of the Sp
 
 ## Themes
 
-- **The day of the Lord:** a day of darkness and judgment for the unrepentant, and salvation for those who call on God (1:15; 2:1–11, 31–32; 3:14). Timmer describes it as the "metatheme" of the Twelve.
-- **True repentance:** inward, wholehearted turning, "rend your hearts" (2:12–13), shown outwardly in fasting and weeping. Everyone is called, from elders to nursing infants and newlyweds (2:15–17). There are two such calls, one after the locusts and one before a worse judgment still to come (1:13–14; 2:12–17) (RH). Timmer notes that repentance doesn't guarantee escape from every judgment ("who knows whether he will turn", 2:14), but it is the way back to God.
+- **The day of the Lord:** a day of darkness and judgment for the unrepentant, and salvation for those who call on God (1:15; 2:1–11, 31–32; 3:14). Timmer[^bto] describes it as the "metatheme" of the Twelve.
+- **True repentance:** inward, wholehearted turning, "rend your hearts" (2:12–13), shown outwardly in fasting and weeping. Everyone is called, from elders to nursing infants and newlyweds (2:15–17). There are two such calls, one after the locusts and one before a worse judgment still to come (1:13–14; 2:12–17) (*RH*[^rh]). Timmer[^bto] notes that repentance doesn't guarantee escape from every judgment ("who knows whether he will turn", 2:14), but it is the way back to God.
 - **God's character:** "gracious and merciful, slow to anger, and abounding in steadfast love" (2:13; Ex 34:6).
 - **God rules nature and history:** the locusts are his army (2:11, 25), and his judgment and salvation alike show "that I am the Lord your God" (3:17).
 - **Restoration:** God gives back more than was lost (2:23–27).
@@ -77,10 +77,10 @@ On the day of Pentecost, Peter declared that Joel's promise of the Spirit poured
 ## Going deeper
 
 - **The locusts: literal or symbolic?** Is chapter 2's army the same locusts, a human army pictured as locusts, or the day of the Lord itself?
-- **"Who knows whether he will not turn?" (2:14).** Timmer notes that repentance doesn't guarantee deliverance from every historical judgment, though it is linked to true life. How does that humility shape our prayers?
+- **"Who knows whether he will not turn?" (2:14).** Timmer[^bto] notes that repentance doesn't guarantee deliverance from every historical judgment, though it is linked to true life. How does that humility shape our prayers?
 - **The Spirit on all flesh.** What was new compared with the Spirit's work in Moses' day (Num 11:29)? How does Acts 2 interpret it?
 - **"I will restore the years the locusts have eaten."** How has this promise comforted believers after wasted or painful years? What are its limits?
-- **The nations in the Twelve.** Timmer shows that "the nations" are judged when they resist God, yet some are included when they turn to him. How does Joel 2:32 ("everyone who calls") open the door?
+- **The nations in the Twelve.** Timmer[^bto] shows that "the nations" are judged when they resist God, yet some are included when they turn to him. How does Joel 2:32 ("everyone who calls") open the door?
 
 ## Q&A
 
@@ -126,10 +126,10 @@ On the day of Pentecost, Peter declared that Joel's promise of the Spirit poured
 
 ## Sources
 
-- Daniel C. Timmer, "The Twelve," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Message and Theology (the day of the Lord, repentance, deliverance of the remnant, the nations), Approaching the New Testament.
-- *The Lutheran Study Bible* (Concordia, 2009), introduction to Joel: Overview. Lutheran source.
-- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Joel: Title and Author, Date, Occasion, Genre and Literary Features, Characteristics and Primary Themes, Theology of Joel, Joel in the Larger Story of the Bible, Christ in Joel, History of Interpretation, Outline.
-- *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to Joel: Authorship, Date, Theme, Purpose, Synopsis, Outline; chapter summaries.
+[^bto]: **BTO**: Daniel C. Timmer, "The Twelve," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Message and Theology (the day of the Lord, repentance, deliverance of the remnant, the nations), Approaching the New Testament.
+[^lsb]: **LSB**: *The Lutheran Study Bible* (Concordia, 2009), introduction to Joel: Overview. Lutheran source.
+[^rsb]: **RSB**: *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Joel: Title and Author, Date, Occasion, Genre and Literary Features, Characteristics and Primary Themes, Theology of Joel, Joel in the Larger Story of the Bible, Christ in Joel, History of Interpretation, Outline.
+[^rh]: **RH**: *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to Joel: Authorship, Date, Theme, Purpose, Synopsis, Outline; chapter summaries.
 
 ## Changelog
 

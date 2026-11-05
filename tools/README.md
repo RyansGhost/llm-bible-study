@@ -61,7 +61,7 @@ Fill in the book file's template headings: Summary, Setting, Structure, Chapter 
 
 - **Own words.** Summarise; never copy study Bible introductions or notes. Quote only short phrases, in quotation marks, with the author named.
 - **Source order.** Scripture first, then the confessions, study Bibles, and commentaries. Every key event and theme gets chapter and verse.
-- **Cite what you used** in the book's Sources section, by author, work and chapter or section heading, e.g. *Calvin, Commentary on Joshua, on chapter 2*. Section headings are enough; don't add page numbers.
+- **Cite what you used** in the book's Sources section, by author, work and chapter or section heading, e.g. *Calvin, Commentary on Joshua, on chapter 2*. Section headings are enough; don't add page numbers. Cite the five main works (*BTO*, *BTN*, *LSB*, *RSB*, *RH*) as footnotes, as the main README describes.
 - **Q&A format.** Number each item, start it with `**Q:**`, and put the `**A:**` on its own indented line below, ending with a reference such as `(2:18–21)`.
 - **Flag differences.** Where Luther or Spurgeon differ from the Reformed confessions, say so as `sources.md` describes.
 - **Set `status: draft`** in the front matter (shown on the site as "Human review pending"). Change it to `complete` only after a person has reviewed the notes and checked the citations against the books.

@@ -12,18 +12,18 @@ status: draft
 
 ## Summary
 
-Jeremiah prophesied through Judah's last forty years, warning a stubborn people to repent or face Babylon. They rejected, beat, imprisoned and nearly killed him, and Jerusalem fell exactly as he said. Yet in the darkest hour, God gave Jeremiah the promise of a new covenant: God would write his law on his people's hearts and forgive their sins (31:31–34). Lee sums up the movement of his message as "from repentance to redemption".
+Jeremiah prophesied through Judah's last forty years, warning a stubborn people to repent or face Babylon. They rejected, beat, imprisoned and nearly killed him, and Jerusalem fell exactly as he said. Yet in the darkest hour, God gave Jeremiah the promise of a new covenant: God would write his law on his people's hearts and forgive their sins (31:31–34). Lee[^bto] sums up the movement of his message as "from repentance to redemption".
 
 ## Setting
 
-- **When:** from his call in 626 BC (the Reformation Heritage KJV Study Bible, RH, says 627), Josiah's thirteenth year, a ministry of over forty years through the reigns of Jehoahaz, Jehoiakim, Jehoiachin and Zedekiah, to the fall of Jerusalem (586 BC) and the flight to Egypt (1:2–3; 43–44). Josiah's reforms (from 628 BC, renewed when the Book of the Law was found in 621 BC) didn't change the people's hearts, and Manasseh's idolatry returned under his successors (Reformation Study Bible). Lee shows how this spans the collapse of Assyria (Nineveh fell in 612 BC) and the rise of Babylon, which took captives in 605, 597 and 586 BC.
+- **When:** from his call in 626 BC (the *Reformation Heritage KJV Study Bible*, *RH*[^rh], says 627), Josiah's thirteenth year, a ministry of over forty years through the reigns of Jehoahaz, Jehoiakim, Jehoiachin and Zedekiah, to the fall of Jerusalem (586 BC) and the flight to Egypt (1:2–3; 43–44). Josiah's reforms (from 628 BC, renewed when the Book of the Law was found in 621 BC) didn't change the people's hearts, and Manasseh's idolatry returned under his successors (*RSB*[^rsb]). Lee[^bto] shows how this spans the collapse of Assyria (Nineveh fell in 612 BC) and the rise of Babylon, which took captives in 605, 597 and 586 BC.
 - **Where:** Jerusalem and Judah; Anathoth, his priestly hometown in Benjamin; finally Egypt, where he probably died.
-- **Who wrote it:** Jeremiah son of Hilkiah, a priest, whose name means "the Lord exalts" (or, RH suggests, "the Lord appoints"). His scribe Baruch wrote the first edition in 605 BC; King Jehoiakim burned it, and it was rewritten and later expanded (36). Chapter 52 is a later postscript, since 51:64 marks "the end of the words of Jeremiah"; its last event is Jehoiachin's release (about 561 BC). Lee calls it an anthology of oracles in many forms, gathered over time.
-- **Where it sits:** the second Major Prophet. Its history overlaps 2 Kings 22–25. The Greek Old Testament has a shorter version (about an eighth shorter) in a different order, perhaps reflecting the book's growth in stages (Lee; RSB).
+- **Who wrote it:** Jeremiah son of Hilkiah, a priest, whose name means "the Lord exalts" (or, *RH*[^rh] suggests, "the Lord appoints"). His scribe Baruch wrote the first edition in 605 BC; King Jehoiakim burned it, and it was rewritten and later expanded (36). Chapter 52 is a later postscript, since 51:64 marks "the end of the words of Jeremiah"; its last event is Jehoiachin's release (about 561 BC). Lee[^bto] calls it an anthology of oracles in many forms, gathered over time.
+- **Where it sits:** the second Major Prophet. Its history overlaps 2 Kings 22–25. The Greek Old Testament has a shorter version (about an eighth shorter) in a different order, perhaps reflecting the book's growth in stages (Lee[^bto]; *RSB*[^rsb]).
 
 ## Structure
 
-The prophecies aren't in date order, and the same event can appear far apart (7 and 26). Lee notes that even John Bright called it a seeming "hodgepodge". The Reformation Study Bible's outline:
+The prophecies aren't in date order, and the same event can appear far apart (7 and 26). Lee[^bto] notes that even John Bright called it a seeming "hodgepodge". The *RSB*'s[^rsb] outline:
 
 - 1: Jeremiah's call
 - 2–20: Oracles mainly of judgment on Judah: the covenant lawsuit, the temple sermon, sign-acts, and Jeremiah's "confessions"
@@ -123,11 +123,11 @@ The prophecies aren't in date order, and the same event can appear far apart (7 
 
 ## Themes
 
-- **Covenant lawsuit:** Lee shows Jeremiah prosecuting God's case against Judah for breaking the Mosaic covenant: "I still contend with you" (2:9).
-- **Repent or face judgment:** Lee traces a shift. From 626 to 597 BC Jeremiah calls for repentance; after 597 he announces judgment as certain, the covenant's final curse of losing the land (Deut 28). Then God would save a remnant through exile, and Babylon itself would fall after seventy years (25:11–12), as it did to Cyrus in 539 BC (RSB).
+- **Covenant lawsuit:** Lee[^bto] shows Jeremiah prosecuting God's case against Judah for breaking the Mosaic covenant: "I still contend with you" (2:9).
+- **Repent or face judgment:** Lee[^bto] traces a shift. From 626 to 597 BC Jeremiah calls for repentance; after 597 he announces judgment as certain, the covenant's final curse of losing the land (Deut 28). Then God would save a remnant through exile, and Babylon itself would fall after seventy years (25:11–12), as it did to Cyrus in 539 BC (*RSB*[^rsb]).
 - **The deceitful heart:** sin goes deeper than outward acts; the heart itself is sick (17:9). That is why reform fails and a new covenant is needed.
 - **False security:** trusting in the temple, alliances or prophets who say "peace" when there is none (6:14; 7:4).
-- **The cost of faithfulness:** Jeremiah's "confessions" (11:18–20:18) show a prophet suffering, lonely and wrestling with God, even accusing him (20:7). He feels both the people's coming agony and God's grief over their sin. RH compares him with Moses, who also protested his call (1:6; Ex 4:10), and with Paul, set apart before birth and rejected by his own nation (1:5; Gal 1:15), but notes that Jeremiah, the "weeping prophet", had almost no friends and saw little fruit.
+- **The cost of faithfulness:** Jeremiah's "confessions" (11:18–20:18) show a prophet suffering, lonely and wrestling with God, even accusing him (20:7). He feels both the people's coming agony and God's grief over their sin. *RH*[^rh] compares him with Moses, who also protested his call (1:6; Ex 4:10), and with Paul, set apart before birth and rejected by his own nation (1:5; Gal 1:15), but notes that Jeremiah, the "weeping prophet", had almost no friends and saw little fruit.
 - **True and false prophets:** popular prophets promised peace and a quick return; Jeremiah, sent from the Lord's council, told the hard truth (23:16–22; 28).
 - **God's sovereignty over nations:** the potter and the clay (18). Babylon serves God's purposes, then is judged.
 - **Hope beyond judgment:** a righteous Branch from David, called "The Lord is our righteousness" (23:5–6), a return after seventy years (29:10), and a new covenant in which God enables his people to know and obey him (31:31–34; 32:40). Hebrews shows it fulfilled in Christ (Heb 8).
@@ -136,7 +136,7 @@ The prophecies aren't in date order, and the same event can appear far apart (7 
 
 The new covenant promised in Jeremiah 31:31–34 is fulfilled in Jesus: "This cup … is the new covenant in my blood" (Luke 22:20). Hebrews quotes the whole promise and says Christ is its mediator (Heb 8:6–13; 10:15–18). The righteous Branch who will be called "The Lord is our righteousness" (23:5–6) is the Son of David who becomes our righteousness (1 Cor 1:30).
 
-Jesus quoted Jeremiah's temple sermon when he cleared the temple: "a den of robbers" (7:11; Matt 21:13). Matthew links Rachel's weeping to Herod's slaughter of the infants (31:15; Matt 2:17–18). Some people even thought Jesus was Jeremiah (Matt 16:14). Like Jeremiah, Jesus wept over Jerusalem and was rejected by its leaders (Luke 19:41–44). RH sees Jeremiah himself as a picture of the suffering servant: no one but Christ was treated with more contempt by Israel.
+Jesus quoted Jeremiah's temple sermon when he cleared the temple: "a den of robbers" (7:11; Matt 21:13). Matthew links Rachel's weeping to Herod's slaughter of the infants (31:15; Matt 2:17–18). Some people even thought Jesus was Jeremiah (Matt 16:14). Like Jeremiah, Jesus wept over Jerusalem and was rejected by its leaders (Luke 19:41–44). *RH*[^rh] sees Jeremiah himself as a picture of the suffering servant: no one but Christ was treated with more contempt by Israel.
 
 ## Common mix-ups
 
@@ -150,11 +150,11 @@ Jesus quoted Jeremiah's temple sermon when he cleared the temple: "a den of robb
 
 ## Going deeper
 
-- **Two versions of Jeremiah.** Lee explains that the Greek and Hebrew versions differ in length and order, partly confirmed by the Dead Sea Scrolls. How should we think about this, and does it affect our confidence in Scripture? Read: Lee, Text of Jeremiah.
-- **From repentance to redemption.** Lee, following Unterman, traces Jeremiah's message moving from calls to repent to announcements of judgment and future redemption. Map chapters 3, 7, 21, 29 and 31 along it.
+- **Two versions of Jeremiah.** Lee[^bto] explains that the Greek and Hebrew versions differ in length and order, partly confirmed by the Dead Sea Scrolls. How should we think about this, and does it affect our confidence in Scripture? Read: Lee[^bto], Text of Jeremiah.
+- **From repentance to redemption.** Lee[^bto], following Unterman, traces Jeremiah's message moving from calls to repent to announcements of judgment and future redemption. Map chapters 3, 7, 21, 29 and 31 along it.
 - **Jeremiah's confessions.** Read his laments (11:18–12:6; 15:10–21; 17:14–18; 18:18–23; 20:7–18). What do they teach about honest prayer under suffering?
 - **What's new about the new covenant?** Compare 31:31–34 with the Sinai covenant. Is the newness forgiveness, the inner law, universal knowledge of God, or all three? How does Hebrews 8 apply it?
-- **True and false prophets.** Compare Jeremiah and Hananiah (27–28) with Deuteronomy 18:15–22, which Lee shows Jeremiah's call alludes to. How can God's people tell them apart?
+- **True and false prophets.** Compare Jeremiah and Hananiah (27–28) with Deuteronomy 18:15–22, which Lee[^bto] shows Jeremiah's call alludes to. How can God's people tell them apart?
 - **Seeking the city's welfare (29:4–7).** How does this letter to exiles shape Christians living in a culture that isn't their home (1 Pet 2:11–12)?
 
 ## Q&A
@@ -201,9 +201,9 @@ Jesus quoted Jeremiah's temple sermon when he cleared the temple: "a den of robb
 
 ## Sources
 
-- Peter Y. Lee, "Jeremiah," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues (historical setting, text of Jeremiah), Structure and Outline, Message and Theology (prosecutor of the Mosaic covenant, herald of the new covenant, "from repentance to redemption", the prophetic call).
-- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Jeremiah: Title, Author, Date and Occasion, Genre and Literary Features, Characteristics and Primary Themes, Theology of Jeremiah, Jeremiah in the Larger Story of the Bible, Christ in Jeremiah, History of Interpretation, Outline.
-- *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to Jeremiah: Authorship, Date, Theme, Purpose, Synopsis, Outline; chapter summaries.
+[^bto]: **BTO**: Peter Y. Lee, "Jeremiah," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues (historical setting, text of Jeremiah), Structure and Outline, Message and Theology (prosecutor of the Mosaic covenant, herald of the new covenant, "from repentance to redemption", the prophetic call).
+[^rsb]: **RSB**: *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Jeremiah: Title, Author, Date and Occasion, Genre and Literary Features, Characteristics and Primary Themes, Theology of Jeremiah, Jeremiah in the Larger Story of the Bible, Christ in Jeremiah, History of Interpretation, Outline.
+[^rh]: **RH**: *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to Jeremiah: Authorship, Date, Theme, Purpose, Synopsis, Outline; chapter summaries.
 
 ## Changelog
 

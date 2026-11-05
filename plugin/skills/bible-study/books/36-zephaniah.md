@@ -16,15 +16,15 @@ Zephaniah announces the great and terrible day of the Lord, which will sweep awa
 
 ## Setting
 
-- **When:** in the days of King Josiah of Judah (640–609 BC; 1:1), before Nineveh fell in 612 BC (2:13–15). The Reformation Study Bible suggests he began after Josiah's first reforms of 628 BC, since only "the remnant of Baal" is left (1:4), but before the great reform of 622 BC; the sins he attacks are the ones Josiah removed (2 Kgs 23:4–14), so his preaching may have helped spur it. He was a contemporary of Jeremiah.
-- **Dating in brief:** the Reformation Heritage KJV Study Bible (RH) likewise places him in the first half of Josiah's reign, about 640–621 BC, early in Jeremiah's ministry.
+- **When:** in the days of King Josiah of Judah (640–609 BC; 1:1), before Nineveh fell in 612 BC (2:13–15). The *Reformation Study Bible*[^rsb] suggests he began after Josiah's first reforms of 628 BC, since only "the remnant of Baal" is left (1:4), but before the great reform of 622 BC; the sins he attacks are the ones Josiah removed (2 Kgs 23:4–14), so his preaching may have helped spur it. He was a contemporary of Jeremiah.
+- **Dating in brief:** the *Reformation Heritage KJV Study Bible* (*RH*[^rh]) likewise places him in the first half of Josiah's reign, about 640–621 BC, early in Jeremiah's ministry.
 - **Where:** Judah and Jerusalem, with oracles against Philistia, Moab, Ammon, Cush and Assyria.
 - **Who wrote it:** Zephaniah, whose name means "the Lord has hidden" or "treasured". Uniquely among the prophets, his family line is traced back four generations, to Hezekiah (1:1), probably the king, which would make him a man of standing in Jerusalem and a distant relative of Josiah. He uses priestly language, but there's no clear sign he served at the temple.
-- **Where it sits:** among the Twelve, the last of them written before the exile; Haggai, Zechariah and Malachi come after the return (RSB). Timmer notes its heading is similar to those of Hosea, Amos and Micah, and that Zephaniah presses repentance strongly (2:1–3).
+- **Where it sits:** among the Twelve, the last of them written before the exile; Haggai, Zechariah and Malachi come after the return (*RSB*[^rsb]). Timmer[^bto] notes its heading is similar to those of Hosea, Amos and Micah, and that Zephaniah presses repentance strongly (2:1–3).
 
 ## Structure
 
-Like many prophets, Zephaniah moves from universal judgment to salvation for the nations and a remnant of Israel. The Reformation Study Bible's outline:
+Like many prophets, Zephaniah moves from universal judgment to salvation for the nations and a remnant of Israel. The *RSB*'s[^rsb] outline:
 
 - 1:1: Heading
 - 1:2–6: Judgment on all the earth, and on Judah's idolatry
@@ -57,13 +57,13 @@ Like many prophets, Zephaniah moves from universal judgment to salvation for the
 
 ## Themes
 
-- **The day of the Lord:** the dominant theme, mentioned about eighteen times, thirteen in chapter 1 alone: a near day of darkness and wrath through a foreign army, and beyond it the final, universal judgment (1:7, 14–18). Timmer calls it the "metatheme" of the Twelve. Zephaniah's description inspired the medieval hymn "Dies Irae" ("Day of Wrath").
+- **The day of the Lord:** the dominant theme, mentioned about eighteen times, thirteen in chapter 1 alone: a near day of darkness and wrath through a foreign army, and beyond it the final, universal judgment (1:7, 14–18). Timmer[^bto] calls it the "metatheme" of the Twelve. Zephaniah's description inspired the medieval hymn "Dies Irae" ("Day of Wrath").
 - **Complacency and idolatry:** God judges those who mix worship of the Lord with other gods (1:4–6), and those who think he does nothing, neither good nor bad (1:12). He searches Jerusalem with lamps to find them.
-- **Seek the Lord in humility:** repentance is the only refuge (2:1–3). Timmer notes that this "perhaps" means repentance doesn't presume on God's mercy.
+- **Seek the Lord in humility:** repentance is the only refuge (2:1–3). Timmer[^bto] notes that this "perhaps" means repentance doesn't presume on God's mercy.
 - **God's judgment on proud nations:** Nineveh's pride is singled out (2:15).
 - **A purified, humble remnant:** a lowly people who trust the Lord (3:12–13).
 - **Salvation for the nations:** peoples whose speech God purifies will call on his name (3:9).
-- **God's joy over his people:** the climax is God himself rejoicing over his redeemed (3:14–17). The book that opens with sweeping everything away ends with restoration: his wrath serves his purpose to purify and renew (RSB).
+- **God's joy over his people:** the climax is God himself rejoicing over his redeemed (3:14–17). The book that opens with sweeping everything away ends with restoration: his wrath serves his purpose to purify and renew (*RSB*[^rsb]).
 
 ## How it points to Christ
 
@@ -78,7 +78,7 @@ The day of the Lord finds its fullest meaning in Christ. In his first coming he 
 
 ## Going deeper
 
-- **The day of the Lord.** Timmer calls it a "metatheme" with many facets. Compare Zephaniah 1 with Joel 2 and Amos 5:18–20. What does it mean for God's people and for the nations?
+- **The day of the Lord.** Timmer[^bto] calls it a "metatheme" with many facets. Compare Zephaniah 1 with Joel 2 and Amos 5:18–20. What does it mean for God's people and for the nations?
 - **Spiritual complacency (1:12).** What does it look like to think "the Lord will do neither good nor ill"? How can that attitude creep into the church?
 - **"Perhaps you may be hidden" (2:3).** Why "perhaps"? How does this humble hope relate to the certainty of salvation in Christ?
 - **The nations at the end (3:9–10).** How does Zephaniah's vision of purified speech relate to Babel (Gen 11) and Pentecost (Acts 2)?
@@ -128,10 +128,11 @@ The day of the Lord finds its fullest meaning in Christ. In his first coming he 
 
 ## Sources
 
-- Daniel C. Timmer, "The Twelve," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Message and Theology (the day of the Lord, sin and punishment, repentance, the remnant, the nations).
-- *The Lutheran Study Bible* (Concordia, 2009), introduction to Zephaniah: Overview. Lutheran source.
-- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Zephaniah: Title and Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of Zephaniah, Zephaniah in the Larger Story of the Bible, Christ in Zephaniah, History of Interpretation, Outline.
-- *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to Zephaniah: Authorship, Date, Theme, Purpose, Synopsis; chapter summaries.
+- **LSB**: *The Lutheran Study Bible* (Concordia, 2009), introduction to Zephaniah: Overview. Lutheran source.
+
+[^bto]: **BTO**: Daniel C. Timmer, "The Twelve," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Message and Theology (the day of the Lord, sin and punishment, repentance, the remnant, the nations).
+[^rsb]: **RSB**: *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Zephaniah: Title and Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of Zephaniah, Zephaniah in the Larger Story of the Bible, Christ in Zephaniah, History of Interpretation, Outline.
+[^rh]: **RH**: *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to Zephaniah: Authorship, Date, Theme, Purpose, Synopsis; chapter summaries.
 
 ## Changelog
 

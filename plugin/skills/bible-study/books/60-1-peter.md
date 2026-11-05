@@ -12,18 +12,18 @@ status: draft
 
 ## Summary
 
-1 Peter is a letter of hope to Christians suffering for their faith. Peter calls them "elect exiles" (1:1), and Barcley shows those two words sum up the letter. As God's elect, they are chosen, born again to a living hope, and made a royal priesthood and holy nation. As exiles, they live in a world that isn't their home, so they will face slander and suffering. Peter calls them to be holy, to live honourably among unbelievers, to submit to authorities for the Lord's sake, and to follow Christ's example of suffering without retaliating. Christ suffered once for sins, the righteous for the unrighteous, and glory will follow suffering for them as it did for him.
+1 Peter is a letter of hope to Christians suffering for their faith. Peter calls them "elect exiles" (1:1), and Barcley[^btn] shows those two words sum up the letter. As God's elect, they are chosen, born again to a living hope, and made a royal priesthood and holy nation. As exiles, they live in a world that isn't their home, so they will face slander and suffering. Peter calls them to be holy, to live honourably among unbelievers, to submit to authorities for the Lord's sake, and to follow Christ's example of suffering without retaliating. Christ suffered once for sins, the righteous for the unrighteous, and glory will follow suffering for them as it did for him.
 
 ## Setting
 
-- **When:** between AD 60 and 68: Peter seems to know Ephesians and Colossians, and tradition says he was crucified, upside down, in Rome under Nero by AD 68 (Reformation Study Bible). Probably about AD 62–64 (the Lutheran Study Bible says before AD 67).
+- **When:** between AD 60 and 68: Peter seems to know Ephesians and Colossians, and tradition says he was crucified, upside down, in Rome under Nero by AD 68 (*RSB*[^rsb]). Probably about AD 62–64 (the *Lutheran Study Bible*[^lsb] says before AD 67).
 - **Where:** from "Babylon" (5:13), most likely a code name for Rome, where Mark had also been with Paul (Col 4:10), to churches in Pontus, Galatia, Cappadocia, Asia and Bithynia, in what is now Turkey (1:1).
-- **Who wrote it:** the apostle Peter (1:1), with Silvanus (Silas) helping (5:12), which may explain its polished Greek. Barcley answers the modern arguments against Peter's authorship from the style and the kind of persecution described. Irenaeus, Tertullian, Clement of Alexandria and Origen all name Peter; Galilee was bilingual, so a fisherman in trade could know Greek; and the letter echoes Jesus' words to Peter (5:2–3; John 21:15–17) (RSB).
-- **Where it sits:** one of the General Epistles. Barcley argues the readers were mostly Gentiles (1:14, 18; 2:10; 4:3), though Peter applies Israel's titles to them; Calvin thought them Jewish Christians. The persecution was mainly social: slander, insults and mistreatment for being Christians, not yet empire-wide.
+- **Who wrote it:** the apostle Peter (1:1), with Silvanus (Silas) helping (5:12), which may explain its polished Greek. Barcley[^btn] answers the modern arguments against Peter's authorship from the style and the kind of persecution described. Irenaeus, Tertullian, Clement of Alexandria and Origen all name Peter; Galilee was bilingual, so a fisherman in trade could know Greek; and the letter echoes Jesus' words to Peter (5:2–3; John 21:15–17) (*RSB*[^rsb]).
+- **Where it sits:** one of the General Epistles. Barcley[^btn] argues the readers were mostly Gentiles (1:14, 18; 2:10; 4:3), though Peter applies Israel's titles to them; Calvin thought them Jewish Christians. The persecution was mainly social: slander, insults and mistreatment for being Christians, not yet empire-wide.
 
 ## Structure
 
-Barcley notes that 1 Peter is hard to outline because suffering keeps recurring and Peter mixes commands with teaching throughout. He organises it around "elect exiles", and the Reformation Study Bible's outline runs similarly:
+Barcley[^btn] notes that 1 Peter is hard to outline because suffering keeps recurring and Peter mixes commands with teaching throughout. He organises it around "elect exiles", and the *RSB*'s[^rsb] outline runs similarly:
 
 - 1:1–2: Greeting to the elect exiles
 - 1:3–12: The Christian's sure salvation: born again to a living hope, foretold by the prophets
@@ -58,16 +58,16 @@ Barcley notes that 1 Peter is hard to outline because suffering keeps recurring 
 
 ## Themes
 
-- **Elect exiles:** chosen by God and at home in his people, but strangers in the world (1:1; 2:9–11). Barcley highlights how Peter applies Israel's exile language to the church.
+- **Elect exiles:** chosen by God and at home in his people, but strangers in the world (1:1; 2:9–11). Barcley[^btn] highlights how Peter applies Israel's exile language to the church.
 - **Living hope:** an imperishable inheritance through the resurrection (1:3–9). Christ was revealed "in these last times" (1:20), but the full salvation is still to be revealed at his coming (1:5, 13).
-- **Suffering, then glory:** following the pattern of Christ (1:11; 4:13; 5:10). Barcley shows how Peter explicitly links the believers' suffering with Christ's.
-- **Holiness:** be holy as God is holy (1:15–16). Barcley notes "holy" is used eight times.
+- **Suffering, then glory:** following the pattern of Christ (1:11; 4:13; 5:10). Barcley[^btn] shows how Peter explicitly links the believers' suffering with Christ's.
+- **Holiness:** be holy as God is holy (1:15–16). Barcley[^btn] notes "holy" is used eight times.
 - **The people of God:** a spiritual house, royal priesthood and holy nation (2:4–10).
 - **Witness:** good conduct and a ready answer for the hope within (2:12; 3:15–16).
 - **Submission:** to authorities, masters and husbands, for the Lord's sake (2:13–3:7).
 - **Humility and trust:** cast your anxieties on God, and resist the devil (5:5–9).
 - **Grace in Peter's own story:** the apostle who once rebuked Jesus for speaking of suffering, and denied him when it became dangerous, now teaches the necessity of Christ's suffering and ours (Matt 16:22; 26:69–75).
-- **Hope while suffering:** the Reformation Heritage KJV Study Bible (RH) names the theme as hope in Christ amid suffering: believers endure by fixing their eyes on the grace kept for them and on Christ's coming glory (1:3–7, 13). RH places the letter around the Neronian persecution, with "Babylon" (5:13) standing for Rome.
+- **Hope while suffering:** the *Reformation Heritage KJV Study Bible* (*RH*[^rh]) names the theme as hope in Christ amid suffering: believers endure by fixing their eyes on the grace kept for them and on Christ's coming glory (1:3–7, 13). *RH*[^rh] places the letter around the Neronian persecution, with "Babylon" (5:13) standing for Rome.
 
 ## How it points to Christ
 
@@ -78,13 +78,13 @@ Peter, an eyewitness of Christ's sufferings (5:1), shows Jesus as the fulfilment
 - "Cast all your anxieties on him, because he cares for you" is 1 Peter 5:7.
 - "Always be prepared to give a defence for the hope that is in you" is 1 Peter 3:15, the classic verse for apologetics.
 - "Babylon" (5:13) is almost certainly Rome, not the city in Mesopotamia.
-- "Spirits in prison" (3:19) is one of the hardest passages in the New Testament. Barcley surveys the views. Many Reformed interpreters, following Augustine, read it as Christ preaching through Noah to people now in prison. Others take it as the risen Christ, on his way to God's right hand (3:22), announcing his victory over the fallen spirits. Lutherans read it as Christ's descent into hell after his death to proclaim his victory (Formula of Concord IX). It doesn't teach a second chance after death.
-- "Baptism now saves you" (3:21). Lutherans read this as baptism working salvation (Lutheran Study Bible). The Reformed confessions read it as baptism being the sign and seal of what saves, "not as a removal of dirt from the body but as an appeal to God for a good conscience, through the resurrection of Jesus Christ" (WCF 28).
+- "Spirits in prison" (3:19) is one of the hardest passages in the New Testament. Barcley[^btn] surveys the views. Many Reformed interpreters, following Augustine, read it as Christ preaching through Noah to people now in prison. Others take it as the risen Christ, on his way to God's right hand (3:22), announcing his victory over the fallen spirits. Lutherans read it as Christ's descent into hell after his death to proclaim his victory (Formula of Concord IX). It doesn't teach a second chance after death.
+- "Baptism now saves you" (3:21). Lutherans read this as baptism working salvation (*LSB*[^lsb]). The Reformed confessions read it as baptism being the sign and seal of what saves, "not as a removal of dirt from the body but as an appeal to God for a good conscience, through the resurrection of Jesus Christ" (WCF 28).
 - "A royal priesthood" (2:9) doesn't abolish church office: Peter still addresses elders (5:1–4).
 
 ## Going deeper
 
-- **Elect exiles (1:1; 2:9–12).** How should a Christian be both settled and a stranger in the world? Compare Jeremiah 29 and Barcley's discussion.
+- **Elect exiles (1:1; 2:9–12).** How should a Christian be both settled and a stranger in the world? Compare Jeremiah 29 and Barcley's[^btn] discussion.
 - **Suffering for doing good (2:18–25; 3:13–18).** What is the difference between suffering for Christ and suffering for wrongdoing? How does Christ's example shape our response to unjust treatment?
 - **Israel's titles for the church (2:9–10).** What does it mean that Peter applies Exodus 19:6 and Hosea 2 to a mostly Gentile church?
 - **Spirits in prison and baptism (3:18–22).** Weigh the main views of 3:19. How do Reformed and Lutheran readings of 3:21 differ, and what do WCF 28 and the Small Catechism say?
@@ -135,10 +135,10 @@ Peter, an eyewitness of Christ's sufferings (5:1), shows Jesus as the fulfilment
 
 ## Sources
 
-- William B. Barcley, "1 Peter," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (authorship, occasion and date, audience), Structure and Outline, Message and Theology (living in a world that isn't our home, suffering after Christ's example, holiness, witness).
-- *The Lutheran Study Bible* (Concordia, 2009), introduction to 1 Peter: Overview, Luther on 1 Peter, Challenges for Readers. Lutheran source.
-- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to 1 Peter: Title and Author, Date and Occasion, Genre and Literary Features, Characteristics and Primary Themes, Theology of 1 Peter, 1 Peter in the Larger Story of the Bible, Christ in 1 Peter, History of Interpretation, Outline.
-- *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to 1 Peter: Authorship, Date, Theme, Purpose, Synopsis; chapter summaries.
+[^btn]: **BTN**: William B. Barcley, "1 Peter," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (authorship, occasion and date, audience), Structure and Outline, Message and Theology (living in a world that isn't our home, suffering after Christ's example, holiness, witness).
+[^lsb]: **LSB**: *The Lutheran Study Bible* (Concordia, 2009), introduction to 1 Peter: Overview, Luther on 1 Peter, Challenges for Readers. Lutheran source.
+[^rsb]: **RSB**: *The Reformation Study Bible* (Reformation Trust, 2015), introduction to 1 Peter: Title and Author, Date and Occasion, Genre and Literary Features, Characteristics and Primary Themes, Theology of 1 Peter, 1 Peter in the Larger Story of the Bible, Christ in 1 Peter, History of Interpretation, Outline.
+[^rh]: **RH**: *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to 1 Peter: Authorship, Date, Theme, Purpose, Synopsis; chapter summaries.
 
 ## Changelog
 

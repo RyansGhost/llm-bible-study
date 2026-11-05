@@ -12,18 +12,18 @@ status: draft
 
 ## Summary
 
-Philippians is a warm letter from Paul in prison to a church that had partnered with him in the gospel from the start. Lowe reads it as a letter of friendship and partnership, and also of possible bereavement: Paul doesn't know whether he will live or die, so he writes to prepare them. He rejoices that his chains have advanced the gospel ("to live is Christ, and to die is gain", 1:21). He urges humility and unity by pointing to Christ, who emptied himself to the point of death on a cross and was exalted. He counts everything loss compared with knowing Christ, and he thanks them for their gift, having learned contentment in all circumstances.
+Philippians is a warm letter from Paul in prison to a church that had partnered with him in the gospel from the start. Lowe[^btn] reads it as a letter of friendship and partnership, and also of possible bereavement: Paul doesn't know whether he will live or die, so he writes to prepare them. He rejoices that his chains have advanced the gospel ("to live is Christ, and to die is gain", 1:21). He urges humility and unity by pointing to Christ, who emptied himself to the point of death on a cross and was exalted. He counts everything loss compared with knowing Christ, and he thanks them for their gift, having learned contentment in all circumstances.
 
 ## Setting
 
-- **When:** about AD 60–62, during Paul's imprisonment, most likely in Rome near its end, about AD 61: the "imperial guard" (1:13), "Caesar's household" (4:22) and the real prospect of execution (1:20–26) fit a trial at the highest level. Some scholars suggest Caesarea or Ephesus, though Acts records no imprisonment in Ephesus (Reformation Study Bible).
+- **When:** about AD 60–62, during Paul's imprisonment, most likely in Rome near its end, about AD 61: the "imperial guard" (1:13), "Caesar's household" (4:22) and the real prospect of execution (1:20–26) fit a trial at the highest level. Some scholars suggest Caesarea or Ephesus, though Acts records no imprisonment in Ephesus (*RSB*[^rsb]).
 - **Where:** Philippi, a Roman colony in Macedonia on the main road between Rome and the east, named after Philip of Macedon and settled partly by retired soldiers who enjoyed Roman citizenship. That gives extra force to Paul's language about citizenship (1:27; 3:20). Paul founded the first church in Europe there (Acts 16: Lydia, the slave girl, and the jailer) and visited again later (Acts 20:1–6). The church was mostly Gentile.
 - **Who wrote it:** Paul, with Timothy (1:1).
-- **Where it sits:** one of the Prison Epistles. Lowe cautions against overstating conflict in the church. Paul's imprisonment, Epaphroditus' near-fatal illness, and the letter's farewell tone are the clearer background. Lowe compares it with farewell speeches in Scripture (John 13–17; Acts 20). The RSB also notes real pressures: persecution (1:27–30), false teachers (3:2–21) and quarrels (4:2–3). The sharp turn at 3:2 doesn't mean chapter 3 came from another letter; its themes and wording tie it to the rest.
+- **Where it sits:** one of the Prison Epistles. Lowe[^btn] cautions against overstating conflict in the church. Paul's imprisonment, Epaphroditus' near-fatal illness, and the letter's farewell tone are the clearer background. Lowe[^btn] compares it with farewell speeches in Scripture (John 13–17; Acts 20). The *RSB*[^rsb] also notes real pressures: persecution (1:27–30), false teachers (3:2–21) and quarrels (4:2–3). The sharp turn at 3:2 doesn't mean chapter 3 came from another letter; its themes and wording tie it to the rest.
 
 ## Structure
 
-Many take 1:27 as the letter's main point: live worthy of the gospel, standing firm in one spirit, striving together for the faith. The Reformation Study Bible's outline:
+Many take 1:27 as the letter's main point: live worthy of the gospel, standing firm in one spirit, striving together for the faith. The *RSB*'s[^rsb] outline:
 
 - 1:1–2: Greeting
 - 1:3–11: Thanksgiving and prayer for their partnership
@@ -59,14 +59,14 @@ Many take 1:27 as the letter's main point: live worthy of the gospel, standing f
 ## Themes
 
 - **Joy in all circumstances:** "joy" and "rejoice" come sixteen times, in a letter written from prison (1:18; 2:17–18; 3:1; 4:4), grounded in the peace of God (4:4–7).
-- **Partnership in the gospel:** the church shares in Paul's ministry by prayer, giving and suffering (1:5, 7; 4:14–16). Lowe reads the letter as one of friendship and partnership.
-- **Facing death:** Paul is ready for either outcome, because Christ is his life and death is gain (1:20–26). Lowe notes the farewell tone.
+- **Partnership in the gospel:** the church shares in Paul's ministry by prayer, giving and suffering (1:5, 7; 4:14–16). Lowe[^btn] reads the letter as one of friendship and partnership.
+- **Facing death:** Paul is ready for either outcome, because Christ is his life and death is gain (1:20–26). Lowe[^btn] notes the farewell tone.
 - **The mind of Christ:** humility and self-giving love modelled on Christ's own (2:1–11), and seen in Timothy and Epaphroditus (2:19–30). Christ "emptied himself" not by giving up any part of his deity, but by adding a true human nature and taking a servant's form (2:7; compare Westminster Larger Catechism 36). Calling him "Lord" identifies him with the God of Israel (2:10–11; Isa 45:23).
 - **Righteousness through faith:** not from the law, but from God through faith in Christ (3:9).
 - **Pressing on:** the Christian life as a race toward the prize (3:12–14). We work out our salvation because God is at work in us (2:12–13), and he will finish what he began (1:6).
 - **Heavenly citizenship:** in a Roman colony proud of its citizenship, believers' true citizenship is in heaven (3:20).
 - **Contentment and peace:** prayer replaces anxiety, and contentment is learned in Christ (4:6–7, 11–13). Their gift to Paul is a fragrant offering, like the sacrifices of the temple (4:18).
-- **Persevering with joy:** the Reformation Heritage KJV Study Bible (RH) reads the letter as encouragement to keep going gladly in hard times, sure that God will finish the work he started (1:6), and to grow in humility and unity by pursuing Christ above all. It gives special attention to Christ's self-humbling and exaltation (2:5–11).
+- **Persevering with joy:** the *Reformation Heritage KJV Study Bible* (*RH*[^rh]) reads the letter as encouragement to keep going gladly in hard times, sure that God will finish the work he started (1:6), and to grow in humility and unity by pursuing Christ above all. It gives special attention to Christ's self-humbling and exaltation (2:5–11).
 
 ## How it points to Christ
 
@@ -84,7 +84,7 @@ For Paul, knowing Christ, sharing his sufferings, and attaining the resurrection
 
 ## Going deeper
 
-- **A letter of friendship and farewell.** Lowe reads Philippians in light of ancient farewells and Paul's possible death. How does that change how 1:21–26 and 2:17 read?
+- **A letter of friendship and farewell.** Lowe[^btn] reads Philippians in light of ancient farewells and Paul's possible death. How does that change how 1:21–26 and 2:17 read?
 - **The Christ hymn (2:5–11).** What does it teach about Christ's deity, humanity, humiliation and exaltation? Why does Paul use it to address unity?
 - **Loss and gain (3:4–11).** What were Paul's credentials, and why did he count them as rubbish? Connect 3:9 with justification by faith.
 - **Anxiety and peace (4:4–9).** What does Paul prescribe instead of anxiety? How does the peace of God "guard" hearts and minds?
@@ -135,9 +135,9 @@ For Paul, knowing Christ, sharing his sufferings, and attaining the resurrection
 
 ## Sources
 
-- Bruce A. Lowe, "Philippians," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (exile, prison and death; ancient farewells), Structure and Outline, Message and Theology.
-- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Philippians: Title and Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of Philippians, Philippians in the Larger Story of the Bible, Christ in Philippians, History of Interpretation, Outline.
-- *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to Philippians: Authorship, Date (AD 61 or 62), Theme, Purpose, Synopsis, Christ's Humiliation, Christ's Exaltation; chapter summaries.
+[^btn]: **BTN**: Bruce A. Lowe, "Philippians," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (exile, prison and death; ancient farewells), Structure and Outline, Message and Theology.
+[^rsb]: **RSB**: *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Philippians: Title and Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of Philippians, Philippians in the Larger Story of the Bible, Christ in Philippians, History of Interpretation, Outline.
+[^rh]: **RH**: *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to Philippians: Authorship, Date (AD 61 or 62), Theme, Purpose, Synopsis, Christ's Humiliation, Christ's Exaltation; chapter summaries.
 
 ## Changelog
 

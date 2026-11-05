@@ -16,15 +16,15 @@ God sends Jonah to warn Nineveh, the capital of Israel's brutal enemy Assyria, b
 
 ## Setting
 
-- **When:** Jonah son of Amittai prophesied in the reign of Jeroboam II of Israel (793–753 BC), foretelling the king's victories that pushed Israel's border back to Solomon's line (2 Kgs 14:25). The Lutheran Study Bible gives about 790 BC. Prosperity hid decay, and Hosea was warning that Assyria would one day conquer Israel, as it did in 722 BC; Jonah may have sensed that saving Nineveh meant trouble for his own nation (Reformation Study Bible).
-- **His name:** Jonah means "dove". The Reformation Heritage KJV Study Bible (RH) dates his ministry to about 760 BC, overlapping Hosea and Amos.
+- **When:** Jonah son of Amittai prophesied in the reign of Jeroboam II of Israel (793–753 BC), foretelling the king's victories that pushed Israel's border back to Solomon's line (2 Kgs 14:25). The *Lutheran Study Bible*[^lsb] gives about 790 BC. Prosperity hid decay, and Hosea was warning that Assyria would one day conquer Israel, as it did in 722 BC; Jonah may have sensed that saving Nineveh meant trouble for his own nation (*RSB*[^rsb]).
+- **His name:** Jonah means "dove". The *Reformation Heritage KJV Study Bible* (*RH*[^rh]) dates his ministry to about 760 BC, overlapping Hosea and Amos.
 - **Where:** Israel (Jonah was from Gath-hepher in Galilee), the port of Joppa, the Mediterranean, and Nineveh in Assyria.
-- **Who wrote it:** anonymous. The book is told about Jonah in the third person, by Jonah or another writer after the events. Scholars date its writing anywhere from the 8th to the 3rd century BC; the RSB sees no good reason against an early date, before Nineveh fell in 612 BC.
-- **Where it sits:** among the Twelve, the only one that is mostly a story about a prophet rather than a collection of his oracles. It is a carefully told story, but the RSB reads it as real history, not allegory or parable: Jewish tradition did, and so did Jesus (Matt 12:39–41). Most objections assume God can't act in nature or history. Timmer notes that in one ancient Qumran copy Jonah may have come last in the collection. Jonah's whole recorded sermon is five words in Hebrew (3:4). RH also notes that Nineveh's people turn to God without first becoming Israelites, a foretaste of the Gentiles welcomed in Acts 15.
+- **Who wrote it:** anonymous. The book is told about Jonah in the third person, by Jonah or another writer after the events. Scholars date its writing anywhere from the 8th to the 3rd century BC; the *RSB*[^rsb] sees no good reason against an early date, before Nineveh fell in 612 BC.
+- **Where it sits:** among the Twelve, the only one that is mostly a story about a prophet rather than a collection of his oracles. It is a carefully told story, but the *RSB*[^rsb] reads it as real history, not allegory or parable: Jewish tradition did, and so did Jesus (Matt 12:39–41). Most objections assume God can't act in nature or history. Timmer[^bto] notes that in one ancient Qumran copy Jonah may have come last in the collection. Jonah's whole recorded sermon is five words in Hebrew (3:4). *RH*[^rh] also notes that Nineveh's people turn to God without first becoming Israelites, a foretaste of the Gentiles welcomed in Acts 15.
 
 ## Structure
 
-Two parallel halves, each opening with God's command to go to Nineveh (Reformation Study Bible):
+Two parallel halves, each opening with God's command to go to Nineveh (*RSB*[^rsb]):
 
 - 1–2: Jonah disobedient and delivered: flight, storm, sailors, the fish, and Jonah's prayer of thanks
 - 3–4: Jonah obedient and rebuked: preaching, Nineveh's repentance, Jonah's anger, and God's lesson
@@ -56,9 +56,9 @@ The story builds to its climax in the very last verse, and ends with an unanswer
 
 ## Themes
 
-- **God's mercy reaches the nations:** God cares even for Israel's enemies. Timmer discusses how the Twelve show some among the nations turning to God and being delivered.
-- **The prophet's prejudice:** Jonah's problem isn't doubt about God's power but resentment of his grace to outsiders (4:2). He wants mercy for himself and justice for his enemies; God's justice is impartial and his forgiveness can reach anyone (RSB).
-- **Repentance:** Jews read Jonah on the Day of Atonement. Nineveh's repentance (3:5–10) is held up by Jesus as a rebuke to his own hearers. It also shows that God's warnings of judgment can be conditional (3:10; Jer 18:7–8). Timmer notes that "who knows?" (3:9) shows repentance can't presume on God's mercy.
+- **God's mercy reaches the nations:** God cares even for Israel's enemies. Timmer[^bto] discusses how the Twelve show some among the nations turning to God and being delivered.
+- **The prophet's prejudice:** Jonah's problem isn't doubt about God's power but resentment of his grace to outsiders (4:2). He wants mercy for himself and justice for his enemies; God's justice is impartial and his forgiveness can reach anyone (*RSB*[^rsb]).
+- **Repentance:** Jews read Jonah on the Day of Atonement. Nineveh's repentance (3:5–10) is held up by Jesus as a rebuke to his own hearers. It also shows that God's warnings of judgment can be conditional (3:10; Jer 18:7–8). Timmer[^bto] notes that "who knows?" (3:9) shows repentance can't presume on God's mercy.
 - **God's sovereignty over creation:** God appoints a storm, a fish, a plant, a worm and a wind.
 - **Salvation belongs to the Lord:** deliverance is God's gift, to Jonah and to Nineveh alike (2:9).
 
@@ -129,10 +129,10 @@ Unlike Jonah, who fled from God's mission to the nations, Jesus willingly went t
 
 ## Sources
 
-- Daniel C. Timmer, "The Twelve," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues (the orders of the Twelve), Message and Theology (repentance of the nations, deliverance of some among the nations), Approaching the New Testament.
-- *The Lutheran Study Bible* (Concordia, 2009), introduction to Jonah: Overview. Lutheran source.
-- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Jonah: Title and Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of Jonah, Jonah in the Larger Story of the Bible, Christ in Jonah, History of Interpretation, Special Issues, Outline.
-- *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to Jonah: Authorship, Date, Theme, Purpose, Synopsis, Outline; chapter summaries.
+[^bto]: **BTO**: Daniel C. Timmer, "The Twelve," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues (the orders of the Twelve), Message and Theology (repentance of the nations, deliverance of some among the nations), Approaching the New Testament.
+[^lsb]: **LSB**: *The Lutheran Study Bible* (Concordia, 2009), introduction to Jonah: Overview. Lutheran source.
+[^rsb]: **RSB**: *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Jonah: Title and Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of Jonah, Jonah in the Larger Story of the Bible, Christ in Jonah, History of Interpretation, Special Issues, Outline.
+[^rh]: **RH**: *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to Jonah: Authorship, Date, Theme, Purpose, Synopsis, Outline; chapter summaries.
 
 ## Changelog
 

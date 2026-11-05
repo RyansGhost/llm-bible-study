@@ -16,14 +16,14 @@ Proverbs is a book of practical wisdom for living well in God's world. It opens 
 
 ## Setting
 
-- **When:** the earliest sayings come from Solomon's time (10th century BC). Hezekiah's officials gathered a further collection around 700 BC (25:1), so the book was finished no earlier than Hezekiah (715–686 BC) and possibly as late as Ezra's time, about 400 BC (Reformation Study Bible; VanGemeren).
+- **When:** the earliest sayings come from Solomon's time (10th century BC). Hezekiah's officials gathered a further collection around 700 BC (25:1), so the book was finished no earlier than Hezekiah (715–686 BC) and possibly as late as Ezra's time, about 400 BC (*RSB*[^rsb]; VanGemeren[^bto]).
 - **Where:** the royal court in Jerusalem, and the life of Israelite families: the home, the city gate, the marketplace.
-- **Who wrote it:** chiefly Solomon (1:1; 10:1; 25:1; compare 1 Kgs 4:29–34), with sayings from "the wise" (22:17–24:22; 24:23–34), Agur (30) and King Lemuel, taught by his mother (31:1–9); the poem of the excellent wife (31:10–31) is anonymous. "The proverbs of Solomon" (1:1) marks his central place in Israel's wisdom, not authorship of every line. Solomon spoke 3,000 proverbs (1 Kgs 4:32); the Reformation Heritage KJV Study Bible (RH) reckons about 800 of them are collected here. Even so, the prologue (1:1–7) shows this is a planned book, not a random collection.
+- **Who wrote it:** chiefly Solomon (1:1; 10:1; 25:1; compare 1 Kgs 4:29–34), with sayings from "the wise" (22:17–24:22; 24:23–34), Agur (30) and King Lemuel, taught by his mother (31:1–9); the poem of the excellent wife (31:10–31) is anonymous. "The proverbs of Solomon" (1:1) marks his central place in Israel's wisdom, not authorship of every line. Solomon spoke 3,000 proverbs (1 Kgs 4:32); the *Reformation Heritage KJV Study Bible* (*RH*[^rh]) reckons about 800 of them are collected here. Even so, the prologue (1:1–7) shows this is a planned book, not a random collection.
 - **Where it sits:** the central wisdom book of the Old Testament, alongside Job and Ecclesiastes, which wrestle with the hard cases Proverbs doesn't cover. In the Hebrew Bible it is among the Writings, which teach God's people how to live out the covenant that the Law sets out. Similar wisdom collections existed in Egypt and Mesopotamia.
 
 ## Structure
 
-The Reformation Study Bible's outline:
+The *Reformation Study Bible*'s[^rsb] outline:
 
 - 1:1–7: Prologue: the beginning of wisdom, "the fear of the Lord is the beginning of knowledge"
 - 1:8–9:18: The call to wisdom: a father's speeches to his son, setting two ways before him, pictured as Woman Wisdom and Woman Folly. Choosing Wisdom is choosing the living God over idols.
@@ -35,7 +35,7 @@ The Reformation Study Bible's outline:
     - 31:1–9: the words of King Lemuel
 - 31:10–31: Epilogue: the beauty of wisdom, in the alphabetic poem of the excellent wife
 
-Most sayings pair two lines that repeat, contrast or extend each other (RH). Its forms include longer "my son" instructions (1–9), two-line sayings that contrast or extend an idea (10–29), numerical sayings (6:16–19; 30), and alphabetic poems (2; 31:10–31).
+Most sayings pair two lines that repeat, contrast or extend each other (*RH*[^rh]). Its forms include longer "my son" instructions (1–9), two-line sayings that contrast or extend an idea (10–29), numerical sayings (6:16–19; 30), and alphabetic poems (2; 31:10–31).
 
 ## Chapter by chapter
 
@@ -95,25 +95,25 @@ Proverbs isn't a narrative. Its few "scenes":
 
 ## Themes
 
-- **The fear of the Lord:** reverent trust in God is the foundation of wisdom (1:7; 9:10; 15:33; 31:30). Wisdom is the skill of living well by the order God built into his world (RSB).
+- **The fear of the Lord:** reverent trust in God is the foundation of wisdom (1:7; 9:10; 15:33; 31:30). Wisdom is the skill of living well by the order God built into his world (*RSB*[^rsb]).
 - **God behind the sayings:** the covenant name, the LORD, appears 87 times. He is the Creator (3:19–20; 8:22–31), in control (16:33), just (11:1), knowable (2:5–6), and near to those who pray (15:29).
 - **Two ways:** wisdom and righteousness lead to life; folly and wickedness lead to death (4:18–19; 14:12).
 - **Speech:** the tongue can heal or wound, give life or bring ruin (10:19; 12:18; 15:1; 18:21).
 - **Work and money:** diligence, honesty, generosity and contentment against laziness, greed and debt (6:6–11; 11:24–25; 30:8–9).
 - **Family and friendship:** faithful marriage, training children, loyal friends (5; 17:17; 22:6; 27:6).
 - **God's sovereignty and human plans:** we plan, but the Lord directs (16:1, 9, 33; 19:21; 21:1).
-- **Wisdom as a response to grace:** the proverbs aren't rules for earning God's favour but the way his redeemed people live (RSB).
-- **Three dimensions of wisdom:** VanGemeren describes wisdom as illumination from God (the fear of the Lord), discernment in applying it, and transformation of the self and its relationships.
+- **Wisdom as a response to grace:** the proverbs aren't rules for earning God's favour but the way his redeemed people live (*RSB*[^rsb]).
+- **Three dimensions of wisdom:** VanGemeren[^bto] describes wisdom as illumination from God (the fear of the Lord), discernment in applying it, and transformation of the self and its relationships.
 
 ## How it points to Christ
 
-Proverbs personifies wisdom, present with God at creation and calling people to life (8:22–31). RH notes that Wisdom in chapter 8 is both divine and distinct from God, as the Word is "with God" and "was God" (John 1:1); the feminine pronouns simply follow the Hebrew word for wisdom. The New Testament reveals Christ as "the wisdom of God" (1 Cor 1:24, 30), the one through whom all things were made (John 1:1–3; Col 1:15–17), in whom "are hidden all the treasures of wisdom and knowledge" (Col 2:3). Jesus is "something greater than Solomon" (Matt 12:42), and he grew in wisdom himself (Luke 2:52).
+Proverbs personifies wisdom, present with God at creation and calling people to life (8:22–31). *RH*[^rh] notes that Wisdom in chapter 8 is both divine and distinct from God, as the Word is "with God" and "was God" (John 1:1); the feminine pronouns simply follow the Hebrew word for wisdom. The New Testament reveals Christ as "the wisdom of God" (1 Cor 1:24, 30), the one through whom all things were made (John 1:1–3; Col 1:15–17), in whom "are hidden all the treasures of wisdom and knowledge" (Col 2:3). Jesus is "something greater than Solomon" (Matt 12:42), and he grew in wisdom himself (Luke 2:52).
 
-Proverbs describes the perfectly wise, righteous person who fears the Lord. Only Jesus fully lived that life, and through faith he becomes our wisdom and righteousness (1 Cor 1:30), as the Lutheran Study Bible also notes.
+Proverbs describes the perfectly wise, righteous person who fears the Lord. Only Jesus fully lived that life, and through faith he becomes our wisdom and righteousness (1 Cor 1:30), as the *Lutheran Study Bible*[^lsb] also notes.
 
 ## Common mix-ups
 
-- Proverbs are general truths about how life usually works, not guaranteed promises. VanGemeren calls them "situational". "Train up a child …" (22:6) describes the normal pattern, not an iron law.
+- Proverbs are general truths about how life usually works, not guaranteed promises. VanGemeren[^bto] calls them "situational". "Train up a child …" (22:6) describes the normal pattern, not an iron law.
 - Two proverbs can seem to contradict each other on purpose: "answer not a fool … answer a fool" (26:4–5). Wisdom means knowing which one fits.
 - Solomon didn't write the whole book: Agur, Lemuel's mother and other wise men contributed.
 - "Spare the rod, spoil the child" isn't a verse. The idea is in 13:24.
@@ -123,10 +123,10 @@ Proverbs describes the perfectly wise, righteous person who fears the Lord. Only
 
 ## Going deeper
 
-- **Proverbs aren't promises.** Read VanGemeren on the situational nature of the sayings. How should we read 3:9–10, 10:4 and 22:6 alongside Job and Ecclesiastes?
-- **Proverbs and Egyptian wisdom.** Part of 22:17–24:22 closely resembles the Egyptian "Instruction of Amenemope". VanGemeren discusses Israel's wisdom alongside its neighbours'. What makes Israel's wisdom different? Its root in the fear of the Lord (1:7).
+- **Proverbs aren't promises.** Read VanGemeren[^bto] on the situational nature of the sayings. How should we read 3:9–10, 10:4 and 22:6 alongside Job and Ecclesiastes?
+- **Proverbs and Egyptian wisdom.** Part of 22:17–24:22 closely resembles the Egyptian "Instruction of Amenemope". VanGemeren[^bto] discusses Israel's wisdom alongside its neighbours'. What makes Israel's wisdom different? Its root in the fear of the Lord (1:7).
 - **Wisdom in Proverbs 8 and Christ.** Compare 8:22–31 with John 1:1–3, Colossians 1:15–17 and Hebrews 1:2–3. What are the parallels, and why doesn't the church read Proverbs 8 as saying the Son was created?
-- **Is Proverbs moralistic?** The Lutheran Study Bible addresses the charge that Proverbs is self-help without grace. Note how often success is credited to the Lord (16:1–9; 21:30–31).
+- **Is Proverbs moralistic?** The *LSB*[^lsb] addresses the charge that Proverbs is self-help without grace. Note how often success is credited to the Lord (16:1–9; 21:30–31).
 - **Speech in Proverbs.** Collect every proverb about the tongue in chapters 10–18. What patterns appear? Compare James 3.
 - **The two women.** Lady Wisdom and Lady Folly both invite the simple to dinner (9). What does each offer, and where does each lead?
 
@@ -174,10 +174,10 @@ Proverbs describes the perfectly wise, righteous person who fears the Lord. Only
 
 ## Sources
 
-- Willem A. VanGemeren, "Proverbs," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues (authorship and date, social context, ancient Near Eastern wisdom), Genre, The Situational Nature of the Sayings, Structure and Outline, Message and Theology (three dimensions of wisdom).
-- *The Lutheran Study Bible* (Concordia, 2009), introduction to Proverbs: Overview, Central Theme, Luther on Proverbs, Types of Proverbs, Challenges for Readers, Outline. Lutheran source.
-- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Proverbs: Title, Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of Proverbs, Proverbs in the Larger Story of the Bible, Christ in Proverbs, History of Interpretation, Outline.
-- *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to Proverbs: Authorship, Date, Theme, Purpose, Synopsis, Issues of Interpretation, Outline; chapter summaries.
+[^bto]: **BTO**: Willem A. VanGemeren, "Proverbs," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues (authorship and date, social context, ancient Near Eastern wisdom), Genre, The Situational Nature of the Sayings, Structure and Outline, Message and Theology (three dimensions of wisdom).
+[^lsb]: **LSB**: *The Lutheran Study Bible* (Concordia, 2009), introduction to Proverbs: Overview, Central Theme, Luther on Proverbs, Types of Proverbs, Challenges for Readers, Outline. Lutheran source.
+[^rsb]: **RSB**: *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Proverbs: Title, Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of Proverbs, Proverbs in the Larger Story of the Bible, Christ in Proverbs, History of Interpretation, Outline.
+[^rh]: **RH**: *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to Proverbs: Authorship, Date, Theme, Purpose, Synopsis, Issues of Interpretation, Outline; chapter summaries.
 
 ## Changelog
 

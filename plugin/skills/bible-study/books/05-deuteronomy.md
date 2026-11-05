@@ -12,18 +12,18 @@ status: draft
 
 ## Summary
 
-Deuteronomy is Moses' farewell: sermons to the new generation on the plains of Moab, renewing God's covenant before they enter the land. Its name comes from the Greek for "second law", because Moses repeats and explains the law given at Sinai. He retells their history, sets before them life and death, blessing and curse, and urges them to love the Lord with all their heart, while warning that they will fail. Then he dies within sight of the promised land. The New Testament quotes it often (more than fifty times by one count, more than eighty by the Reformation Heritage KJV Study Bible's, RH); only Psalms and Isaiah are used more.
+Deuteronomy is Moses' farewell: sermons to the new generation on the plains of Moab, renewing God's covenant before they enter the land. Its name comes from the Greek for "second law", because Moses repeats and explains the law given at Sinai. He retells their history, sets before them life and death, blessing and curse, and urges them to love the Lord with all their heart, while warning that they will fail. Then he dies within sight of the promised land. The New Testament quotes it often (more than fifty times by one count, more than eighty by the *Reformation Heritage KJV Study Bible*'s, *RH*[^rh]); only Psalms and Isaiah are used more.
 
 ## Setting
 
-- **When:** the last weeks of Moses' life, in the fortieth year after the exodus (1:3), about 1406 BC (Reformation Study Bible).
+- **When:** the last weeks of Moses' life, in the fortieth year after the exodus (1:3), about 1406 BC (*RSB*[^rsb]).
 - **Where:** the plains of Moab, east of the Jordan opposite Jericho. The book ends on Mount Nebo.
-- **Who wrote it:** Moses (1:1, 5; 31:9, 22, 24), apart from the account of his death (34), which another hand, perhaps Joshua, added. Critical scholars often date it to King Josiah's reform (about 620 BC). The RSB answers that the book knows nothing of later times: no king or Jerusalem, Israel still one nation of twelve tribes, only the cities of refuge east of the Jordan named, and no Babylonian or Persian words. Redd likewise speaks of "essential Mosaic authorship". RH adds that it follows the pattern of second-millennium treaties, not those of Josiah's day; that its details suit the desert (animals of Sinai, 14:5; acacia wood, 10:3; camp hygiene, 23:12–14); and that later Scripture and Jesus call it Moses' (2 Chr 25:4; Neh 13:1; Matt 19:7–8).
-- **Where it sits:** the last book of Moses, between Numbers and Joshua. Redd calls it the theological core of the Old Testament: it sums up Genesis to Numbers, and its covenant standards are the measure by which Joshua to Kings and the prophets judge Israel.
+- **Who wrote it:** Moses (1:1, 5; 31:9, 22, 24), apart from the account of his death (34), which another hand, perhaps Joshua, added. Critical scholars often date it to King Josiah's reform (about 620 BC). The *RSB*[^rsb] answers that the book knows nothing of later times: no king or Jerusalem, Israel still one nation of twelve tribes, only the cities of refuge east of the Jordan named, and no Babylonian or Persian words. Redd[^bto] likewise speaks of "essential Mosaic authorship". *RH*[^rh] adds that it follows the pattern of second-millennium treaties, not those of Josiah's day; that its details suit the desert (animals of Sinai, 14:5; acacia wood, 10:3; camp hygiene, 23:12–14); and that later Scripture and Jesus call it Moses' (2 Chr 25:4; Neh 13:1; Matt 19:7–8).
+- **Where it sits:** the last book of Moses, between Numbers and Joshua. Redd[^bto] calls it the theological core of the Old Testament: it sums up Genesis to Numbers, and its covenant standards are the measure by which Joshua to Kings and the prophets judge Israel.
 
 ## Structure
 
-Most of the book is two long speeches by Moses, followed by shorter speeches and narrative (Reformation Study Bible). The whole also follows the shape of an ancient treaty between a great king and his people (Redd, after Kline): preamble, history, stipulations, blessings and curses, and arrangements for the future.
+Most of the book is two long speeches by Moses, followed by shorter speeches and narrative (*RSB*[^rsb]). The whole also follows the shape of an ancient treaty between a great king and his people (Redd[^bto], after Kline): preamble, history, stipulations, blessings and curses, and arrangements for the future.
 
 - 1:1–5: Introduction
 - 1:6–4:43: Moses' first speech: the Lord's faithfulness from Horeb to Moab, and a call to loyalty; then the cities of refuge east of the Jordan (4:41–43)
@@ -93,13 +93,13 @@ Most of the book is two long speeches by Moses, followed by shorter speeches and
 
 ## Themes
 
-- **Love and loyalty to the one Lord:** the Shema makes wholehearted love the heart of the law (6:4–5). RH names the book's theme as covenant love: God loved first, choosing Israel's fathers, preserving them in Egypt and saving them at the sea (7:7–8), and Israel answers that love by obeying him.
+- **Love and loyalty to the one Lord:** the Shema makes wholehearted love the heart of the law (6:4–5). *RH*[^rh] names the book's theme as covenant love: God loved first, choosing Israel's fathers, preserving them in Egypt and saving them at the sea (7:7–8), and Israel answers that love by obeying him.
 - **Covenant renewal:** each generation must take the covenant as its own: "not with our fathers … but with us" (5:3).
 - **Remember and don't forget:** past grace drives present obedience. Israel's greatest danger is forgetting God in prosperity (6:12; 8:11–18).
 - **Grace before law:** God chose Israel out of love, not merit (7:7–8; 9:4–6). Obedience is the response.
 - **One place of worship:** God will choose a place for his name, setting up the later temple in Jerusalem (12).
 - **Blessing and curse:** obedience brings life in the land and disobedience brings exile. This framework explains the history that follows, and the prophets call Israel back to it (28–30).
-- **Failure foreseen:** the book ends expecting Israel to break the covenant (31:16–29; 32). Their failure shows the limits of the old covenant and the need for a new one (RSB).
+- **Failure foreseen:** the book ends expecting Israel to break the covenant (31:16–29; 32). Their failure shows the limits of the old covenant and the need for a new one (*RSB*[^rsb]).
 - **The heart:** the law must be on the heart, and God promises to circumcise hearts himself (6:6; 10:16; 30:6).
 - **Justice and care for the weak:** widows, orphans, foreigners, the poor and the Levites are protected throughout (10:18–19; 24:17–22).
 
@@ -111,7 +111,7 @@ Peter identifies Jesus as the prophet like Moses (18:15; Acts 3:22–23). Paul r
 
 ## Common mix-ups
 
-- "Deuteronomy" means "second law", but it isn't a new law: it is Moses re-preaching the Sinai covenant. Redd notes the name comes from the Greek translation of 17:18, which in Hebrew means a "copy of the law".
+- "Deuteronomy" means "second law", but it isn't a new law: it is Moses re-preaching the Sinai covenant. Redd[^bto] notes the name comes from the Greek translation of 17:18, which in Hebrew means a "copy of the law".
 - The Ten Commandments appear in both Exodus 20 and Deuteronomy 5. The Sabbath command is grounded in creation in Exodus and in the rescue from Egypt in Deuteronomy.
 - Moses dies on Mount Nebo in Moab and never enters Canaan; his death is the last chapter of Deuteronomy, not the start of Joshua.
 - The book's audience is the second generation; most of the first died in the wilderness (2:14–15).
@@ -119,8 +119,8 @@ Peter identifies Jesus as the prophet like Moses (18:15; Acts 3:22–23). Paul r
 
 ## Going deeper
 
-- **Deuteronomy as a treaty.** Redd explains how ancient Hittite treaties (second millennium BC) and Assyrian ones (seventh century) bear on dating the book. Which features match which, and why does it matter for Moses' authorship? Read: Redd, Date and Setting, and Structure and Outline.
-- **The laws arranged by the Ten Commandments.** Following Kaufman and Walton, Redd reads chapters 6–26 as an exposition of the commandments in order: chapters 6–11 apply the first, chapter 12 (worship) the second, and so on. Trace it through.
+- **Deuteronomy as a treaty.** Redd[^bto] explains how ancient Hittite treaties (second millennium BC) and Assyrian ones (seventh century) bear on dating the book. Which features match which, and why does it matter for Moses' authorship? Read: Redd[^bto], Date and Setting, and Structure and Outline.
+- **The laws arranged by the Ten Commandments.** Following Kaufman and Walton, Redd[^bto] reads chapters 6–26 as an exposition of the commandments in order: chapters 6–11 apply the first, chapter 12 (worship) the second, and so on. Trace it through.
 - **The law of the king (17:14–20).** It forbids exactly what Solomon later did, piling up horses, wives and gold (1 Kgs 10–11). How does it set up the history of Israel's kings?
 - **Holy war and the Canaanites.** Chapters 7 and 20 command the destruction of the Canaanite nations. How do Genesis 15:16, judgment on idolatry, and Christ's final judgment help in reading this hard theme?
 - **Can Israel keep the covenant?** Moses predicts failure (31:16–29), yet promises restoration and new hearts (30:1–10). How does this anticipate Jeremiah's new covenant (Jer 31:31–34)?
@@ -170,10 +170,11 @@ Peter identifies Jesus as the prophet like Moses (18:15; Acts 3:22–23). Paul r
 
 ## Sources
 
-- John Scott Redd, "Deuteronomy," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues (title, authorship, date and setting, audience), Structure and Outline, Message and Theology.
-- *The Lutheran Study Bible* (Concordia, 2009), introduction to Deuteronomy. Lutheran source.
-- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Deuteronomy: Title, Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of Deuteronomy, Deuteronomy in the Larger Story of the Bible, Christ in Deuteronomy, History of Interpretation, Outline.
-- *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to Deuteronomy: Authorship, Date, Theme, Purpose, Synopsis, Outline; chapter summaries.
+- **LSB**: *The Lutheran Study Bible* (Concordia, 2009), introduction to Deuteronomy. Lutheran source.
+
+[^bto]: **BTO**: John Scott Redd, "Deuteronomy," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues (title, authorship, date and setting, audience), Structure and Outline, Message and Theology.
+[^rsb]: **RSB**: *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Deuteronomy: Title, Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of Deuteronomy, Deuteronomy in the Larger Story of the Bible, Christ in Deuteronomy, History of Interpretation, Outline.
+[^rh]: **RH**: *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to Deuteronomy: Authorship, Date, Theme, Purpose, Synopsis, Outline; chapter summaries.
 
 ## Changelog
 

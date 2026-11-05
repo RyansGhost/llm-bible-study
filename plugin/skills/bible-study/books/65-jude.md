@@ -12,18 +12,18 @@ status: draft
 
 ## Summary
 
-Jude is a short, urgent letter. Jude meant to write about the salvation he shared with his readers, but instead had to urge them "to contend for the faith that was once for all delivered to the saints" (v. 3). Ungodly people had crept into the church unnoticed, turning God's grace into a licence for immorality and denying Jesus Christ, the only Master and Lord. Jude reminds the readers how God judged unbelieving Israel, rebellious angels and Sodom, and describes the intruders in vivid pictures: waterless clouds, fruitless trees, wild waves and wandering stars. But he ends with hope: build yourselves up in the faith, pray in the Holy Spirit, keep yourselves in God's love, show mercy, and trust the one "who is able to keep you from stumbling" (v. 24). Kistemaker sums up its message as warning against antinomianism, judgment on sin, and the glory of Christ.
+Jude is a short, urgent letter. Jude meant to write about the salvation he shared with his readers, but instead had to urge them "to contend for the faith that was once for all delivered to the saints" (v. 3). Ungodly people had crept into the church unnoticed, turning God's grace into a licence for immorality and denying Jesus Christ, the only Master and Lord. Jude reminds the readers how God judged unbelieving Israel, rebellious angels and Sodom, and describes the intruders in vivid pictures: waterless clouds, fruitless trees, wild waves and wandering stars. But he ends with hope: build yourselves up in the faith, pray in the Holy Spirit, keep yourselves in God's love, show mercy, and trust the one "who is able to keep you from stumbling" (v. 24). Kistemaker[^btn] sums up its message as warning against antinomianism, judgment on sin, and the glory of Christ.
 
 ## Setting
 
-- **When:** uncertain. Kistemaker explains that the date depends on how Jude relates to 2 Peter. If Peter used Jude, Jude was written before the mid-60s, perhaps in the 50s. If Jude used 2 Peter, it was written later, in the mid-60s or after. As a younger brother of Jesus (Matt 13:55), Jude could have lived late into the century. The Reformation Study Bible rejects a second-century date: the error Jude fights may foreshadow Gnosticism but isn't its developed form.
-- **Where:** the letter doesn't say where it was sent. Jude's Jewish background shows throughout, though his readers may have been mixed; it may have been a circular letter to churches he knew from travelling ministry (1 Cor 9:5) (RSB).
-- **Who wrote it:** "Jude, a servant of Jesus Christ and brother of James" (v. 1): the brother of James and of Jesus (Matt 13:55; Mark 6:3). Kistemaker notes he humbly calls himself a servant rather than the Lord's brother, as James does (James 1:1). "Jude" (Judas) was a common name, but the only James well known enough to need no description was the Lord's brother. Like James, he didn't believe during Jesus' ministry (John 7:5) but did after the resurrection (Acts 1:14).
-- **Where it sits:** the last of the General Epistles, just before Revelation. Twenty of its twenty-five verses resemble 2 Peter 2. Kistemaker notes that despite its size, Jude was accepted early as Scripture, appearing in the Muratorian Fragment and used by Tertullian, Clement of Alexandria and Origen. The doubts that arose came mainly from its use of Jewish writings outside the Bible.
+- **When:** uncertain. Kistemaker[^btn] explains that the date depends on how Jude relates to 2 Peter. If Peter used Jude, Jude was written before the mid-60s, perhaps in the 50s. If Jude used 2 Peter, it was written later, in the mid-60s or after. As a younger brother of Jesus (Matt 13:55), Jude could have lived late into the century. The *Reformation Study Bible*[^rsb] rejects a second-century date: the error Jude fights may foreshadow Gnosticism but isn't its developed form.
+- **Where:** the letter doesn't say where it was sent. Jude's Jewish background shows throughout, though his readers may have been mixed; it may have been a circular letter to churches he knew from travelling ministry (1 Cor 9:5) (*RSB*[^rsb]).
+- **Who wrote it:** "Jude, a servant of Jesus Christ and brother of James" (v. 1): the brother of James and of Jesus (Matt 13:55; Mark 6:3). Kistemaker[^btn] notes he humbly calls himself a servant rather than the Lord's brother, as James does (James 1:1). "Jude" (Judas) was a common name, but the only James well known enough to need no description was the Lord's brother. Like James, he didn't believe during Jesus' ministry (John 7:5) but did after the resurrection (Acts 1:14).
+- **Where it sits:** the last of the General Epistles, just before Revelation. Twenty of its twenty-five verses resemble 2 Peter 2. Kistemaker[^btn] notes that despite its size, Jude was accepted early as Scripture, appearing in the Muratorian Fragment and used by Tertullian, Clement of Alexandria and Origen. The doubts that arose came mainly from its use of Jewish writings outside the Bible.
 
 ## Structure
 
-The Reformation Study Bible's outline is simply greeting (vv. 1–2), body (vv. 3–23) and closing praise (vv. 24–25). Kistemaker's fuller outline:
+The *RSB*'s[^rsb] outline is simply greeting (vv. 1–2), body (vv. 3–23) and closing praise (vv. 24–25). Kistemaker's[^btn] fuller outline:
 
 - vv. 1–2: Greeting
 - vv. 3–4: Purpose: contend for the faith against intruders
@@ -65,18 +65,18 @@ Jude has only one chapter, so here it is by section:
 ## Themes
 
 - **Contending for the faith:** the faith was "once for all delivered", complete and not to be changed (v. 3).
-- **Antinomianism:** Kistemaker identifies the false teachers' central error as turning grace into a licence for immorality (v. 4).
+- **Antinomianism:** Kistemaker[^btn] identifies the false teachers' central error as turning grace into a licence for immorality (v. 4).
 - **The last times foretold:** the apostles warned that scoffers would come "in the last time" (vv. 17–18; compare 2 Pet 3:2–3). Their arrival shows that time has begun.
-- **God's judgment on sin:** past judgments guarantee future judgment (vv. 5–7, 14–15). Kistemaker notes how much this message is needed in a world that assumes God won't punish anyone.
+- **God's judgment on sin:** past judgments guarantee future judgment (vv. 5–7, 14–15). Kistemaker[^btn] notes how much this message is needed in a world that assumes God won't punish anyone.
 - **Spiritual pride and rebellion:** rejecting authority and following their own desires (vv. 8, 16, 19).
 - **Kept by God:** believers are "kept for Jesus Christ" (v. 1), keep themselves in God's love (v. 21), and are kept from stumbling by God (v. 24).
 - **Mercy toward others:** show mercy to doubters and rescue those in danger (vv. 22–23).
-- **The glory of Christ:** Kistemaker counts six references to Jesus Christ in the short letter, presented as the only Master and Lord.
-- **Contend, with compassion:** the Reformation Heritage KJV Study Bible (RH) stresses both halves of Jude's charge: stand firm against false teachers, and reach out with mercy to those they endanger (vv. 3, 22–23). RH dates the letter in the mid-60s, after 2 Peter, noting that Eusebius records that Jude had died by AD 81.
+- **The glory of Christ:** Kistemaker[^btn] counts six references to Jesus Christ in the short letter, presented as the only Master and Lord.
+- **Contend, with compassion:** the *Reformation Heritage KJV Study Bible* (*RH*[^rh]) stresses both halves of Jude's charge: stand firm against false teachers, and reach out with mercy to those they endanger (vv. 3, 22–23). *RH*[^rh] dates the letter in the mid-60s, after 2 Peter, noting that Eusebius records that Jude had died by AD 81.
 
 ## How it points to Christ
 
-Jesus Christ is "our only Master and Lord" (v. 4), whom the false teachers deny. Believers are "kept for Jesus Christ" (v. 1) and wait for "the mercy of our Lord Jesus Christ that leads to eternal life" (v. 21). Some early manuscripts of verse 5 even say "Jesus" saved a people out of Egypt, identifying Christ with the Lord of the exodus. The closing doxology gives glory to the only God our Saviour "through Jesus Christ our Lord" (v. 25). Kistemaker quotes I. Howard Marshall: Jude puts Christ "on an equal footing with God".
+Jesus Christ is "our only Master and Lord" (v. 4), whom the false teachers deny. Believers are "kept for Jesus Christ" (v. 1) and wait for "the mercy of our Lord Jesus Christ that leads to eternal life" (v. 21). Some early manuscripts of verse 5 even say "Jesus" saved a people out of Egypt, identifying Christ with the Lord of the exodus. The closing doxology gives glory to the only God our Saviour "through Jesus Christ our Lord" (v. 25). Kistemaker[^btn] quotes I. Howard Marshall: Jude puts Christ "on an equal footing with God".
 
 ## Common mix-ups
 
@@ -84,11 +84,11 @@ Jesus Christ is "our only Master and Lord" (v. 4), whom the false teachers deny.
 - Jude quotes 1 Enoch (vv. 14–15) and refers to a tradition about Michael and Moses' body (v. 9), probably from the Assumption of Moses. Quoting a book doesn't make the whole book Scripture: Paul quotes pagan poets too (Acts 17:28; Titus 1:12). Jude affirms only what he quotes: it is his use of the words that is inspired, not the book he quotes from.
 - "Contend for the faith once for all delivered to the saints" is Jude 3.
 - The doxology "Now to him who is able to keep you from stumbling" (vv. 24–25) is Jude, often used as a closing benediction.
-- Jude and 2 Peter share much material. Most modern scholars think Peter used Jude. Kistemaker notes the church fathers generally held the reverse, and both may have used a common source.
+- Jude and 2 Peter share much material. Most modern scholars think Peter used Jude. Kistemaker[^btn] notes the church fathers generally held the reverse, and both may have used a common source.
 
 ## Going deeper
 
-- **Jude and 2 Peter.** Compare Jude 4–18 with 2 Peter 2:1–18. Kistemaker sets out the three options for how they relate. Which do you find most convincing?
+- **Jude and 2 Peter.** Compare Jude 4–18 with 2 Peter 2:1–18. Kistemaker[^btn] sets out the three options for how they relate. Which do you find most convincing?
 - **Contending for the faith (v. 3).** What does "once for all delivered" imply about new revelations or "progressive" doctrine? How should we contend without becoming quarrelsome?
 - **Grace and licence (v. 4).** How do people turn grace into an excuse for sin? Compare Romans 6:1–2 and Titus 2:11–12.
 - **Jude's use of Enoch and the Assumption of Moses.** Why would an inspired author quote these books? What does it mean for the canon?
@@ -139,9 +139,9 @@ Jesus Christ is "our only Master and Lord" (v. 4), whom the false teachers deny.
 
 ## Sources
 
-- Simon J. Kistemaker, "Jude," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (relationship to 2 Peter, authorship, date, canonicity), Structure and Outline, Message and Theology (antinomianism, judgment on sin, the glory of Christ).
-- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Jude: Author, Date and Occasion, Genre and Literary Features, Characteristics and Primary Themes, Theology of Jude, Jude in the Larger Story of the Bible, Christ in Jude, History of Interpretation, Special Issues, Outline.
-- *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to Jude: Author, Theme, Purpose, Synopsis.
+[^btn]: **BTN**: Simon J. Kistemaker, "Jude," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (relationship to 2 Peter, authorship, date, canonicity), Structure and Outline, Message and Theology (antinomianism, judgment on sin, the glory of Christ).
+[^rsb]: **RSB**: *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Jude: Author, Date and Occasion, Genre and Literary Features, Characteristics and Primary Themes, Theology of Jude, Jude in the Larger Story of the Bible, Christ in Jude, History of Interpretation, Special Issues, Outline.
+[^rh]: **RH**: *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to Jude: Author, Theme, Purpose, Synopsis.
 
 ## Changelog
 

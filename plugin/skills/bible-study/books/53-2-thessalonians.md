@@ -16,14 +16,14 @@ status: draft
 
 ## Setting
 
-- **When:** about AD 51–52, from Corinth, a few months after 1 Thessalonians. Cara reasons that Paul, Silas and Timothy are still together, as in Acts 18:5.
+- **When:** about AD 51–52, from Corinth, a few months after 1 Thessalonians. Cara[^btn] reasons that Paul, Silas and Timothy are still together, as in Acts 18:5.
 - **Where:** to the church at Thessalonica, in Macedonia.
-- **Who wrote it:** Paul, with Silvanus and Timothy (1:1), signed in Paul's own hand (3:17). Many critical scholars deny that Paul wrote it, claiming it imitates 1 Thessalonians or contradicts its teaching on the end. Cara firmly defends Paul's authorship. The Reformation Study Bible notes that Ignatius, Polycarp and Justin Martyr all accepted it; that 1 Thessalonians stresses the day's suddenness for the unprepared, not that it must come at once; and that a forger would hardly appeal to what Paul taught in person (2:5; 3:10) or rebuke his readers so sharply.
-- **Where it sits:** Cara suggests that whoever carried 1 Thessalonians returned with news of how the church had received it. Some were confused about the second coming, possibly misled by a letter falsely claiming to be from Paul (2:2).
+- **Who wrote it:** Paul, with Silvanus and Timothy (1:1), signed in Paul's own hand (3:17). Many critical scholars deny that Paul wrote it, claiming it imitates 1 Thessalonians or contradicts its teaching on the end. Cara[^btn] firmly defends Paul's authorship. The *Reformation Study Bible*[^rsb] notes that Ignatius, Polycarp and Justin Martyr all accepted it; that 1 Thessalonians stresses the day's suddenness for the unprepared, not that it must come at once; and that a forger would hardly appeal to what Paul taught in person (2:5; 3:10) or rebuke his readers so sharply.
+- **Where it sits:** Cara[^btn] suggests that whoever carried 1 Thessalonians returned with news of how the church had received it. Some were confused about the second coming, possibly misled by a letter falsely claiming to be from Paul (2:2).
 
 ## Structure
 
-The Reformation Study Bible outlines it as greeting (1:1–2), Paul's boasting in their faith under persecution (1:3–12), instruction (2:1–3:15), and closing blessing (3:16–18). Cara's fuller outline:
+The *RSB*[^rsb] outlines it as greeting (1:1–2), Paul's boasting in their faith under persecution (1:3–12), instruction (2:1–3:15), and closing blessing (3:16–18). Cara's[^btn] fuller outline:
 
 - 1:1–2: Opening
 - 1:3–12: Thanksgiving, and God's just judgment at Christ's revelation
@@ -56,15 +56,15 @@ The Reformation Study Bible outlines it as greeting (1:1–2), Paul's boasting i
 ## Themes
 
 - **God's just judgment:** God will repay persecutors and give relief to his afflicted people at Christ's return (1:5–10).
-- **Christ the divine warrior:** Cara shows how Paul draws on Old Testament pictures of God as a warrior (Exod 15; Isa 11:4; 66:15) and applies them to Jesus, who comes in flaming fire and destroys the lawless one with the breath of his mouth.
+- **Christ the divine warrior:** Cara[^btn] shows how Paul draws on Old Testament pictures of God as a warrior (Exod 15; Isa 11:4; 66:15) and applies them to Jesus, who comes in flaming fire and destroys the lawless one with the breath of his mouth.
 - **Eternal punishment:** one of the clearest statements in the Bible about eternal destruction away from the presence of the Lord (1:9).
 - **The day of the Lord hasn't yet come:** events must come first, so believers shouldn't be shaken or alarmed (2:1–12).
 - **Election and perseverance:** God chose them from the beginning to be saved and will establish and guard them (2:13–14; 3:3).
 - **Holding to apostolic teaching:** stand firm in what Paul taught by word and letter (2:15; 3:6, 14).
-- **Wrong beliefs lead to wrong living:** many think some had stopped working because they expected Christ to return any day (RSB).
+- **Wrong beliefs lead to wrong living:** many think some had stopped working because they expected Christ to return any day (*RSB*[^rsb]).
 - **The day of mercy now:** this is the time when the gospel goes out and God's chosen are brought to faith (2:13–14); when Christ returns, that day of mercy closes and the unrepentant meet him as Judge (1:7–10).
-- **Work and order:** Christians should work quietly and earn their own living. Cara prefers "unruly" to "idle" for the Greek word (3:6–12).
-- **Balanced expectations:** the Reformation Heritage KJV Study Bible (RH) sees the letter correcting a church that thought the Lord had already come: he hasn't yet, but when he does, he will bring both judgment on persecutors and glory for his people (1:6–10; 2:1–3). RH also answers the claim that the "man of lawlessness" reflects the later legend of Nero returning from the dead.
+- **Work and order:** Christians should work quietly and earn their own living. Cara[^btn] prefers "unruly" to "idle" for the Greek word (3:6–12).
+- **Balanced expectations:** the *Reformation Heritage KJV Study Bible* (*RH*[^rh]) sees the letter correcting a church that thought the Lord had already come: he hasn't yet, but when he does, he will bring both judgment on persecutors and glory for his people (1:6–10; 2:1–3). *RH*[^rh] also answers the claim that the "man of lawlessness" reflects the later legend of Nero returning from the dead.
 
 ## How it points to Christ
 
@@ -80,8 +80,8 @@ The letter shows the returning Christ in his power and glory. He will be "reveal
 
 ## Going deeper
 
-- **Who wrote 2 Thessalonians?** Cara reviews why many critical scholars think it is pseudonymous, and why he holds that Paul wrote it. What is at stake?
-- **The divine warrior (1:7–10).** Cara traces God as warrior from Exodus 15 through the Psalms and prophets. What does it mean that Jesus fills this role?
+- **Who wrote 2 Thessalonians?** Cara[^btn] reviews why many critical scholars think it is pseudonymous, and why he holds that Paul wrote it. What is at stake?
+- **The divine warrior (1:7–10).** Cara[^btn] traces God as warrior from Exodus 15 through the Psalms and prophets. What does it mean that Jesus fills this role?
 - **Eternal destruction (1:9).** How does this verse shape the doctrine of hell? How does the Reformed view answer annihilationism?
 - **The man of lawlessness and the restrainer (2:1–12).** Survey the main views. Why did the Reformers see the papacy here, and why have many later Reformed interpreters taken a broader view?
 - **Chosen and called (2:13–14).** How do election, the Spirit's sanctifying work and belief in the truth fit together?
@@ -131,10 +131,11 @@ The letter shows the returning Christ in his power and glory. He will be "reveal
 
 ## Sources
 
-- Robert J. Cara, "2 Thessalonians," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (authorship and date, occasion and purpose), Structure and Outline, Message and Theology (divine warrior, idleness).
-- *The Lutheran Study Bible* (Concordia, 2009), introduction to 2 Thessalonians: Overview. Lutheran source.
-- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to 2 Thessalonians: Title and Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of 2 Thessalonians, 2 Thessalonians in the Larger Story of the Bible, Christ in 2 Thessalonians, History of Interpretation, Outline.
-- *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to 2 Thessalonians: Authorship, Date, Theme, Purpose, Synopsis; chapter summaries.
+- **LSB**: *The Lutheran Study Bible* (Concordia, 2009), introduction to 2 Thessalonians: Overview. Lutheran source.
+
+[^btn]: **BTN**: Robert J. Cara, "2 Thessalonians," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (authorship and date, occasion and purpose), Structure and Outline, Message and Theology (divine warrior, idleness).
+[^rsb]: **RSB**: *The Reformation Study Bible* (Reformation Trust, 2015), introduction to 2 Thessalonians: Title and Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of 2 Thessalonians, 2 Thessalonians in the Larger Story of the Bible, Christ in 2 Thessalonians, History of Interpretation, Outline.
+[^rh]: **RH**: *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to 2 Thessalonians: Authorship, Date, Theme, Purpose, Synopsis; chapter summaries.
 
 ## Changelog
 

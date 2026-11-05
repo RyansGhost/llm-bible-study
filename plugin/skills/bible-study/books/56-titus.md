@@ -12,18 +12,18 @@ status: draft
 
 ## Summary
 
-Titus is a short letter from Paul to his co-worker Titus, whom he left on the island of Crete to "put what remained into order" (1:5). Titus must appoint elders in every town, men sound in doctrine and life, and silence false teachers who are upsetting whole households. Barcley highlights the word "sound" (healthy): sound doctrine must produce sound living. Paul shows how older men, older women, younger women, young men and slaves should live, grounded in two rich summaries of the gospel: the grace of God that trains us to live godly lives (2:11–14), and God's mercy in saving us by the washing of regeneration and renewal of the Holy Spirit (3:4–7). Luther called it a short epistle but "a model of Christian doctrine" (Lutheran Study Bible).
+Titus is a short letter from Paul to his co-worker Titus, whom he left on the island of Crete to "put what remained into order" (1:5). Titus must appoint elders in every town, men sound in doctrine and life, and silence false teachers who are upsetting whole households. Barcley[^btn] highlights the word "sound" (healthy): sound doctrine must produce sound living. Paul shows how older men, older women, younger women, young men and slaves should live, grounded in two rich summaries of the gospel: the grace of God that trains us to live godly lives (2:11–14), and God's mercy in saving us by the washing of regeneration and renewal of the Holy Spirit (3:4–7). Luther called it a short epistle but "a model of Christian doctrine" (*LSB*[^lsb]).
 
 ## Setting
 
-- **When:** probably AD 62–64, around the same time as 1 Timothy, after Paul's release from his first Roman imprisonment (Barcley; Reformation Study Bible). Paul and Titus had worked on Crete together; Paul left Titus to finish organising the churches and then join him (1:5; 3:12).
+- **When:** probably AD 62–64, around the same time as 1 Timothy, after Paul's release from his first Roman imprisonment (Barcley[^btn]; *RSB*[^rsb]). Paul and Titus had worked on Crete together; Paul left Titus to finish organising the churches and then join him (1:5; 3:12).
 - **Where:** to Titus on Crete, a large Greek island in the Mediterranean. Paul plans to winter at Nicopolis (3:12).
-- **Who wrote it:** Paul (1:1). Barcley defends Paul's authorship of all three Pastoral Epistles.
+- **Who wrote it:** Paul (1:1). Barcley[^btn] defends Paul's authorship of all three Pastoral Epistles.
 - **Where it sits:** one of the Pastoral Epistles, meant for the whole church as well as Titus (the "you" of 3:15 is plural), and very close to 1 Timothy in its concerns: false teaching with a Jewish flavour, qualified elders, and godly living. Paul's ministry on Crete isn't mentioned in Acts, which only records his ship passing Crete on the way to Rome (Acts 27).
 
 ## Structure
 
-The Reformation Study Bible's outline:
+The *Reformation Study Bible*'s[^rsb] outline:
 
 - 1:1–4: Greeting: Paul's apostleship for the faith of God's elect and the knowledge of truth that leads to godliness
 - 1:5–16: Organising the churches on Crete: appoint qualified elders; silence the false teachers
@@ -55,7 +55,7 @@ The Reformation Study Bible's outline:
 
 ## Themes
 
-- **Sound doctrine and sound living:** Barcley notes "sound" appears four times in this short letter. True teaching is healthy and produces healthy lives (1:9, 13; 2:1–2, 8).
+- **Sound doctrine and sound living:** Barcley[^btn] notes "sound" appears four times in this short letter. True teaching is healthy and produces healthy lives (1:9, 13; 2:1–2, 8).
 - **Qualified elders:** leaders must be sound in both doctrine and life (1:5–9). "Elder" (1:5) and "overseer" or bishop (1:7) name one office, not two (compare Acts 20:17, 28).
 - **Self-control:** Paul keeps calling every group to be sober-minded and self-controlled (1:8; 2:2, 5, 6, 12).
 - **False teaching:** shown up by its fruit, profession without godly works (1:16).
@@ -63,7 +63,7 @@ The Reformation Study Bible's outline:
 - **Adorning the gospel:** Christians' conduct makes the gospel attractive to outsiders (2:5, 8, 10).
 - **Salvation by mercy:** not by our works, but by God's mercy, regeneration by the Spirit and justification by grace (3:4–7).
 - **Good works:** the fruit, not the root, of salvation (2:14; 3:8, 14).
-- **Sound doctrine, sober lives:** the Reformation Heritage KJV Study Bible (RH) ties the letter's practical commands to its doctrine: godly leaders and self-controlled living grow out of God's choosing, Christ's redeeming and the Spirit's renewing (1:1–2; 2:11–14; 3:4–7), the cure for the disorder of Cretan life.
+- **Sound doctrine, sober lives:** the *Reformation Heritage KJV Study Bible* (*RH*[^rh]) ties the letter's practical commands to its doctrine: godly leaders and self-controlled living grow out of God's choosing, Christ's redeeming and the Spirit's renewing (1:1–2; 2:11–14; 3:4–7), the cure for the disorder of Cretan life.
 
 ## How it points to Christ
 
@@ -73,7 +73,7 @@ Titus has two of the New Testament's richest short summaries of the gospel. In 2
 
 - "Cretans are always liars" (1:12) is a quote from a Cretan poet (traditionally Epimenides), not Paul's own insult.
 - "Our great God and Saviour Jesus Christ" (2:13) refers to one person, Jesus. It isn't two people, God and Christ.
-- "The washing of regeneration" (3:5). Lutherans read this as baptism, which they hold works regeneration (Lutheran Study Bible). The Reformed confessions see a reference to baptism as the sign and seal, but teach that the Spirit regenerates, and that his work isn't tied to the moment of baptism (WCF 28.5–6).
+- "The washing of regeneration" (3:5). Lutherans read this as baptism, which they hold works regeneration (*LSB*[^lsb]). The Reformed confessions see a reference to baptism as the sign and seal, but teach that the Spirit regenerates, and that his work isn't tied to the moment of baptism (WCF 28.5–6).
 - Titus is not mentioned in Acts. We know him from Galatians, 2 Corinthians and this letter.
 - Elders and overseers (bishops) are the same office here (1:5–7).
 
@@ -84,7 +84,7 @@ Titus has two of the New Testament's richest short summaries of the gospel. In 2
 - **Training in the church (2:1–10).** What does Paul expect older believers to teach younger ones? How could your church do this?
 - **Grace that trains (2:11–14).** How does grace teach us to say no to ungodliness? How does this answer the charge that grace leads to careless living?
 - **The washing of regeneration (3:5).** Compare the Lutheran and Reformed readings. What do the Westminster Standards say about how baptism relates to regeneration?
-- **Luther on Titus.** Luther saw this short letter as covering all a Christian needs to know and live (Lutheran Study Bible). Do you agree?
+- **Luther on Titus.** Luther saw this short letter as covering all a Christian needs to know and live (*LSB*[^lsb]). Do you agree?
 
 ## Q&A
 
@@ -130,10 +130,10 @@ Titus has two of the New Testament's richest short summaries of the gospel. In 2
 
 ## Sources
 
-- William B. Barcley, "Introduction to the Pastoral Epistles" and "Titus," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues, Structure and Outline, Message and Theology.
-- *The Lutheran Study Bible* (Concordia, 2009), introduction to Titus: Overview, Luther on Titus, Challenges for Readers. Lutheran source.
-- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Titus: Title and Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of Titus, Titus in the Larger Story of the Bible, Christ in Titus, History of Interpretation, Special Issues, Outline.
-- *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to Titus: Authorship, Date, Theme, Purpose, Synopsis; chapter summaries.
+[^btn]: **BTN**: William B. Barcley, "Introduction to the Pastoral Epistles" and "Titus," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues, Structure and Outline, Message and Theology.
+[^lsb]: **LSB**: *The Lutheran Study Bible* (Concordia, 2009), introduction to Titus: Overview, Luther on Titus, Challenges for Readers. Lutheran source.
+[^rsb]: **RSB**: *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Titus: Title and Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of Titus, Titus in the Larger Story of the Bible, Christ in Titus, History of Interpretation, Special Issues, Outline.
+[^rh]: **RH**: *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to Titus: Authorship, Date, Theme, Purpose, Synopsis; chapter summaries.
 
 ## Changelog
 

@@ -16,14 +16,14 @@ Lamentations is five poems of grief over the destruction of Jerusalem and the te
 
 ## Setting
 
-- **When:** after Jerusalem fell in 586 BC and before the exiles returned in 538 BC (2 Kgs 25; Jer 39; 52). The grief over the loss of Judah's king (2:9) fixes it to this fall rather than an earlier one (Reformation Study Bible).
+- **When:** after Jerusalem fell in 586 BC and before the exiles returned in 538 BC (2 Kgs 25; Jer 39; 52). The grief over the loss of Judah's king (2:9) fixes it to this fall rather than an earlier one (*RSB*[^rsb]).
 - **Where:** the ruins of Jerusalem.
-- **Who wrote it:** anonymous. Jewish and Christian tradition credits Jeremiah, at least since the Greek translation added a heading saying so. He lamented and saw the fall (compare 2 Chr 35:25), and chapter 3 especially sounds like him (3:48–51; Jer 14:17). But the five poems differ in style and voice, so they may come from more than one poet (RSB). The Reformation Heritage KJV Study Bible (RH) keeps the traditional view: Jeremiah had wished his eyes were a fountain of tears for his people (Jer 9:1; compare Lam 1:16; 3:48–49), and the poems read like an eyewitness's, written soon after the city fell in the summer of 586 BC. Lee discusses this tradition.
+- **Who wrote it:** anonymous. Jewish and Christian tradition credits Jeremiah, at least since the Greek translation added a heading saying so. He lamented and saw the fall (compare 2 Chr 35:25), and chapter 3 especially sounds like him (3:48–51; Jer 14:17). But the five poems differ in style and voice, so they may come from more than one poet (*RSB*[^rsb]). The *Reformation Heritage KJV Study Bible* (*RH*[^rh]) keeps the traditional view: Jeremiah had wished his eyes were a fountain of tears for his people (Jer 9:1; compare Lam 1:16; 3:48–49), and the poems read like an eyewitness's, written soon after the city fell in the summer of 586 BC. Lee[^bto] discusses this tradition.
 - **Where it sits:** its Hebrew title is its first word, *ekah*, "How!", a cry of woe. English Bibles, following the Greek and Latin, put it after Jeremiah: he foretold the fall, and Lamentations voices the pain of it. In the Hebrew Bible it is among the Writings, one of the five festival scrolls, read on the fast day mourning the temple's destruction (the 9th of Av).
 
 ## Structure
 
-Five poems, one per chapter. Lee highlights the alphabetic acrostics: each stanza of chapters 1–4 begins with the next letter of the 22-letter Hebrew alphabet. Chapter 3 is a triple acrostic of 66 verses. Chapter 5 has 22 verses but isn't an acrostic, as if the order breaks down at the end. The acrostics give shape to overwhelming grief, expressing it "from A to Z". Much of the book uses the limping "lament" rhythm (*qinah*), a line of three beats answered by two. The Reformation Study Bible's titles:
+Five poems, one per chapter. Lee[^bto] highlights the alphabetic acrostics: each stanza of chapters 1–4 begins with the next letter of the 22-letter Hebrew alphabet. Chapter 3 is a triple acrostic of 66 verses. Chapter 5 has 22 verses but isn't an acrostic, as if the order breaks down at the end. The acrostics give shape to overwhelming grief, expressing it "from A to Z". Much of the book uses the limping "lament" rhythm (*qinah*), a line of three beats answered by two. The *RSB*'s[^rsb] titles:
 
 - 1: Jerusalem, once great, now devastated: a lonely widow
 - 2: The Lord's anger against Zion
@@ -58,14 +58,14 @@ Five poems, one per chapter. Lee highlights the alphabetic acrostics: each stanz
 
 - **Grief brought honestly to God:** Lamentations gives words for overwhelming sorrow and shows that lament is part of faith.
 - **God's righteous judgment:** the destruction is the Lord's doing, and it is just: "The Lord is in the right, for I have rebelled" (1:18). The covenant curses have fallen (Deut 28), and the prophets who warned of "the day of the Lord" are proved right (1:12; Amos 5:18). Yet the poet doesn't accept it passively: he asks how God could act like his people's enemy (2:4–5, 20).
-- **Sin and confession:** the poems confess sin, especially of the prophets and priests (2:14; 4:13). RH sees the book's purpose as defending God's justice, so that his people learn to avoid Judah's sins and look to him as their only hope.
+- **Sin and confession:** the poems confess sin, especially of the prophets and priests (2:14; 4:13). *RH*[^rh] sees the book's purpose as defending God's justice, so that his people learn to avoid Judah's sins and look to him as their only hope.
 - **Hope in God's faithfulness:** in the centre of the book, hope rests on God's covenant love (*hesed*) and mercy, and on the Lord as the poet's only portion (3:21–33). God rules over all nations and all mysteries (3:37–39).
 - **Waiting on God:** "It is good that one should wait quietly for the salvation of the Lord" (3:26).
 - **An unfinished prayer:** the book ends with a plea, not a resolution (5:21–22), leaving God's people waiting for restoration.
 
 ## How it points to Christ
 
-Jesus also wept over Jerusalem and foretold its destruction (Luke 19:41–44), fulfilled in AD 70 after the city rejected him, which RH sees foreshadowed here. The cry of Lady Zion, "Is it nothing to you, all you who pass by? Look and see if there is any sorrow like my sorrow" (1:12), has long been applied to Christ on the cross. There the full wrath of God against sin fell, not on a guilty city but on the innocent Son, in place of his people.
+Jesus also wept over Jerusalem and foretold its destruction (Luke 19:41–44), fulfilled in AD 70 after the city rejected him, which *RH*[^rh] sees foreshadowed here. The cry of Lady Zion, "Is it nothing to you, all you who pass by? Look and see if there is any sorrow like my sorrow" (1:12), has long been applied to Christ on the cross. There the full wrath of God against sin fell, not on a guilty city but on the innocent Son, in place of his people.
 
 Because of him, the mercies of 3:22–23 are secured for good: in Christ, God's steadfast love truly never ceases (Rom 8:38–39). The unanswered prayer of 5:21, "restore us", is answered in the new Jerusalem, where God wipes away every tear (Rev 21:2–4).
 
@@ -79,8 +79,8 @@ Because of him, the mercies of 3:22–23 are secured for good: in Christ, God's 
 
 ## Going deeper
 
-- **Why acrostics?** Lee explains the acrostic structure of chapters 1–4 and the near-acrostic shape of chapter 5. Why would grief be written in such an ordered form? Read: Lee, Structure and Outline.
-- **Jerusalem as a woman.** Lee traces the personification: widow, queen, abandoned lover. How does it make the loss personal?
+- **Why acrostics?** Lee[^bto] explains the acrostic structure of chapters 1–4 and the near-acrostic shape of chapter 5. Why would grief be written in such an ordered form? Read: Lee[^bto], Structure and Outline.
+- **Jerusalem as a woman.** Lee[^bto] traces the personification: widow, queen, abandoned lover. How does it make the loss personal?
 - **Hope at the centre (3:21–33).** Why does hope appear in the middle of the book rather than at the end? What is that hope based on?
 - **Is God's anger compatible with his love?** Lamentations says both that God has acted like an enemy (2:5) and that his mercies never end (3:22). How do these fit together?
 - **Lament in the church.** The book gives believers words for grief, both personal and communal. When might a congregation pray Lamentations?
@@ -129,9 +129,9 @@ Because of him, the mercies of 3:22–23 are secured for good: in Christ, God's 
 
 ## Sources
 
-- Peter Y. Lee, "Lamentations," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues (title, authorship and setting, canonical position, poetic features, imagery, genre), Structure and Outline (the acrostics, summary outline).
-- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Lamentations: Title, Author, Date and Occasion, Genre and Literary Features, Characteristics and Primary Themes, Theology of Lamentations, Lamentations in the Larger Story of the Bible, Christ in Lamentations, History of Interpretation, Outline.
-- *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to Lamentations: Authorship, Date, Theme, Purpose, Synopsis, Outline; chapter summaries.
+[^bto]: **BTO**: Peter Y. Lee, "Lamentations," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues (title, authorship and setting, canonical position, poetic features, imagery, genre), Structure and Outline (the acrostics, summary outline).
+[^rsb]: **RSB**: *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Lamentations: Title, Author, Date and Occasion, Genre and Literary Features, Characteristics and Primary Themes, Theology of Lamentations, Lamentations in the Larger Story of the Bible, Christ in Lamentations, History of Interpretation, Outline.
+[^rh]: **RH**: *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to Lamentations: Authorship, Date, Theme, Purpose, Synopsis, Outline; chapter summaries.
 
 ## Changelog
 

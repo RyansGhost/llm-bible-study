@@ -16,14 +16,14 @@ Malachi, the last book of the Old Testament, speaks to a returned people who hav
 
 ## Setting
 
-- **When:** in the Persian period, when Judah had a governor (1:8) and the rebuilt temple was in use (1:10), around the time of Ezra and Nehemiah. Some date it between Ezra's arrival (458 BC) and Nehemiah's (445 BC); others between Nehemiah's two visits, about 433 BC (Reformation Study Bible). The Lutheran Study Bible gives about 430 BC, and the Reformation Heritage KJV Study Bible (RH) about 435 BC, between Nehemiah's two terms. The sins Malachi attacks, foreign marriages, unpaid tithes, corrupt priests and injustice, closely match Nehemiah 13.
+- **When:** in the Persian period, when Judah had a governor (1:8) and the rebuilt temple was in use (1:10), around the time of Ezra and Nehemiah. Some date it between Ezra's arrival (458 BC) and Nehemiah's (445 BC); others between Nehemiah's two visits, about 433 BC (*RSB*[^rsb]). The *Lutheran Study Bible*[^lsb] gives about 430 BC, and the *Reformation Heritage KJV Study Bible* (*RH*[^rh]) about 435 BC, between Nehemiah's two terms. The sins Malachi attacks, foreign marriages, unpaid tithes, corrupt priests and injustice, closely match Nehemiah 13.
 - **Where:** Jerusalem and Judah under Persian rule.
-- **Who wrote it:** "Malachi" means "my messenger". Some ancient translations took it as a title (the Greek has "his messenger"; an Aramaic paraphrase identifies him with Ezra). The RSB takes it as the prophet's name, since every other prophetic book is named after its prophet. Nothing else is known about him.
+- **Who wrote it:** "Malachi" means "my messenger". Some ancient translations took it as a title (the Greek has "his messenger"; an Aramaic paraphrase identifies him with Ezra). The *RSB*[^rsb] takes it as the prophet's name, since every other prophetic book is named after its prophet. Nothing else is known about him.
 - **Where it sits:** last of the Twelve and, in English Bibles, the last book of the Old Testament. It speaks to a discouraged people: poor, under Persian rule, and doubting God's promises because the glorious age the prophets foretold hadn't come. About four hundred years of prophetic silence follow, until John the Baptist.
 
 ## Structure
 
-Six disputes, each following the same pattern: God makes a statement, the people object "How?" or "But you say…", and God replies. The people's objections sum up their attitude, whether or not they said the words aloud, and God speaks unusually often in the first person (RSB). Timmer notes this dispute structure makes repentance especially prominent. The Reformation Study Bible's divisions:
+Six disputes, each following the same pattern: God makes a statement, the people object "How?" or "But you say…", and God replies. The people's objections sum up their attitude, whether or not they said the words aloud, and God speaks unusually often in the first person (*RSB*[^rsb]). Timmer[^bto] notes this dispute structure makes repentance especially prominent. The *RSB*'s[^rsb] divisions:
 
 - 1:1–5: "I have loved you": Jacob and Esau
 - 1:6–2:9: Priests who despise God's name with blemished offerings
@@ -63,8 +63,8 @@ Six disputes, each following the same pattern: God makes a statement, the people
 - **Faithful leaders:** priests must teach truth and walk with God (2:4–9).
 - **Faithfulness in marriage:** God witnesses the marriage covenant and hates the treachery of divorce (2:13–16).
 - **God's unchanging faithfulness:** "I the Lord do not change; therefore you … are not consumed" (3:6).
-- **Repentance:** "Return to me, and I will return to you" (3:7). Timmer stresses Malachi's call to return.
-- **The day of the Lord:** judgment for the arrogant, and healing for those who fear God (4:1–3). Timmer distinguishes the returned community from the final, purified remnant that day will reveal.
+- **Repentance:** "Return to me, and I will return to you" (3:7). Timmer[^bto] stresses Malachi's call to return.
+- **The day of the Lord:** judgment for the arrogant, and healing for those who fear God (4:1–3). Timmer[^bto] distinguishes the returned community from the final, purified remnant that day will reveal.
 
 ## How it points to Christ
 
@@ -82,7 +82,7 @@ The Lord who suddenly comes to his temple (3:1) is Jesus, presented there as a b
 
 ## Going deeper
 
-- **The dispute pattern.** Malachi's hearers keep answering God with "How?" Timmer notes this structure highlights repentance. Which of their objections sound familiar today?
+- **The dispute pattern.** Malachi's hearers keep answering God with "How?" Timmer[^bto] notes this structure highlights repentance. Which of their objections sound familiar today?
 - **"Jacob I loved, Esau I hated" (1:2–3).** What does this say about God's electing love? How does Paul use it in Romans 9?
 - **Giving God our best (1:6–14).** God says even a governor wouldn't accept such gifts. What does "blemished offerings" look like in worship and service today?
 - **Marriage as covenant (2:13–16).** How does Malachi tie faithfulness to one's spouse with faithfulness to God? Compare Jesus in Matthew 19:3–9.
@@ -132,10 +132,10 @@ The Lord who suddenly comes to his temple (3:1) is Jesus, presented there as a b
 
 ## Sources
 
-- Daniel C. Timmer, "The Twelve," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Message and Theology (repentance and Malachi's dispute structure, deliverance of the remnant, the day of the Lord), Approaching the New Testament.
-- *The Lutheran Study Bible* (Concordia, 2009), introduction to Malachi: Overview. Lutheran source.
-- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Malachi: Title and Author, Date and Occasion, Genre and Literary Features, Characteristics and Primary Themes, Theology of Malachi, Malachi in the Larger Story of the Bible, Christ in the Book of Malachi, History of Interpretation, Outline.
-- *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to Malachi: Authorship, Date, Theme, Purpose, Synopsis, Outline; chapter summaries.
+[^bto]: **BTO**: Daniel C. Timmer, "The Twelve," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Message and Theology (repentance and Malachi's dispute structure, deliverance of the remnant, the day of the Lord), Approaching the New Testament.
+[^lsb]: **LSB**: *The Lutheran Study Bible* (Concordia, 2009), introduction to Malachi: Overview. Lutheran source.
+[^rsb]: **RSB**: *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Malachi: Title and Author, Date and Occasion, Genre and Literary Features, Characteristics and Primary Themes, Theology of Malachi, Malachi in the Larger Story of the Bible, Christ in the Book of Malachi, History of Interpretation, Outline.
+[^rh]: **RH**: *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to Malachi: Authorship, Date, Theme, Purpose, Synopsis, Outline; chapter summaries.
 
 ## Changelog
 

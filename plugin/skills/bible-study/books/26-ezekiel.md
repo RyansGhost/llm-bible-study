@@ -16,14 +16,14 @@ Ezekiel was a priest carried into exile in Babylon. There God showed him visions
 
 ## Setting
 
-- **When:** Ezekiel was taken to Babylon with King Jehoiachin in 597 BC, at about 26. He was called in 593 BC, aged thirty, the age a priest would have begun serving at the temple, and his last dated oracle is from 571 BC (29:17). The book dates everything by the years of Jehoiachin's exile, treating him as the last rightful king of David's line (Reformation Study Bible). The fall of Jerusalem (586 BC) is the hinge of the book (33:21).
+- **When:** Ezekiel was taken to Babylon with King Jehoiachin in 597 BC, at about 26. He was called in 593 BC, aged thirty, the age a priest would have begun serving at the temple, and his last dated oracle is from 571 BC (29:17). The book dates everything by the years of Jehoiachin's exile, treating him as the last rightful king of David's line (*RSB*[^rsb]). The fall of Jerusalem (586 BC) is the hinge of the book (33:21).
 - **Where:** among the exiles by the Chebar canal in Babylonia, probably at Tel-abib (1:1–3; 3:15). In visions he is taken to Jerusalem (8–11; 40–48). The exiles were tempted to despair, feeling cut off from God and surrounded by Babylon's apparently triumphant gods (33:10; 37:11).
-- **Who wrote it:** Ezekiel son of Buzi, a priest (1:3), whose name means "God makes strong". He writes mostly in the first person, with precise dates, probably completing the book soon after 571 BC. McKelvey notes that a few 20th-century scholars questioned its unity, but most accept it as substantially Ezekiel's; its unified structure and priestly outlook point to one author (RSB).
+- **Who wrote it:** Ezekiel son of Buzi, a priest (1:3), whose name means "God makes strong". He writes mostly in the first person, with precise dates, probably completing the book soon after 571 BC. McKelvey[^bto] notes that a few 20th-century scholars questioned its unity, but most accept it as substantially Ezekiel's; its unified structure and priestly outlook point to one author (*RSB*[^rsb]).
 - **Where it sits:** the third Major Prophet, a younger contemporary of Jeremiah (in Jerusalem) and Daniel (in Babylon's court). Revelation draws heavily on it.
 
 ## Structure
 
-Three movements, also found in Isaiah and Zephaniah: judgment on God's people, judgment on the nations, then mercy for God's people. The news of Jerusalem's fall frames the oracles against the nations (24:26–27; 33:21–22) and turns the book from judgment to hope (McKelvey; Reformation Study Bible):
+Three movements, also found in Isaiah and Zephaniah: judgment on God's people, judgment on the nations, then mercy for God's people. The news of Jerusalem's fall frames the oracles against the nations (24:26–27; 33:21–22) and turns the book from judgment to hope (McKelvey[^bto]; *RSB*[^rsb]):
 
 - 1–3: Ezekiel's call and commission: the vision of God's glory, the scroll, the watchman
 - 4–24: Judgment on Judah and Jerusalem: sign-acts, the glory departing, parables and indictments
@@ -108,21 +108,21 @@ Three movements, also found in Isaiah and Zephaniah: judgment on God's people, j
 
 ## Themes
 
-- **The glory of God:** McKelvey highlights the temple and God's glory as a key to the book. The glory departs because of sin (10–11) and returns to a new temple (43), a pattern he describes as creation, de-creation and re-creation.
+- **The glory of God:** McKelvey[^bto] highlights the temple and God's glory as a key to the book. The glory departs because of sin (10–11) and returns to a new temple (43), a pattern he describes as creation, de-creation and re-creation.
 - **God's holiness:** the root for "holy" appears about 51 times. God's holy name has been profaned by his people and must be vindicated (36:22–23).
-- **God's sovereignty:** "they will know that I am the Lord" recurs throughout, more than sixty times, echoing Exodus, and "the Lord GOD" appears over two hundred times, most of the Old Testament's uses (the Reformation Heritage KJV Study Bible, RH). God rules Israel and the nations to make himself known, and acts "for the sake of my holy name", not because Israel deserves it (36:22).
+- **God's sovereignty:** "they will know that I am the Lord" recurs throughout, more than sixty times, echoing Exodus, and "the Lord GOD" appears over two hundred times, most of the Old Testament's uses (the *Reformation Heritage KJV Study Bible*, *RH*[^rh]). God rules Israel and the nations to make himself known, and acts "for the sake of my holy name", not because Israel deserves it (36:22).
 - **Sin and responsibility:** no prophet catalogues Israel's history of sin more fully (16; 20; 23). Each generation, and each person, answers for its own sin, not its fathers' (18).
 - **Sign-acts and visions:** Ezekiel acts out his message (lying on his side, shaving his head, packing an exile's bag) because his hearers resisted plain words (4–5; 12).
 - **The watchman:** the prophet must warn the wicked, and is accountable if he stays silent (3; 33).
 - **God's mercy and the remnant:** even in judgment God keeps a remnant, and has no pleasure in the death of the wicked (5:3; 18:23).
 - **New heart and Spirit:** the deepest hope is inner renewal by God's Spirit, something God does for his people because they can't do it themselves (11:19–20; 36:26–27; 37:14).
-- **A restoration still to come:** the new temple still restricts access and needs sacrifices (40–46). Its fullness comes in Christ and the new Jerusalem, where God's presence fills the whole city (Rev 21–22) (RSB).
+- **A restoration still to come:** the new temple still restricts access and needs sacrifices (40–46). Its fullness comes in Christ and the new Jerusalem, where God's presence fills the whole city (Rev 21–22) (*RSB*[^rsb]).
 
 ## How it points to Christ
 
 Jesus is the good Shepherd God promised: God himself coming to seek his scattered sheep, and the true "David" who shepherds them (34; John 10:11–16). The promise of cleansing water, a new heart and the Spirit (36:25–27) lies behind Jesus' words about being born of water and the Spirit (John 3:5). The dry bones brought to life by God's breath picture the new life the Spirit gives, and the resurrection to come.
 
-The glory that left the temple returns in Jesus, the Word who "dwelt among us" and showed God's glory (John 1:14). McKelvey notes how much John draws on Ezekiel. The river of life flowing from the temple (47) becomes the living water Jesus gives (John 7:37–39) and the river of the water of life in the new Jerusalem (Rev 22:1–2). The city named "The Lord is there" is fulfilled when "the dwelling place of God is with man" (Rev 21:3).
+The glory that left the temple returns in Jesus, the Word who "dwelt among us" and showed God's glory (John 1:14). McKelvey[^bto] notes how much John draws on Ezekiel. The river of life flowing from the temple (47) becomes the living water Jesus gives (John 7:37–39) and the river of the water of life in the new Jerusalem (Rev 22:1–2). The city named "The Lord is there" is fulfilled when "the dwelling place of God is with man" (Rev 21:3).
 
 ## Common mix-ups
 
@@ -136,11 +136,11 @@ The glory that left the temple returns in Jesus, the Word who "dwelt among us" a
 
 ## Going deeper
 
-- **The departure and return of the glory.** Trace God's glory from chapter 1 through 8–11 to 43. Why must the glory leave before it can return? How does this frame the whole book? Read: McKelvey, Creation, De-creation, and Re-creation.
+- **The departure and return of the glory.** Trace God's glory from chapter 1 through 8–11 to 43. Why must the glory leave before it can return? How does this frame the whole book? Read: McKelvey[^bto], Creation, De-creation, and Re-creation.
 - **Individual responsibility (18).** Does Ezekiel 18 contradict the idea that children suffer for their parents' sin (Ex 20:5)? What is the point for the exiles who blamed their ancestors?
 - **The new heart (36:25–27).** Compare with Jeremiah's new covenant (Jer 31:31–34). How do Reformed theologians connect this with regeneration?
 - **Ezekiel's sign-acts.** Lying on his side, shaving his head, digging through a wall, not mourning his wife: why does God use such dramatic actions? What do they cost the prophet?
-- **How should the temple vision (40–48) be read?** A literal future temple, a symbolic picture of God dwelling with his people fulfilled in Christ and the church, or the new creation of Revelation 21–22? Read McKelvey's discussion of John's use of Ezekiel. RH sets out four views and favours the symbolic one, the main view of the Reformers: it is a vision, its river grows impossibly deep within a short distance (47:3–5) and reappears in Revelation 22, its plans were never carried out or demanded after the exile, and a future temple with atoning sacrifices (45:15, 17) would contradict Christ's once-for-all sacrifice (Heb 10:10–18).
+- **How should the temple vision (40–48) be read?** A literal future temple, a symbolic picture of God dwelling with his people fulfilled in Christ and the church, or the new creation of Revelation 21–22? Read McKelvey's[^bto] discussion of John's use of Ezekiel. *RH*[^rh] sets out four views and favours the symbolic one, the main view of the Reformers: it is a vision, its river grows impossibly deep within a short distance (47:3–5) and reappears in Revelation 22, its plans were never carried out or demanded after the exile, and a future temple with atoning sacrifices (45:15, 17) would contradict Christ's once-for-all sacrifice (Heb 10:10–18).
 - **"They will know that I am the Lord."** Count how often it appears. What does it say about God's purpose in both judgment and salvation?
 
 ## Q&A
@@ -187,9 +187,9 @@ The glory that left the temple returns in Jesus, the Word who "dwelt among us" a
 
 ## Sources
 
-- Michael G. McKelvey, "Ezekiel," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues (authorship, historical background and audience), Structure and Outline, Message and Theology (creation, de-creation and re-creation; God's holiness, sovereignty, mercy; man's sinfulness and responsibility), Approaching the New Testament.
-- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Ezekiel: Title, Author, Date and Occasion, Genre and Literary Features, Characteristics and Primary Themes, Theology of Ezekiel, Ezekiel in the Larger Story of the Bible, Christ in Ezekiel, Ezekiel in the History of Interpretation, Outline.
-- *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to Ezekiel: Authorship, Date, Theme, Purpose, Synopsis, Major Problems of Interpretation (symbolic actions; the new temple and land); chapter summaries.
+[^bto]: **BTO**: Michael G. McKelvey, "Ezekiel," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues (authorship, historical background and audience), Structure and Outline, Message and Theology (creation, de-creation and re-creation; God's holiness, sovereignty, mercy; man's sinfulness and responsibility), Approaching the New Testament.
+[^rsb]: **RSB**: *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Ezekiel: Title, Author, Date and Occasion, Genre and Literary Features, Characteristics and Primary Themes, Theology of Ezekiel, Ezekiel in the Larger Story of the Bible, Christ in Ezekiel, Ezekiel in the History of Interpretation, Outline.
+[^rh]: **RH**: *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to Ezekiel: Authorship, Date, Theme, Purpose, Synopsis, Major Problems of Interpretation (symbolic actions; the new temple and land); chapter summaries.
 
 ## Changelog
 

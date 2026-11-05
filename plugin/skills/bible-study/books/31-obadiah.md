@@ -16,15 +16,15 @@ Obadiah, the shortest book of the Old Testament, is a single vision against Edom
 
 ## Setting
 
-- **When:** probably soon after Babylon destroyed Jerusalem in 586 BC (the Lutheran Study Bible gives about 587–553 BC), when Edom took advantage of Judah's disaster (vv. 11–14; Ps 137:7). Some link it instead to an earlier raid on Jerusalem under King Jehoram (848–841 BC; 2 Chr 21:16–17). The Reformation Study Bible favours the Babylonian setting, noting how closely vv. 1–9 match Jeremiah's word against Edom (Jer 49:7–16), and places it before Babylon's campaign against Edom in 553 BC.
-- **Another view:** the Reformation Heritage KJV Study Bible (RH) prefers the early date, about 848 BC under Jehoram: verse 19 seems to assume the northern kingdom still stands, and it reads Jeremiah as quoting Obadiah rather than the reverse. That would make Obadiah the first of the writing prophets.
+- **When:** probably soon after Babylon destroyed Jerusalem in 586 BC (the *Lutheran Study Bible*[^lsb] gives about 587–553 BC), when Edom took advantage of Judah's disaster (vv. 11–14; Ps 137:7). Some link it instead to an earlier raid on Jerusalem under King Jehoram (848–841 BC; 2 Chr 21:16–17). The *Reformation Study Bible*[^rsb] favours the Babylonian setting, noting how closely vv. 1–9 match Jeremiah's word against Edom (Jer 49:7–16), and places it before Babylon's campaign against Edom in 553 BC.
+- **Another view:** the *Reformation Heritage KJV Study Bible* (*RH*[^rh]) prefers the early date, about 848 BC under Jehoram: verse 19 seems to assume the northern kingdom still stands, and it reads Jeremiah as quoting Obadiah rather than the reverse. That would make Obadiah the first of the writing prophets.
 - **Where:** Edom, the rugged mountain country south-east of the Dead Sea, with cities in the rocks (around Sela, later Petra), and Jerusalem.
 - **Who wrote it:** Obadiah, whose name means "servant" or "worshipper of the Lord", a common name shared by about a dozen people in the Old Testament. Nothing else is known about him; the book's authority rests on "the Lord has spoken" (v. 18).
-- **Where it sits:** among the Twelve. It is a "vision" (v. 1), almost all poetry. Though addressed to Edom, it was written for God's people, to reassure them that God's justice still rules when the wicked seem to win (RSB). Timmer discusses how the Twelve hold the nations responsible for their sins against God's people.
+- **Where it sits:** among the Twelve. It is a "vision" (v. 1), almost all poetry. Though addressed to Edom, it was written for God's people, to reassure them that God's justice still rules when the wicked seem to win (*RSB*[^rsb]). Timmer[^bto] discusses how the Twelve hold the nations responsible for their sins against God's people.
 
 ## Structure
 
-One chapter of 21 verses. The Reformation Study Bible divides it into God's sentence on Edom (vv. 1–18) and his promise of a new order (vv. 19–21):
+One chapter of 21 verses. The *RSB*[^rsb] divides it into God's sentence on Edom (vv. 1–18) and his promise of a new order (vv. 19–21):
 
 - vv. 1–9: Edom's pride will be humbled
 - vv. 10–14: Edom's crime against his brother Jacob
@@ -58,7 +58,7 @@ Obadiah has a single chapter, summarised here by section.
 - **Pride before a fall:** Edom trusted its high, rocky strongholds and its wisdom, but God will bring it low (vv. 3–4, 8).
 - **Betraying a brother:** the old rivalry of Jacob and Esau, from the birthright and the stolen blessing onwards (Gen 25–27; 32–33), shows up as Edom's cruelty to Judah in its worst hour (vv. 10–14; compare Mal 1:2–5).
 - **Just retribution:** "as you have done, it shall be done to you" (v. 15).
-- **The day of the Lord:** a day of judgment on all the nations that oppose God and of deliverance for his people. Timmer calls it the overarching theme of the Twelve.
+- **The day of the Lord:** a day of judgment on all the nations that oppose God and of deliverance for his people. Timmer[^bto] calls it the overarching theme of the Twelve.
 - **The Lord's kingdom:** the book ends with God's people restored and God's reign established (vv. 19–21). His promise to Abraham's family stands: those who curse them will be cursed (Gen 12:3).
 
 ## How it points to Christ
@@ -78,7 +78,7 @@ The rivalry of Esau and Jacob runs through the Bible, all the way to Herod the G
 - **Brothers at war.** Trace Jacob and Esau from Genesis 25–33 through Numbers 20:14–21, Psalm 137:7 and Obadiah. How does family history become national history?
 - **Gloating over others' misfortune (vv. 12–14).** Why is standing aloof, gloating and looting so serious to God? Compare Proverbs 24:17–18.
 - **"As you have done."** How does Obadiah's principle of just retribution relate to Jesus' teaching on judgment and mercy (Matt 7:2; Gal 6:7)?
-- **The nations in the Twelve.** Timmer explains that the Twelve both condemn nations that resist God and welcome those who turn to him. Where does Edom fit? Compare Amos 9:12.
+- **The nations in the Twelve.** Timmer[^bto] explains that the Twelve both condemn nations that resist God and welcome those who turn to him. Where does Edom fit? Compare Amos 9:12.
 - **"The kingdom shall be the Lord's."** How does this ending reframe a short, harsh book?
 
 ## Q&A
@@ -125,10 +125,10 @@ The rivalry of Esau and Jacob runs through the Bible, all the way to Herod the G
 
 ## Sources
 
-- Daniel C. Timmer, "The Twelve," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Message and Theology (the sins and punishment of the nations, the day of the Lord, deliverance of the remnant).
-- *The Lutheran Study Bible* (Concordia, 2009), introduction to Obadiah: Overview. Lutheran source.
-- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Obadiah: Title and Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of Obadiah, Obadiah in the Larger Story of the Bible, Christ in Obadiah, History of Interpretation, Outline.
-- *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to Obadiah: Authorship, Date, Theme (with a table of crimes and matching punishments), Purpose, Synopsis; book summary.
+[^bto]: **BTO**: Daniel C. Timmer, "The Twelve," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Message and Theology (the sins and punishment of the nations, the day of the Lord, deliverance of the remnant).
+[^lsb]: **LSB**: *The Lutheran Study Bible* (Concordia, 2009), introduction to Obadiah: Overview. Lutheran source.
+[^rsb]: **RSB**: *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Obadiah: Title and Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of Obadiah, Obadiah in the Larger Story of the Bible, Christ in Obadiah, History of Interpretation, Outline.
+[^rh]: **RH**: *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to Obadiah: Authorship, Date, Theme (with a table of crimes and matching punishments), Purpose, Synopsis; book summary.
 
 ## Changelog
 

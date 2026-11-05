@@ -16,15 +16,15 @@ Nahum announces the fall of Nineveh, the proud, violent capital of the Assyrian 
 
 ## Setting
 
-- **When:** after Assyria destroyed Thebes in Egypt (663 BC, 3:8) and before Nineveh fell to the Babylonians and Medes in 612 BC. Timmer uses these two events to date the book; the Lutheran Study Bible gives about 663–612 BC. The Reformation Study Bible suggests about 660–650 BC, while Thebes' fall was fresh and Assyria was shaken by revolt, when Judah's King Manasseh was Assyria's loyal vassal; or early in Josiah's reign, before 627 BC.
+- **When:** after Assyria destroyed Thebes in Egypt (663 BC, 3:8) and before Nineveh fell to the Babylonians and Medes in 612 BC. Timmer[^bto] uses these two events to date the book; the *Lutheran Study Bible*[^lsb] gives about 663–612 BC. The *Reformation Study Bible*[^rsb] suggests about 660–650 BC, while Thebes' fall was fresh and Assyria was shaken by revolt, when Judah's King Manasseh was Assyria's loyal vassal; or early in Josiah's reign, before 627 BC.
 - **Where:** addressed to Nineveh, but written for the ears of Judah suffering under Assyria. Nahum was from Elkosh, whose location is unknown; suggestions include sites near Nineveh, in Galilee (Capernaum may mean "village of Nahum") and in Judah, which the book itself favours (1:15).
-- **Who wrote it:** Nahum the Elkoshite (1:1). His name means "comfort", a short form of Nehemiah, "the Lord comforts" (the Reformation Heritage KJV Study Bible, RH).
-- **Fulfilment:** RH notes that the Babylonian Chronicle describes Nineveh's siege in 612 BC, and that a flooding Tigris helped the attackers breach the walls, much as Nahum pictured (1:8; 2:6).
-- **Where it sits:** among the Twelve; in the Greek order it follows Jonah directly. It is a sequel to Jonah: about a century after Nineveh repented, it has returned to violence, and judgment is now certain. Unlike Jonah, there is no sign Nineveh ever heard Nahum's verdict; RH sees God's freedom in both mercy and judgment (Rom 9:14–18). Like Isaiah 13–23 and Obadiah, it is an oracle against a foreign nation, not mere national revenge: God judges Israel's sins just as surely (RSB).
+- **Who wrote it:** Nahum the Elkoshite (1:1). His name means "comfort", a short form of Nehemiah, "the Lord comforts" (the *Reformation Heritage KJV Study Bible*, *RH*[^rh]).
+- **Fulfilment:** *RH*[^rh] notes that the Babylonian Chronicle describes Nineveh's siege in 612 BC, and that a flooding Tigris helped the attackers breach the walls, much as Nahum pictured (1:8; 2:6).
+- **Where it sits:** among the Twelve; in the Greek order it follows Jonah directly. It is a sequel to Jonah: about a century after Nineveh repented, it has returned to violence, and judgment is now certain. Unlike Jonah, there is no sign Nineveh ever heard Nahum's verdict; *RH*[^rh] sees God's freedom in both mercy and judgment (Rom 9:14–18). Like Isaiah 13–23 and Obadiah, it is an oracle against a foreign nation, not mere national revenge: God judges Israel's sins just as surely (*RSB*[^rsb]).
 
 ## Structure
 
-The book calls itself both an "oracle" and a "vision" (1:1). Chapter 1 builds to the conflict that chapters 2–3 describe with the rapid, vivid pace of a war report. The Reformation Study Bible's outline:
+The book calls itself both an "oracle" and a "vision" (1:1). Chapter 1 builds to the conflict that chapters 2–3 describe with the rapid, vivid pace of a war report. The *RSB*'s[^rsb] outline:
 
 - 1:1: Heading
 - 1:2–14: Nineveh's just and merciful Judge: a hymn to the Lord, jealous and avenging, yet good and a stronghold (1:2–8)
@@ -51,10 +51,10 @@ The book calls itself both an "oracle" and a "vision" (1:1). Chapter 1 builds to
 
 ## Themes
 
-- **God's justice against oppressors:** Assyria's cruelty, deceit, greedy trade and lust for conquest will be repaid (3:1–4, 16, 19). God used Assyria to discipline his people, but it went too far (Isa 10:5–12). Timmer discusses how the Twelve hold the nations accountable for their sins.
+- **God's justice against oppressors:** Assyria's cruelty, deceit, greedy trade and lust for conquest will be repaid (3:1–4, 16, 19). God used Assyria to discipline his people, but it went too far (Isa 10:5–12). Timmer[^bto] discusses how the Twelve hold the nations accountable for their sins.
 - **God's patience and wrath:** slow to anger, but his patience is not weakness: he won't leave the guilty unpunished (1:3; compare Ex 34:6–7). He rules every event of history.
 - **God as refuge:** he is good and a stronghold for those who trust him (1:7).
-- **Good news of deliverance:** the end of the oppressor is peace for God's people (1:13, 15). His judgment serves his saving purpose, preserving a remnant until the Messiah comes (RSB).
+- **Good news of deliverance:** the end of the oppressor is peace for God's people (1:13, 15). His judgment serves his saving purpose, preserving a remnant until the Messiah comes (*RSB*[^rsb]).
 - **God's power over creation and empires:** the strongest empire falls at his word.
 
 ## How it points to Christ
@@ -75,7 +75,7 @@ The God who is both slow to anger and just shows both perfectly at the cross, wh
 - **Is Nahum's joy over Nineveh's fall right?** How should we think about rejoicing at the downfall of oppressors? Compare Revelation 18–19.
 - **Nahum and Jonah together.** Read Jonah 4:2 beside Nahum 1:3. The same description of God appears in both, applied differently. What does that teach about God's patience and its limits?
 - **God as refuge (1:7).** In a book full of judgment, what does this verse offer to those who trust God?
-- **The nations in the Twelve.** Timmer shows that when the nations resist God and oppress his people, they face punishment. How does Nahum fit, and how does it differ from passages where nations turn to God?
+- **The nations in the Twelve.** Timmer[^bto] shows that when the nations resist God and oppress his people, they face punishment. How does Nahum fit, and how does it differ from passages where nations turn to God?
 
 ## Q&A
 
@@ -121,10 +121,10 @@ The God who is both slow to anger and just shows both perfectly at the cross, wh
 
 ## Sources
 
-- Daniel C. Timmer, "The Twelve," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Message and Theology (chronology, the sins and punishment of the non-Israelite nations, the day of the Lord).
-- *The Lutheran Study Bible* (Concordia, 2009), introduction to Nahum: Overview. Lutheran source.
-- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Nahum: Title and Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of Nahum, Nahum in the Larger Story of the Bible, Christ in Nahum, History of Interpretation, Outline.
-- *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to Nahum: Authorship, Date, Theme, Purpose, Synopsis, Outline; chapter summaries.
+[^bto]: **BTO**: Daniel C. Timmer, "The Twelve," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Message and Theology (chronology, the sins and punishment of the non-Israelite nations, the day of the Lord).
+[^lsb]: **LSB**: *The Lutheran Study Bible* (Concordia, 2009), introduction to Nahum: Overview. Lutheran source.
+[^rsb]: **RSB**: *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Nahum: Title and Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of Nahum, Nahum in the Larger Story of the Bible, Christ in Nahum, History of Interpretation, Outline.
+[^rh]: **RH**: *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to Nahum: Authorship, Date, Theme, Purpose, Synopsis, Outline; chapter summaries.
 
 ## Changelog
 

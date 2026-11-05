@@ -12,18 +12,18 @@ status: draft
 
 ## Summary
 
-Philemon is Paul's shortest letter: a personal appeal to a Christian slave-owner in Colossae. Philemon's slave Onesimus had run away, possibly having wronged or stolen from his master (v. 18). He met Paul in prison and became a Christian. Now Paul sends him back, asking Philemon to welcome him "no longer as a bondservant but more than a bondservant, as a beloved brother" (v. 16). Paul could command, but he appeals out of love, and offers to pay anything Onesimus owes. Gladd shows how the letter displays the gospel restoring broken relationships: Christ's work makes master and slave brothers in the one family of God.
+Philemon is Paul's shortest letter: a personal appeal to a Christian slave-owner in Colossae. Philemon's slave Onesimus had run away, possibly having wronged or stolen from his master (v. 18). He met Paul in prison and became a Christian. Now Paul sends him back, asking Philemon to welcome him "no longer as a bondservant but more than a bondservant, as a beloved brother" (v. 16). Paul could command, but he appeals out of love, and offers to pay anything Onesimus owes. Gladd[^btn] shows how the letter displays the gospel restoring broken relationships: Christ's work makes master and slave brothers in the one family of God.
 
 ## Setting
 
-- **When:** about AD 60–62, during Paul's imprisonment in Rome, at the same time as Colossians (Gladd; Reformation Study Bible). The two letters name the same companions, and Onesimus travels with Tychicus (Col 4:7–9).
+- **When:** about AD 60–62, during Paul's imprisonment in Rome, at the same time as Colossians (Gladd[^btn]; *RSB*[^rsb]). The two letters name the same companions, and Onesimus travels with Tychicus (Col 4:7–9).
 - **Where:** to Philemon, Apphia, Archippus and the church that meets in Philemon's house (v. 2), in Colossae.
-- **Who wrote it:** Paul, with Timothy (v. 1). Gladd notes nothing seriously challenges Paul's authorship.
-- **Where it sits:** one of the Prison Epistles, and a companion to Colossians. It is Paul's shortest letter, about 335 words in Greek. A runaway slave could face severe punishment, so Paul is pleading for mercy as well as welcome, and hints that he would gladly have Onesimus back to help him (vv. 13, 20–21) (RSB). It is the only one of Paul's letters addressed mainly to an individual about a private matter, though it is read in front of the house church.
+- **Who wrote it:** Paul, with Timothy (v. 1). Gladd[^btn] notes nothing seriously challenges Paul's authorship.
+- **Where it sits:** one of the Prison Epistles, and a companion to Colossians. It is Paul's shortest letter, about 335 words in Greek. A runaway slave could face severe punishment, so Paul is pleading for mercy as well as welcome, and hints that he would gladly have Onesimus back to help him (vv. 13, 20–21) (*RSB*[^rsb]). It is the only one of Paul's letters addressed mainly to an individual about a private matter, though it is read in front of the house church.
 
 ## Structure
 
-Gladd's outline (the Reformation Study Bible's is the same, adding Paul's planned visit, vv. 21–22):
+Gladd's[^btn] outline (the *RSB*'s[^rsb] is the same, adding Paul's planned visit, vv. 21–22):
 
 - vv. 1–3: Letter opening
 - vv. 4–7: Thanksgiving for Philemon's love and faith
@@ -57,30 +57,30 @@ Philemon has only one chapter, so here it is by section:
 
 ## Themes
 
-- **Reconciliation:** Gladd stresses that the cross restores broken relationships, here between a master and his slave.
-- **A new family:** master and slave are now brothers in Christ, "both in the flesh and in the Lord" (v. 16). Gladd calls this the restructuring of God's people.
+- **Reconciliation:** Gladd[^btn] stresses that the cross restores broken relationships, here between a master and his slave.
+- **A new family:** master and slave are now brothers in Christ, "both in the flesh and in the Lord" (v. 16). Gladd[^btn] calls this the restructuring of God's people.
 - **Love rather than command:** Paul appeals instead of ordering, so Philemon's goodness will be freely given (vv. 8–9, 14). It is a model of gentle, careful persuasion, written in his own hand (v. 19), with wordplays on "sharing" and "partner" (vv. 6, 17) and on Onesimus's name.
 - **Substitution:** Paul offers to take Onesimus' debt on himself (vv. 18–19).
 - **Providence:** perhaps Onesimus was parted for a while so Philemon could have him back forever (v. 15).
 - **Fellowship and refreshment:** Philemon's faith is shown in refreshing the hearts of the saints (vv. 6–7, 20).
-- **Love and forgiveness in Christ:** the Reformation Heritage KJV Study Bible (RH) names this as the letter's theme: Paul asks Philemon to welcome back a runaway as a brother because both now belong to Christ.
+- **Love and forgiveness in Christ:** the *Reformation Heritage KJV Study Bible* (*RH*[^rh]) names this as the letter's theme: Paul asks Philemon to welcome back a runaway as a brother because both now belong to Christ.
 
 ## How it points to Christ
 
-Philemon is a living picture of the gospel. Luther wrote that "we are all his Onesimus, if we believe" (Lutheran Study Bible): just as Paul pleads for Onesimus and offers to pay his debt, Christ intercedes for us before the Father and takes our debt on himself. "Charge that to my account" (v. 18) echoes the way our sin was counted to Christ and his righteousness counted to us. Onesimus, once useless, is made useful by the grace of Christ. And because of Christ, a slave and his master become brothers in one family (v. 16; Gal 3:28; Col 3:11).
+Philemon is a living picture of the gospel. Luther wrote that "we are all his Onesimus, if we believe" (*LSB*[^lsb]): just as Paul pleads for Onesimus and offers to pay his debt, Christ intercedes for us before the Father and takes our debt on himself. "Charge that to my account" (v. 18) echoes the way our sin was counted to Christ and his righteousness counted to us. Onesimus, once useless, is made useful by the grace of Christ. And because of Christ, a slave and his master become brothers in one family (v. 16; Gal 3:28; Col 3:11).
 
 ## Common mix-ups
 
 - Philemon is a man, the slave-owner. Onesimus is the slave.
 - Onesimus's name means "useful", which is the point of Paul's wordplay in v. 11.
-- Paul doesn't directly command Philemon to free Onesimus. Gladd discusses how the New Testament leaves the social structure in place on the surface, while the gospel transforms it from within: master and slave are brothers before the same Lord. Many think "even more than I say" (v. 21) hints at freedom.
-- Ancient slavery wasn't the same as race-based chattel slavery in the Americas. Slavery was no part of God's good creation and will have no place in the new creation; the RSB notes that sudden abolition in an economy built on it would have brought famine and chaos, while the gospel worked from within. Gladd stresses the need to understand Greco-Roman slavery before applying the text. Scripture condemns kidnapping people to sell them (Exod 21:16; 1 Tim 1:10).
+- Paul doesn't directly command Philemon to free Onesimus. Gladd[^btn] discusses how the New Testament leaves the social structure in place on the surface, while the gospel transforms it from within: master and slave are brothers before the same Lord. Many think "even more than I say" (v. 21) hints at freedom.
+- Ancient slavery wasn't the same as race-based chattel slavery in the Americas. Slavery was no part of God's good creation and will have no place in the new creation; the *RSB*[^rsb] notes that sudden abolition in an economy built on it would have brought famine and chaos, while the gospel worked from within. Gladd[^btn] stresses the need to understand Greco-Roman slavery before applying the text. Scripture condemns kidnapping people to sell them (Exod 21:16; 1 Tim 1:10).
 - Philemon has only 25 verses, so it is cited by verse, not chapter and verse.
 - The Onesimus of Colossians 4:9 is the same man.
 
 ## Going deeper
 
-- **Slavery and the gospel.** Gladd discusses why Paul didn't call directly for abolition. How did the gospel's teaching that master and slave are brothers eventually undermine slavery?
+- **Slavery and the gospel.** Gladd[^btn] discusses why Paul didn't call directly for abolition. How did the gospel's teaching that master and slave are brothers eventually undermine slavery?
 - **Appeal, not command (vv. 8–14).** Why does Paul appeal to love rather than his authority? What does that teach about leadership and persuasion in the church?
 - **"Charge it to me" (vv. 17–19).** How does Paul's offer illustrate imputation and Christ's substitution for us?
 - **Restitution and reconciliation.** Onesimus has to go back to the man he wronged. What does repentance require when we've wronged someone?
@@ -131,10 +131,10 @@ Philemon is a living picture of the gospel. Luther wrote that "we are all his On
 
 ## Sources
 
-- Benjamin Gladd, "Philemon," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (occasion, authorship, date, purpose), Structure and Outline, Message and Theology (slavery in the ancient world, the restructuring of God's people).
-- *The Lutheran Study Bible* (Concordia, 2009), introduction to Philemon: Luther on Philemon (from Luther's 1522 preface, AE 35:390). Lutheran source.
-- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Philemon: Title and Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of Philemon, Philemon in the Larger Story of the Bible, Christ in Philemon, History of Interpretation, Special Issues, Outline.
-- *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to Philemon: Authorship, Date, Theme, Purpose, Synopsis.
+[^btn]: **BTN**: Benjamin Gladd, "Philemon," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (occasion, authorship, date, purpose), Structure and Outline, Message and Theology (slavery in the ancient world, the restructuring of God's people).
+[^lsb]: **LSB**: *The Lutheran Study Bible* (Concordia, 2009), introduction to Philemon: Luther on Philemon (from Luther's 1522 preface, AE 35:390). Lutheran source.
+[^rsb]: **RSB**: *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Philemon: Title and Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of Philemon, Philemon in the Larger Story of the Bible, Christ in Philemon, History of Interpretation, Special Issues, Outline.
+[^rh]: **RH**: *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to Philemon: Authorship, Date, Theme, Purpose, Synopsis.
 
 ## Changelog
 

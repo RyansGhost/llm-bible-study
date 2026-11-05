@@ -12,18 +12,18 @@ status: draft
 
 ## Summary
 
-Ezra tells how God brought his people home from exile in Babylon and rebuilt his "house". In the first wave, under Zerubbabel and Jeshua, the exiles return at Cyrus' decree and, despite opposition, rebuild the temple. Decades later, Ezra the scribe returns to teach God's law, and leads the people to confess and turn from their unfaithful marriages to pagan neighbours. The Reformation Heritage KJV Study Bible (RH) sums up the theme as God keeping his word by bringing his people back in three ways: to the land, to his worship, and to his law.
+Ezra tells how God brought his people home from exile in Babylon and rebuilt his "house". In the first wave, under Zerubbabel and Jeshua, the exiles return at Cyrus' decree and, despite opposition, rebuild the temple. Decades later, Ezra the scribe returns to teach God's law, and leads the people to confess and turn from their unfaithful marriages to pagan neighbours. The *Reformation Heritage KJV Study Bible* (*RH*[^rh]) sums up the theme as God keeping his word by bringing his people back in three ways: to the land, to his worship, and to his law.
 
 ## Setting
 
-- **When:** from Cyrus' decree in 538 BC to the temple's completion in 516/515 BC (chapters 1–6). Then, after a gap of almost sixty years, Ezra's return in 458 BC, "the seventh year of Artaxerxes" I (7:7) (Futato). Some date Ezra's return to 398 BC under Artaxerxes II, but the Reformation Study Bible keeps the traditional date, since Ezra and Nehemiah appear together (Neh 8:9; 12:26).
+- **When:** from Cyrus' decree in 538 BC to the temple's completion in 516/515 BC (chapters 1–6). Then, after a gap of almost sixty years, Ezra's return in 458 BC, "the seventh year of Artaxerxes" I (7:7) (Futato[^bto]). Some date Ezra's return to 398 BC under Artaxerxes II, but the *Reformation Study Bible*[^rsb] keeps the traditional date, since Ezra and Nehemiah appear together (Neh 8:9; 12:26).
 - **Where:** Persia (Babylon, Susa, Ecbatana) and Jerusalem in the small province of Judah.
-- **Who wrote it:** Ezra and Nehemiah were one book in the ancient Hebrew Bible. Ezra 7–10 contains Ezra's own memoirs, and the book includes royal letters and lists, some kept in their original Aramaic. Jewish tradition names Ezra, a skilled scribe, as the compiler; the RSB thinks that likely and dates the finished work to about 430–400 BC (the Lutheran Study Bible: about 440 BC). Futato notes the book itself is anonymous. Most scholars no longer think the same person wrote Chronicles. Origen, in the third century AD, was the first to split Ezra and Nehemiah into two books.
+- **Who wrote it:** Ezra and Nehemiah were one book in the ancient Hebrew Bible. Ezra 7–10 contains Ezra's own memoirs, and the book includes royal letters and lists, some kept in their original Aramaic. Jewish tradition names Ezra, a skilled scribe, as the compiler; the *RSB*[^rsb] thinks that likely and dates the finished work to about 430–400 BC (the *Lutheran Study Bible*[^lsb]: about 440 BC). Futato[^bto] notes the book itself is anonymous. Most scholars no longer think the same person wrote Chronicles. Origen, in the third century AD, was the first to split Ezra and Nehemiah into two books.
 - **Where it sits:** after Chronicles in English Bibles; its opening repeats the end of 2 Chronicles. Esther happens during the gap between Ezra 6 and 7, and Haggai and Zechariah preach during Ezra 5–6.
 
 ## Structure
 
-Futato's outline, which matches the Reformation Study Bible's two parts. Both halves are driven by people "going up" from Babylon to Jerusalem, and each tells who returned, then what they achieved despite opposition, because God was with them. Ezra–Nehemiah as a whole follows three returns: Zerubbabel (538 BC), Ezra (458 BC) and Nehemiah (445 BC).
+Futato's[^bto] outline, which matches the *RSB*'s[^rsb] two parts. Both halves are driven by people "going up" from Babylon to Jerusalem, and each tells who returned, then what they achieved despite opposition, because God was with them. Ezra–Nehemiah as a whole follows three returns: Zerubbabel (538 BC), Ezra (458 BC) and Nehemiah (445 BC).
 
 - 1–6: The exiles return and rebuild the temple
     - 1–2: Cyrus' decree and the list of returnees
@@ -56,7 +56,7 @@ Futato's outline, which matches the Reformation Study Bible's two parts. Both ha
 - **Tattenai:** the Persian governor who checks the Jews' authority.
 - **Darius:** king of Persia, who confirms Cyrus' decree.
 - **Artaxerxes:** king of Persia, who sends Ezra.
-- **Ezra:** a priest descended from Aaron, a scribe skilled in the law, who teaches and reforms. His name probably means "help" (RH).
+- **Ezra:** a priest descended from Aaron, a scribe skilled in the law, who teaches and reforms. His name probably means "help" (*RH*[^rh]).
 - **Shecaniah:** the man who urges the people to make a covenant and deal with the intermarriages (10:2–4).
 
 ## Key events
@@ -71,18 +71,18 @@ Futato's outline, which matches the Reformation Study Bible's two parts. Both ha
 
 ## Themes
 
-- **God rebuilds his house:** Futato shows that "house" means the temple, but also the city and the people who worship there.
+- **God rebuilds his house:** Futato[^bto] shows that "house" means the temple, but also the city and the people who worship there.
 - **God's sovereignty over kings:** the Lord "stirred up the spirit of Cyrus" (1:1). The hand of God is on his people (7:6, 9; 8:18, 22), and even Persian emperors serve his purposes.
-- **Sovereignty and responsibility:** God moves kings, yet the people must build, the prophets must preach, and the leaders must act (Futato).
+- **Sovereignty and responsibility:** God moves kings, yet the people must build, the prophets must preach, and the leaders must act (Futato[^bto]).
 - **Ordinary people:** the long lists of names show that God rebuilds through ordinary, unknown people, not just famous leaders.
-- **The written Word:** everything is done "as it is written" in the law of Moses (3:2). Decrees and letters start and stop the work (4–7). Ezra's study, practice and teaching of the law (7:10) is the model. With the last prophets soon to fall silent, God's people would be guided by Scripture alone until John the Baptist (RSB).
+- **The written Word:** everything is done "as it is written" in the law of Moses (3:2). Decrees and letters start and stop the work (4–7). Ezra's study, practice and teaching of the law (7:10) is the model. With the last prophets soon to fall silent, God's people would be guided by Scripture alone until John the Baptist (*RSB*[^rsb]).
 - **Prayer:** the work moves forward through prayer and dependence on God (8:21–23; 9:6–15).
 - **Holiness and confession:** the community must stay distinct from the surrounding idolatry. Ezra's prayer identifies with the people's sin and appeals to God's mercy (9:6–15).
 - **Joy mixed with sorrow:** the second temple is smaller than the first, and the return is real but incomplete (3:12–13).
 
 ## How it points to Christ
 
-The return from exile and the rebuilt temple were real but partial: the people stayed under foreign rule, and the second temple lacked the glory of the first. That left Israel waiting for a fuller restoration, and RH draws the lesson that the people needed someone greater than Zerubbabel, Ezra or Nehemiah. Jesus brings it, as the true temple (John 2:19–21) and the builder of God's house, which is his people (Eph 2:19–22; 1 Pet 2:4–5; Heb 3:3–6).
+The return from exile and the rebuilt temple were real but partial: the people stayed under foreign rule, and the second temple lacked the glory of the first. That left Israel waiting for a fuller restoration, and *RH*[^rh] draws the lesson that the people needed someone greater than Zerubbabel, Ezra or Nehemiah. Jesus brings it, as the true temple (John 2:19–21) and the builder of God's house, which is his people (Eph 2:19–22; 1 Pet 2:4–5; Heb 3:3–6).
 
 Zerubbabel, a descendant of David leading the return, appears in Jesus' genealogy (Matt 1:12–13). Ezra the priest-teacher, standing before God confessing his people's sin, foreshadows Christ our great High Priest who intercedes for us.
 
@@ -97,7 +97,7 @@ Zerubbabel, a descendant of David leading the return, appears in Jesus' genealog
 
 ## Going deeper
 
-- **What is the "house of God"?** Futato argues it means temple, city and people together. Trace "house" through Ezra–Nehemiah, then into the New Testament (Eph 2:19–22).
+- **What is the "house of God"?** Futato[^bto] argues it means temple, city and people together. Trace "house" through Ezra–Nehemiah, then into the New Testament (Eph 2:19–22).
 - **The intermarriage crisis.** Why was marrying foreign wives so serious, and why such a drastic remedy? Compare Deuteronomy 7:1–4 and 1 Kings 11. The concern was idolatry, not ethnicity: Ruth and Rahab were welcomed by faith. How does Paul's counsel in 1 Corinthians 7:12–16 differ for Christians?
 - **Ezra's prayer (9:6–15).** A model of corporate confession: Ezra says "we" and "our", not "they". What can it teach the church about praying for our community?
 - **Study, do, teach (7:10).** Ezra's three-step pattern for handling God's word. How does it apply to a Bible-study habit?
@@ -147,10 +147,10 @@ Zerubbabel, a descendant of David leading the return, appears in Jesus' genealog
 
 ## Sources
 
-- Mark D. Futato, "Ezra–Nehemiah," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues (authorship, sources, date, genre), Structure and Outline, Message and Theology (rebuilding the house of God, ordinary people, the written Word, sovereignty and responsibility).
-- *The Lutheran Study Bible* (Concordia, 2009), introduction to Ezra: Overview. Lutheran source.
-- *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Ezra: Title, Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of Ezra, Ezra in the Larger Story of the Bible, Christ in Ezra, History of Interpretation, Outline.
-- *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to Ezra: Authorship, Date (with a timeline of the return), Theme, Purpose, Synopsis, Outline; chapter summaries.
+[^bto]: **BTO**: Mark D. Futato, "Ezra–Nehemiah," in Miles V. Van Pelt, ed., *A Biblical-Theological Introduction to the Old Testament: The Gospel Promised* (Crossway, 2016): Background Issues (authorship, sources, date, genre), Structure and Outline, Message and Theology (rebuilding the house of God, ordinary people, the written Word, sovereignty and responsibility).
+[^lsb]: **LSB**: *The Lutheran Study Bible* (Concordia, 2009), introduction to Ezra: Overview. Lutheran source.
+[^rsb]: **RSB**: *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Ezra: Title, Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of Ezra, Ezra in the Larger Story of the Bible, Christ in Ezra, History of Interpretation, Outline.
+[^rh]: **RH**: *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to Ezra: Authorship, Date (with a timeline of the return), Theme, Purpose, Synopsis, Outline; chapter summaries.
 
 ## Changelog
 
