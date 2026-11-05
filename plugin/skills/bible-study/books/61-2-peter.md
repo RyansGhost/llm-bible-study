@@ -66,6 +66,7 @@ Kistemaker's outline (the Reformation Study Bible treats 1:3–3:18a as one body
 - **God's judgment and rescue:** God knows how to rescue the godly and keep the unrighteous for judgment (2:9).
 - **The certainty of Christ's return:** scoffers are wrong; God's timing is patient, not slow (3:3–10).
 - **New creation:** new heavens and a new earth where righteousness dwells (3:13).
+- **Grow, and watch out:** the Reformation Heritage KJV Study Bible (RH) pairs the letter's two concerns: believers must keep growing in grace (1:5–11; 3:18), and must see through the false teachers who had slipped in among them (2:1–3). RH answers the arguments against Peter's authorship, and dates it near his death, about AD 64–67.
 
 ## How it points to Christ
 
@@ -135,6 +136,7 @@ From its first verse, 2 Peter calls Jesus "our God and Saviour Jesus Christ" (1:
 
 - Simon J. Kistemaker, "2 Peter," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (authorship, date, genre, provenance, place in the canon, purpose), Structure and Outline, Message and Theology.
 - *The Reformation Study Bible* (Reformation Trust, 2015), introduction to 2 Peter: Title and Author, Date and Occasion, Genre and Literary Features, Characteristics and Primary Themes, Theology of 2 Peter, 2 Peter in the Larger Story of the Bible, Christ in 2 Peter, History of Interpretation, Special Issues, Outline.
+- *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to 2 Peter: Authorship, Date, Theme, Purpose, Synopsis; chapter summaries.
 
 ## Changelog
 

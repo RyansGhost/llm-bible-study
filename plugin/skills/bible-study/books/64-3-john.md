@@ -62,6 +62,7 @@ Hill's outline:
 - **Imitating good:** "Do not imitate evil but imitate good" (v. 11). Whatever someone's office, you know them by their fruit (Matt 7:15–20).
 - **Rewarded hospitality:** caring for the Lord's messengers is caring for Christ himself, and he will reward it (Matt 25:34–40).
 - **Love for the brothers:** Hill shows 3 John is a real-life example of 1 John's teaching that hating the brothers shows you aren't of God.
+- **Supporting true teachers:** the Reformation Heritage KJV Study Bible (RH) sums up the letter as love for the truth shown in practical support for faithful travelling missionaries (vv. 5–8).
 
 ## How it points to Christ
 
@@ -129,6 +130,7 @@ Christ isn't named in 3 John, but the missionaries went out "for the sake of the
 
 - Charles E. Hill, "1–3 John," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): 3 John, Background Issues (author, audience), Structure and Outline, Message and Theology (Gaius, the missionaries, Diotrephes, Demetrius).
 - *The Reformation Study Bible* (Reformation Trust, 2015), introduction to 3 John: Title and Author, Date and Occasion, Genre and Literary Features, Characteristics and Primary Themes, Theology of 3 John, 3 John in the Larger Story of the Bible, Christ in 3 John, History of Interpretation, Outline.
+- *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to 3 John: Authorship, Date, Theme, Purpose, Synopsis.
 
 ## Changelog
 

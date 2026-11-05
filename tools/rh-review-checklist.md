@@ -62,11 +62,11 @@ The EPUB is indexed with `tools/epub_index.py` (work `beeke-reformation-heritage
 - [x] 56 Titus
 - [x] 57 Philemon
 - [x] 58 Hebrews
-- [ ] 59 James
-- [ ] 60 1 Peter
-- [ ] 61 2 Peter
-- [ ] 62 1 John
-- [ ] 63 2 John
-- [ ] 64 3 John
-- [ ] 65 Jude
-- [ ] 66 Revelation
+- [x] 59 James
+- [x] 60 1 Peter
+- [x] 61 2 Peter
+- [x] 62 1 John
+- [x] 63 2 John
+- [x] 64 3 John
+- [x] 65 Jude
+- [x] 66 Revelation

@@ -71,6 +71,7 @@ Lowe follows Richard Bauckham: chapter 1 introduces almost every theme the rest 
 - **Humility and prayer:** submit to God, draw near to him, and pray in faith (4:6–10; 5:13–18).
 - **The coming judgment:** James keeps pointing to the Judge at the door as the reason to live rightly (2:12–13; 4:12; 5:9). Those who persevere receive the crown of life (1:12).
 - **A high view of Christ:** James is "a servant of God and of the Lord Jesus Christ" (1:1), setting them side by side, and calls Jesus "the Lord of glory" (2:1).
+- **Real faith or empty religion:** the Reformation Heritage KJV Study Bible (RH) reads the letter as drawing the line between genuine and worthless religion (1:26–27), puncturing the idea that following Christ costs nothing, while encouraging true believers to live close to the Lord.
 
 ## How it points to Christ
 
@@ -141,6 +142,7 @@ James names Jesus only twice: "the Lord Jesus Christ" (1:1) and "our glorious Lo
 - Bruce A. Lowe, "James," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (authorship and date, occasion and purpose), Structure and Outline (genre, outline), Message and Theology (God, wisdom and change, Paul, faith and works, rich and poor).
 - *The Lutheran Study Bible* (Concordia, 2009), introduction to James: Overview, Luther on James, Challenges for Readers. Lutheran source.
 - *The Reformation Study Bible* (Reformation Trust, 2015), introduction to James: Title and Author, Date and Occasion, Genre and Literary Features, Characteristics and Primary Themes, Theology in James, James in the Larger Story of the Bible, Christ in James, History of Interpretation, Special Issues, Outline.
+- *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to James: Author, Date, Theme, Purpose, Synopsis; chapter summaries.
 
 ## Changelog
 

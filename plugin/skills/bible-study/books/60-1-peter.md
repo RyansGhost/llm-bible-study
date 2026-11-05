@@ -67,6 +67,7 @@ Barcley notes that 1 Peter is hard to outline because suffering keeps recurring 
 - **Submission:** to authorities, masters and husbands, for the Lord's sake (2:13–3:7).
 - **Humility and trust:** cast your anxieties on God, and resist the devil (5:5–9).
 - **Grace in Peter's own story:** the apostle who once rebuked Jesus for speaking of suffering, and denied him when it became dangerous, now teaches the necessity of Christ's suffering and ours (Matt 16:22; 26:69–75).
+- **Hope while suffering:** the Reformation Heritage KJV Study Bible (RH) names the theme as hope in Christ amid suffering: believers endure by fixing their eyes on the grace kept for them and on Christ's coming glory (1:3–7, 13). RH places the letter around the Neronian persecution, with "Babylon" (5:13) standing for Rome.
 
 ## How it points to Christ
 
@@ -137,6 +138,7 @@ Peter, an eyewitness of Christ's sufferings (5:1), shows Jesus as the fulfilment
 - William B. Barcley, "1 Peter," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (authorship, occasion and date, audience), Structure and Outline, Message and Theology (living in a world that isn't our home, suffering after Christ's example, holiness, witness).
 - *The Lutheran Study Bible* (Concordia, 2009), introduction to 1 Peter: Overview, Luther on 1 Peter, Challenges for Readers. Lutheran source.
 - *The Reformation Study Bible* (Reformation Trust, 2015), introduction to 1 Peter: Title and Author, Date and Occasion, Genre and Literary Features, Characteristics and Primary Themes, Theology of 1 Peter, 1 Peter in the Larger Story of the Bible, Christ in 1 Peter, History of Interpretation, Outline.
+- *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to 1 Peter: Authorship, Date, Theme, Purpose, Synopsis; chapter summaries.
 
 ## Changelog
 

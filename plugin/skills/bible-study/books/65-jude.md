@@ -72,6 +72,7 @@ Jude has only one chapter, so here it is by section:
 - **Kept by God:** believers are "kept for Jesus Christ" (v. 1), keep themselves in God's love (v. 21), and are kept from stumbling by God (v. 24).
 - **Mercy toward others:** show mercy to doubters and rescue those in danger (vv. 22–23).
 - **The glory of Christ:** Kistemaker counts six references to Jesus Christ in the short letter, presented as the only Master and Lord.
+- **Contend, with compassion:** the Reformation Heritage KJV Study Bible (RH) stresses both halves of Jude's charge: stand firm against false teachers, and reach out with mercy to those they endanger (vv. 3, 22–23). RH dates the letter in the mid-60s, after 2 Peter, noting that Eusebius records that Jude had died by AD 81.
 
 ## How it points to Christ
 
@@ -140,6 +141,7 @@ Jesus Christ is "our only Master and Lord" (v. 4), whom the false teachers deny.
 
 - Simon J. Kistemaker, "Jude," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (relationship to 2 Peter, authorship, date, canonicity), Structure and Outline, Message and Theology (antinomianism, judgment on sin, the glory of Christ).
 - *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Jude: Author, Date and Occasion, Genre and Literary Features, Characteristics and Primary Themes, Theology of Jude, Jude in the Larger Story of the Bible, Christ in Jude, History of Interpretation, Special Issues, Outline.
+- *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to Jude: Author, Theme, Purpose, Synopsis.
 
 ## Changelog
 

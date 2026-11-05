@@ -37,6 +37,8 @@ The Reformation Study Bible's outline is simple: introduction (1), letters to th
 - 21:9–22:5: Fourth vision: the new Jerusalem
 - 22:6–21: Epilogue
 
+The Reformation Heritage KJV Study Bible (RH) supports reading the visions as repeating cycles rather than one timeline: the sixth seal, the seventh trumpet and the seventh bowl each bring us to the very end, with cosmic upheaval and the final judgment (6:12–17; 11:15–19; 16:17–21).
+
 ## Chapter by chapter
 
 - **Revelation 1:** The revelation of Jesus Christ, with a blessing on those who read and keep it. Grace from the one who is and was and is to come, the seven spirits, and Jesus Christ, who loves us and freed us from our sins by his blood. On Patmos, on the Lord's day, John sees one like a son of man among seven golden lampstands, with eyes like fire and a voice like many waters. "I am the first and the last, and the living one. I died, and behold I am alive forevermore" (1:17–18).
@@ -99,6 +101,7 @@ The Reformation Study Bible's outline is simple: introduction (1), letters to th
 - **Satan's counterfeits:** the dragon, the beast and the false prophet form an unholy imitation of the Trinity (16:13): the beast mimics Christ, even with a death-wound healed (13:3), and the false prophet mimics the Spirit by directing worship to the beast. Babylon the prostitute counterfeits the Lamb's bride (17; 19:7–8) (RSB).
 - **The final defeat of evil:** Satan, the beasts, death and Hades are thrown into the lake of fire (19–20).
 - **New creation:** God dwelling with his people in a renewed creation, Eden restored and surpassed (21–22).
+- **Three kinds of writing at once:** RH reads Revelation as prophecy (a call to faithful endurance more than a timetable, 1:3; 19:10), as apocalyptic vision rooted above all in Daniel, and as a letter to real churches. It sums up the theme as Christ's victory over the powers of evil, given to strengthen churches facing persecution and temptation. It notes that some date the book soon after Nero's fire of AD 64, though most scholars prefer about AD 95.
 
 ## How it points to Christ
 
@@ -172,6 +175,7 @@ The book's title is its theme: "the revelation of Jesus Christ" (1:1). He is "th
 - Charles E. Hill, "Revelation," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Introduction and Purpose, Background Issues (authorship, date, form and genre, approaches to Revelation, hermeneutical factors), Structure and Outline (four visions), Message and Theology.
 - *The Lutheran Study Bible* (Concordia, 2009), introduction to Revelation: Overview, Luther on Revelation (from his 1530 preface), Challenges for Readers. Lutheran source.
 - *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Revelation: Title and Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of Revelation, Revelation in the Larger Story of the Bible, Christ in Revelation, History of Interpretation, Special Issues, Outline.
+- *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to Revelation: Authorship, Date, Theme, Purpose, Questions of Genre, Structure and Flow, Synopsis; chapter summaries.
 
 ## Changelog
 

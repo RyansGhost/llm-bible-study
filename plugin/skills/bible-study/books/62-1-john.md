@@ -64,6 +64,7 @@ Hill notes that John loves repetition, parallels and groups of three, so the let
 - **Antichrist:** John is the first known writer to use the word. Many antichrists have already come, so it is the last hour (2:18): the last days began with Christ's coming. The "sin that leads to death" (5:16) is probably such apostasy, which shows a profession of faith was never real (2:19).
 - **Eternal life now:** Christ is "the eternal life" made visible (1:2), and those united to him already have it (5:11–13, 20). The Spirit God gives assures them that he lives in them (3:24; 4:13).
 - **Fellowship:** with the Father, the Son and one another (1:3).
+- **Assurance:** the Reformation Heritage KJV Study Bible (RH) sums up the theme as a believer's personal assurance of real salvation: John marks out who belongs to God and who belongs to the world, so that the church may have peace and joy (5:13). It notes Clement of Rome seems to quote the letter about AD 96.
 
 ## How it points to Christ
 
@@ -134,6 +135,7 @@ Hill notes that John loves repetition, parallels and groups of three, so the let
 
 - Charles E. Hill, "1–3 John," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): 1 John, Background Issues (date, chronological order, place, authorship, purpose), Structure and Outline, Message and Theology (ethics, atonement, incarnation, sin, eschatology and antichrist).
 - *The Reformation Study Bible* (Reformation Trust, 2015), introduction to 1 John: Title and Author, Date and Occasion, Genre and Literary Features, Characteristics and Primary Themes, Theology of 1 John, 1 John in the Larger Story of the Bible, Christ in 1 John, Special Issues, Outline.
+- *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to 1 John: Authorship, Date, Theme, Purpose, Synopsis; chapter summaries.
 
 ## Changelog
 
