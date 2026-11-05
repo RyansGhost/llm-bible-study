@@ -73,6 +73,7 @@ Waters describes the body of the letter as two halves: the great indicatives of 
 - **A new way of life:** put off the old self, put on the new (4:22–24).
 - **Christ-shaped households:** marriage reflects Christ and the church (5:22–33). Love like Christ's (5:2) and mutual submission out of reverence for him (5:21) are the foundation for every role in the home and at work, and remembering the cross keeps this from becoming mere moralism.
 - **Spiritual warfare:** stand firm in God's armour and pray (6:10–20).
+- **Doctrine that turns to praise:** the Reformation Heritage KJV Study Bible (RH) sees the letter as a display of the wealth God lavishes on the church through its union with Christ. It notes that Paul isn't fighting a crisis here but building up a healthy church, and that his teaching keeps breaking into worship (1:3–14; 3:20–21).
 
 ## How it points to Christ
 
@@ -143,6 +144,7 @@ Christ is at the centre of God's plan: "to unite all things in him, things in he
 - Guy Prentiss Waters, "Ephesians," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (authorship, "to the Ephesians?", purpose), Structure and Outline, Message and Theology.
 - John Chrysostom, *Homilies on Ephesians*, "The Argument" (quoted in Waters).
 - *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Ephesians: Title and Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of Ephesians, Ephesians in the Larger Story of the Bible, Christ in Ephesians, History of Interpretation, Outline.
+- *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to Ephesians: Authorship, Date, Theme, Purpose, Synopsis; chapter summaries.
 
 ## Changelog
 

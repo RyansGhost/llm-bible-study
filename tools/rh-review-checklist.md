@@ -48,20 +48,20 @@ The EPUB is indexed with `tools/epub_index.py` (work `beeke-reformation-heritage
 - [x] 42 Luke
 - [x] 43 John
 - [x] 44 Acts
-- [ ] 45 Romans
-- [ ] 46 1 Corinthians
-- [ ] 47 2 Corinthians
-- [ ] 48 Galatians
-- [ ] 49 Ephesians
-- [ ] 50 Philippians
-- [ ] 51 Colossians
-- [ ] 52 1 Thessalonians
-- [ ] 53 2 Thessalonians
-- [ ] 54 1 Timothy
-- [ ] 55 2 Timothy
-- [ ] 56 Titus
-- [ ] 57 Philemon
-- [ ] 58 Hebrews
+- [x] 45 Romans
+- [x] 46 1 Corinthians
+- [x] 47 2 Corinthians
+- [x] 48 Galatians
+- [x] 49 Ephesians
+- [x] 50 Philippians
+- [x] 51 Colossians
+- [x] 52 1 Thessalonians
+- [x] 53 2 Thessalonians
+- [x] 54 1 Timothy
+- [x] 55 2 Timothy
+- [x] 56 Titus
+- [x] 57 Philemon
+- [x] 58 Hebrews
 - [ ] 59 James
 - [ ] 60 1 Peter
 - [ ] 61 2 Peter

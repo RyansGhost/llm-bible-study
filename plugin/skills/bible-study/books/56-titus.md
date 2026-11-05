@@ -63,6 +63,7 @@ The Reformation Study Bible's outline:
 - **Adorning the gospel:** Christians' conduct makes the gospel attractive to outsiders (2:5, 8, 10).
 - **Salvation by mercy:** not by our works, but by God's mercy, regeneration by the Spirit and justification by grace (3:4–7).
 - **Good works:** the fruit, not the root, of salvation (2:14; 3:8, 14).
+- **Sound doctrine, sober lives:** the Reformation Heritage KJV Study Bible (RH) ties the letter's practical commands to its doctrine: godly leaders and self-controlled living grow out of God's choosing, Christ's redeeming and the Spirit's renewing (1:1–2; 2:11–14; 3:4–7), the cure for the disorder of Cretan life.
 
 ## How it points to Christ
 
@@ -132,6 +133,7 @@ Titus has two of the New Testament's richest short summaries of the gospel. In 2
 - William B. Barcley, "Introduction to the Pastoral Epistles" and "Titus," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues, Structure and Outline, Message and Theology.
 - *The Lutheran Study Bible* (Concordia, 2009), introduction to Titus: Overview, Luther on Titus, Challenges for Readers. Lutheran source.
 - *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Titus: Title and Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of Titus, Titus in the Larger Story of the Bible, Christ in Titus, History of Interpretation, Special Issues, Outline.
+- *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to Titus: Authorship, Date, Theme, Purpose, Synopsis; chapter summaries.
 
 ## Changelog
 

@@ -66,6 +66,7 @@ The Reformation Study Bible's outline is simple: greeting (1:1), history of Paul
 - **A pastor's heart:** Paul calls them "brothers" again and again, and describes himself as both mother and father to them (2:7, 11). They are his joy and crown (2:19).
 - **Christ is divine:** even in this early letter, Paul joins the Father and the Lord Jesus as one source of grace and one recipient of prayer (1:1; 3:11), and applies "the day of the Lord" to Jesus (5:2).
 - **Persecution and perseverance:** suffering for the gospel as Christ and the prophets did (2:14–16; 3:3–4).
+- **Endurance with hope:** the Reformation Heritage KJV Study Bible (RH) sums up the letter as a call to stand firm under suffering, strengthened by the hope of Christ's return. It dates the letter a little later than some, about AD 52, after Timothy rejoined Paul in Corinth.
 
 ## How it points to Christ
 
@@ -135,6 +136,7 @@ The believers wait for God's Son from heaven, "whom he raised from the dead, Jes
 
 - Robert J. Cara, "1 Thessalonians," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (Thessalonica, authorship and date, occasion and purpose, 2:1–12), Structure and Outline, Message and Theology (be imitators, "consistent" eschatology, election and calling).
 - *The Reformation Study Bible* (Reformation Trust, 2015), introduction to 1 Thessalonians: Title and Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of 1 Thessalonians, 1 Thessalonians in the Larger Story of the Bible, Christ in 1 Thessalonians, History of Interpretation, Outline.
+- *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to 1 Thessalonians: Authorship, Date, Theme, Purpose; chapter summaries.
 
 ## Changelog
 

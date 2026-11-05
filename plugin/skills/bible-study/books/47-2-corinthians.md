@@ -75,6 +75,7 @@ The Reformation Study Bible's outline (Waters' is the same in its main divisions
 - **Generous giving:** grace-motivated, cheerful giving modelled on Christ's self-giving (8–9).
 - **True and false ministry:** credentials, eloquence and boasting against faithfulness, suffering and Christ-likeness (10–13). Paul defends himself not from wounded pride but to protect the Corinthians' confidence in the gospel (11:2–4; 13:3).
 - **Repentance and restoration:** godly grief that leads to repentance; forgiving the repentant (2:5–11; 7:8–11).
+- **Ministry in weakness:** the Reformation Heritage KJV Study Bible (RH) sums up the letter as a portrait of new covenant ministry: carried out in the Spirit's power, marked by suffering now, and headed for glory. No minister is sufficient in himself; that sufficiency comes from God (3:5–6). RH dates the letter to AD 56.
 
 ## How it points to Christ
 
@@ -144,6 +145,7 @@ At the heart of the letter is the great exchange: God made Christ, who knew no s
 
 - Guy Prentiss Waters, "1–2 Corinthians," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues, Structure and Outline (outline of 2 Corinthians), Message and Theology (the redemptive-historical framework, the death and resurrection of Christ, the Spirit).
 - *The Reformation Study Bible* (Reformation Trust, 2015), introduction to 2 Corinthians: Title and Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of 2 Corinthians, 2 Corinthians in the Larger Story of the Bible, Christ in 2 Corinthians, History of Interpretation, Special Issues, Outline.
+- *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to 2 Corinthians: Authorship, Date, Theme, Purpose, Synopsis; chapter summaries.
 
 ## Changelog
 

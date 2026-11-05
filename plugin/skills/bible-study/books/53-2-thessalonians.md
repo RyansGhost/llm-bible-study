@@ -64,6 +64,7 @@ The Reformation Study Bible outlines it as greeting (1:1–2), Paul's boasting i
 - **Wrong beliefs lead to wrong living:** many think some had stopped working because they expected Christ to return any day (RSB).
 - **The day of mercy now:** this is the time when the gospel goes out and God's chosen are brought to faith (2:13–14); when Christ returns, that day of mercy closes and the unrepentant meet him as Judge (1:7–10).
 - **Work and order:** Christians should work quietly and earn their own living. Cara prefers "unruly" to "idle" for the Greek word (3:6–12).
+- **Balanced expectations:** the Reformation Heritage KJV Study Bible (RH) sees the letter correcting a church that thought the Lord had already come: he hasn't yet, but when he does, he will bring both judgment on persecutors and glory for his people (1:6–10; 2:1–3). RH also answers the claim that the "man of lawlessness" reflects the later legend of Nero returning from the dead.
 
 ## How it points to Christ
 
@@ -133,6 +134,7 @@ The letter shows the returning Christ in his power and glory. He will be "reveal
 - Robert J. Cara, "2 Thessalonians," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (authorship and date, occasion and purpose), Structure and Outline, Message and Theology (divine warrior, idleness).
 - *The Lutheran Study Bible* (Concordia, 2009), introduction to 2 Thessalonians: Overview. Lutheran source.
 - *The Reformation Study Bible* (Reformation Trust, 2015), introduction to 2 Thessalonians: Title and Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of 2 Thessalonians, 2 Thessalonians in the Larger Story of the Bible, Christ in 2 Thessalonians, History of Interpretation, Outline.
+- *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to 2 Thessalonians: Authorship, Date, Theme, Purpose, Synopsis; chapter summaries.
 
 ## Changelog
 

@@ -63,6 +63,7 @@ Philemon has only one chapter, so here it is by section:
 - **Substitution:** Paul offers to take Onesimus' debt on himself (vv. 18–19).
 - **Providence:** perhaps Onesimus was parted for a while so Philemon could have him back forever (v. 15).
 - **Fellowship and refreshment:** Philemon's faith is shown in refreshing the hearts of the saints (vv. 6–7, 20).
+- **Love and forgiveness in Christ:** the Reformation Heritage KJV Study Bible (RH) names this as the letter's theme: Paul asks Philemon to welcome back a runaway as a brother because both now belong to Christ.
 
 ## How it points to Christ
 
@@ -133,6 +134,7 @@ Philemon is a living picture of the gospel. Luther wrote that "we are all his On
 - Benjamin Gladd, "Philemon," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (occasion, authorship, date, purpose), Structure and Outline, Message and Theology (slavery in the ancient world, the restructuring of God's people).
 - *The Lutheran Study Bible* (Concordia, 2009), introduction to Philemon: Luther on Philemon (from Luther's 1522 preface, AE 35:390). Lutheran source.
 - *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Philemon: Title and Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of Philemon, Philemon in the Larger Story of the Bible, Christ in Philemon, History of Interpretation, Special Issues, Outline.
+- *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to Philemon: Authorship, Date, Theme, Purpose, Synopsis.
 
 ## Changelog
 

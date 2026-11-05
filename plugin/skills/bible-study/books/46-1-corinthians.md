@@ -73,7 +73,7 @@ The Reformation Study Bible divides the body by Paul's sources: the report from 
 
 ## Themes
 
-- **The cross against worldly wisdom:** Christ crucified looks foolish and weak, but it is God's wisdom and power (1:18–25). Waters shows Paul bringing the cross to bear on the church's divisions.
+- **The cross against worldly wisdom:** Christ crucified looks foolish and weak, but it is God's wisdom and power (1:18–25). Waters shows Paul bringing the cross to bear on the church's divisions. The Reformation Heritage KJV Study Bible (RH) makes boasting only in the Lord (1:31) the book's theme, since that one thing promotes both unity and pure doctrine and life.
 - **This age and the age to come:** Waters highlights Paul's framework. Believers already belong to the new age in Christ, but still live in the present age and must not be shaped by it.
 - **Unity in the church:** one foundation, one temple, one body, one Spirit (3:11, 16; 12:12–13). Behind the many problems lie pride in spiritual knowledge, challenges to Paul's authority, and above all a lack of love (RSB).
 - **Holiness of the body:** the believer's body belongs to the Lord and is the Spirit's temple (6:12–20).
@@ -152,6 +152,7 @@ Christ crucified is the centre of the letter (2:2). He is the power and wisdom o
 - Guy Prentiss Waters, "1–2 Corinthians," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (Paul and the church in Corinth, the problems in Corinth), Structure and Outline, Message and Theology (Paul's redemptive-historical framework, the gospel, the death and resurrection of Christ, the Spirit and the body).
 - John Calvin, *Commentary on 1 Corinthians*, dedicatory epistle (quoted in Waters).
 - *The Reformation Study Bible* (Reformation Trust, 2015), introduction to 1 Corinthians: Title and Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of 1 Corinthians, 1 Corinthians in the Larger Story of the Bible, Christ in 1 Corinthians, History of Interpretation, Outline.
+- *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to 1 Corinthians: Authorship, Date (spring of AD 54 or 55), Theme, Purpose, Synopsis; chapter summaries.
 
 ## Changelog
 

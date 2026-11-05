@@ -74,7 +74,7 @@ Romans is a letter of teaching rather than a narrative. Its "events" are redempt
 
 ## Themes
 
-- **The righteousness of God:** Waters sees this as the main point of the letter (1:17). God's own righteousness, shown in judging sin and justifying sinners, and given as a gift to believers.
+- **The righteousness of God:** Waters sees this as the main point of the letter (1:17). God's own righteousness, shown in judging sin and justifying sinners, and given as a gift to believers. The Reformation Heritage KJV Study Bible (RH) puts the theme as salvation by grace alone: justification by faith alone, with Christ's righteousness credited to all who believe. It calls Romans Scripture's fullest, most orderly statement of the gospel, which is why God used it so powerfully at the Reformation.
 - **Universal sin:** Jew and Gentile alike are guilty before God (1:18–3:20).
 - **Justification by faith:** God declares sinners righteous by grace through faith in Christ, apart from works of the law (3:21–4:25). Christ is the propitiation who bears God's wrath in our place, so that God is both just and the justifier (3:25–26), and Christ's righteousness is counted to believers (4:5–6). The Reformers' rallying point; see the Westminster Confession, chapter 11. Augustine and Luther both came to assured faith through Romans, and Calvin said that understanding it opens the way to the whole of Scripture.
 - **Union with Christ:** believers died and rose with Christ and live a new life (6).
@@ -163,6 +163,7 @@ Romans is centred on Christ:
 - Martin Luther, *Preface to the Epistle to the Romans* (1522), quoted by Waters. Free at [Project Wittenberg](https://www.projectwittenberg.org/pub/resources/text/wittenberg/wittenberg-luther.html).
 - Westminster Confession of Faith 3 (God's eternal decree) and 11 (justification).
 - *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Romans: Title and Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of Romans, Romans in the Larger Story of the Bible, Christ in Romans, History of Interpretation, Outline.
+- *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to Romans: Authorship, Date (AD 57 or 58), Theme, Purpose, Synopsis; chapter summaries.
 
 ## Changelog
 

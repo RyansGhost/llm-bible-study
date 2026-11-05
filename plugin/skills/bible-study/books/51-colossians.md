@@ -66,6 +66,7 @@ Teaching first (1:1–2:23), then how to live in light of it (3:1–4:18), joine
 - **New life:** put off the old self, put on the new (3:5–17).
 - **Christ in everyday life:** households and work done for the Lord (3:18–4:1).
 - **Prayer and witness:** steadfast prayer and gracious speech to outsiders (4:2–6).
+- **Christ above all:** the Reformation Heritage KJV Study Bible (RH) names Christ's supremacy over everything as the theme, and the purpose as rooting the Colossians in knowing him so that no clever "philosophy" (2:8) can unsettle them.
 
 ## How it points to Christ
 
@@ -145,6 +146,7 @@ The Old Testament food laws, festivals and Sabbaths were "a shadow of the things
 
 - Benjamin Gladd, "Colossians," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (occasion, authorship, date), Structure and Outline, Message and Theology.
 - *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Colossians: Title and Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of Colossians, Colossians in the Larger Story of the Bible, Christ in Colossians, History of Interpretation, Special Issues, Outline.
+- *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to Colossians: Authorship, Date (AD 61 or 62, from Rome), Theme, Purpose, Synopsis; chapter summaries.
 
 ## Changelog
 

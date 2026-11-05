@@ -70,6 +70,7 @@ Barcley shows the letter alternating between Timothy's dealings with the false t
 - **Money and contentment:** godliness with contentment, generosity, and warning against the love of money (6:6–19).
 - **Guarding the faith:** "guard the deposit entrusted to you" (6:20).
 - **Christ the one mediator:** salvation by grace (1:12–16), one mediator who gave himself as a ransom (2:5–6), and an early confession of his whole saving work (3:16).
+- **Guarding the faith, ordering the church:** the Reformation Heritage KJV Study Bible (RH) sums up the letter as contending for the faith and setting up the church on the apostles' pattern, with Timothy urged to stay faithful to the gospel while he does it.
 
 ## How it points to Christ
 
@@ -139,6 +140,7 @@ The letter centres on the "trustworthy saying" that Christ Jesus came into the w
 
 - William B. Barcley, "Introduction to the Pastoral Epistles" and "1 Timothy," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (authorship, date and occasion, false teaching, recipients), Structure and Outline, Message and Theology.
 - *The Reformation Study Bible* (Reformation Trust, 2015), introduction to 1 Timothy: Title and Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of 1 Timothy, 1 Timothy in the Larger Story of the Bible, Christ in 1 Timothy, History of Interpretation, Special Issues, Outline.
+- *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to 1 Timothy: Authorship, Date, Theme, Purpose, Synopsis; chapter summaries.
 
 ## Changelog
 

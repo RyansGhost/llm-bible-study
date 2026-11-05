@@ -67,6 +67,7 @@ The Reformation Study Bible's outline (Barcley's call-to-faithfulness outline fo
 - **Preaching:** the central task of the minister (4:1–5).
 - **Grace and election:** God saved and called us not by our works but by his own purpose and grace, given in Christ before the ages (1:9); "the Lord knows those who are his" (2:19), and Paul endures for the sake of the elect (2:10).
 - **God's faithfulness:** he remains faithful even when we are faithless, and he will rescue his people and bring them into his heavenly kingdom (2:13; 4:18).
+- **Finish well:** the Reformation Heritage KJV Study Bible (RH) reads the letter as a dying apostle's encouragement to keep going in ministry despite hardship and false teaching, so that Timothy too may receive the crown Paul expects (4:6–8). Paul's request for his cloak before winter (4:13, 21) suggests he wrote in late summer or autumn.
 
 ## How it points to Christ
 
@@ -137,6 +138,7 @@ Paul begins with the grace given to us in Christ Jesus before the ages began, no
 - William B. Barcley, "Introduction to the Pastoral Epistles" and "2 Timothy," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues, Structure and Outline, Message and Theology.
 - *The Lutheran Study Bible* (Concordia, 2009), introduction to 2 Timothy: Overview, Luther on 2 Timothy. Lutheran source.
 - *The Reformation Study Bible* (Reformation Trust, 2015), introduction to 2 Timothy: Title and Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of 2 Timothy, 2 Timothy in the Larger Story of the Bible, Christ in 2 Timothy, History of Interpretation, Special Issues, Outline.
+- *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to 2 Timothy: Authorship, Date, Theme, Purpose, Synopsis; chapter summaries.
 
 ## Changelog
 

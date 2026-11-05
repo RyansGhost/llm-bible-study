@@ -18,7 +18,7 @@ Hebrews is a sermon in letter form (the author calls it a "word of exhortation",
 
 - **When:** probably AD 60–70. Kistemaker notes that Clement of Rome quotes it about AD 96, and the author speaks of temple sacrifices in the present tense (9:6–7; 10:11). The Reformation Study Bible adds that he would surely have mentioned the temple's destruction, which proved his point, if it had already happened.
 - **Where:** unknown. "Those who come from Italy send you greetings" (13:24) probably means Italians abroad greeting friends at home, so the readers may have been in or near Rome (Kistemaker; RSB). They were Greek-speaking Jewish Christians who knew the Greek Old Testament, had heard the gospel from the apostles, and had suffered before (10:32–34). Now, facing shame and pressure, cut off from the visible worship of Judaism, and unable to see Jesus' glory, they were tempted to turn back (10:38–39).
-- **Who wrote it:** unknown. It was long regarded as Paul's, but Kistemaker gives strong reasons against that: Hebrews is anonymous, lacks Paul's usual greetings and phrases, and its author heard the gospel from those who heard the Lord (2:3), unlike Paul. He was skilled in Greek, steeped in the Old Testament, and knew Timothy (13:23). Eastern fathers such as Clement of Alexandria and Origen linked it with Paul while noting the different style; Tertullian suggested Barnabas; others Apollos, Luke or Clement of Rome. Origen's verdict, "only God knows", still stands.
+- **Who wrote it:** unknown. It was long regarded as Paul's, but Kistemaker gives strong reasons against that: Hebrews is anonymous, lacks Paul's usual greetings and phrases, and its author heard the gospel from those who heard the Lord (2:3), unlike Paul. He was skilled in Greek, steeped in the Old Testament, and knew Timothy (13:23). Eastern fathers such as Clement of Alexandria and Origen linked it with Paul while noting the different style; Tertullian suggested Barnabas; others Apollos, Luke or Clement of Rome. Origen's verdict, "only God knows", still stands. The Reformation Heritage KJV Study Bible (RH) also leaves it open, but sets out the case for Paul: the Belgic Confession and John Owen held it; Paul was sent to "the children of Israel" as well as the Gentiles (Acts 9:15); and Peter speaks of Paul writing to the same scattered Jewish readers (2 Pet 3:15).
 - **Where it sits:** the first of the General Epistles. It opens like a theological treatise, reads like a sermon ("word of exhortation", 13:22, the phrase for a synagogue sermon in Acts 13:15), and ends like a letter. The readers were second-generation believers who had endured persecution earlier (10:32–34), but some were now neglecting to meet together (10:25) and growing weak (12:12).
 
 ## Structure
@@ -81,6 +81,7 @@ Kistemaker structures Hebrews around the superiority of Christ, and the Reformat
 - **Warning and perseverance:** five warning passages urge the readers not to drift, harden their hearts or fall away (2:1–4; 3:7–4:13; 5:11–6:12; 10:26–31; 12:25–29). Arminians later used them to argue that true Christians can be lost, and the Reformed churches rejected this at the Synod of Dort. The RSB points out that Hebrews also says those who truly share in Christ hold firm to the end (3:14; 6:9), and that Christ always lives to intercede for them (7:25). The warnings are one of the means God uses to keep his people persevering.
 - **Faith:** trusting God's promises for what is unseen and future (11).
 - **God's word:** God has spoken finally in his Son (1:1–2), and his word is living and active (4:12).
+- **Don't turn back:** RH sums up the theme as Christ's supremacy and the completeness of salvation in him, written to keep wavering, persecuted believers from turning back (10:32–39).
 
 ## How it points to Christ
 
@@ -151,6 +152,7 @@ Hebrews is perhaps the most thoroughly Christ-centred interpretation of the Old 
 
 - Simon J. Kistemaker, "Hebrews," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (occasion, genre, authorship, date, provenance, purpose), Structure and Outline, Message and Theology.
 - *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Hebrews: Title and Author, Date and Occasion, Genre and Literary Features, Characteristics and Primary Themes, Theology of Hebrews, Hebrews in the Larger Story of the Bible, Christ in Hebrews, History of Interpretation, Special Issues, Perseverance of the Saints, Outline.
+- *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to Hebrews: Authorship, Date and Destination, Theme, Purpose, Synopsis; chapter summaries.
 
 ## Changelog
 

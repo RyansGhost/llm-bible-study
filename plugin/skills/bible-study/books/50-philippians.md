@@ -66,6 +66,7 @@ Many take 1:27 as the letter's main point: live worthy of the gospel, standing f
 - **Pressing on:** the Christian life as a race toward the prize (3:12–14). We work out our salvation because God is at work in us (2:12–13), and he will finish what he began (1:6).
 - **Heavenly citizenship:** in a Roman colony proud of its citizenship, believers' true citizenship is in heaven (3:20).
 - **Contentment and peace:** prayer replaces anxiety, and contentment is learned in Christ (4:6–7, 11–13). Their gift to Paul is a fragrant offering, like the sacrifices of the temple (4:18).
+- **Persevering with joy:** the Reformation Heritage KJV Study Bible (RH) reads the letter as encouragement to keep going gladly in hard times, sure that God will finish the work he started (1:6), and to grow in humility and unity by pursuing Christ above all. It gives special attention to Christ's self-humbling and exaltation (2:5–11).
 
 ## How it points to Christ
 
@@ -136,6 +137,7 @@ For Paul, knowing Christ, sharing his sufferings, and attaining the resurrection
 
 - Bruce A. Lowe, "Philippians," in Michael J. Kruger, ed., *A Biblical-Theological Introduction to the New Testament: The Gospel Realized* (Crossway, 2016): Background Issues (exile, prison and death; ancient farewells), Structure and Outline, Message and Theology.
 - *The Reformation Study Bible* (Reformation Trust, 2015), introduction to Philippians: Title and Author, Date and Occasion, Genre, Literary Features, Characteristics and Primary Themes, Theology of Philippians, Philippians in the Larger Story of the Bible, Christ in Philippians, History of Interpretation, Outline.
+- *The Reformation Heritage KJV Study Bible* (Reformation Heritage Books, 2014), introduction to Philippians: Authorship, Date (AD 61 or 62), Theme, Purpose, Synopsis, Christ's Humiliation, Christ's Exaltation; chapter summaries.
 
 ## Changelog
 
